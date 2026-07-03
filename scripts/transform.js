@@ -1,3 +1,4 @@
+
 const fs = require("fs");
 const path = require("path");
 const crypto = require("crypto");
@@ -11,10 +12,9 @@ const OUTPUT_PATH = path.join(__dirname, "..", "output.json");
 const DEFAULT_LOGO =
   "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png";
 
-// Category name -> sport_id mapping. Naya category aaye to yahan add kar dein.
+// ---------- Generic sport IDs ----------
 const SPORT_ID_MAP = {
   football: 1,
-  soccer: 1,
   basketball: 2,
   cricket: 3,
   "ice hockey": 4,
@@ -28,15 +28,158 @@ const SPORT_ID_MAP = {
   baseball: 12,
   darts: 13,
   mma: 14,
-  boxing: 14,
+  boxing: 15,
   golf: 16,
-  "auto racing": 17,
   motorsport: 17,
   cycling: 20,
   sailing: 21,
-  "world cup": 1, // World Cup category = football
+  padel: 22,
 };
 const DEFAULT_SPORT_ID = 99;
+
+// Agar Category field mein already ek generic sport ka naam ho, to
+// usay seedha use kar liya jayega (case-insensitive match)
+const KNOWN_GENERIC_SPORTS = Object.keys(SPORT_ID_MAP);
+
+// Tournament/League/Category ke naam mein ye keyword mile to us sport
+// se related maan liya jayega. ZYADA SPECIFIC keywords upar rakhein,
+// taake "table tennis" jaise cases "tennis" se pehle match ho jayen.
+const LEAGUE_KEYWORDS = [
+  // Cricket
+  ["ipl", "cricket"],
+  ["psl", "cricket"],
+  ["bbl", "cricket"],
+  ["big bash", "cricket"],
+  ["cpl", "cricket"],
+  ["t20", "cricket"],
+  ["odi", "cricket"],
+  ["test match", "cricket"],
+  ["icc", "cricket"],
+  ["the hundred", "cricket"],
+  ["ranji", "cricket"],
+  ["bpl cricket", "cricket"],
+  ["lpl", "cricket"],
+  ["ilt20", "cricket"],
+  ["county championship", "cricket"],
+  ["sheffield shield", "cricket"],
+
+  // Table Tennis (specific before "tennis")
+  ["table tennis", "table tennis"],
+  ["ttcup", "table tennis"],
+
+  // Tennis
+  ["atp", "tennis"],
+  ["wta", "tennis"],
+  ["itf", "tennis"],
+  [/\bw1[0-9]\b/, "tennis"],
+  [/\bw[2-6][0-9]\b/, "tennis"],
+  [/\bm1[0-9]\b/, "tennis"],
+  [/\bm[2-6][0-9]\b/, "tennis"],
+  ["grand slam", "tennis"],
+  ["wimbledon", "tennis"],
+  ["us open", "tennis"],
+  ["french open", "tennis"],
+  ["roland garros", "tennis"],
+  ["australian open", "tennis"],
+  ["davis cup", "tennis"],
+  ["billie jean king cup", "tennis"],
+  ["challenger", "tennis"],
+
+  // Basketball
+  ["nba", "basketball"],
+  ["euroleague", "basketball"],
+  ["wnba", "basketball"],
+  ["ncaa basketball", "basketball"],
+  ["cba", "basketball"],
+
+  // American Football
+  ["nfl", "american football"],
+  ["ncaaf", "american football"],
+  ["college football", "american football"],
+
+  // Ice Hockey
+  ["nhl", "ice hockey"],
+  ["khl", "ice hockey"],
+
+  // Baseball
+  ["mlb", "baseball"],
+  ["npb", "baseball"],
+  ["kbo", "baseball"],
+
+  // Rugby
+  ["six nations", "rugby"],
+  ["super rugby", "rugby"],
+  ["premiership rugby", "rugby"],
+  ["nrl", "rugby"],
+  ["rugby", "rugby"],
+
+  // MMA / Boxing
+  ["ufc", "mma"],
+  ["bellator", "mma"],
+  ["one championship", "mma"],
+  ["boxing", "boxing"],
+
+  // Golf
+  ["pga", "golf"],
+  ["ryder cup", "golf"],
+  ["masters", "golf"],
+  ["european tour", "golf"],
+
+  // Motorsport
+  ["formula 1", "motorsport"],
+  [/\bf1\b/, "motorsport"],
+  ["motogp", "motorsport"],
+  ["nascar", "motorsport"],
+  ["indycar", "motorsport"],
+
+  // Volleyball
+  ["fivb", "volleyball"],
+  ["volleyball nations league", "volleyball"],
+
+  // Handball
+  ["ehf", "handball"],
+
+  // Padel
+  ["padel", "padel"],
+
+  // USL (US soccer leagues) - "tennis" se pehle nahi hone ki wajah se
+  // yahan football section se pehle rakha hai
+  ["usl", "football"],
+  ["utr", "tennis"], // UTR Pro Tennis Tour
+
+  // Football / Soccer (generic + tournament names) - ZYADA generic hone
+  // ki wajah se list ke END mein rakha hai, taake pehle specific
+  // matches (jaise "rugby world cup") upar check ho jayen
+  ["fifa", "football"],
+  ["uefa", "football"],
+  ["champions league", "football"],
+  ["europa league", "football"],
+  ["conference league", "football"],
+  ["premier league", "football"],
+  ["la liga", "football"],
+  ["serie a", "football"],
+  ["serie b", "football"],
+  ["bundesliga", "football"],
+  ["ligue 1", "football"],
+  ["eredivisie", "football"],
+  ["primeira liga", "football"],
+  ["super lig", "football"],
+  ["saudi pro league", "football"],
+  ["j1 league", "football"],
+  ["k league", "football"],
+  ["a-league", "football"],
+  ["brasileirao", "football"],
+  ["liga mx", "football"],
+  ["mls", "football"],
+  ["copa america", "football"],
+  ["afcon", "football"],
+  ["concacaf", "football"],
+  ["afc champions league", "football"],
+  ["caf champions league", "football"],
+  ["friendlies", "football"],
+  ["euro", "football"],
+  ["world cup", "football"], // note: "rugby world cup" upar rugby se pehle match ho chuka hoga
+];
 
 const MONTH_NAMES = [
   "Jan", "Feb", "Mar", "Apr", "May", "Jun",
@@ -57,6 +200,49 @@ async function fetchSourceJson(url) {
   return res.json();
 }
 
+function capitalizeWords(text) {
+  return (text || "")
+    .split(" ")
+    .map((w) => (w.length ? w[0].toUpperCase() + w.slice(1) : w))
+    .join(" ");
+}
+
+// Category aur League dono se dekh kar sahi generic sport pehchanta hai
+function classifySport(category, league) {
+  const catLower = (category || "").toLowerCase().trim();
+  const leagueLower = (league || "").toLowerCase().trim();
+
+  // Case 1: Category already ek generic sport ka naam hai
+  if (KNOWN_GENERIC_SPORTS.includes(catLower)) {
+    return {
+      sportName: capitalizeWords(category),
+      leagueName: league && league.trim() ? league : category,
+    };
+  }
+
+  // Case 2: Category ya League mein koi known tournament keyword dhoondein
+  const searchText = `${catLower} ${leagueLower}`;
+  for (const [keyword, sport] of LEAGUE_KEYWORDS) {
+    const isMatch =
+      keyword instanceof RegExp
+        ? keyword.test(searchText)
+        : searchText.includes(keyword);
+    if (isMatch) {
+      return {
+        sportName: capitalizeWords(sport),
+        leagueName: league && league.trim() ? league : category,
+      };
+    }
+  }
+
+  // Case 3: Kuch match nahi mila - Category ko hi sport_name maan lein
+  // (fallback, taake data drop na ho)
+  return {
+    sportName: category ? capitalizeWords(category) : "Other",
+    leagueName: league && league.trim() ? league : category || "Unknown League",
+  };
+}
+
 function slugify(text, fallbackId) {
   const base = (text || "match")
     .toLowerCase()
@@ -72,8 +258,8 @@ function generateMatchId(title) {
   return 1000000000 + (num % 900000000);
 }
 
-function getSportId(category) {
-  const key = (category || "").toLowerCase().trim();
+function getSportId(sportName) {
+  const key = (sportName || "").toLowerCase().trim();
   return SPORT_ID_MAP[key] ?? DEFAULT_SPORT_ID;
 }
 
@@ -144,7 +330,6 @@ function buildTiming(isLive, startTimeStr) {
   };
 }
 
-// Stream ko app ke StreamData model ke mutabiq banata hai
 function transformStream(stream, referer) {
   return {
     server_name: stream.server_name,
@@ -161,15 +346,20 @@ function transformChannel(ch) {
   const isLive = (ch["Match Status"] || "").toLowerCase() === "live";
   const referer = ch["Referer"] || null;
 
+  const { sportName, leagueName } = classifySport(
+    ch["Category"],
+    ch["League"]
+  );
+
   return {
     match_id: matchId,
-    sport_name: ch["Category"] || "Unknown",
-    sport_id: getSportId(ch["Category"]),
+    sport_name: sportName,
+    sport_id: getSportId(sportName),
     slug: slugify(title, matchId),
     title: title,
     status: isLive ? "LIVE" : "NS",
     league: {
-      league_name: ch["League"] || ch["Category"] || "Unknown League",
+      league_name: leagueName,
       league_logo: "",
     },
     venue: "TBA",
