@@ -2,12 +2,9 @@ name: Auto Update Playlist JSON
 
 on:
   schedule:
-    # Har 15 minute baad chalega (UTC time)
     - cron: "*/15 * * * *"
-  workflow_dispatch: {}   # Manually bhi "Run workflow" button se chala sakte hain
+  workflow_dispatch: {}
 
-# Agar ek run chal raha ho to dusra usay cancel kar ke naya start karega,
-# taake do runs ek sath push na karein
 concurrency:
   group: playlist-update
   cancel-in-progress: true
@@ -22,50 +19,21 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      - name: Generate and publish output.json
+      - name: Run transform script
+        run: node scripts/transform.js
+
+      - name: Commit and force push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          success=false
-
-          for i in 1 2 3 4 5; do
-            echo "=== Attempt $i ==="
-
-            # Har attempt par pehle remote ka latest version le lein
-            git fetch origin main
-            git reset --hard origin/main
-
-            # Fresh data generate karein
-            node scripts/transform.js
-
-            git add output.json
-
-            if git diff --staged --quiet; then
-              echo "No changes to commit."
-              success=true
-              break
-            fi
-
-            git commit -m "Auto update: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-
-            if git push origin main; then
-              echo "Push succeeded."
-              success=true
-              break
-            fi
-
-            echo "Push failed, retrying after short wait..."
-            sleep $((RANDOM % 10 + 5))
-          done
-
-          if [ "$success" != "true" ]; then
-            echo "Failed to push after multiple attempts."
-            exit 1
-          fi
+          git add output.json
+          git diff --staged --quiet || git commit -m "Auto update: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push --force
