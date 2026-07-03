@@ -66,7 +66,6 @@ function slugify(text, fallbackId) {
   return `${base}-${fallbackId}`;
 }
 
-// Title se stable numeric id banata hai (same title -> hamesha same id)
 function generateMatchId(title) {
   const hash = crypto.createHash("md5").update(title || "").digest("hex");
   const num = parseInt(hash.slice(0, 9), 16);
@@ -104,7 +103,6 @@ function parseStartTime(startTimeStr) {
   return dateObj;
 }
 
-// Date object ko "03 Jul 2026, 02:30 PM" jaisi readable string mein badalta hai
 function formatLocalTime(dateObj) {
   const dd = String(dateObj.getDate()).padStart(2, "0");
   const mon = MONTH_NAMES[dateObj.getMonth()];
@@ -132,7 +130,6 @@ function buildTiming(isLive, startTimeStr) {
   const parsedDate = parseStartTime(startTimeStr);
 
   if (!parsedDate) {
-    // Parse fail ho jaye to bhi crash na ho, TBA fallback
     return {
       start_time_timestamp: null,
       start_time_local: "TBA",
@@ -147,10 +144,13 @@ function buildTiming(isLive, startTimeStr) {
   };
 }
 
-function transformStream(stream) {
+// Stream ko app ke StreamData model ke mutabiq banata hai
+function transformStream(stream, referer) {
   return {
-    server: stream.server_name,
-    url: stream.play_url,
+    server_name: stream.server_name,
+    play_url: stream.play_url,
+    is_new_format: false, // NOTE: source mein ye info nahi hai, default false rakha hai
+    required_referer: referer || null,
   };
 }
 
@@ -159,13 +159,14 @@ function transformChannel(ch) {
     ch["Match Title"] || `${ch["Team 1 Name"]} VS ${ch["Team 2 Name"]}`;
   const matchId = generateMatchId(title);
   const isLive = (ch["Match Status"] || "").toLowerCase() === "live";
+  const referer = ch["Referer"] || null;
 
   return {
     match_id: matchId,
     sport_name: ch["Category"] || "Unknown",
     sport_id: getSportId(ch["Category"]),
-    title: title,
     slug: slugify(title, matchId),
+    title: title,
     status: isLive ? "LIVE" : "NS",
     league: {
       league_name: ch["League"] || ch["Category"] || "Unknown League",
@@ -175,19 +176,12 @@ function transformChannel(ch) {
     teams: {
       home_name: ch["Team 1 Name"] || "Unknown",
       away_name: ch["Team 2 Name"] || "Unknown",
-      home_logo: ch["Team 1 Logo"] || DEFAULT_LOGO,
-      away_logo: ch["Team 2 Logo"] || DEFAULT_LOGO,
       combined_logo: ch["Match Poster"] || DEFAULT_LOGO,
     },
     timing: buildTiming(isLive, ch["Start Time"]),
-    // Extra: bina is field ke stream play nahi ho sakti, isliye rakha hai
-    playback: {
-      user_agent: ch["User-Agent"] || "",
-      referer: ch["Referer"] || "",
-      streams: Array.isArray(ch["Stream URL"])
-        ? ch["Stream URL"].map(transformStream)
-        : [],
-    },
+    streams: Array.isArray(ch["Stream URL"])
+      ? ch["Stream URL"].map((s) => transformStream(s, referer))
+      : [],
   };
 }
 
@@ -221,7 +215,7 @@ async function main() {
     console.log("Fetching source JSON...");
     const sourceData = await fetchSourceJson(SOURCE_URL);
 
-    console.log("Transforming to Asports-style format...");
+    console.log("Transforming to app model format...");
     const transformed = transformPlaylist(sourceData);
 
     fs.writeFileSync(
