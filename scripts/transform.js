@@ -34,6 +34,7 @@ const SPORT_ID_MAP = {
   cycling: 20,
   sailing: 21,
   padel: 22,
+  "australian football": 23,
 };
 const DEFAULT_SPORT_ID = 99;
 
@@ -51,26 +52,37 @@ const LEAGUE_KEYWORDS = [
   ["bbl", "cricket"],
   ["big bash", "cricket"],
   ["cpl", "cricket"],
-  ["t20", "cricket"],
-  ["odi", "cricket"],
-  ["test match", "cricket"],
-  ["icc", "cricket"],
-  ["the hundred", "cricket"],
-  ["ranji", "cricket"],
   ["bpl cricket", "cricket"],
   ["lpl", "cricket"],
   ["ilt20", "cricket"],
+  ["sa20", "cricket"],
+  ["mlc", "cricket"], // Major League Cricket (USA)
+  ["t20", "cricket"],
+  ["t10", "cricket"],
+  ["odi", "cricket"],
+  ["test match", "cricket"],
+  ["icc", "cricket"],
+  ["cwc", "cricket"], // Cricket World Cup
+  ["wtc", "cricket"], // World Test Championship
+  ["the hundred", "cricket"],
+  ["ranji", "cricket"],
+  ["duleep", "cricket"],
   ["county championship", "cricket"],
   ["sheffield shield", "cricket"],
+  ["asia cup", "cricket"],
+  ["cricket", "cricket"],
 
   // Table Tennis (specific before "tennis")
   ["table tennis", "table tennis"],
   ["ttcup", "table tennis"],
+  ["wtt", "table tennis"], // World Table Tennis
+  ["ittf", "table tennis"],
 
   // Tennis
   ["atp", "tennis"],
   ["wta", "tennis"],
   ["itf", "tennis"],
+  ["utr", "tennis"], // UTR Pro Tennis Tour
   [/\bw1[0-9]\b/, "tennis"],
   [/\bw[2-6][0-9]\b/, "tennis"],
   [/\bm1[0-9]\b/, "tennis"],
@@ -83,67 +95,130 @@ const LEAGUE_KEYWORDS = [
   ["australian open", "tennis"],
   ["davis cup", "tennis"],
   ["billie jean king cup", "tennis"],
+  ["fed cup", "tennis"],
   ["challenger", "tennis"],
+  ["laver cup", "tennis"],
+
+  // Padel
+  ["padel", "padel"],
+  ["premier padel", "padel"],
+  ["fip", "padel"], // Federacion Internacional de Padel
 
   // Basketball
   ["nba", "basketball"],
-  ["euroleague", "basketball"],
   ["wnba", "basketball"],
+  ["euroleague", "basketball"],
+  ["eurocup basketball", "basketball"],
   ["ncaa basketball", "basketball"],
+  ["ncaab", "basketball"],
+  ["march madness", "basketball"],
   ["cba", "basketball"],
+  ["nbl", "basketball"], // Australia National Basketball League
+  ["fiba", "basketball"],
 
   // American Football
   ["nfl", "american football"],
   ["ncaaf", "american football"],
   ["college football", "american football"],
+  ["cfl", "american football"], // Canadian Football League
+  ["xfl", "american football"],
+  ["ufl", "american football"],
+
+  // Australian Rules Football
+  ["afl", "australian football"],
+  ["aussie rules", "australian football"],
 
   // Ice Hockey
   ["nhl", "ice hockey"],
   ["khl", "ice hockey"],
+  ["ahl", "ice hockey"],
+  ["iihf", "ice hockey"],
+  ["shl", "ice hockey"], // Swedish Hockey League
 
   // Baseball
   ["mlb", "baseball"],
   ["npb", "baseball"],
   ["kbo", "baseball"],
+  ["milb", "baseball"],
+  ["wbc", "baseball"], // World Baseball Classic
 
   // Rugby
+  ["rugby world cup", "rugby"],
+  ["rwc", "rugby"],
   ["six nations", "rugby"],
   ["super rugby", "rugby"],
   ["premiership rugby", "rugby"],
+  ["top 14", "rugby"],
+  ["urc", "rugby"], // United Rugby Championship
   ["nrl", "rugby"],
+  ["rugby league", "rugby"],
+  ["rugby union", "rugby"],
   ["rugby", "rugby"],
 
   // MMA / Boxing
   ["ufc", "mma"],
   ["bellator", "mma"],
   ["one championship", "mma"],
+  ["pfl", "mma"], // Professional Fighters League
+  ["mma", "mma"],
   ["boxing", "boxing"],
 
   // Golf
   ["pga", "golf"],
+  ["lpga", "golf"],
+  ["dp world tour", "golf"],
+  ["liv golf", "golf"],
   ["ryder cup", "golf"],
   ["masters", "golf"],
-  ["european tour", "golf"],
+  ["european tour golf", "golf"],
+  ["golf", "golf"],
 
   // Motorsport
   ["formula 1", "motorsport"],
+  ["formula e", "motorsport"],
   [/\bf1\b/, "motorsport"],
+  [/\bf2\b/, "motorsport"],
+  [/\bf3\b/, "motorsport"],
   ["motogp", "motorsport"],
+  ["wrc", "motorsport"], // World Rally Championship
+  ["wec", "motorsport"], // World Endurance Championship
   ["nascar", "motorsport"],
   ["indycar", "motorsport"],
+  ["motorsport", "motorsport"],
+  ["auto racing", "motorsport"],
+
+  // Cycling
+  ["tour de france", "cycling"],
+  ["giro d'italia", "cycling"],
+  ["vuelta", "cycling"],
+  ["uci", "cycling"],
+  ["cycling", "cycling"],
+
+  // Sailing
+  ["sailgp", "sailing"],
+  ["america's cup", "sailing"],
+  ["sailing", "sailing"],
 
   // Volleyball
   ["fivb", "volleyball"],
+  ["vnl", "volleyball"], // Volleyball Nations League
   ["volleyball nations league", "volleyball"],
+  ["volleyball", "volleyball"],
 
   // Handball
   ["ehf", "handball"],
+  ["ihf", "handball"],
+  ["handball", "handball"],
 
-  // Padel
-  ["padel", "padel"],
+  // Badminton
+  ["bwf", "badminton"],
+  ["badminton", "badminton"],
 
-  // USL (US soccer leagues) - "tennis" se pehle nahi hone ki wajah se
-  // yahan football section se pehle rakha hai
+  // Darts
+  ["pdc", "darts"],
+  ["darts", "darts"],
+
+  // USL (US soccer leagues)
   ["usl", "football"],
   ["utr", "tennis"], // UTR Pro Tennis Tour
 
@@ -156,6 +231,7 @@ const LEAGUE_KEYWORDS = [
   ["europa league", "football"],
   ["conference league", "football"],
   ["premier league", "football"],
+  ["epl", "football"], // English Premier League ka short form
   ["la liga", "football"],
   ["serie a", "football"],
   ["serie b", "football"],
@@ -200,11 +276,26 @@ async function fetchSourceJson(url) {
   return res.json();
 }
 
+// Kuch sport names acronym hain (jaise MMA), inhe pura uppercase rakhna hai
+const ACRONYM_SPORT_NAMES = {
+  mma: "MMA",
+};
+
 function capitalizeWords(text) {
+  const lower = (text || "").toLowerCase().trim();
+  if (ACRONYM_SPORT_NAMES[lower]) {
+    return ACRONYM_SPORT_NAMES[lower];
+  }
   return (text || "")
     .split(" ")
     .map((w) => (w.length ? w[0].toUpperCase() + w.slice(1) : w))
     .join(" ");
+}
+
+// Text ko normalize karta hai: lowercase + spaces/hyphens/underscores hata deta hai
+// Taake "World Cup", "WorldCup", "World-Cup", "WORLD_CUP" sab ek jaisay match hon
+function normalize(text) {
+  return (text || "").toLowerCase().replace(/[^a-z0-9]/g, "");
 }
 
 // Category aur League dono se dekh kar sahi generic sport pehchanta hai
@@ -221,12 +312,17 @@ function classifySport(category, league) {
   }
 
   // Case 2: Category ya League mein koi known tournament keyword dhoondein
-  const searchText = `${catLower} ${leagueLower}`;
+  // (normalized - spaces/hyphens/case ka farq nahi padega)
+  const searchTextNormalized = normalize(`${category} ${league}`);
+  const searchTextRaw = `${catLower} ${leagueLower}`; // regex patterns ke liye (word boundaries)
+
   for (const [keyword, sport] of LEAGUE_KEYWORDS) {
-    const isMatch =
-      keyword instanceof RegExp
-        ? keyword.test(searchText)
-        : searchText.includes(keyword);
+    let isMatch;
+    if (keyword instanceof RegExp) {
+      isMatch = keyword.test(searchTextRaw);
+    } else {
+      isMatch = searchTextNormalized.includes(normalize(keyword));
+    }
     if (isMatch) {
       return {
         sportName: capitalizeWords(sport),
