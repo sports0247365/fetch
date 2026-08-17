@@ -3,7 +3,7 @@
     "name": "Bingstream Auto Update Playlist",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update_time": "2:32:26 PM 17-08-2026"
+    "last_update_time": "3:32:28 PM 17-08-2026"
   },
   "live_matches": [
     {
@@ -31,14 +31,76 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787041948-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0ab15f73903cd4940e923e264bd5d00c",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787045548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7d208a516b19592bada205aaf1464427",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1853585255,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "east-bengal-w-vs-rajshahi-w-1853585255",
+      "title": "East Bengal W vs Rajshahi W",
+      "status": "LIVE",
+      "league": {
+        "league_name": "AFC Women's Champions League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1140.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "East Bengal W",
+        "away_name": "Rajshahi W",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1786953600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea05a/chunks.m3u8?is_vip=false&token=1787045550-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5bd92248934c8038e87041e1c41ab9e3",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1795060864,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "ayeyawady-w-vs-jurong-w-1795060864",
+      "title": "Ayeyawady W vs Jurong W",
+      "status": "LIVE",
+      "league": {
+        "league_name": "AFC Women's Champions League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1140.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Ayeyawady W",
+        "away_name": "Jurong W",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1786959000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a69c827bd8b585150765730-backup/chunks.m3u8?is_vip=false&token=1787045552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cf3b98181c71c9f0fc8077b7afb194c6",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 51,
+  "total_upcoming_matches": 60,
   "upcoming_matches": [
     {
       "match_id": 1333738997,
@@ -377,6 +439,102 @@
       "streams": []
     },
     {
+      "match_id": 1723209603,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "centro-espa-ol-vs-central-cordoba-1723209603",
+      "title": "Centro Español vs Central Cordoba",
+      "status": "NS",
+      "league": {
+        "league_name": "Primera C",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/132.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Centro Español",
+        "away_name": "Central Cordoba",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1786989600,
+        "start_time_local": "17 Aug 2026, 06:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1159695884,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "deportivo-espa-ol-vs-sacachispas-1159695884",
+      "title": "Deportivo Español vs Sacachispas",
+      "status": "NS",
+      "league": {
+        "league_name": "Primera C",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/132.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Deportivo Español",
+        "away_name": "Sacachispas",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1786989600,
+        "start_time_local": "17 Aug 2026, 06:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1083311840,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "leones-de-rosario-vs-defensores-de-cambaceres-1083311840",
+      "title": "Leones de Rosario vs Defensores de Cambaceres",
+      "status": "NS",
+      "league": {
+        "league_name": "Primera C",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/132.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Leones de Rosario",
+        "away_name": "Defensores de Cambaceres",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1786989600,
+        "start_time_local": "17 Aug 2026, 06:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1355221498,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "v-lsungur-vs-vestri-1355221498",
+      "title": "Völsungur vs Vestri",
+      "status": "NS",
+      "league": {
+        "league_name": "1. Deild",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/165.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Völsungur",
+        "away_name": "Vestri",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1786989600,
+        "start_time_local": "17 Aug 2026, 06:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
       "match_id": 1830331622,
       "sport_name": "Other",
       "sport_id": 99,
@@ -391,6 +549,78 @@
       "teams": {
         "home_name": "All Boys",
         "away_name": "Nueva Chicago",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1786989600,
+        "start_time_local": "17 Aug 2026, 06:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1514579604,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "grindavik-vs-grotta-1514579604",
+      "title": "Grindavik vs Grotta",
+      "status": "NS",
+      "league": {
+        "league_name": "1. Deild",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/165.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Grindavik",
+        "away_name": "Grotta",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1786989600,
+        "start_time_local": "17 Aug 2026, 06:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1499848487,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "ir-reykjavik-vs-njardvik-1499848487",
+      "title": "IR Reykjavik vs Njardvik",
+      "status": "NS",
+      "league": {
+        "league_name": "1. Deild",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/165.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "IR Reykjavik",
+        "away_name": "Njardvik",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1786989600,
+        "start_time_local": "17 Aug 2026, 06:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1245213570,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "leiknir-r-vs-gir-1245213570",
+      "title": "Leiknir R. vs Ægir",
+      "status": "NS",
+      "league": {
+        "league_name": "1. Deild",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/165.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Leiknir R.",
+        "away_name": "Ægir",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
@@ -463,6 +693,30 @@
       "teams": {
         "home_name": "Jong Utrecht",
         "away_name": "Vitesse",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1786989600,
+        "start_time_local": "17 Aug 2026, 06:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1656338484,
+      "sport_name": "Tennis",
+      "sport_id": 5,
+      "slug": "li-ge-vs-francs-borains-1656338484",
+      "title": "Liège vs Francs Borains",
+      "status": "NS",
+      "league": {
+        "league_name": "Challenger Pro League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/145.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Liège",
+        "away_name": "Francs Borains",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
@@ -948,6 +1202,30 @@
       "timing": {
         "start_time_timestamp": 1787022360,
         "start_time_local": "18 Aug 2026, 03:06 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1779574541,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "illescas-vs-ss-reyes-ii-1779574541",
+      "title": "Illescas vs SS Reyes II",
+      "status": "NS",
+      "league": {
+        "league_name": "Friendlies Clubs",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/667.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Illescas",
+        "away_name": "SS Reyes II",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787040000,
+        "start_time_local": "18 Aug 2026, 08:00 AM",
         "countdown_seconds": null
       },
       "streams": []
