@@ -407,9 +407,8 @@ function buildTiming(isLive, startAt) {
 function transformStream(stream, referer) {
   return {
     server_name: stream.display_name || stream.stream_name || "",
-    // play_url <- videoURL (na ho to stream_link fallback)
-    play_url: stream.videoURL || stream.stream_link || "",
-    // videoURL wale streams naye token-based format ke hote hain
+    // play_url <- SIRF videoURL (stream_link fallback nahi)
+    play_url: stream.videoURL || "",
     is_new_format: !!stream.videoURL,
     required_referer: referer || null,
   };
@@ -453,7 +452,9 @@ function transformMatch(m) {
     },
     timing: buildTiming(isLive, m.start_at), // <- start_at
     streams: Array.isArray(m.link_live)
-      ? m.link_live.map((s) => transformStream(s, referer)) // play_url <- videoURL, required_referer <- referer
+      ? m.link_live
+          .filter((s) => s.videoURL) // sirf woh streams jinke paas videoURL hai
+          .map((s) => transformStream(s, referer)) // play_url <- videoURL, required_referer <- referer
       : [],
   };
 }
