@@ -3,10 +3,10 @@
     "name": "Bingstream Auto Update Playlist",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update_time": "10:47:27 PM 19-08-2026"
+    "last_update_time": "11:17:25 PM 19-08-2026"
   },
   "live_matches": [],
-  "total_upcoming_matches": 89,
+  "total_upcoming_matches": 95,
   "upcoming_matches": [
     {
       "match_id": 1471546793,
@@ -28,6 +28,30 @@
       "timing": {
         "start_time_timestamp": 1787232600,
         "start_time_local": "20 Aug 2026, 01:30 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1077528917,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "saratoga-live-1077528917",
+      "title": "Saratoga Live",
+      "status": "NS",
+      "league": {
+        "league_name": "Horse Racing",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787245200,
+        "start_time_local": "20 Aug 2026, 05:00 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -196,30 +220,6 @@
       "timing": {
         "start_time_timestamp": 1787182200,
         "start_time_local": "19 Aug 2026, 11:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1475583878,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "atlanta-braves-vs-minnesota-twins-1475583878",
-      "title": "Atlanta Braves vs Minnesota Twins",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Atlanta Braves",
-        "away_name": "Minnesota Twins",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787161200,
-        "start_time_local": "19 Aug 2026, 05:40 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -537,25 +537,97 @@
       "streams": []
     },
     {
-      "match_id": 1009726560,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "guijuelo-vs-ribert-1009726560",
-      "title": "Guijuelo vs Ribert",
+      "match_id": 1698155664,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "toronto-blue-jays-vs-tampa-bay-rays-1698155664",
+      "title": "Toronto Blue Jays vs Tampa Bay Rays",
       "status": "NS",
       "league": {
-        "league_name": "Friendlies Clubs",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/667.png"
+        "league_name": "MLB",
+        "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Guijuelo",
-        "away_name": "Ribert",
+        "home_name": "Toronto Blue Jays",
+        "away_name": "Tampa Bay Rays",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1787160600,
-        "start_time_local": "19 Aug 2026, 05:30 PM",
+        "start_time_timestamp": 1787245800,
+        "start_time_local": "20 Aug 2026, 05:10 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1495028888,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "san-francisco-giants-vs-cleveland-guardians-1495028888",
+      "title": "San Francisco Giants vs Cleveland Guardians",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "San Francisco Giants",
+        "away_name": "Cleveland Guardians",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787245800,
+        "start_time_local": "20 Aug 2026, 05:10 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1123891368,
+      "sport_name": "Tennis",
+      "sport_id": 5,
+      "slug": "arthur-fils-vs-alex-de-minaur-1123891368",
+      "title": "Arthur Fils vs Alex de Minaur",
+      "status": "NS",
+      "league": {
+        "league_name": "ATP Cincinnati",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Arthur Fils",
+        "away_name": "Alex de Minaur",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787162400,
+        "start_time_local": "19 Aug 2026, 06:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1827027686,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "linda-noskova-vs-amanda-anisimova-1827027686",
+      "title": "Linda Noskova vs Amanda Anisimova",
+      "status": "NS",
+      "league": {
+        "league_name": "Cincinnati open",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Linda Noskova",
+        "away_name": "Amanda Anisimova",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787162400,
+        "start_time_local": "19 Aug 2026, 06:00 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -1905,49 +1977,97 @@
       "streams": []
     },
     {
-      "match_id": 1123891368,
-      "sport_name": "Tennis",
-      "sport_id": 5,
-      "slug": "arthur-fils-vs-alex-de-minaur-1123891368",
-      "title": "Arthur Fils vs Alex de Minaur",
+      "match_id": 1096202097,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "inter-turku-vs-fc-copenhagen-1096202097",
+      "title": "Inter Turku vs FC Copenhagen",
       "status": "NS",
       "league": {
-        "league_name": "ATP Cincinnati",
-        "league_logo": ""
+        "league_name": "UEFA Europa Conference League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/848.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Arthur Fils",
-        "away_name": "Alex de Minaur",
+        "home_name": "Inter Turku",
+        "away_name": "FC Copenhagen",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1787162400,
-        "start_time_local": "19 Aug 2026, 06:00 PM",
+        "start_time_timestamp": 1787241600,
+        "start_time_local": "20 Aug 2026, 04:00 PM",
         "countdown_seconds": null
       },
       "streams": []
     },
     {
-      "match_id": 1827027686,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "linda-noskova-vs-amanda-anisimova-1827027686",
-      "title": "Linda Noskova vs Amanda Anisimova",
+      "match_id": 1177551758,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "lincoln-red-imps-fc-vs-larne-1177551758",
+      "title": "Lincoln Red Imps FC vs Larne",
       "status": "NS",
       "league": {
-        "league_name": "Cincinnati open",
-        "league_logo": ""
+        "league_name": "UEFA Europa Conference League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/848.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Linda Noskova",
-        "away_name": "Amanda Anisimova",
+        "home_name": "Lincoln Red Imps FC",
+        "away_name": "Larne",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1787162400,
-        "start_time_local": "19 Aug 2026, 06:00 PM",
+        "start_time_timestamp": 1787241600,
+        "start_time_local": "20 Aug 2026, 04:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1120618262,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "jagiellonia-vs-saburtalo-1120618262",
+      "title": "Jagiellonia vs Saburtalo",
+      "status": "NS",
+      "league": {
+        "league_name": "UEFA Europa League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/3.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Jagiellonia",
+        "away_name": "Saburtalo",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787241600,
+        "start_time_local": "20 Aug 2026, 04:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1304111031,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "mjallby-aif-vs-red-bull-salzburg-1304111031",
+      "title": "Mjallby AIF vs Red Bull Salzburg",
+      "status": "NS",
+      "league": {
+        "league_name": "UEFA Europa League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/3.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Mjallby AIF",
+        "away_name": "Red Bull Salzburg",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787241600,
+        "start_time_local": "20 Aug 2026, 04:00 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -2140,6 +2260,30 @@
       "timing": {
         "start_time_timestamp": 1787227200,
         "start_time_local": "20 Aug 2026, 12:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1822629757,
+      "sport_name": "Golf",
+      "sport_id": 16,
+      "slug": "liv-golf-indianapolis-day-1-1822629757",
+      "title": "LIV Golf Indianapolis - Day 1",
+      "status": "NS",
+      "league": {
+        "league_name": "LIV Golf",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787245200,
+        "start_time_local": "20 Aug 2026, 05:00 PM",
         "countdown_seconds": null
       },
       "streams": []
