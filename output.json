@@ -3,7 +3,7 @@
     "name": "Bingstream Auto Update Playlist",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update_time": "8:32:36 PM 20-08-2026"
+    "last_update_time": "9:17:26 PM 20-08-2026"
   },
   "live_matches": [
     {
@@ -31,7 +31,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787322758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e8f289e459e66779fa5352521131ccd8",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787325447-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-966fc8578c4355910ee6f02e21b4b8a8",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -62,14 +62,57 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787322760-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d1e671aa1ef8d2c24c5be0eb319e88ea",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787325449-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bca6ed8b6415bf97124d9994798396b6",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1472976529,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "kairat-almaty-vs-anderlecht-1472976529",
+      "title": "Kairat Almaty vs Anderlecht",
+      "status": "1H",
+      "league": {
+        "league_name": "UEFA Europa League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/3.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Kairat Almaty",
+        "away_name": "Anderlecht",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787238000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71951f62561902dc6df1d0-hd/chunks.m3u8?is_vip=false&token=1787325450-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c3bbdaa818a30c7b1d491a8d50851834",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71951f62561902dc6df1d0-backup/chunks.m3u8?is_vip=false&token=1787325451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0fb516e568884af43ce8bc78f2599ad5",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71951f62561902dc6df1d0/chunks.m3u8?is_vip=false&token=1787325454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8fb0d960fd899ae9925a5ffb4c7dc872",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 95,
+  "total_upcoming_matches": 96,
   "upcoming_matches": [
     {
       "match_id": 1394697895,
@@ -216,54 +259,6 @@
       "streams": []
     },
     {
-      "match_id": 1442365521,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "arsenal-tula-vs-rotor-volgograd-1442365521",
-      "title": "Arsenal Tula vs Rotor Volgograd",
-      "status": "NS",
-      "league": {
-        "league_name": "First League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Arsenal Tula",
-        "away_name": "Rotor Volgograd",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787239800,
-        "start_time_local": "20 Aug 2026, 03:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1634249784,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "dinamo-minsk-vs-torpedo-zhodino-1634249784",
-      "title": "Dinamo Minsk vs Torpedo Zhodino",
-      "status": "NS",
-      "league": {
-        "league_name": "Premier League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/116.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Dinamo Minsk",
-        "away_name": "Torpedo Zhodino",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787240700,
-        "start_time_local": "20 Aug 2026, 03:45 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
       "match_id": 1011280642,
       "sport_name": "Other",
       "sport_id": 99,
@@ -336,11 +331,11 @@
       "streams": []
     },
     {
-      "match_id": 1120618262,
+      "match_id": 1721116483,
       "sport_name": "Football",
       "sport_id": 1,
-      "slug": "jagiellonia-vs-saburtalo-1120618262",
-      "title": "Jagiellonia vs Saburtalo",
+      "slug": "jagiellonia-vs-fc-iberia-1999-1721116483",
+      "title": "Jagiellonia vs FC Iberia 1999",
       "status": "NS",
       "league": {
         "league_name": "UEFA Europa League",
@@ -349,7 +344,7 @@
       "venue": "TBA",
       "teams": {
         "home_name": "Jagiellonia",
-        "away_name": "Saburtalo",
+        "away_name": "FC Iberia 1999",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
@@ -1728,6 +1723,30 @@
       "streams": []
     },
     {
+      "match_id": 1522950906,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "al-ittihad-kalba-vs-al-wasl-fc-1522950906",
+      "title": "Al-Ittihad Kalba vs Al-Wasl FC",
+      "status": "NS",
+      "league": {
+        "league_name": "Pro League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/301.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Al-Ittihad Kalba",
+        "away_name": "Al-Wasl FC",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787320800,
+        "start_time_local": "21 Aug 2026, 02:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
       "match_id": 1531626822,
       "sport_name": "Baseball",
       "sport_id": 12,
@@ -2280,6 +2299,30 @@
       "streams": []
     },
     {
+      "match_id": 1542403269,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "bulls-vs-stormers-1542403269",
+      "title": "Bulls vs Stormers",
+      "status": "NS",
+      "league": {
+        "league_name": "Currie Cup",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Bulls",
+        "away_name": "Stormers",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787324400,
+        "start_time_local": "21 Aug 2026, 03:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
       "match_id": 1704260283,
       "sport_name": "Golf",
       "sport_id": 16,
@@ -2347,6 +2390,30 @@
       "timing": {
         "start_time_timestamp": 1787322300,
         "start_time_local": "21 Aug 2026, 02:25 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1580485725,
+      "sport_name": "Cycling",
+      "sport_id": 20,
+      "slug": "cross-country-short-track-les-gets-1580485725",
+      "title": "Cross-country Short Track: Les Gets",
+      "status": "NS",
+      "league": {
+        "league_name": "UCI Mountain Bike World Series",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787324400,
+        "start_time_local": "21 Aug 2026, 03:00 PM",
         "countdown_seconds": null
       },
       "streams": []
