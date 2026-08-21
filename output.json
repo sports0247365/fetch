@@ -3,10 +3,42 @@
     "name": "Bingstream Auto Update Playlist",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update_time": "11:47:24 AM 21-08-2026"
+    "last_update_time": "12:47:25 PM 21-08-2026"
   },
-  "live_matches": [],
-  "total_upcoming_matches": 128,
+  "live_matches": [
+    {
+      "match_id": 1265389961,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "hawke-s-bay-vs-manawat-1265389961",
+      "title": "Hawke's Bay vs Manawatū",
+      "status": "LIVE",
+      "league": {
+        "league_name": "NPC",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Hawke's Bay",
+        "away_name": "Manawatū",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787295600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1787381246-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6e3bf543dceffd9f40d890a0123c016a",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    }
+  ],
+  "total_upcoming_matches": 132,
   "upcoming_matches": [
     {
       "match_id": 1808824913,
@@ -244,174 +276,6 @@
       "timing": {
         "start_time_timestamp": 1787338800,
         "start_time_local": "21 Aug 2026, 07:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1265389961,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "hawke-s-bay-vs-manawat-1265389961",
-      "title": "Hawke's Bay vs Manawatū",
-      "status": "NS",
-      "league": {
-        "league_name": "NPC",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Hawke's Bay",
-        "away_name": "Manawatū",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787295600,
-        "start_time_local": "21 Aug 2026, 07:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1100796095,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "pumas-vs-griquas-1100796095",
-      "title": "Pumas vs Griquas",
-      "status": "NS",
-      "league": {
-        "league_name": "Currie Cup",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Pumas",
-        "away_name": "Griquas",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787317200,
-        "start_time_local": "21 Aug 2026, 01:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1542403269,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "bulls-vs-stormers-1542403269",
-      "title": "Bulls vs Stormers",
-      "status": "NS",
-      "league": {
-        "league_name": "Currie Cup",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Bulls",
-        "away_name": "Stormers",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787324400,
-        "start_time_local": "21 Aug 2026, 03:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1333870715,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "sharks-vs-lions-1333870715",
-      "title": "Sharks vs Lions",
-      "status": "NS",
-      "league": {
-        "league_name": "Currie Cup",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Sharks",
-        "away_name": "Lions",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787332500,
-        "start_time_local": "21 Aug 2026, 05:15 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1526072390,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "tasman-vs-southland-1526072390",
-      "title": "Tasman vs Southland",
-      "status": "NS",
-      "league": {
-        "league_name": "NPC",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Tasman",
-        "away_name": "Southland",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787360400,
-        "start_time_local": "22 Aug 2026, 01:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1746344889,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "new-zealand-vs-australia-1746344889",
-      "title": "New Zealand vs Australia",
-      "status": "NS",
-      "league": {
-        "league_name": "Women's International",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "New Zealand",
-        "away_name": "Australia",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787365800,
-        "start_time_local": "22 Aug 2026, 02:30 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1714553688,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "north-harbour-vs-auckland-1714553688",
-      "title": "North Harbour vs Auckland",
-      "status": "NS",
-      "league": {
-        "league_name": "NPC",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "North Harbour",
-        "away_name": "Auckland",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787376600,
-        "start_time_local": "22 Aug 2026, 05:30 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -2193,6 +2057,102 @@
       "streams": []
     },
     {
+      "match_id": 1182062441,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "melbourne-city-ii-vs-bentleigh-greens-1182062441",
+      "title": "Melbourne City II vs Bentleigh Greens",
+      "status": "NS",
+      "league": {
+        "league_name": "Victoria NPL",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/195.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Melbourne City II",
+        "away_name": "Bentleigh Greens",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787374800,
+        "start_time_local": "22 Aug 2026, 05:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1150435557,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "altona-magic-vs-avondale-1150435557",
+      "title": "Altona Magic vs Avondale",
+      "status": "NS",
+      "league": {
+        "league_name": "Victoria NPL",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/195.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Altona Magic",
+        "away_name": "Avondale",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787375700,
+        "start_time_local": "22 Aug 2026, 05:15 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1210730255,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "playford-city-patriots-vs-fk-beograd-1210730255",
+      "title": "Playford City Patriots vs FK Beograd",
+      "status": "NS",
+      "league": {
+        "league_name": "South Australia NPL",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/194.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Playford City Patriots",
+        "away_name": "FK Beograd",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787376600,
+        "start_time_local": "22 Aug 2026, 05:30 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1292082481,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "sutherland-sharks-vs-st-george-city-fa-1292082481",
+      "title": "Sutherland Sharks vs St George City FA",
+      "status": "NS",
+      "league": {
+        "league_name": "New South Wales NPL",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/192.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Sutherland Sharks",
+        "away_name": "St George City FA",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787378400,
+        "start_time_local": "22 Aug 2026, 06:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
       "match_id": 1258668491,
       "sport_name": "Australian Football",
       "sport_id": 23,
@@ -2337,6 +2297,30 @@
       "streams": []
     },
     {
+      "match_id": 1130409878,
+      "sport_name": "Australian Football",
+      "sport_id": 23,
+      "slug": "western-bulldogs-vs-melbourne-1130409878",
+      "title": "Western Bulldogs vs Melbourne",
+      "status": "NS",
+      "league": {
+        "league_name": "AFL Premiership",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Western Bulldogs",
+        "away_name": "Melbourne",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787378400,
+        "start_time_local": "22 Aug 2026, 06:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
       "match_id": 1896629485,
       "sport_name": "Cricket",
       "sport_id": 3,
@@ -2452,6 +2436,150 @@
       "timing": {
         "start_time_timestamp": 1787322300,
         "start_time_local": "21 Aug 2026, 02:25 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1100796095,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "pumas-vs-griquas-1100796095",
+      "title": "Pumas vs Griquas",
+      "status": "NS",
+      "league": {
+        "league_name": "Currie Cup",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Pumas",
+        "away_name": "Griquas",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787317200,
+        "start_time_local": "21 Aug 2026, 01:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1542403269,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "bulls-vs-stormers-1542403269",
+      "title": "Bulls vs Stormers",
+      "status": "NS",
+      "league": {
+        "league_name": "Currie Cup",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Bulls",
+        "away_name": "Stormers",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787324400,
+        "start_time_local": "21 Aug 2026, 03:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1333870715,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "sharks-vs-lions-1333870715",
+      "title": "Sharks vs Lions",
+      "status": "NS",
+      "league": {
+        "league_name": "Currie Cup",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Sharks",
+        "away_name": "Lions",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787332500,
+        "start_time_local": "21 Aug 2026, 05:15 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1526072390,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "tasman-vs-southland-1526072390",
+      "title": "Tasman vs Southland",
+      "status": "NS",
+      "league": {
+        "league_name": "NPC",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Tasman",
+        "away_name": "Southland",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787360400,
+        "start_time_local": "22 Aug 2026, 01:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1746344889,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "new-zealand-vs-australia-1746344889",
+      "title": "New Zealand vs Australia",
+      "status": "NS",
+      "league": {
+        "league_name": "Women's International",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "New Zealand",
+        "away_name": "Australia",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787365800,
+        "start_time_local": "22 Aug 2026, 02:30 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1714553688,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "north-harbour-vs-auckland-1714553688",
+      "title": "North Harbour vs Auckland",
+      "status": "NS",
+      "league": {
+        "league_name": "NPC",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "North Harbour",
+        "away_name": "Auckland",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787376600,
+        "start_time_local": "22 Aug 2026, 05:30 AM",
         "countdown_seconds": null
       },
       "streams": []
