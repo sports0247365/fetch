@@ -3,7 +3,7 @@
     "name": "Bingstream Auto Update Playlist",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update_time": "1:47:21 PM 21-08-2026"
+    "last_update_time": "2:32:27 PM 21-08-2026"
   },
   "live_matches": [
     {
@@ -31,14 +31,76 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1787384842-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b5c155bfb65d755980c65f2e6c3018a5",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1787387547-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e00d0630313d40b54bb4e29b6b540c2d",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1827313229,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "tennis-channel-1827313229",
+      "title": "Tennis Channel",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Cincinnati open",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787299200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787387549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cf89457e96b40be039654542ba056964",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1704260283,
+      "sport_name": "Golf",
+      "sport_id": 16,
+      "slug": "day-1-1704260283",
+      "title": "Day 1",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Australian Darts Masters",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787302800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1787387553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a6624f9218c121092ac28093fe473e74",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 137,
+  "total_upcoming_matches": 141,
   "upcoming_matches": [
     {
       "match_id": 1808824913,
@@ -276,30 +338,6 @@
       "timing": {
         "start_time_timestamp": 1787338800,
         "start_time_local": "21 Aug 2026, 07:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1704260283,
-      "sport_name": "Golf",
-      "sport_id": 16,
-      "slug": "day-1-1704260283",
-      "title": "Day 1",
-      "status": "NS",
-      "league": {
-        "league_name": "Australian Darts Masters",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787302800,
-        "start_time_local": "21 Aug 2026, 09:00 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -2201,6 +2239,102 @@
       "streams": []
     },
     {
+      "match_id": 1078527812,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "dandenong-city-vs-preston-lions-1078527812",
+      "title": "Dandenong City vs Preston Lions",
+      "status": "NS",
+      "league": {
+        "league_name": "Victoria NPL",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/195.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Dandenong City",
+        "away_name": "Preston Lions",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787382000,
+        "start_time_local": "22 Aug 2026, 07:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1308178190,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "unsw-vs-manly-united-1308178190",
+      "title": "UNSW vs Manly United",
+      "status": "NS",
+      "league": {
+        "league_name": "New South Wales NPL",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/192.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "UNSW",
+        "away_name": "Manly United",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787382900,
+        "start_time_local": "22 Aug 2026, 07:15 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1230064523,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "dandenong-thunder-vs-oakleigh-cannons-1230064523",
+      "title": "Dandenong Thunder vs Oakleigh Cannons",
+      "status": "NS",
+      "league": {
+        "league_name": "Victoria NPL",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/195.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Dandenong Thunder",
+        "away_name": "Oakleigh Cannons",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787382900,
+        "start_time_local": "22 Aug 2026, 07:15 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1079298566,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "nws-spirit-vs-sd-raiders-1079298566",
+      "title": "NWS Spirit vs SD Raiders",
+      "status": "NS",
+      "league": {
+        "league_name": "New South Wales NPL",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/192.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "NWS Spirit",
+        "away_name": "SD Raiders",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787383800,
+        "start_time_local": "22 Aug 2026, 07:30 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
       "match_id": 1258668491,
       "sport_name": "Australian Football",
       "sport_id": 23,
@@ -3252,6 +3386,30 @@
       "timing": {
         "start_time_timestamp": 1787349600,
         "start_time_local": "21 Aug 2026, 10:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1335030693,
+      "sport_name": "MMA",
+      "sport_id": 14,
+      "slug": "zfn-origin-05-1335030693",
+      "title": "ZFN ORIGIN 05",
+      "status": "NS",
+      "league": {
+        "league_name": "MMA",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787385600,
+        "start_time_local": "22 Aug 2026, 08:00 AM",
         "countdown_seconds": null
       },
       "streams": []
