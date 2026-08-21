@@ -3,7 +3,7 @@
     "name": "Bingstream Auto Update Playlist",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update_time": "2:32:27 PM 21-08-2026"
+    "last_update_time": "3:32:25 PM 21-08-2026"
   },
   "live_matches": [
     {
@@ -31,7 +31,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1787387547-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e00d0630313d40b54bb4e29b6b540c2d",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1787391146-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4a33d5982d4d807d2533aa0af3bbef2f",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -62,7 +62,7 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787387549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cf89457e96b40be039654542ba056964",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787391148-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5b3d85992e031b48993cfbccde05d916",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -93,39 +93,139 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1787387553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a6624f9218c121092ac28093fe473e74",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1787391149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-22a725113dfddc0202ac8c9fd5f72a22",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1099855408,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "sydney-fc-u23-vs-rockdale-city-suns-1099855408",
+      "title": "Sydney FC U23 vs Rockdale City Suns",
+      "status": "LIVE",
+      "league": {
+        "league_name": "New South Wales NPL",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/192.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Sydney FC U23",
+        "away_name": "Rockdale City Suns",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787304600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1f9a/chunks.m3u8?is_vip=false&token=1787391150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-49df167d3b7226b4a89617f8523d93d2",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1446832414,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "green-gully-vs-st-albans-saints-1446832414",
+      "title": "Green Gully vs St. Albans Saints",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Victoria NPL",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/195.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Green Gully",
+        "away_name": "St. Albans Saints",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787304600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1f9b/chunks.m3u8?is_vip=false&token=1787391152-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-73d2cd718051b2a932782c46a0afb5e6",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1258668491,
+      "sport_name": "Australian Football",
+      "sport_id": 23,
+      "slug": "brisbane-lions-vs-collingwood-magpies-1258668491",
+      "title": "Brisbane Lions vs Collingwood Magpies",
+      "status": "LIVE",
+      "league": {
+        "league_name": "AFL Premiership",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Brisbane Lions",
+        "away_name": "Collingwood Magpies",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787304600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1787391153-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6f3da33d591e81e6c22378956326da60",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1896629485,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "england-vs-pakistan-1896629485",
+      "title": "England vs Pakistan",
+      "status": "LIVE",
+      "league": {
+        "league_name": "1st Test",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "England",
+        "away_name": "Pakistan",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787306400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787391158-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d9e176f4121a1dbbfde327b865988e1c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 141,
+  "total_upcoming_matches": 139,
   "upcoming_matches": [
-    {
-      "match_id": 1808824913,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "everton-u21-vs-liverpool-u21-1808824913",
-      "title": "Everton U21 vs Liverpool U21",
-      "status": "NS",
-      "league": {
-        "league_name": "Premier League 2 Division One",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/702.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Everton U21",
-        "away_name": "Liverpool U21",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787335200,
-        "start_time_local": "21 Aug 2026, 06:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1659324138,
       "sport_name": "Motorsport",
@@ -170,6 +270,30 @@
       "timing": {
         "start_time_timestamp": 1787353200,
         "start_time_local": "21 Aug 2026, 11:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1808824913,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "everton-u21-vs-liverpool-u21-1808824913",
+      "title": "Everton U21 vs Liverpool U21",
+      "status": "NS",
+      "league": {
+        "league_name": "Premier League 2 Division One",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/702.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Everton U21",
+        "away_name": "Liverpool U21",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787335200,
+        "start_time_local": "21 Aug 2026, 06:00 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -343,145 +467,121 @@
       "streams": []
     },
     {
-      "match_id": 1099855408,
+      "match_id": 1720650542,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "kings-vs-kingsmen-1720650542",
+      "title": "Kings vs Kingsmen",
+      "status": "NS",
+      "league": {
+        "league_name": "CPL",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Kings",
+        "away_name": "Kingsmen",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787353200,
+        "start_time_local": "21 Aug 2026, 11:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1601626238,
       "sport_name": "Other",
       "sport_id": 99,
-      "slug": "sydney-fc-u23-vs-rockdale-city-suns-1099855408",
-      "title": "Sydney FC U23 vs Rockdale City Suns",
+      "slug": "australia-vs-bangladesh-1601626238",
+      "title": "Australia vs Bangladesh",
       "status": "NS",
       "league": {
-        "league_name": "New South Wales NPL",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/192.png"
+        "league_name": "Bangladesh tour of Australia",
+        "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Sydney FC U23",
-        "away_name": "Rockdale City Suns",
+        "home_name": "Australia",
+        "away_name": "Bangladesh",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1787304600,
-        "start_time_local": "21 Aug 2026, 09:30 AM",
+        "start_time_timestamp": 1787356800,
+        "start_time_local": "22 Aug 2026, 12:00 AM",
         "countdown_seconds": null
       },
       "streams": []
     },
     {
-      "match_id": 1446832414,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "green-gully-vs-st-albans-saints-1446832414",
-      "title": "Green Gully vs St. Albans Saints",
+      "match_id": 1816088245,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "dutch-grand-prix-2026-practice-1-1816088245",
+      "title": "Dutch Grand Prix 2026 – Practice 1",
       "status": "NS",
       "league": {
-        "league_name": "Victoria NPL",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/195.png"
+        "league_name": "Formula 1 Practice",
+        "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Green Gully",
-        "away_name": "St. Albans Saints",
+        "home_name": "Unknown",
+        "away_name": "Unknown",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1787304600,
-        "start_time_local": "21 Aug 2026, 09:30 AM",
+        "start_time_timestamp": 1787307900,
+        "start_time_local": "21 Aug 2026, 10:25 AM",
         "countdown_seconds": null
       },
       "streams": []
     },
     {
-      "match_id": 1757158507,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "hwacheon-kspo-w-vs-seoul-w-1757158507",
-      "title": "Hwacheon KSPO W vs Seoul W",
+      "match_id": 1652262985,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "dutch-grand-prix-2026-1652262985",
+      "title": "Dutch Grand Prix 2026",
       "status": "NS",
       "league": {
-        "league_name": "WK-League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/660.png"
+        "league_name": "Formula 1 Sprint Qualifying",
+        "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Hwacheon KSPO W",
-        "away_name": "Seoul W",
+        "home_name": "Unknown",
+        "away_name": "Unknown",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1787306400,
-        "start_time_local": "21 Aug 2026, 10:00 AM",
+        "start_time_timestamp": 1787322300,
+        "start_time_local": "21 Aug 2026, 02:25 PM",
         "countdown_seconds": null
       },
       "streams": []
     },
     {
-      "match_id": 1742919343,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "incheon-red-angels-w-vs-boeun-sangmu-w-1742919343",
-      "title": "Incheon Red Angels W vs Boeun Sangmu W",
+      "match_id": 1638994540,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "f1-academy-round-4-netherlands-2026-1638994540",
+      "title": "F1 Academy, Round 4 Netherlands, 2026",
       "status": "NS",
       "league": {
-        "league_name": "WK-League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/660.png"
+        "league_name": "F1 Academy Qualifying",
+        "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Incheon Red Angels W",
-        "away_name": "Boeun Sangmu W",
+        "home_name": "Unknown",
+        "away_name": "Unknown",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1787306400,
-        "start_time_local": "21 Aug 2026, 10:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1186078081,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "gumi-sportstoto-w-vs-changnyeong-w-1186078081",
-      "title": "Gumi Sportstoto W vs Changnyeong W",
-      "status": "NS",
-      "league": {
-        "league_name": "WK-League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/660.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Gumi Sportstoto W",
-        "away_name": "Changnyeong W",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787306400,
-        "start_time_local": "21 Aug 2026, 10:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1857541036,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "kashiwa-reysol-vs-v-varen-nagasaki-1857541036",
-      "title": "Kashiwa Reysol vs V-varen Nagasaki",
-      "status": "NS",
-      "league": {
-        "league_name": "J1 League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Kashiwa Reysol",
-        "away_name": "V-varen Nagasaki",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787306400,
-        "start_time_local": "21 Aug 2026, 10:00 AM",
+        "start_time_timestamp": 1787382900,
+        "start_time_local": "22 Aug 2026, 07:15 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -2335,313 +2435,97 @@
       "streams": []
     },
     {
-      "match_id": 1258668491,
-      "sport_name": "Australian Football",
-      "sport_id": 23,
-      "slug": "brisbane-lions-vs-collingwood-magpies-1258668491",
-      "title": "Brisbane Lions vs Collingwood Magpies",
-      "status": "NS",
-      "league": {
-        "league_name": "AFL Premiership",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Brisbane Lions",
-        "away_name": "Collingwood Magpies",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787304600,
-        "start_time_local": "21 Aug 2026, 09:30 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1554109189,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "new-york-jets-vs-pittsburgh-steelers-1554109189",
-      "title": "New York Jets vs Pittsburgh Steelers",
-      "status": "NS",
-      "league": {
-        "league_name": "NFL",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "New York Jets",
-        "away_name": "Pittsburgh Steelers",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787353200,
-        "start_time_local": "21 Aug 2026, 11:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1465609067,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "carolina-panthers-vs-jacksonville-jaguars-1465609067",
-      "title": "Carolina Panthers vs Jacksonville Jaguars",
-      "status": "NS",
-      "league": {
-        "league_name": "NFL",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Carolina Panthers",
-        "away_name": "Jacksonville Jaguars",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787355000,
-        "start_time_local": "21 Aug 2026, 11:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1596854188,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "green-bay-packers-vs-denver-broncos-1596854188",
-      "title": "Green Bay Packers vs Denver Broncos",
-      "status": "NS",
-      "league": {
-        "league_name": "NFL",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Green Bay Packers",
-        "away_name": "Denver Broncos",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787360400,
-        "start_time_local": "22 Aug 2026, 01:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1734485720,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "winnipeg-blue-bombers-vs-edmonton-elks-1734485720",
-      "title": "Winnipeg Blue Bombers vs Edmonton Elks",
-      "status": "NS",
-      "league": {
-        "league_name": "CFL",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Winnipeg Blue Bombers",
-        "away_name": "Edmonton Elks",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787362200,
-        "start_time_local": "22 Aug 2026, 01:30 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1227638853,
-      "sport_name": "Australian Football",
-      "sport_id": 23,
-      "slug": "fremantle-vs-carlton-1227638853",
-      "title": "Fremantle vs Carlton",
-      "status": "NS",
-      "league": {
-        "league_name": "AFL Premiership",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Fremantle",
-        "away_name": "Carlton",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787367600,
-        "start_time_local": "22 Aug 2026, 03:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1130409878,
-      "sport_name": "Australian Football",
-      "sport_id": 23,
-      "slug": "western-bulldogs-vs-melbourne-1130409878",
-      "title": "Western Bulldogs vs Melbourne",
-      "status": "NS",
-      "league": {
-        "league_name": "AFL Premiership",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Western Bulldogs",
-        "away_name": "Melbourne",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787378400,
-        "start_time_local": "22 Aug 2026, 06:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1896629485,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "england-vs-pakistan-1896629485",
-      "title": "England vs Pakistan",
-      "status": "NS",
-      "league": {
-        "league_name": "1st Test",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "England",
-        "away_name": "Pakistan",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787306400,
-        "start_time_local": "21 Aug 2026, 10:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1720650542,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "kings-vs-kingsmen-1720650542",
-      "title": "Kings vs Kingsmen",
-      "status": "NS",
-      "league": {
-        "league_name": "CPL",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Kings",
-        "away_name": "Kingsmen",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787353200,
-        "start_time_local": "21 Aug 2026, 11:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1601626238,
+      "match_id": 1282033813,
       "sport_name": "Other",
       "sport_id": 99,
-      "slug": "australia-vs-bangladesh-1601626238",
-      "title": "Australia vs Bangladesh",
+      "slug": "vanraure-hachinohe-vs-vegalta-sendai-1282033813",
+      "title": "Vanraure Hachinohe vs Vegalta Sendai",
       "status": "NS",
       "league": {
-        "league_name": "Bangladesh tour of Australia",
-        "league_logo": ""
+        "league_name": "J2 League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/99.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Australia",
-        "away_name": "Bangladesh",
+        "home_name": "Vanraure Hachinohe",
+        "away_name": "Vegalta Sendai",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1787356800,
-        "start_time_local": "22 Aug 2026, 12:00 AM",
+        "start_time_timestamp": 1787385600,
+        "start_time_local": "22 Aug 2026, 08:00 AM",
         "countdown_seconds": null
       },
       "streams": []
     },
     {
-      "match_id": 1816088245,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "dutch-grand-prix-2026-practice-1-1816088245",
-      "title": "Dutch Grand Prix 2026 – Practice 1",
+      "match_id": 1658032534,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "st-george-saints-vs-blacktown-city-1658032534",
+      "title": "St. George Saints vs Blacktown City",
       "status": "NS",
       "league": {
-        "league_name": "Formula 1 Practice",
-        "league_logo": ""
+        "league_name": "New South Wales NPL",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/192.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
+        "home_name": "St. George Saints",
+        "away_name": "Blacktown City",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1787307900,
-        "start_time_local": "21 Aug 2026, 10:25 AM",
+        "start_time_timestamp": 1787387400,
+        "start_time_local": "22 Aug 2026, 08:30 AM",
         "countdown_seconds": null
       },
       "streams": []
     },
     {
-      "match_id": 1652262985,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "dutch-grand-prix-2026-1652262985",
-      "title": "Dutch Grand Prix 2026",
+      "match_id": 1334351315,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "espanyol-ii-vs-gimnastic-1334351315",
+      "title": "Espanyol II vs Gimnastic",
       "status": "NS",
       "league": {
-        "league_name": "Formula 1 Sprint Qualifying",
-        "league_logo": ""
+        "league_name": "Friendlies Clubs",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/667.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
+        "home_name": "Espanyol II",
+        "away_name": "Gimnastic",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1787322300,
-        "start_time_local": "21 Aug 2026, 02:25 PM",
+        "start_time_timestamp": 1787387400,
+        "start_time_local": "22 Aug 2026, 08:30 AM",
         "countdown_seconds": null
       },
       "streams": []
     },
     {
-      "match_id": 1638994540,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "f1-academy-round-4-netherlands-2026-1638994540",
-      "title": "F1 Academy, Round 4 Netherlands, 2026",
+      "match_id": 1415997211,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "unionistas-ii-vs-guijuelo-1415997211",
+      "title": "Unionistas II vs Guijuelo",
       "status": "NS",
       "league": {
-        "league_name": "F1 Academy Qualifying",
-        "league_logo": ""
+        "league_name": "Friendlies Clubs",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/667.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
+        "home_name": "Unionistas II",
+        "away_name": "Guijuelo",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1787382900,
-        "start_time_local": "22 Aug 2026, 07:15 AM",
+        "start_time_timestamp": 1787387400,
+        "start_time_local": "22 Aug 2026, 08:30 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -3415,6 +3299,150 @@
       "streams": []
     },
     {
+      "match_id": 1554109189,
+      "sport_name": "American Football",
+      "sport_id": 10,
+      "slug": "new-york-jets-vs-pittsburgh-steelers-1554109189",
+      "title": "New York Jets vs Pittsburgh Steelers",
+      "status": "NS",
+      "league": {
+        "league_name": "NFL",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "New York Jets",
+        "away_name": "Pittsburgh Steelers",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787353200,
+        "start_time_local": "21 Aug 2026, 11:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1465609067,
+      "sport_name": "American Football",
+      "sport_id": 10,
+      "slug": "carolina-panthers-vs-jacksonville-jaguars-1465609067",
+      "title": "Carolina Panthers vs Jacksonville Jaguars",
+      "status": "NS",
+      "league": {
+        "league_name": "NFL",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Carolina Panthers",
+        "away_name": "Jacksonville Jaguars",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787355000,
+        "start_time_local": "21 Aug 2026, 11:30 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1596854188,
+      "sport_name": "American Football",
+      "sport_id": 10,
+      "slug": "green-bay-packers-vs-denver-broncos-1596854188",
+      "title": "Green Bay Packers vs Denver Broncos",
+      "status": "NS",
+      "league": {
+        "league_name": "NFL",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Green Bay Packers",
+        "away_name": "Denver Broncos",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787360400,
+        "start_time_local": "22 Aug 2026, 01:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1734485720,
+      "sport_name": "American Football",
+      "sport_id": 10,
+      "slug": "winnipeg-blue-bombers-vs-edmonton-elks-1734485720",
+      "title": "Winnipeg Blue Bombers vs Edmonton Elks",
+      "status": "NS",
+      "league": {
+        "league_name": "CFL",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Winnipeg Blue Bombers",
+        "away_name": "Edmonton Elks",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787362200,
+        "start_time_local": "22 Aug 2026, 01:30 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1227638853,
+      "sport_name": "Australian Football",
+      "sport_id": 23,
+      "slug": "fremantle-vs-carlton-1227638853",
+      "title": "Fremantle vs Carlton",
+      "status": "NS",
+      "league": {
+        "league_name": "AFL Premiership",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Fremantle",
+        "away_name": "Carlton",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787367600,
+        "start_time_local": "22 Aug 2026, 03:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1130409878,
+      "sport_name": "Australian Football",
+      "sport_id": 23,
+      "slug": "western-bulldogs-vs-melbourne-1130409878",
+      "title": "Western Bulldogs vs Melbourne",
+      "status": "NS",
+      "league": {
+        "league_name": "AFL Premiership",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Western Bulldogs",
+        "away_name": "Melbourne",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787378400,
+        "start_time_local": "22 Aug 2026, 06:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
       "match_id": 1644733223,
       "sport_name": "Basketball",
       "sport_id": 2,
@@ -3482,6 +3510,54 @@
       "timing": {
         "start_time_timestamp": 1787364000,
         "start_time_local": "22 Aug 2026, 02:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1678777355,
+      "sport_name": "Golf",
+      "sport_id": 16,
+      "slug": "day-2-1678777355",
+      "title": "Day 2",
+      "status": "NS",
+      "league": {
+        "league_name": "Australian Darts Masters",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787389200,
+        "start_time_local": "22 Aug 2026, 09:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1294406524,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "womens-series-17-18-1294406524",
+      "title": "Womens Series 17 & 18",
+      "status": "NS",
+      "league": {
+        "league_name": "Womens Series",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787389200,
+        "start_time_local": "22 Aug 2026, 09:00 AM",
         "countdown_seconds": null
       },
       "streams": []
