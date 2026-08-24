@@ -3,7 +3,7 @@
     "name": "Bingstream Auto Update Playlist",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update_time": "3:02:30 PM 24-08-2026"
+    "last_update_time": "4:02:28 PM 24-08-2026"
   },
   "live_matches": [
     {
@@ -31,45 +31,14 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787648552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d948c05022c6340cb8c56599ddce4d49",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1362797742,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "kuwait-u20-vs-uae-u20-1362797742",
-      "title": "Kuwait U20 vs UAE U20",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Friendlies",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Kuwait U20",
-        "away_name": "UAE U20",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787562000,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8bbabccf074f0d50030bb4/chunks.m3u8?is_vip=false&token=1787648556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bb1be4a6a493a765d54574f369c25365",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787652149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0520f53c37c0fd0dc1c37a6e0bcbf4a5",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 67,
+  "total_upcoming_matches": 69,
   "upcoming_matches": [
     {
       "match_id": 1544915320,
@@ -1363,6 +1332,54 @@
       "timing": {
         "start_time_timestamp": 1787619600,
         "start_time_local": "25 Aug 2026, 01:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1113469446,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "lions-vs-north-sunshine-eagles-1113469446",
+      "title": "Lions vs North Sunshine Eagles",
+      "status": "NS",
+      "league": {
+        "league_name": "Australia Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/874.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Lions",
+        "away_name": "North Sunshine Eagles",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787650200,
+        "start_time_local": "25 Aug 2026, 09:30 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1696019658,
+      "sport_name": "Tennis",
+      "sport_id": 5,
+      "slug": "us-open-1696019658",
+      "title": "US Open",
+      "status": "NS",
+      "league": {
+        "league_name": "US Open",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787583600,
+        "start_time_local": "24 Aug 2026, 03:00 PM",
         "countdown_seconds": null
       },
       "streams": []
