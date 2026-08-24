@@ -3,7 +3,7 @@
     "name": "Bingstream Auto Update Playlist",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update_time": "8:17:32 PM 24-08-2026"
+    "last_update_time": "9:17:25 PM 24-08-2026"
   },
   "live_matches": [
     {
@@ -30,15 +30,374 @@
       },
       "streams": [
         {
+          "server_name": "HD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/208/720p/chunks.m3u8?is_vip=false&token=1787671046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6e66425c1a67036344309dcc73deb777",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1058283185,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "kamaz-vs-fc-sochi-1058283185",
+      "title": "KAMAZ vs FC Sochi",
+      "status": "1H",
+      "league": {
+        "league_name": "First League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "KAMAZ",
+        "away_name": "FC Sochi",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787581800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/238/720p/chunks.m3u8?is_vip=false&token=1787667453-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4182232cecf528d4e2502f07168d16ae",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a68cb65000f680c3c822c3a-backup/chunks.m3u8?is_vip=false&token=1787671048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-813754bfee948f32700cc861d2496d99",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a68cb65000f680c3c822c3a/chunks.m3u8?is_vip=false&token=1787671049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6ae389d6827689e4558b0de646c411f9",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1438165473,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "fc-isloch-minsk-r-vs-dinamo-minsk-1438165473",
+      "title": "FC Isloch Minsk R. vs Dinamo Minsk",
+      "status": "1H",
+      "league": {
+        "league_name": "Premier League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/116.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "FC Isloch Minsk R.",
+        "away_name": "Dinamo Minsk",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787581800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a68cb65000f680c3c822c47-backup/chunks.m3u8?is_vip=false&token=1787671050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0c3e84a99cffd8e9167c80bd2a64e875",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a68cb65000f680c3c822c47/chunks.m3u8?is_vip=false&token=1787671051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-35bef9b0af46808ffd4090b7b2a9b782",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1228691498,
+      "sport_name": "Tennis",
+      "sport_id": 5,
+      "slug": "titouan-droguet-vs-daniel-rincon-1228691498",
+      "title": "Titouan Droguet vs Daniel Rincon",
+      "status": "LIVE",
+      "league": {
+        "league_name": "US Open",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Titouan Droguet",
+        "away_name": "Daniel Rincon",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787583600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/136439/720p/chunks.m3u8?is_vip=false&token=1787671053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9db6a57dc337e59f0fb7188f13849126",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1029840660,
+      "sport_name": "Tennis",
+      "sport_id": 5,
+      "slug": "erika-andreeva-vs-mariam-bolkvadze-1029840660",
+      "title": "Erika Andreeva vs Mariam Bolkvadze",
+      "status": "LIVE",
+      "league": {
+        "league_name": "US Open",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Erika Andreeva",
+        "away_name": "Mariam Bolkvadze",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787583600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/136436/720p/chunks.m3u8?is_vip=false&token=1787671054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eaa005a77f715430566bb5131659e04e",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1615684087,
+      "sport_name": "Tennis",
+      "sport_id": 5,
+      "slug": "qinwen-zheng-vs-xiaodi-you-1615684087",
+      "title": "Qinwen Zheng vs Xiaodi You",
+      "status": "LIVE",
+      "league": {
+        "league_name": "US Open",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Qinwen Zheng",
+        "away_name": "Xiaodi You",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787583600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/136440/720p/chunks.m3u8?is_vip=false&token=1787671055-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b37f9e80f41b917078e62d5d058a33ed",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1612030333,
+      "sport_name": "Tennis",
+      "sport_id": 5,
+      "slug": "mark-lajal-vs-jordan-lee-1612030333",
+      "title": "Mark Lajal vs Jordan Lee",
+      "status": "LIVE",
+      "league": {
+        "league_name": "US Open",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Mark Lajal",
+        "away_name": "Jordan Lee",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787583600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/136434/720p/chunks.m3u8?is_vip=false&token=1787671057-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-afe6a78289a896def30c63b978a12942",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1159056505,
+      "sport_name": "Tennis",
+      "sport_id": 5,
+      "slug": "kimmer-coppejans-vs-jurij-rodionov-1159056505",
+      "title": "Kimmer Coppejans vs Jurij Rodionov",
+      "status": "LIVE",
+      "league": {
+        "league_name": "US Open",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Kimmer Coppejans",
+        "away_name": "Jurij Rodionov",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787583600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/136437/720p/chunks.m3u8?is_vip=false&token=1787671058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-907ee860ce9e4ce287751388182e8ba6",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1768743582,
+      "sport_name": "Tennis",
+      "sport_id": 5,
+      "slug": "diego-dedura-vs-frederico-ferreira-silv-1768743582",
+      "title": "Diego Dedura vs Frederico Ferreira Silv",
+      "status": "LIVE",
+      "league": {
+        "league_name": "US Open",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Diego Dedura",
+        "away_name": "Frederico Ferreira Silv",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787583600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/136435/720p/chunks.m3u8?is_vip=false&token=1787671059-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f274584c68f45b9c83e7776a74ff6903",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1106481342,
+      "sport_name": "Tennis",
+      "sport_id": 5,
+      "slug": "jacob-fearnley-vs-roberto-carballes-ba-1106481342",
+      "title": "Jacob Fearnley vs Roberto Carballes Ba",
+      "status": "LIVE",
+      "league": {
+        "league_name": "US Open",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Jacob Fearnley",
+        "away_name": "Roberto Carballes Ba",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787583600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787671060-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5ae401aea168d186eaf764c2805a1b4e",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1696019658,
+      "sport_name": "Tennis",
+      "sport_id": 5,
+      "slug": "us-open-1696019658",
+      "title": "US Open",
+      "status": "LIVE",
+      "league": {
+        "league_name": "US Open",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787583600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787671062-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aece9e6546d86e449d489c0fa4c934ba",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1053523698,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "hellas-verona-u20-vs-cesena-u20-1053523698",
+      "title": "Hellas Verona U20 vs Cesena U20",
+      "status": "1H",
+      "league": {
+        "league_name": "Campionato Primavera - 1",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/705.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Hellas Verona U20",
+        "away_name": "Cesena U20",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787583600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a68cb6415d865a0118e3742-backup/chunks.m3u8?is_vip=false&token=1787671064-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a00671c42827aae33ffdf4e11d0a054d",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a68cb6415d865a0118e3742/chunks.m3u8?is_vip=false&token=1787671065-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7954f24a9e7e426e748d022e62277c45",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 68,
+  "total_upcoming_matches": 65,
   "upcoming_matches": [
     {
       "match_id": 1839693187,
@@ -180,78 +539,6 @@
       "timing": {
         "start_time_timestamp": 1787599800,
         "start_time_local": "24 Aug 2026, 07:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1696019658,
-      "sport_name": "Tennis",
-      "sport_id": 5,
-      "slug": "us-open-1696019658",
-      "title": "US Open",
-      "status": "NS",
-      "league": {
-        "league_name": "US Open",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787583600,
-        "start_time_local": "24 Aug 2026, 03:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1459619741,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "rotor-volgograd-vs-fk-neftekhimik-1459619741",
-      "title": "Rotor Volgograd vs FK Neftekhimik",
-      "status": "NS",
-      "league": {
-        "league_name": "First League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Rotor Volgograd",
-        "away_name": "FK Neftekhimik",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787585400,
-        "start_time_local": "24 Aug 2026, 03:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1768337297,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "fc-botosani-vs-csikszereda-1768337297",
-      "title": "FC Botosani vs Csikszereda",
-      "status": "NS",
-      "league": {
-        "league_name": "Liga I",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/283.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "FC Botosani",
-        "away_name": "Csikszereda",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787585400,
-        "start_time_local": "24 Aug 2026, 03:30 PM",
         "countdown_seconds": null
       },
       "streams": []
