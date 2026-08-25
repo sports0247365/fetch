@@ -3,7 +3,7 @@
     "name": "Bingstream Auto Update Playlist",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update_time": "3:47:20 PM 25-08-2026"
+    "last_update_time": "4:32:26 PM 25-08-2026"
   },
   "live_matches": [
     {
@@ -31,7 +31,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787737641-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6895368ccb22b71b34e416d6004d61d6",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787740346-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6c54ee28cd851e3856aa0c8bc71ba384",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -43,7 +43,7 @@
       "sport_id": 99,
       "slug": "lions-vs-north-sunshine-eagles-1113469446",
       "title": "Lions vs North Sunshine Eagles",
-      "status": "1H",
+      "status": "HT",
       "league": {
         "league_name": "Australia Cup",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/874.png"
@@ -62,20 +62,162 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7e0d3b250dd16277563dff-backup/chunks.m3u8?is_vip=false&token=1787737643-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0979625fff2691a054bbb20f793a2b1f",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7e0d3b250dd16277563dff-backup/chunks.m3u8?is_vip=false&token=1787740348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-df26a05b593932401a1864f714428620",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7e0d3b250dd16277563dff/chunks.m3u8?is_vip=false&token=1787737648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5bb07d443c844e28c7f7ab3b47ad7828",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7e0d3b250dd16277563dff/chunks.m3u8?is_vip=false&token=1787740350-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-06d6ad689075133bbd238d97f58b3131",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1788733690,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "gimcheon-sangmu-fc-vs-jeonbuk-motors-1788733690",
+      "title": "Gimcheon Sangmu FC vs Jeonbuk Motors",
+      "status": "1H",
+      "league": {
+        "league_name": "K League 1",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/292.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Gimcheon Sangmu FC",
+        "away_name": "Jeonbuk Motors",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787653800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca34-backup/chunks.m3u8?is_vip=false&token=1787740352-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f251016455eb119ca8a03769d78196d4",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca34/chunks.m3u8?is_vip=false&token=1787740353-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e44e1b2228521ab1131500dd4f80e4c0",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1781525794,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "jeju-united-fc-vs-pohang-steelers-1781525794",
+      "title": "Jeju United FC vs Pohang Steelers",
+      "status": "1H",
+      "league": {
+        "league_name": "K League 1",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/292.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Jeju United FC",
+        "away_name": "Pohang Steelers",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787653800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca35-backup/chunks.m3u8?is_vip=false&token=1787740354-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7f9b5e42a6c65e00a7baae57049dacde",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca35/chunks.m3u8?is_vip=false&token=1787740355-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bcdd8a0b5eb21846a9145ecfe1755381",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1723912265,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "fc-seoul-vs-bucheon-fc-1995-1723912265",
+      "title": "FC Seoul vs Bucheon FC 1995",
+      "status": "1H",
+      "league": {
+        "league_name": "K League 1",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/292.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "FC Seoul",
+        "away_name": "Bucheon FC 1995",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787653800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca33-backup/chunks.m3u8?is_vip=false&token=1787740356-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-61c49f8fac6fc8c1089a64bb0c6baabe",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca33/chunks.m3u8?is_vip=false&token=1787740357-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-337e13b308cd5a828e9e6bd9454280fe",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1158837998,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "players-championship-26-1158837998",
+      "title": "Players Championship 26",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Players Championship",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1787655600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1787740359-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d4e4d9b37bc864ece5c570994c21b8ea",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 66,
+  "total_upcoming_matches": 63,
   "upcoming_matches": [
     {
       "match_id": 1839693187,
@@ -222,73 +364,25 @@
       "streams": []
     },
     {
-      "match_id": 1788733690,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "gimcheon-sangmu-fc-vs-jeonbuk-motors-1788733690",
-      "title": "Gimcheon Sangmu FC vs Jeonbuk Motors",
+      "match_id": 1501977784,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "wuhan-open-terzo-turno-1501977784",
+      "title": "Wuhan Open: Terzo turno",
       "status": "NS",
       "league": {
-        "league_name": "K League 1",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/292.png"
+        "league_name": "World Snooker Tour",
+        "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Gimcheon Sangmu FC",
-        "away_name": "Jeonbuk Motors",
+        "home_name": "Unknown",
+        "away_name": "Unknown",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1787653800,
-        "start_time_local": "25 Aug 2026, 10:30 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1781525794,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "jeju-united-fc-vs-pohang-steelers-1781525794",
-      "title": "Jeju United FC vs Pohang Steelers",
-      "status": "NS",
-      "league": {
-        "league_name": "K League 1",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/292.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Jeju United FC",
-        "away_name": "Pohang Steelers",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787653800,
-        "start_time_local": "25 Aug 2026, 10:30 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1723912265,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "fc-seoul-vs-bucheon-fc-1995-1723912265",
-      "title": "FC Seoul vs Bucheon FC 1995",
-      "status": "NS",
-      "league": {
-        "league_name": "K League 1",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/292.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "FC Seoul",
-        "away_name": "Bucheon FC 1995",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787653800,
-        "start_time_local": "25 Aug 2026, 10:30 AM",
+        "start_time_timestamp": 1787657400,
+        "start_time_local": "25 Aug 2026, 11:30 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -1038,49 +1132,25 @@
       "streams": []
     },
     {
-      "match_id": 1158837998,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "players-championship-26-1158837998",
-      "title": "Players Championship 26",
-      "status": "NS",
-      "league": {
-        "league_name": "Players Championship",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1787655600,
-        "start_time_local": "25 Aug 2026, 11:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1501977784,
+      "match_id": 1370010891,
       "sport_name": "Other",
       "sport_id": 99,
-      "slug": "wuhan-open-terzo-turno-1501977784",
-      "title": "Wuhan Open: Terzo turno",
+      "slug": "preston-lions-vs-south-melbourne-1370010891",
+      "title": "Preston Lions vs South Melbourne",
       "status": "NS",
       "league": {
-        "league_name": "World Snooker Tour",
-        "league_logo": ""
+        "league_name": "Australia Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/874.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
+        "home_name": "Preston Lions",
+        "away_name": "South Melbourne",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1787657400,
-        "start_time_local": "25 Aug 2026, 11:30 AM",
+        "start_time_timestamp": 1787736600,
+        "start_time_local": "26 Aug 2026, 09:30 AM",
         "countdown_seconds": null
       },
       "streams": []
