@@ -3,78 +3,16 @@
     "name": "Bingstream Auto Update Playlist",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update_time": "6:47:22 PM 30-08-2026"
+    "last_update_time": "7:17:26 PM 30-08-2026"
   },
   "live_matches": [
-    {
-      "match_id": 1170886627,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "chelsea-vs-brighton-1170886627",
-      "title": "Chelsea vs Brighton",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Premier League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/39.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Chelsea",
-        "away_name": "Brighton",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788094800,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ef7-hd/chunks.m3u8?is_vip=false&token=1788180443-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-64e01ad20fb17c5a2ba23a864407947b",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1793113173,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "leeds-vs-brentford-1793113173",
-      "title": "Leeds vs Brentford",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Premier League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/39.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Leeds",
-        "away_name": "Brentford",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788094800,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ef6-hd/chunks.m3u8?is_vip=false&token=1788180444-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-61ecbe01d774e0a33563380666fe98da",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
     {
       "match_id": 1851432623,
       "sport_name": "Football",
       "sport_id": 1,
       "slug": "sunderland-vs-fulham-1851432623",
       "title": "Sunderland vs Fulham",
-      "status": "LIVE",
+      "status": "1H",
       "league": {
         "league_name": "Premier League",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/39.png"
@@ -93,38 +31,155 @@
       "streams": [
         {
           "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ef5-hd/chunks.m3u8?is_vip=false&token=1788180445-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-05c11820eb3d3e6ea29ff1804c51a6c7",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ef5-hd/chunks.m3u8?is_vip=false&token=1788182247-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e73cb175b562dd4cba39e294a18fcc74",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ef5/chunks.m3u8?is_vip=false&token=1788182248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9a6bbc51bb100d7b6502e66d785d98f8",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1369632017,
-      "sport_name": "Cycling",
-      "sport_id": 20,
-      "slug": "vuelta-a-espa-a-stage-9-1369632017",
-      "title": "Vuelta a España, Stage 9",
-      "status": "LIVE",
+      "match_id": 1793113173,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "leeds-vs-brentford-1793113173",
+      "title": "Leeds vs Brentford",
+      "status": "1H",
       "league": {
-        "league_name": "La Vuelta",
-        "league_logo": ""
+        "league_name": "Premier League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/39.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
+        "home_name": "Leeds",
+        "away_name": "Brentford",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1788084000,
+        "start_time_timestamp": 1788094800,
         "start_time_local": "Live Now",
         "countdown_seconds": null
       },
       "streams": [
         {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1788180446-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ce0cc4437d604578beca2b3e78f78103",
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ef6-hd/chunks.m3u8?is_vip=false&token=1788182250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-31eb81702a252a703063728940fcc181",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ef6/chunks.m3u8?is_vip=false&token=1788182250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-15d21101b467da4d6a62c0f2895caa01",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1170886627,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "chelsea-vs-brighton-1170886627",
+      "title": "Chelsea vs Brighton",
+      "status": "1H",
+      "league": {
+        "league_name": "Premier League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/39.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Chelsea",
+        "away_name": "Brighton",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788094800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ef7-hd/chunks.m3u8?is_vip=false&token=1788182251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c8e0fe0c078ba0d2048c866874310fe9",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ef7/chunks.m3u8?is_vip=false&token=1788182252-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2187299f394d2d73aecd9e131a0004ff",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1035376316,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "paris-fc-vs-nice-1035376316",
+      "title": "Paris FC vs Nice",
+      "status": "1H",
+      "league": {
+        "league_name": "Ligue 1",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/61.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Paris FC",
+        "away_name": "Nice",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788094800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ef8-hd/chunks.m3u8?is_vip=false&token=1788182253-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6febaa6462e9db0543d11b1fbe8f410d",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ef8/chunks.m3u8?is_vip=false&token=1788182254-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f350cdba424c5e137c01236c178759a8",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1576543166,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "sc-freiburg-vs-werder-bremen-1576543166",
+      "title": "SC Freiburg vs Werder Bremen",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Bundesliga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/78.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "SC Freiburg",
+        "away_name": "Werder Bremen",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788096600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721325d218e1412f09a-hd/chunks.m3u8?is_vip=false&token=1788182255-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-25218da438678e2bf34ef0f89c248a46",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -155,52 +210,21 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1788180448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-709184da9cbbbd6bb2c08e2113944e19",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1788182256-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4379c91662014191bbf513a9c20149be",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1677366694,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "dalian-huayi-vs-nantong-zhiyun-1677366694",
-      "title": "Dalian Huayi vs Nantong Zhiyun",
-      "status": "2H",
-      "league": {
-        "league_name": "League One",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/170.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Dalian Huayi",
-        "away_name": "Nantong Zhiyun",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788087600,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ebb/chunks.m3u8?is_vip=false&token=1788180449-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3a73768940e3a2b91573853d6ecfbad9",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1884781010,
+      "match_id": 1369632017,
       "sport_name": "Cycling",
       "sport_id": 20,
-      "slug": "women-s-elite-cross-country-olympic-1884781010",
-      "title": "Women's Elite Cross-country Olympic",
+      "slug": "vuelta-a-espa-a-stage-9-1369632017",
+      "title": "Vuelta a España, Stage 9",
       "status": "LIVE",
       "league": {
-        "league_name": "UCI Mountain Bike World Championships",
+        "league_name": "La Vuelta",
         "league_logo": ""
       },
       "venue": "TBA",
@@ -210,45 +234,14 @@
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1788087600,
+        "start_time_timestamp": 1788084000,
         "start_time_local": "Live Now",
         "countdown_seconds": null
       },
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1788180450-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-58f9f1d25db520dcde2a8267fcc4ed00",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1321618288,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "ningbo-professional-vs-meizhou-kejia-1321618288",
-      "title": "Ningbo Professional vs Meizhou Kejia",
-      "status": "2H",
-      "league": {
-        "league_name": "League One",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/170.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Ningbo Professional",
-        "away_name": "Meizhou Kejia",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788087600,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891eba/chunks.m3u8?is_vip=false&token=1788180451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7b6a06b73e9c89479a4c2dee87569bde",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1788182258-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f150e41af374e5442c9ad8914a25fccc",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -279,266 +272,7 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1788180452-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9dc577f6349036f0d798474402334fbd",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1824620653,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "aberdeen-vs-rangers-1824620653",
-      "title": "Aberdeen vs Rangers",
-      "status": "2H",
-      "league": {
-        "league_name": "Premiership",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/179.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Aberdeen",
-        "away_name": "Rangers",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788087600,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a781-fhd/chunks.m3u8?is_vip=false&token=1788180454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-16d65312dfe17bca45ffcc5605ba472f",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a781/chunks.m3u8?is_vip=false&token=1788180454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-858168e5f036995b64e1e50875528795",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1191468575,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "arsenal-vs-torpedo-zhodino-1191468575",
-      "title": "Arsenal vs Torpedo Zhodino",
-      "status": "2H",
-      "league": {
-        "league_name": "Premier League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/116.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Arsenal",
-        "away_name": "Torpedo Zhodino",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788087600,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c33679a78b6ca36a14/chunks.m3u8?is_vip=false&token=1788180455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-32221e2745e782d7deda266313954e39",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1488097017,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "1-fc-magdeburg-vs-holstein-kiel-1488097017",
-      "title": "1. FC Magdeburg vs Holstein Kiel",
-      "status": "2H",
-      "league": {
-        "league_name": "2. Bundesliga",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/79.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "1. FC Magdeburg",
-        "away_name": "Holstein Kiel",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788089400,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c294a200e33803a745-hd/chunks.m3u8?is_vip=false&token=1788180456-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d234c3b79d0d5be7ef866ffba21bb9ab",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c294a200e33803a745-fhd/chunks.m3u8?is_vip=false&token=1788180457-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-265680c3751784304115d2757f1dccb1",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c294a200e33803a745/chunks.m3u8?is_vip=false&token=1788180458-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ccf15a04cd843ce8badc77a0fb76df38",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1405065504,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "fc-saarbr-cken-vs-hansa-rostock-1405065504",
-      "title": "FC Saarbrücken vs Hansa Rostock",
-      "status": "2H",
-      "league": {
-        "league_name": "3. Liga",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/80.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "FC Saarbrücken",
-        "away_name": "Hansa Rostock",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788089400,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c23679a78b6ca368fb/chunks.m3u8?is_vip=false&token=1788180459-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b5800ce75723dfceccf557809c1edb4d",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1068821885,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "fc-st-pauli-vs-1-fc-kaiserslautern-1068821885",
-      "title": "FC St. Pauli vs 1. FC Kaiserslautern",
-      "status": "2H",
-      "league": {
-        "league_name": "2. Bundesliga",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/79.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "FC St. Pauli",
-        "away_name": "1. FC Kaiserslautern",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788089400,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c294a200e33803a73e-hd/chunks.m3u8?is_vip=false&token=1788180460-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d98c98322b6e69b24a3015c70fb67f51",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c294a200e33803a73e-fhd/chunks.m3u8?is_vip=false&token=1788180460-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d4a4ab046819c330d9d77f8e54e42a58",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c294a200e33803a73e/chunks.m3u8?is_vip=false&token=1788180461-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ab4305c767bfda9ddf3fa837f9a25e95",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1493144286,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "sv-darmstadt-98-vs-hannover-96-1493144286",
-      "title": "SV Darmstadt 98 vs Hannover 96",
-      "status": "2H",
-      "league": {
-        "league_name": "2. Bundesliga",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/79.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "SV Darmstadt 98",
-        "away_name": "Hannover 96",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788089400,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c294a200e33803a742-hd/chunks.m3u8?is_vip=false&token=1788180462-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e89f8cb09e7f8f857c58b1fd8dd91781",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c294a200e33803a742-fhd/chunks.m3u8?is_vip=false&token=1788180463-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d0679dd53db213e561ffaf68f94fa157",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c294a200e33803a742/chunks.m3u8?is_vip=false&token=1788180464-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-76eb82ce3b1121b591a7515cff450c90",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1483871438,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "gent-vs-club-brugge-kv-1483871438",
-      "title": "Gent vs Club Brugge KV",
-      "status": "2H",
-      "league": {
-        "league_name": "Jupiler Pro League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/144.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Gent",
-        "away_name": "Club Brugge KV",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788089400,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ec5/chunks.m3u8?is_vip=false&token=1788180465-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6da99030924475c5b948616223d55e5d",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1788182259-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9c986a43ff4a5ba0191225da514e9fac",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -569,7 +303,180 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ec6/chunks.m3u8?is_vip=false&token=1788180466-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-446729421fe8fff2ee52aa9d22a0b0f6",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ec6/chunks.m3u8?is_vip=false&token=1788182260-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-582cf66f0ab56562c71d58b56241abb5",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1405065504,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "fc-saarbr-cken-vs-hansa-rostock-1405065504",
+      "title": "FC Saarbrücken vs Hansa Rostock",
+      "status": "2H",
+      "league": {
+        "league_name": "3. Liga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/80.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "FC Saarbrücken",
+        "away_name": "Hansa Rostock",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788089400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c23679a78b6ca368fb/chunks.m3u8?is_vip=false&token=1788182262-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-407988d308633ccfb678b70057f4eb02",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1068821885,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "fc-st-pauli-vs-1-fc-kaiserslautern-1068821885",
+      "title": "FC St. Pauli vs 1. FC Kaiserslautern",
+      "status": "2H",
+      "league": {
+        "league_name": "2. Bundesliga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/79.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "FC St. Pauli",
+        "away_name": "1. FC Kaiserslautern",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788089400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c294a200e33803a73e-hd/chunks.m3u8?is_vip=false&token=1788182263-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5977edcf3125b92eb2c1e45e85c2d504",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c294a200e33803a73e/chunks.m3u8?is_vip=false&token=1788182264-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2c0b2ca10c92a81ef17b0ddb02cff419",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1488097017,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "1-fc-magdeburg-vs-holstein-kiel-1488097017",
+      "title": "1. FC Magdeburg vs Holstein Kiel",
+      "status": "2H",
+      "league": {
+        "league_name": "2. Bundesliga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/79.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "1. FC Magdeburg",
+        "away_name": "Holstein Kiel",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788089400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c294a200e33803a745-hd/chunks.m3u8?is_vip=false&token=1788182265-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-30915778587b770ba05fca3de45fc4a0",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c294a200e33803a745/chunks.m3u8?is_vip=false&token=1788182266-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-984a31b58dbdf9f8d279d7578ee460f2",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1493144286,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "sv-darmstadt-98-vs-hannover-96-1493144286",
+      "title": "SV Darmstadt 98 vs Hannover 96",
+      "status": "2H",
+      "league": {
+        "league_name": "2. Bundesliga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/79.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "SV Darmstadt 98",
+        "away_name": "Hannover 96",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788089400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c294a200e33803a742-hd/chunks.m3u8?is_vip=false&token=1788182267-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-27b4d147e634992c78956f133ecd57cf",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c294a200e33803a742/chunks.m3u8?is_vip=false&token=1788182268-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8f93ef238d6a555fbf73014a2a04842a",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1483871438,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "gent-vs-club-brugge-kv-1483871438",
+      "title": "Gent vs Club Brugge KV",
+      "status": "2H",
+      "league": {
+        "league_name": "Jupiler Pro League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/144.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Gent",
+        "away_name": "Club Brugge KV",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788089400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ec5/chunks.m3u8?is_vip=false&token=1788182269-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6163403483af841b0dfa9a834a919917",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -581,7 +488,7 @@
       "sport_id": 1,
       "slug": "rodina-moskva-vs-baltika-1761955736",
       "title": "Rodina Moskva vs Baltika",
-      "status": "1H",
+      "status": "2H",
       "league": {
         "league_name": "Premier League",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/235.png"
@@ -600,7 +507,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ecd/chunks.m3u8?is_vip=false&token=1788180467-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-314651310d8cbb19aa1a1c6b0181a70a",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ecd/chunks.m3u8?is_vip=false&token=1788182270-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7dedec9621ca30916f99dd695760fb9a",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -612,7 +519,7 @@
       "sport_id": 99,
       "slug": "melaka-vs-negeri-sembilan-1295123058",
       "title": "Melaka vs Negeri Sembilan",
-      "status": "1H",
+      "status": "HT",
       "league": {
         "league_name": "Super League",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/278.png"
@@ -631,7 +538,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891eee/chunks.m3u8?is_vip=false&token=1788180468-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-84720bbe4b3ce3e294956822474d969d",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891eee/chunks.m3u8?is_vip=false&token=1788182271-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-15af4ff90c6cc856a1549d15e09f7ecc",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -661,51 +568,8 @@
       },
       "streams": [
         {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891eef-fhd/chunks.m3u8?is_vip=false&token=1788180469-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6311594a94180854165dd672abb646fb",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891eef/chunks.m3u8?is_vip=false&token=1788180470-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ff40bf3c8b71d0beef7c3d57fb173b8b",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1672267165,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "feyenoord-vs-ado-den-haag-1672267165",
-      "title": "Feyenoord vs ADO Den Haag",
-      "status": "1H",
-      "league": {
-        "league_name": "Eredivisie",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/88.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Feyenoord",
-        "away_name": "ADO Den Haag",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788093000,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ef0-fhd/chunks.m3u8?is_vip=false&token=1788180471-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0e77e315e30bf889ae883ecc6567bdb0",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ef0/chunks.m3u8?is_vip=false&token=1788180471-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6ba630239284c6aaf1b7e001c33dbb94",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891eef/chunks.m3u8?is_vip=false&token=1788182272-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ac89040eb7c12c45807cb38cee0bb698",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -736,7 +600,38 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a84f/chunks.m3u8?is_vip=false&token=1788180472-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d5486e4b2cae781c9e51a6530241b284",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a84f/chunks.m3u8?is_vip=false&token=1788182273-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d75bf8803c3c2ef377a443b884fbf097",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1672267165,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "feyenoord-vs-ado-den-haag-1672267165",
+      "title": "Feyenoord vs ADO Den Haag",
+      "status": "1H",
+      "league": {
+        "league_name": "Eredivisie",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/88.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Feyenoord",
+        "away_name": "ADO Den Haag",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788093000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891ef0/chunks.m3u8?is_vip=false&token=1788182275-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0502f9d977e1f52a97d0fd162f4d0098",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -767,7 +662,38 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735720c167105e98891def/chunks.m3u8?is_vip=false&token=1788180473-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1e426da9d35eeb99c3b804124e2fe666",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735720c167105e98891def/chunks.m3u8?is_vip=false&token=1788182276-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d60f2f650923185cd7b947b527c05d64",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1807470445,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "varbergs-bois-fc-vs-oddevold-1807470445",
+      "title": "Varbergs BoIS FC vs Oddevold",
+      "status": "1H",
+      "league": {
+        "league_name": "Superettan",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/114.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Varbergs BoIS FC",
+        "away_name": "Oddevold",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788094800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891f04/chunks.m3u8?is_vip=false&token=1788182277-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e429504817f6532ab28c0795589509d3",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -798,14 +724,107 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1788180474-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-62a3d9b50a225374d18010e935ec9c12",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1788182278-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d3e3972deb676d089232efc98972ceb9",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1815283587,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "avs-vs-feirense-1815283587",
+      "title": "AVS vs Feirense",
+      "status": "1H",
+      "league": {
+        "league_name": "Segunda Liga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/95.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "AVS",
+        "away_name": "Feirense",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788094800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891f4e/chunks.m3u8?is_vip=false&token=1788182279-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fe9385307ffb3b7028e54de5d1648d8c",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1302574664,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "farul-constanta-vs-fc-botosani-1302574664",
+      "title": "Farul Constanta vs FC Botosani",
+      "status": "1H",
+      "league": {
+        "league_name": "Liga I",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/283.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Farul Constanta",
+        "away_name": "FC Botosani",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788094800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735720325d218e1412efa6/chunks.m3u8?is_vip=false&token=1788182281-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9df3fb6e6fda938f020d5dfef6915df4",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1471057217,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "fc-dnepr-mogilev-vs-fc-isloch-minsk-r-1471057217",
+      "title": "FC Dnepr Mogilev vs FC Isloch Minsk R.",
+      "status": "1H",
+      "league": {
+        "league_name": "Premier League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/116.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "FC Dnepr Mogilev",
+        "away_name": "FC Isloch Minsk R.",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788094800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c33679a78b6ca36a11/chunks.m3u8?is_vip=false&token=1788182282-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-548ee8f41b273be6a706b7ca70cddfa1",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 163,
+  "total_upcoming_matches": 162,
   "upcoming_matches": [
     {
       "match_id": 1153447227,
@@ -851,30 +870,6 @@
       "timing": {
         "start_time_timestamp": 1788118200,
         "start_time_local": "30 Aug 2026, 07:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1576543166,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "sc-freiburg-vs-werder-bremen-1576543166",
-      "title": "SC Freiburg vs Werder Bremen",
-      "status": "NS",
-      "league": {
-        "league_name": "Bundesliga",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/78.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "SC Freiburg",
-        "away_name": "Werder Bremen",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788096600,
-        "start_time_local": "30 Aug 2026, 01:30 PM",
         "countdown_seconds": null
       },
       "streams": []
