@@ -448,7 +448,9 @@ function transformMatch(m) {
     teams: {
       home_name: home || "Unknown",
       away_name: away || "Unknown",
-      combined_logo: DEFAULT_LOGO,
+      // combined_logo ab league_logo se pick hota hai (agar available ho),
+      // warna DEFAULT_LOGO fallback ke tor par use hota hai
+      combined_logo: m.league_logo || DEFAULT_LOGO,
     },
     timing: buildTiming(isLive, m.start_at), // <- start_at
     streams: Array.isArray(m.link_live)
