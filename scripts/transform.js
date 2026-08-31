@@ -250,7 +250,7 @@ const LEAGUE_KEYWORDS = [
   ["a-league", "football"],
   ["brasileirao", "football"],
   ["liga mx", "football"],
-  ["mls", "football"],
+  //["mls", "football"],
   ["copa america", "football"],
   ["afcon", "football"],
   ["concacaf", "football"],
