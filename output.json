@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2:47:23 PM 31-08-2026"
+    "last_update_time": "3:02:29 PM 31-08-2026"
   },
   "live_matches": [
     {
@@ -28,20 +28,150 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74a89c348486924675213c-backup/chunks.m3u8?is_vip=false&token=1788252444-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-196a50219a5883e2cff1784f8ad4006e",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74a89c348486924675213c-backup/chunks.m3u8?is_vip=false&token=1788253350-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-74ab014ed15997c573e79ec8b5f4a24f",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74a89c348486924675213c/chunks.m3u8?is_vip=false&token=1788252446-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4f37c3a87892075147bf7388c0654536",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74a89c348486924675213c/chunks.m3u8?is_vip=false&token=1788253351-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dffb573013aff27311644edb13515af8",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1743080237,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "chinese-taipei-u20-vs-macau-u20-1743080237",
+      "title": "Chinese Taipei U20 vs Macau U20",
+      "status": "1H",
+      "league": {
+        "league_name": "AFC U20 Asian Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Chinese Taipei U20",
+        "away_name": "Macau U20",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788166800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74a89c3484869246752134-backup/chunks.m3u8?is_vip=false&token=1788253352-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cdd9027082af1b4cbb83b17fda427a67",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74a89c3484869246752134/chunks.m3u8?is_vip=false&token=1788253353-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e90a7ef31ab9cf9eae0afcd4db79cee8",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1128276840,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "iran-u20-vs-palestine-u20-1128276840",
+      "title": "Iran U20 vs Palestine U20",
+      "status": "1H",
+      "league": {
+        "league_name": "AFC U20 Asian Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Iran U20",
+        "away_name": "Palestine U20",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788166800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74a89c3484869246752142/chunks.m3u8?is_vip=false&token=1788253355-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a756f9b0a55dd50cf481590717f2111c",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1463470723,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "japan-u20-vs-kuwait-u20-1463470723",
+      "title": "Japan U20 vs Kuwait U20",
+      "status": "1H",
+      "league": {
+        "league_name": "AFC U20 Asian Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Japan U20",
+        "away_name": "Kuwait U20",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788166800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74a89c348486924675213a-backup/chunks.m3u8?is_vip=false&token=1788253357-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5abc8119fc5d334f1d1d2806e710d432",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1472547010,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "indonesia-u20-vs-malaysia-u20-1472547010",
+      "title": "Indonesia U20 vs Malaysia U20",
+      "status": "1H",
+      "league": {
+        "league_name": "AFC U20 Asian Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Indonesia U20",
+        "away_name": "Malaysia U20",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788166800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74a89c3484869246752137/chunks.m3u8?is_vip=false&token=1788253359-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-19d10d4b43b5cd3e5080b723463a67a1",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 61,
+  "total_upcoming_matches": 64,
   "upcoming_matches": [
     {
       "match_id": 1577408609,
@@ -164,21 +294,21 @@
       "streams": []
     },
     {
-      "match_id": 1896629485,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "england-vs-pakistan-1896629485",
-      "title": "England vs Pakistan",
+      "match_id": 1770129819,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "lebanon-u20-vs-korea-republic-u20-1770129819",
+      "title": "Lebanon U20 vs Korea Republic U20",
       "status": "NS",
       "league": {
-        "league_name": "2nd Test",
-        "league_logo": ""
+        "league_name": "AFC U20 Asian Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "England",
-        "away_name": "Pakistan",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+        "home_name": "Lebanon U20",
+        "away_name": "Korea Republic U20",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
       },
       "timing": {
         "start_time_timestamp": 1788170400,
@@ -188,25 +318,25 @@
       "streams": []
     },
     {
-      "match_id": 1447386279,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "knight-riders-vs-warriors-1447386279",
-      "title": "Knight Riders vs Warriors",
+      "match_id": 1638390583,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "syria-u20-vs-india-u20-1638390583",
+      "title": "Syria U20 vs India U20",
       "status": "NS",
       "league": {
-        "league_name": "CPL",
-        "league_logo": ""
+        "league_name": "AFC U20 Asian Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Knight Riders",
-        "away_name": "Warriors",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+        "home_name": "Syria U20",
+        "away_name": "India U20",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
       },
       "timing": {
-        "start_time_timestamp": 1788210000,
-        "start_time_local": "31 Aug 2026, 09:00 PM",
+        "start_time_timestamp": 1788174000,
+        "start_time_local": "31 Aug 2026, 11:00 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -327,6 +457,54 @@
       "timing": {
         "start_time_timestamp": 1788177600,
         "start_time_local": "31 Aug 2026, 12:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1649656873,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "vietnam-u20-vs-korea-dpr-u20-1649656873",
+      "title": "Vietnam U20 vs Korea DPR U20",
+      "status": "NS",
+      "league": {
+        "league_name": "AFC U20 Asian Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Vietnam U20",
+        "away_name": "Korea DPR U20",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788177600,
+        "start_time_local": "31 Aug 2026, 12:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1543150190,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "thailand-u20-vs-uae-u20-1543150190",
+      "title": "Thailand U20 vs UAE U20",
+      "status": "NS",
+      "league": {
+        "league_name": "AFC U20 Asian Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Thailand U20",
+        "away_name": "UAE U20",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788179400,
+        "start_time_local": "31 Aug 2026, 12:30 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -539,30 +717,6 @@
         "home_name": "Jong PSV U21",
         "away_name": "Jong Ajax",
         "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/89.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788199200,
-        "start_time_local": "31 Aug 2026, 06:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1122063233,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "sabadell-vs-inter-club-d-escaldes-1122063233",
-      "title": "Sabadell vs Inter Club d'Escaldes",
-      "status": "NS",
-      "league": {
-        "league_name": "Friendlies Clubs",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/667.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Sabadell",
-        "away_name": "Inter Club d'Escaldes",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/667.png"
       },
       "timing": {
         "start_time_timestamp": 1788199200,
@@ -1191,6 +1345,54 @@
       "timing": {
         "start_time_timestamp": 1788224760,
         "start_time_local": "01 Sep 2026, 01:06 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1896629485,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "england-vs-pakistan-1896629485",
+      "title": "England vs Pakistan",
+      "status": "NS",
+      "league": {
+        "league_name": "2nd Test",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "England",
+        "away_name": "Pakistan",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788170400,
+        "start_time_local": "31 Aug 2026, 10:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1447386279,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "knight-riders-vs-warriors-1447386279",
+      "title": "Knight Riders vs Warriors",
+      "status": "NS",
+      "league": {
+        "league_name": "CPL",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Knight Riders",
+        "away_name": "Warriors",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788210000,
+        "start_time_local": "31 Aug 2026, 09:00 PM",
         "countdown_seconds": null
       },
       "streams": []
