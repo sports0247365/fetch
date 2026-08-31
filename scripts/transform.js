@@ -475,9 +475,6 @@ function transformPlaylist(data) {
 
   return {
     playlist_info: {
-      name: info.name || null,
-      telegram: info.telegram || null,
-      owner: info.owner || null,
       last_update_time: info.last_update_time || null,
     },
     live_matches: liveMatches,
