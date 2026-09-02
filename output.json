@@ -1,9 +1,41 @@
 {
   "playlist_info": {
-    "last_update_time": "2:47:25 PM 02-09-2026"
+    "last_update_time": "3:02:27 PM 02-09-2026"
   },
-  "live_matches": [],
-  "total_upcoming_matches": 95,
+  "live_matches": [
+    {
+      "match_id": 1549809535,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "guardians-vs-dockers-1549809535",
+      "title": "Guardians vs Dockers",
+      "status": "LIVE",
+      "league": {
+        "league_name": "ETPL",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Guardians",
+        "away_name": "Dockers",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788341400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1788426155-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-50888589ab28581bbe68dbc11217424e",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    }
+  ],
+  "total_upcoming_matches": 91,
   "upcoming_matches": [
     {
       "match_id": 1300239271,
@@ -73,102 +105,6 @@
       "timing": {
         "start_time_timestamp": 1788374700,
         "start_time_local": "02 Sep 2026, 06:45 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1055975645,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "sagamihara-vs-jubilo-iwata-1055975645",
-      "title": "Sagamihara vs Jubilo Iwata",
-      "status": "NS",
-      "league": {
-        "league_name": "J-League Cup",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/101.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Sagamihara",
-        "away_name": "Jubilo Iwata",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/101.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788341400,
-        "start_time_local": "02 Sep 2026, 09:30 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1409933312,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "vanraure-hachinohe-vs-tochigi-city-1409933312",
-      "title": "Vanraure Hachinohe vs Tochigi City",
-      "status": "NS",
-      "league": {
-        "league_name": "J-League Cup",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/101.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Vanraure Hachinohe",
-        "away_name": "Tochigi City",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/101.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788341400,
-        "start_time_local": "02 Sep 2026, 09:30 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1431546211,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "marconi-stallions-vs-nws-spirit-1431546211",
-      "title": "Marconi Stallions vs NWS Spirit",
-      "status": "NS",
-      "league": {
-        "league_name": "New South Wales NPL",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/192.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Marconi Stallions",
-        "away_name": "NWS Spirit",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/192.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788341400,
-        "start_time_local": "02 Sep 2026, 09:30 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1437432978,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "sutherland-sharks-vs-manly-united-1437432978",
-      "title": "Sutherland Sharks vs Manly United",
-      "status": "NS",
-      "league": {
-        "league_name": "New South Wales NPL",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/192.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Sutherland Sharks",
-        "away_name": "Manly United",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/192.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788341400,
-        "start_time_local": "02 Sep 2026, 09:30 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -1758,25 +1694,25 @@
       "streams": []
     },
     {
-      "match_id": 1549809535,
+      "match_id": 1143951420,
       "sport_name": "Other",
       "sport_id": 99,
-      "slug": "guardians-vs-dockers-1549809535",
-      "title": "Guardians vs Dockers",
+      "slug": "uae-u20-vs-iraq-u20-1143951420",
+      "title": "UAE U20 vs Iraq U20",
       "status": "NS",
       "league": {
-        "league_name": "ETPL",
-        "league_logo": ""
+        "league_name": "AFC U20 Asian Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Guardians",
-        "away_name": "Dockers",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+        "home_name": "UAE U20",
+        "away_name": "Iraq U20",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
       },
       "timing": {
-        "start_time_timestamp": 1788341400,
-        "start_time_local": "02 Sep 2026, 09:30 AM",
+        "start_time_timestamp": 1788424200,
+        "start_time_local": "03 Sep 2026, 08:30 AM",
         "countdown_seconds": null
       },
       "streams": []
