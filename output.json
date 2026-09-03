@@ -1,58 +1,15 @@
 {
   "playlist_info": {
-    "last_update_time": "11:47:25 AM 03-09-2026"
+    "last_update_time": "12:02:24 PM 03-09-2026"
   },
   "live_matches": [
-    {
-      "match_id": 1022146525,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "club-america-vs-monterrey-1022146525",
-      "title": "Club America vs Monterrey",
-      "status": "P",
-      "league": {
-        "league_name": "Leagues Cup",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/772.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Club America",
-        "away_name": "Monterrey",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/772.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788406200,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90905ee4f896100fc85432-hd/chunks.m3u8?is_vip=false&token=1788500845-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-da0ebb6fd92f1876558eaf99b6473ad9",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90905ee4f896100fc85432-backup/chunks.m3u8?is_vip=false&token=1788500846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-37ee14d5f164db9b6ff530b451b7c9ef",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90905ee4f896100fc85432/chunks.m3u8?is_vip=false&token=1788500847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f84ec646ad05648847d3ce2c2b20c2ad",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
     {
       "match_id": 1860381951,
       "sport_name": "Other",
       "sport_id": 99,
       "slug": "guam-u20-vs-northern-mariana-islands-u20-1860381951",
       "title": "Guam U20 vs Northern Mariana Islands U20",
-      "status": "1H",
+      "status": "HT",
       "league": {
         "league_name": "AFC U20 Asian Cup",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
@@ -71,20 +28,20 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991a5-backup/chunks.m3u8?is_vip=false&token=1788500848-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ca2daac767c30056f2d495086d7c2ce2",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991a5-backup/chunks.m3u8?is_vip=false&token=1788501745-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-484dc012929fb403fd8886afa831f9dc",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991a5/chunks.m3u8?is_vip=false&token=1788500849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e860585ef33ab58313f97310581ecb5f",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991a5/chunks.m3u8?is_vip=false&token=1788501746-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-037b1f3d0d4832c800483e57f32ac4ba",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 57,
+  "total_upcoming_matches": 58,
   "upcoming_matches": [
     {
       "match_id": 1549766116,
@@ -634,6 +591,30 @@
       "timing": {
         "start_time_timestamp": 1788444000,
         "start_time_local": "03 Sep 2026, 02:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1374451146,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "kyrgyz-republic-u20-vs-lebanon-u20-1374451146",
+      "title": "Kyrgyz Republic U20 vs Lebanon U20",
+      "status": "NS",
+      "league": {
+        "league_name": "AFC U20 Asian Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Kyrgyz Republic U20",
+        "away_name": "Lebanon U20",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788445800,
+        "start_time_local": "03 Sep 2026, 02:30 PM",
         "countdown_seconds": null
       },
       "streams": []
