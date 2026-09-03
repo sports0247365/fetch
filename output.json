@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2:32:24 PM 03-09-2026"
+    "last_update_time": "2:47:23 PM 03-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1788510746-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d87ac674a718f01f23b1ea7588193cfb",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1788511644-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-36424a6b01a8d5d4d4020ed0d0304d71",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,20 +59,20 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991aa-backup/chunks.m3u8?is_vip=false&token=1788510747-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0179604baaf6ab07730521280d79dfab",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991aa-backup/chunks.m3u8?is_vip=false&token=1788511646-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-63b296a177519e8dcce39262e6a825d0",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991aa/chunks.m3u8?is_vip=false&token=1788510749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d3df145ed55b42e2febc7886c845d780",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991aa/chunks.m3u8?is_vip=false&token=1788511647-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7adfeacc6cf14a89218132ca7a37db85",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 55,
+  "total_upcoming_matches": 56,
   "upcoming_matches": [
     {
       "match_id": 1549766116,
@@ -1126,6 +1126,30 @@
       "timing": {
         "start_time_timestamp": 1788436800,
         "start_time_local": "03 Sep 2026, 12:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1306590169,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "british-open-quarto-turno-1306590169",
+      "title": "British Open: Quarto turno",
+      "status": "NS",
+      "league": {
+        "league_name": "World Snooker Tour",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788458400,
+        "start_time_local": "03 Sep 2026, 06:00 PM",
         "countdown_seconds": null
       },
       "streams": []
