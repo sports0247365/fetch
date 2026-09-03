@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "10:47:26 AM 03-09-2026"
+    "last_update_time": "11:02:27 AM 03-09-2026"
   },
   "live_matches": [
     {
@@ -9,7 +9,7 @@
       "sport_id": 99,
       "slug": "club-america-vs-monterrey-1022146525",
       "title": "Club America vs Monterrey",
-      "status": "HT",
+      "status": "2H",
       "league": {
         "league_name": "Leagues Cup",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/772.png"
@@ -28,19 +28,50 @@
       "streams": [
         {
           "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90905ee4f896100fc85432-hd/chunks.m3u8?is_vip=false&token=1788497247-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-38d92b73f770736b25309c5ffb26e0aa",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90905ee4f896100fc85432-hd/chunks.m3u8?is_vip=false&token=1788498148-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f4d37d52a0ea3db289d3647d20651d32",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90905ee4f896100fc85432-backup/chunks.m3u8?is_vip=false&token=1788497248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-393fe87619cddd393196a40a5592a2b4",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90905ee4f896100fc85432-backup/chunks.m3u8?is_vip=false&token=1788498149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a4f6234dadc29ecacdf7f351a5537f9e",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90905ee4f896100fc85432/chunks.m3u8?is_vip=false&token=1788497249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1c3de9b3c21ab3d1c3651222ca1aa8e6",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90905ee4f896100fc85432/chunks.m3u8?is_vip=false&token=1788498150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e2f2ef90cf37bf91519c426aeef1683f",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1860381951,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "guam-u20-vs-northern-mariana-islands-u20-1860381951",
+      "title": "Guam U20 vs Northern Mariana Islands U20",
+      "status": "LIVE",
+      "league": {
+        "league_name": "AFC U20 Asian Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Guam U20",
+        "away_name": "Northern Mariana Islands U20",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788411600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991a5-backup/chunks.m3u8?is_vip=false&token=1788498151-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9674488596ad866f1010fa1c3f1001b9",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
