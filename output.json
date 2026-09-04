@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2:47:21 PM 04-09-2026"
+    "last_update_time": "3:03:03 PM 04-09-2026"
   },
   "live_matches": [
     {
@@ -28,45 +28,82 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1788597148-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4edf2277363923c4e87c6236c500cf88",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1788598984-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ac77fff7043b5744996ec94f83835d14",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1600620123,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "monza-italy-1600620123",
-      "title": "Monza, Italy",
-      "status": "LIVE",
+      "match_id": 1326017762,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "arema-fc-vs-adhyaksa-1326017762",
+      "title": "Arema FC vs Adhyaksa",
+      "status": "1H",
       "league": {
-        "league_name": "FIA Formula 2 Championship Practice",
-        "league_logo": ""
+        "league_name": "Liga 1",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/274.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+        "home_name": "Arema FC",
+        "away_name": "Adhyaksa",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/274.png"
       },
       "timing": {
-        "start_time_timestamp": 1788508800,
+        "start_time_timestamp": 1788510600,
         "start_time_local": "Live Now",
         "countdown_seconds": null
       },
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788597150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f8e65b902fd216b9b46f89ecdf967b17",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7efc50bcbb3676e9c0b29f-backup/chunks.m3u8?is_vip=false&token=1788598986-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b0b67475742b258814ea742e6bc863fe",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7efc50bcbb3676e9c0b29f/chunks.m3u8?is_vip=false&token=1788598988-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fc52b42e8912ad8d7b9baa221ebe743b",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1119774691,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "lecce-u20-vs-roma-u20-1119774691",
+      "title": "Lecce U20 vs Roma U20",
+      "status": "1H",
+      "league": {
+        "league_name": "Campionato Primavera - 1",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/705.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Lecce U20",
+        "away_name": "Roma U20",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/705.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788512400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb34777/chunks.m3u8?is_vip=false&token=1788598989-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8dd364232d6b8973637db5749a5025b7",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 125,
+  "total_upcoming_matches": 129,
   "upcoming_matches": [
     {
       "match_id": 1249442233,
@@ -2320,6 +2357,102 @@
       "timing": {
         "start_time_timestamp": 1788591600,
         "start_time_local": "05 Sep 2026, 07:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1361829819,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "bhayangkara-fc-vs-persebaya-surabaya-1361829819",
+      "title": "Bhayangkara FC vs Persebaya Surabaya",
+      "status": "NS",
+      "league": {
+        "league_name": "Liga 1",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/274.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Bhayangkara FC",
+        "away_name": "Persebaya Surabaya",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/274.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788597000,
+        "start_time_local": "05 Sep 2026, 08:30 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1708899187,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "persik-kediri-vs-dewa-united-1708899187",
+      "title": "Persik Kediri vs Dewa United",
+      "status": "NS",
+      "league": {
+        "league_name": "Liga 1",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/274.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Persik Kediri",
+        "away_name": "Dewa United",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/274.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788597000,
+        "start_time_local": "05 Sep 2026, 08:30 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1511425326,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "psim-yogyakarta-vs-persita-1511425326",
+      "title": "PSIM Yogyakarta vs Persita",
+      "status": "NS",
+      "league": {
+        "league_name": "Liga 1",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/274.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "PSIM Yogyakarta",
+        "away_name": "Persita",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/274.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788597000,
+        "start_time_local": "05 Sep 2026, 08:30 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1195786823,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "northern-tigers-vs-st-george-saints-1195786823",
+      "title": "Northern Tigers vs St. George Saints",
+      "status": "NS",
+      "league": {
+        "league_name": "New South Wales NPL",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/192.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Northern Tigers",
+        "away_name": "St. George Saints",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/192.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788597000,
+        "start_time_local": "05 Sep 2026, 08:30 AM",
         "countdown_seconds": null
       },
       "streams": []
