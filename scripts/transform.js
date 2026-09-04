@@ -75,6 +75,7 @@ const LEAGUE_KEYWORDS = [
   ["sheffield shield", "cricket"],
   ["asia cup", "cricket"],
   ["cricket", "cricket"],
+  ["Super League", "cricket"],
 
   // Table Tennis (specific before "tennis")
   ["table tennis", "table tennis"],
@@ -250,7 +251,7 @@ const LEAGUE_KEYWORDS = [
   ["a-league", "football"],
   ["brasileirao", "football"],
   ["liga mx", "football"],
-  //["mls", "football"],
+  ["mls", "football"],
   ["copa america", "football"],
   ["afcon", "football"],
   ["concacaf", "football"],
@@ -258,6 +259,22 @@ const LEAGUE_KEYWORDS = [
   ["caf champions league", "football"],
   ["friendlies", "football"],
   ["euro", "football"],
+  ["Superettan", "football"],
+  ["Liga", "football"],
+  ["Major League Soccer", "football"],
+  ["NWSL", "football"],
+  ["Eerste Divisie", "football"],
+  ["Ligue", "football"],
+  ["FA WSL", "football"],
+  ["FA Cup", "football"],
+  ["Süper Lig", "football"],
+  ["Primera División", "football"],
+  ["Western Australia NPL", "football"],
+  ["Thai League 1", "football"],
+  ["Pro League", "football"],
+  ["First League", "football"],
+  ["Liga 1", "football"],
+  ["Campionato Primavera", "football"],
   ["world cup", "football"], // note: "rugby world cup" upar rugby se pehle match ho chuka hoga
 ];
 
