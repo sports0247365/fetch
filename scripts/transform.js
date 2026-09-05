@@ -75,6 +75,7 @@ const LEAGUE_KEYWORDS = [
   ["sheffield shield", "cricket"],
   ["asia cup", "cricket"],
   ["cricket", "cricket"],
+  ["ETPL", "cricket"],
   ["Super League", "cricket"],
 
   // Table Tennis (specific before "tennis")
@@ -265,6 +266,7 @@ const LEAGUE_KEYWORDS = [
   ["NWSL", "football"],
   ["Eerste Divisie", "football"],
   ["Ligue", "football"],
+  ["Championship", "football"],
   ["FA WSL", "football"],
   ["FA Cup", "football"],
   ["Süper Lig", "football"],
