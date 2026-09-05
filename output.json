@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "5:17:24 AM 06-09-2026"
+    "last_update_time": "5:02:23 AM 06-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,38 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788736645-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0a5e892c24cfd9274caf243c53282d7d",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788735744-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d922928b9a904b5fa8449d26aae7bbb9",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1173250861,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "san-francisco-giants-vs-new-york-mets-1173250861",
+      "title": "San Francisco Giants vs New York Mets",
+      "status": "LIVE",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "San Francisco Giants",
+        "away_name": "New York Mets",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788639000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1788735745-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1dcb694b26bdb96132d3b95182e2a7eb",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,75 +90,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1788736646-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-083c5f12bbd29551a433d6819b9bef7d",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1781035968,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "everton-de-vina-vs-u-catolica-1781035968",
-      "title": "Everton de Vina vs U. Catolica",
-      "status": "2H",
-      "league": {
-        "league_name": "Primera División",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/265.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Everton de Vina",
-        "away_name": "U. Catolica",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/265.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788643800,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6851e-backup/chunks.m3u8?is_vip=false&token=1788736647-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-af31af71f841e3c7bb73626a8fd298bb",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6851e/chunks.m3u8?is_vip=false&token=1788736648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-380e58b0da0c4ce6728e4def62506460",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1629495949,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "ceara-vs-sport-recife-1629495949",
-      "title": "Ceara vs Sport Recife",
-      "status": "2H",
-      "league": {
-        "league_name": "Serie B",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/72.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Ceara",
-        "away_name": "Sport Recife",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/72.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788643800,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7bd9-backup/chunks.m3u8?is_vip=false&token=1788736649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-69088e4bb53403ab2d54763d10b573e1",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1788735746-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-91991e04c57829dec823a18377093cf7",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -158,19 +121,19 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68510-fhd/chunks.m3u8?is_vip=false&token=1788736650-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6c82135623d504c1b22ae6c7433fc640",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68510-fhd/chunks.m3u8?is_vip=false&token=1788735749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-acf565bd68cbf48f985d63261ec792fa",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68510-backup/chunks.m3u8?is_vip=false&token=1788736651-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cff3372989b366b55cd9f15b9ae9f73f",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68510-backup/chunks.m3u8?is_vip=false&token=1788735749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-487bf4d384415d63a5c6309ae16dc927",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68510/chunks.m3u8?is_vip=false&token=1788736652-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4420582b61ce9077111138ed9daf9c36",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68510/chunks.m3u8?is_vip=false&token=1788735750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9dd38f029585a7ecab92606de9bd776e",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -201,13 +164,87 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a934f7693add94b378851f8-backup/chunks.m3u8?is_vip=false&token=1788736653-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5a1e1f7d47ae277f3d0f2df92ed78f99",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a934f7693add94b378851f8-backup/chunks.m3u8?is_vip=false&token=1788735751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-24c3fa1002a58786a38bef985d43a258",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a934f7693add94b378851f8/chunks.m3u8?is_vip=false&token=1788736653-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf929c8e991ae346c2951faaaf255fc1",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a934f7693add94b378851f8/chunks.m3u8?is_vip=false&token=1788735752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-16ffd3763dd8f0967a6bcd3221f3dc45",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1629495949,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "ceara-vs-sport-recife-1629495949",
+      "title": "Ceara vs Sport Recife",
+      "status": "2H",
+      "league": {
+        "league_name": "Serie B",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/72.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Ceara",
+        "away_name": "Sport Recife",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/72.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788643800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7bd9-backup/chunks.m3u8?is_vip=false&token=1788735753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2e7a776780d08d34d3fff8318995950b",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7bd9/chunks.m3u8?is_vip=false&token=1788735753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-249b6c0fa411899cd9682c33966bbfbc",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1781035968,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "everton-de-vina-vs-u-catolica-1781035968",
+      "title": "Everton de Vina vs U. Catolica",
+      "status": "2H",
+      "league": {
+        "league_name": "Primera División",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/265.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Everton de Vina",
+        "away_name": "U. Catolica",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/265.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788643800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6851e-backup/chunks.m3u8?is_vip=false&token=1788735754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e2734eba6eb8929cb107a4bd5cccb322",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6851e/chunks.m3u8?is_vip=false&token=1788735755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d55ae59a24543942c19eefbab20b9143",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -219,7 +256,7 @@
       "sport_id": 1,
       "slug": "san-lorenzo-vs-talleres-cordoba-1471040593",
       "title": "San Lorenzo vs Talleres Cordoba",
-      "status": "2H",
+      "status": "HT",
       "league": {
         "league_name": "Liga Profesional Argentina",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/128.png"
@@ -238,13 +275,19 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68501-backup/chunks.m3u8?is_vip=false&token=1788736655-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-df6a469012cbd2c6fd72f7e17284a3dd",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68501-fhd/chunks.m3u8?is_vip=false&token=1788735756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-962b5b3ad2dfc19725f644c8d83e0bad",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68501-backup/chunks.m3u8?is_vip=false&token=1788735757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-513d6af4661d751aec77be05b22964e8",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68501/chunks.m3u8?is_vip=false&token=1788736655-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-abad925db641b16029ec2fbfd0f5798d",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68501/chunks.m3u8?is_vip=false&token=1788735758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7eefa16e8041afcf3c8a36fe2eb7d389",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -275,7 +318,7 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1788736656-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-261766bc2215edd4b826ac1aa2b4ce16",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1788735760-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-417c344568d05774bdd359240969021f",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -306,13 +349,13 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e174-backup/chunks.m3u8?is_vip=false&token=1788736657-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-130d53b3f2d6ea2d453fd822f2d9bb26",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e174-backup/chunks.m3u8?is_vip=false&token=1788735761-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-afb2d600c2b9478694d14c360d7b3dac",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e174/chunks.m3u8?is_vip=false&token=1788736658-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8651a37e17d523fa2fefd987e57732d7",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e174/chunks.m3u8?is_vip=false&token=1788735762-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-55a983bb8ad7f1d37b4e301f78a25c41",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -343,7 +386,7 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788736659-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d9b9be99387ceb5d7c6cb7ec7eefded6",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788735763-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3cdd7d9860541af4fe0e5ddba0a23607",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -374,7 +417,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1788736660-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ec05bdfd95ba2dbb0006ea612e5e7815",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1788735764-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c62420238956bad9c40046f9295dbfab",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -405,28 +448,28 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1788736661-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b5f3f8f0aba5195f0f2f23250f19ba36",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1788735765-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-919580f0a7cf0f8477c2475c63cdecc2",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1577586782,
+      "match_id": 1462019808,
       "sport_name": "Football",
       "sport_id": 1,
-      "slug": "necaxa-w-vs-atl-tico-san-luis-w-1577586782",
-      "title": "Necaxa W vs Atlético San Luis W",
-      "status": "1H",
+      "slug": "chattanooga-red-wolves-vs-greenville-triumph-1462019808",
+      "title": "Chattanooga Red Wolves vs Greenville Triumph",
+      "status": "LIVE",
       "league": {
-        "league_name": "Liga MX Femenil",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/673.png"
+        "league_name": "USL League One",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/489.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Necaxa W",
-        "away_name": "Atlético San Luis W",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/673.png"
+        "home_name": "Chattanooga Red Wolves",
+        "away_name": "Greenville Triumph",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/489.png"
       },
       "timing": {
         "start_time_timestamp": 1788649200,
@@ -434,157 +477,9 @@
         "countdown_seconds": null
       },
       "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e17b-backup/chunks.m3u8?is_vip=false&token=1788736663-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-872c71fe4fb12306d1bc3c059beb0cfe",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e17b/chunks.m3u8?is_vip=false&token=1788736663-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d51f05fe1127eade6c2927359d9376cd",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1751201820,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "atletico-san-luis-vs-guadalajara-chivas-1751201820",
-      "title": "Atletico San Luis vs Guadalajara Chivas",
-      "status": "1H",
-      "league": {
-        "league_name": "Liga MX",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/262.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Atletico San Luis",
-        "away_name": "Guadalajara Chivas",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/262.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788649200,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e176-backup/chunks.m3u8?is_vip=false&token=1788736665-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-52e491e77bb0e2de2dca7d7eb98948c9",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e176/chunks.m3u8?is_vip=false&token=1788736665-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-09e40615f0618efaa9cb4e008786433d",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1878268893,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "sporting-jax-vs-lexington-1878268893",
-      "title": "Sporting JAX vs Lexington",
-      "status": "1H",
-      "league": {
-        "league_name": "USL Championship",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/255.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Sporting JAX",
-        "away_name": "Lexington",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/255.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788649200,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e179-backup/chunks.m3u8?is_vip=false&token=1788736666-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2dafef3695ad35064b79b29cc886a34b",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e179/chunks.m3u8?is_vip=false&token=1788736667-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-309193e8b030d8e21ad9a9de2bd2b204",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1045295901,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "cusco-vs-ucv-moquegua-1045295901",
-      "title": "Cusco vs UCV Moquegua",
-      "status": "1H",
-      "league": {
-        "league_name": "Primera División",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/281.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Cusco",
-        "away_name": "UCV Moquegua",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/281.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788649200,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e148-backup/chunks.m3u8?is_vip=false&token=1788736668-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-04ab6c08736998641be61f19d3c0e803",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1617795414,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "indy-eleven-vs-birmingham-legion-1617795414",
-      "title": "Indy Eleven vs Birmingham Legion",
-      "status": "1H",
-      "league": {
-        "league_name": "USL Championship",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/255.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Indy Eleven",
-        "away_name": "Birmingham Legion",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/255.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788649200,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e177-backup/chunks.m3u8?is_vip=false&token=1788736669-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f31e62ee540b4cb4941e555e84c231c2",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e177/chunks.m3u8?is_vip=false&token=1788736670-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ff12527da029c7f45c1f76aa18f0d82a",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e16e/chunks.m3u8?is_vip=false&token=1788735766-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d1b4f0b52fd39be017395f769a990f8c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -596,7 +491,7 @@
       "sport_id": 1,
       "slug": "forge-vs-york-united-1755186255",
       "title": "Forge vs York United",
-      "status": "1H",
+      "status": "LIVE",
       "league": {
         "league_name": "Canadian Premier League",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/479.png"
@@ -615,7 +510,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e17c-backup/chunks.m3u8?is_vip=false&token=1788736671-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1df17624c03f168772457103e5ef82f1",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e17c-backup/chunks.m3u8?is_vip=false&token=1788735767-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4270c919ed4ca1adacedcf671be06626",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -627,7 +522,7 @@
       "sport_id": 1,
       "slug": "detroit-city-vs-hartford-athletic-1209806686",
       "title": "Detroit City vs Hartford Athletic",
-      "status": "1H",
+      "status": "LIVE",
       "league": {
         "league_name": "USL Championship",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/255.png"
@@ -645,35 +540,29 @@
       },
       "streams": [
         {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e17a-backup/chunks.m3u8?is_vip=false&token=1788736672-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2c4a88f74bcb28e66b74d7524cdcd9aa",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e17a/chunks.m3u8?is_vip=false&token=1788736673-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-18cfb8d0d58e0fcfe8b3a2d00c8ce6e9",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e17a/chunks.m3u8?is_vip=false&token=1788735769-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cd44fbf79c4913557b76fb885c9743c1",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1462019808,
+      "match_id": 1045295901,
       "sport_name": "Football",
       "sport_id": 1,
-      "slug": "chattanooga-red-wolves-vs-greenville-triumph-1462019808",
-      "title": "Chattanooga Red Wolves vs Greenville Triumph",
-      "status": "1H",
+      "slug": "cusco-vs-ucv-moquegua-1045295901",
+      "title": "Cusco vs UCV Moquegua",
+      "status": "LIVE",
       "league": {
-        "league_name": "USL League One",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/489.png"
+        "league_name": "Primera División",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/281.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Chattanooga Red Wolves",
-        "away_name": "Greenville Triumph",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/489.png"
+        "home_name": "Cusco",
+        "away_name": "UCV Moquegua",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/281.png"
       },
       "timing": {
         "start_time_timestamp": 1788649200,
@@ -683,13 +572,186 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e16e-backup/chunks.m3u8?is_vip=false&token=1788736674-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-537b310ca8f1466e1c4ed67fbc0aac19",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e148-backup/chunks.m3u8?is_vip=false&token=1788735770-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-28bec06a0885ce81d813d7d42fe7a34d",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1617795414,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "indy-eleven-vs-birmingham-legion-1617795414",
+      "title": "Indy Eleven vs Birmingham Legion",
+      "status": "LIVE",
+      "league": {
+        "league_name": "USL Championship",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/255.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Indy Eleven",
+        "away_name": "Birmingham Legion",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/255.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788649200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e177-backup/chunks.m3u8?is_vip=false&token=1788735771-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e8762a6d66eb65e52bc1b23db961b2f6",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e16e/chunks.m3u8?is_vip=false&token=1788736675-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d23525b23e028ea20e15686f7a16c358",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e177/chunks.m3u8?is_vip=false&token=1788735772-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8ddb056643a47a94af07c3a8c9225bb2",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1751201820,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "atletico-san-luis-vs-guadalajara-chivas-1751201820",
+      "title": "Atletico San Luis vs Guadalajara Chivas",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Liga MX",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/262.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Atletico San Luis",
+        "away_name": "Guadalajara Chivas",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/262.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788649200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e176-backup/chunks.m3u8?is_vip=false&token=1788735774-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-afe227d93542bac4ab42483de264f59b",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e176/chunks.m3u8?is_vip=false&token=1788735774-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c4c258f18b2fab071390d589dadb8cbc",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1551821846,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "miami-fc-vs-pittsburgh-riverhounds-1551821846",
+      "title": "Miami FC vs Pittsburgh Riverhounds",
+      "status": "LIVE",
+      "league": {
+        "league_name": "USL Championship",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/255.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Miami FC",
+        "away_name": "Pittsburgh Riverhounds",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/255.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788649200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e178/chunks.m3u8?is_vip=false&token=1788735775-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5bd6da41e40d8dac89e055e5eceb0d44",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1878268893,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "sporting-jax-vs-lexington-1878268893",
+      "title": "Sporting JAX vs Lexington",
+      "status": "LIVE",
+      "league": {
+        "league_name": "USL Championship",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/255.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Sporting JAX",
+        "away_name": "Lexington",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/255.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788649200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e179-backup/chunks.m3u8?is_vip=false&token=1788735777-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-02511eac29d0846534b22291220a0da3",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e179/chunks.m3u8?is_vip=false&token=1788735777-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a2bb1ebcdceb5de83a434585396b27a0",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1577586782,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "necaxa-w-vs-atl-tico-san-luis-w-1577586782",
+      "title": "Necaxa W vs Atlético San Luis W",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Liga MX Femenil",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/673.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Necaxa W",
+        "away_name": "Atlético San Luis W",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/673.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788649200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e17b-backup/chunks.m3u8?is_vip=false&token=1788735778-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-215d7e1786f972958e4293994c1b05dc",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e17b/chunks.m3u8?is_vip=false&token=1788735779-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5a45b17fa4658c26ddf990dde8fe875a",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -720,7 +782,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1788736676-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-21f6df0177248ecbc1309510686546dc",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1788735780-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2b856e7e54e474c0fb56a44ab85741a2",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -751,7 +813,7 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1788736677-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f26d17897f85b882246947176568ac38",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1788735782-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ca1ff66fd6e9bd462f7d585764e8c740",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -782,7 +844,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1788736678-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-07044b5845905f8dce6aa22a32d384e0",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1788735783-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ca8f79db163cbfeb332b2e68a6dedf6d",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -813,7 +875,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55844/720p/chunks.m3u8?is_vip=false&token=1788736679-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-334e15df11639fb20e49bf971ac2f272",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55844/720p/chunks.m3u8?is_vip=false&token=1788735784-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dce16a83c2a04202f73a7623e79a88aa",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -844,7 +906,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55846/720p/chunks.m3u8?is_vip=false&token=1788736680-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dc18f1d14f9699177d739ce2a0aae382",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55846/720p/chunks.m3u8?is_vip=false&token=1788735785-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-55bea7f9261f31134c1efcac3d640b21",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -875,7 +937,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1788736681-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-813cda32a69d4b217017631354481f2d",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1788735787-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2d8ff9eece01a21d088aaf20354c4285",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -906,14 +968,14 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=1788736683-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ff68592b5c7c593b894c795883bc6ccd",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=1788735788-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-63533dc59aa5ea4ac7b756d69f4ece49",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 240,
+  "total_upcoming_matches": 241,
   "upcoming_matches": [
     {
       "match_id": 1387360038,
@@ -1127,6 +1189,30 @@
       "timing": {
         "start_time_timestamp": 1788721200,
         "start_time_local": "06 Sep 2026, 07:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1647359125,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "inter-miami-vs-atlanta-united-fc-1647359125",
+      "title": "Inter Miami vs Atlanta United FC",
+      "status": "NS",
+      "league": {
+        "league_name": "Major League Soccer",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/253.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Inter Miami",
+        "away_name": "Atlanta United FC",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/253.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788651000,
+        "start_time_local": "05 Sep 2026, 11:30 PM",
         "countdown_seconds": null
       },
       "streams": []
