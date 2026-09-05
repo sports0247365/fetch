@@ -192,6 +192,7 @@ const LEAGUE_KEYWORDS = [
   ["indycar", "motorsport"],
   ["motorsport", "motorsport"],
   ["auto racing", "motorsport"],
+  ["FIA Formula 3 Championship Sprint", "motorsport"],
 
   // Cycling
   ["tour de france", "cycling"],
