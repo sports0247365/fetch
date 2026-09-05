@@ -182,6 +182,7 @@ const LEAGUE_KEYWORDS = [
   // Motorsport
   ["formula 1", "motorsport"],
   ["formula 2", "motorsport"],
+  ["formula 3", "motorsport"],
   ["formula e", "motorsport"],
   [/\bf1\b/, "motorsport"],
   [/\bf2\b/, "motorsport"],
