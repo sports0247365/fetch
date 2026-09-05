@@ -277,6 +277,7 @@ const LEAGUE_KEYWORDS = [
   ["First League", "football"],
   ["Liga 1", "football"],
   ["Campionato Primavera", "football"],
+  ["Süper Lig", "football"],
   ["world cup", "football"], // note: "rugby world cup" upar rugby se pehle match ho chuka hoga
 ];
 
