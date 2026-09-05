@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "12:47:23 PM 05-09-2026"
+    "last_update_time": "1:02:28 PM 05-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1788677244-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3077620c97addaefecc6e7472b01288b",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1788678149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2fecfbb26a0f24656ad46009a58fbfc5",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,7 +59,7 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788677246-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-628c97292d3b8af43523454d6a681a40",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788678151-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7338e13ba53127f019afaea3204a160d",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -71,7 +71,7 @@
       "sport_id": 99,
       "slug": "canberra-fc-vs-queanbeyan-city-1705006384",
       "title": "Canberra FC vs Queanbeyan City",
-      "status": "1H",
+      "status": "HT",
       "league": {
         "league_name": "Capital Territory NPL",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/189.png"
@@ -90,13 +90,75 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a984fd76b72017e628bfd77-backup/chunks.m3u8?is_vip=false&token=1788677248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0152a97a1d301944781bb2fc4461cc77",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a984fd76b72017e628bfd77-backup/chunks.m3u8?is_vip=false&token=1788678152-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6dfbac954311caa48dab4e4e7bd144cd",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a984fd76b72017e628bfd77/chunks.m3u8?is_vip=false&token=1788677249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-413f185121c4945fd4868f1e973709e3",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a984fd76b72017e628bfd77/chunks.m3u8?is_vip=false&token=1788678154-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cb01252ff42fac04961d4f5017030643",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1690889555,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "peninsula-power-vs-moreton-city-excelsior-1690889555",
+      "title": "Peninsula Power vs Moreton City Excelsior",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Queensland NPL",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/482.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Peninsula Power",
+        "away_name": "Moreton City Excelsior",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/482.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788591600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a95ba3793add94b379d42ad/chunks.m3u8?is_vip=false&token=1788678155-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5aa8d4049d46d68139f957395fb45404",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1733427145,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "joondalup-city-vs-armadale-1733427145",
+      "title": "Joondalup City vs Armadale",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Western Australia NPL",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/196.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Joondalup City",
+        "away_name": "Armadale",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/196.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788591600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a984fd76b72017e628bfd78-backup/chunks.m3u8?is_vip=false&token=1788678156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cecf3e2bb7033e8eacf867a583a206f3",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -127,7 +189,7 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1788677250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c79234282172ab817bdc515d7e873bf9",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1788678159-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-56f2aed85528b8a7a363dba2abdfd65c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -158,22 +220,19 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788677251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-df18efdd420fa6f785720cfffd7d8d09",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788678160-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ca0f122b63e78e8f1f762db225814906",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
-    }
-  ],
-  "total_upcoming_matches": 350,
-  "upcoming_matches": [
+    },
     {
       "match_id": 1600620123,
       "sport_name": "Football",
       "sport_id": 1,
       "slug": "monza-italy-1600620123",
       "title": "Monza, Italy",
-      "status": "NS",
+      "status": "LIVE",
       "league": {
         "league_name": "FIA Formula 3 Championship Sprint",
         "league_logo": ""
@@ -186,11 +245,21 @@
       },
       "timing": {
         "start_time_timestamp": 1788593100,
-        "start_time_local": "05 Sep 2026, 07:25 AM",
+        "start_time_local": "Live Now",
         "countdown_seconds": null
       },
-      "streams": []
-    },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788678161-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8cd588afa56d8cba949172faffdd5149",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    }
+  ],
+  "total_upcoming_matches": 349,
+  "upcoming_matches": [
     {
       "match_id": 1600620123,
       "sport_name": "Other",
