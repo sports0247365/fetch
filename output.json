@@ -1,8 +1,39 @@
 {
   "playlist_info": {
-    "last_update_time": "4:32:25 PM 06-09-2026"
+    "last_update_time": "4:47:24 PM 06-09-2026"
   },
   "live_matches": [
+    {
+      "match_id": 1638965529,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "jef-united-chiba-vs-gamba-osaka-1638965529",
+      "title": "JEF United Chiba vs Gamba Osaka",
+      "status": "2H",
+      "league": {
+        "league_name": "J1 League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "JEF United Chiba",
+        "away_name": "Gamba Osaka",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788685200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c00-backup/chunks.m3u8?is_vip=false&token=1788778046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3941ce94412adb8fbd0fee7fb8dba42d",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
     {
       "match_id": 1209914329,
       "sport_name": "Football",
@@ -28,254 +59,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c03-backup/chunks.m3u8?is_vip=false&token=1788777146-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cf1808567722084bcddb07dfcdf99716",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c03/chunks.m3u8?is_vip=false&token=1788777147-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b051bbe484fff288f792904dbc2dcb52",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1397448984,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "blaublitz-akita-vs-omiya-ardija-1397448984",
-      "title": "Blaublitz Akita vs Omiya Ardija",
-      "status": "2H",
-      "league": {
-        "league_name": "J2 League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/99.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Blaublitz Akita",
-        "away_name": "Omiya Ardija",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/99.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788685200,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c05-backup/chunks.m3u8?is_vip=false&token=1788777148-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f2cbb242650d88afb9e21f7873e4ca6d",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c05/chunks.m3u8?is_vip=false&token=1788777149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f635f5828431748eb2bb4696547d0a9",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1452610108,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "yokohama-fc-vs-albirex-niigata-1452610108",
-      "title": "Yokohama FC vs Albirex Niigata",
-      "status": "2H",
-      "league": {
-        "league_name": "J2 League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/99.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Yokohama FC",
-        "away_name": "Albirex Niigata",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/99.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788685200,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c04-backup/chunks.m3u8?is_vip=false&token=1788777150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7914150da754333aecdf185c0ad835a5",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c04/chunks.m3u8?is_vip=false&token=1788777151-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8fc3103eda06691b220aecec39a49df0",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1077368532,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "milan-u20-vs-juventus-u20-1077368532",
-      "title": "Milan U20 vs Juventus U20",
-      "status": "2H",
-      "league": {
-        "league_name": "Campionato Primavera - 1",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/705.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Milan U20",
-        "away_name": "Juventus U20",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/705.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788685200,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb3477e-backup/chunks.m3u8?is_vip=false&token=1788777152-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-64e83e998b513aa6bc6492939291973e",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1607743399,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "australia-u20-vs-indonesia-u20-1607743399",
-      "title": "Australia U20 vs Indonesia U20",
-      "status": "2H",
-      "league": {
-        "league_name": "AFC U20 Asian Cup",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Australia U20",
-        "away_name": "Indonesia U20",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788685200,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c46-backup/chunks.m3u8?is_vip=false&token=1788777153-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4741f3a1c8f2b282f3959078add2592f",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1221812982,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "fagiano-okayama-vs-sanfrecce-hiroshima-1221812982",
-      "title": "Fagiano Okayama vs Sanfrecce Hiroshima",
-      "status": "2H",
-      "league": {
-        "league_name": "J1 League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Fagiano Okayama",
-        "away_name": "Sanfrecce Hiroshima",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788685200,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c02/chunks.m3u8?is_vip=false&token=1788777155-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ae2ebe7963ae561705ae07e32fb7b2a9",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1040017733,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "nagoya-grampus-vs-machida-zelvia-1040017733",
-      "title": "Nagoya Grampus vs Machida Zelvia",
-      "status": "2H",
-      "league": {
-        "league_name": "J1 League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Nagoya Grampus",
-        "away_name": "Machida Zelvia",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788685200,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c01-backup/chunks.m3u8?is_vip=false&token=1788777156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bac832d3f9464579e2c3c04ca87bcd81",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c01/chunks.m3u8?is_vip=false&token=1788777157-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-17f1224c0d8ae2fd00e8b44a161ab6e1",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1081267424,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "chinese-taipei-u20-vs-singapore-u20-1081267424",
-      "title": "Chinese Taipei U20 vs Singapore U20",
-      "status": "2H",
-      "league": {
-        "league_name": "AFC U20 Asian Cup",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Chinese Taipei U20",
-        "away_name": "Singapore U20",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788685200,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c42-backup/chunks.m3u8?is_vip=false&token=1788777158-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b843f82a8c9f4e57d226e6b1ca565517",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c42/chunks.m3u8?is_vip=false&token=1788777159-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-57a59f6b5a3a21e6ee0edef59de6bf70",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c03-backup/chunks.m3u8?is_vip=false&token=1788778047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-04f5910e1befb6a646cdebec79ba10bb",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -306,34 +90,34 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c4f-backup/chunks.m3u8?is_vip=false&token=1788777160-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5c4d43f96891afe0adad6f7886ad6060",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c4f-backup/chunks.m3u8?is_vip=false&token=1788778048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-76a0c22b1a34f45b13f16dffeafd7620",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c4f/chunks.m3u8?is_vip=false&token=1788777161-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8e95c8efa3f94436cb505631bd3877b8",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c4f/chunks.m3u8?is_vip=false&token=1788778049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-df185ba46c1f5aa0d937c75bc08ae156",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1638965529,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "jef-united-chiba-vs-gamba-osaka-1638965529",
-      "title": "JEF United Chiba vs Gamba Osaka",
+      "match_id": 1081267424,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "chinese-taipei-u20-vs-singapore-u20-1081267424",
+      "title": "Chinese Taipei U20 vs Singapore U20",
       "status": "2H",
       "league": {
-        "league_name": "J1 League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
+        "league_name": "AFC U20 Asian Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "JEF United Chiba",
-        "away_name": "Gamba Osaka",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
+        "home_name": "Chinese Taipei U20",
+        "away_name": "Singapore U20",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
       },
       "timing": {
         "start_time_timestamp": 1788685200,
@@ -343,112 +127,75 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c00-backup/chunks.m3u8?is_vip=false&token=1788777162-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-22ccd4915be266f79370a4a1d1d5a999",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c42-backup/chunks.m3u8?is_vip=false&token=1788778050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-13950b5e38c0f7b00e94f377604afe03",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c00/chunks.m3u8?is_vip=false&token=1788777163-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cf6aa72f9ddcf16276f4c6fee45ebf8f",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c42/chunks.m3u8?is_vip=false&token=1788778051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9ac7e2bafb3d52ba95b369bf34b82fcd",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1423446401,
+      "match_id": 1607743399,
       "sport_name": "Other",
       "sport_id": 99,
-      "slug": "myanmar-u20-vs-maldives-u20-1423446401",
-      "title": "Myanmar U20 vs Maldives U20",
-      "status": "HT",
+      "slug": "australia-u20-vs-indonesia-u20-1607743399",
+      "title": "Australia U20 vs Indonesia U20",
+      "status": "2H",
       "league": {
         "league_name": "AFC U20 Asian Cup",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Myanmar U20",
-        "away_name": "Maldives U20",
+        "home_name": "Australia U20",
+        "away_name": "Indonesia U20",
         "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
       },
       "timing": {
-        "start_time_timestamp": 1788687000,
+        "start_time_timestamp": 1788685200,
         "start_time_local": "Live Now",
         "countdown_seconds": null
       },
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c40-backup/chunks.m3u8?is_vip=false&token=1788777165-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0dd0d885d07bb1c1d39ac213f1aa0113",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c40/chunks.m3u8?is_vip=false&token=1788777165-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e2b26bac8d7757eaee17632c001a8091",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c46-backup/chunks.m3u8?is_vip=false&token=1788778052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-63569add53a62ac3cff679f6464041f5",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1155646965,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "t-rkiye-vs-australia-1155646965",
-      "title": "Türkiye vs Australia",
-      "status": "LIVE",
+      "match_id": 1077368532,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "milan-u20-vs-juventus-u20-1077368532",
+      "title": "Milan U20 vs Juventus U20",
+      "status": "2H",
       "league": {
-        "league_name": "FIBA Women's Basketball World Cup",
-        "league_logo": ""
+        "league_name": "Campionato Primavera - 1",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/705.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Türkiye",
-        "away_name": "Australia",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+        "home_name": "Milan U20",
+        "away_name": "Juventus U20",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/705.png"
       },
       "timing": {
-        "start_time_timestamp": 1788687000,
+        "start_time_timestamp": 1788685200,
         "start_time_local": "Live Now",
         "countdown_seconds": null
       },
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/138846/720p/chunks.m3u8?is_vip=false&token=1788777167-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fa6686a0a59c8aca40ff0c8c84b7abed",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1010521992,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "cosmics-vs-castle-rockers-1010521992",
-      "title": "Cosmics vs Castle Rockers",
-      "status": "LIVE",
-      "league": {
-        "league_name": "ETPL",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Cosmics",
-        "away_name": "Castle Rockers",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788687000,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1788777168-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-69757c1b26e3e02c53bf1d58f20b7b91",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb3477e-backup/chunks.m3u8?is_vip=false&token=1788778053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b88140c6863d0a8664bd3bd66ab3a8b6",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -479,38 +226,106 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1788777169-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5434677fdf9c0fe4347f397ca8697ff4",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1788778054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e87b9129dec94c9975dcb726f2943bed",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1600620123,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "monza-italy-1600620123",
-      "title": "Monza, Italy",
+      "match_id": 1010521992,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "cosmics-vs-castle-rockers-1010521992",
+      "title": "Cosmics vs Castle Rockers",
       "status": "LIVE",
       "league": {
-        "league_name": "Porsche Mobil 1 Supercup Race",
+        "league_name": "ETPL",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
+        "home_name": "Cosmics",
+        "away_name": "Castle Rockers",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1788687600,
+        "start_time_timestamp": 1788687000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1788778056-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-02c7032d9285e330835f90f3b06b401b",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1155646965,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "t-rkiye-vs-australia-1155646965",
+      "title": "Türkiye vs Australia",
+      "status": "LIVE",
+      "league": {
+        "league_name": "FIBA Women's Basketball World Cup",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Türkiye",
+        "away_name": "Australia",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788687000,
         "start_time_local": "Live Now",
         "countdown_seconds": null
       },
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788777170-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-19abd161a1076b33b0a0b367d260ece1",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/138846/720p/chunks.m3u8?is_vip=false&token=1788778057-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f776bdbe5e7228a4fad4466d69563e83",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1423446401,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "myanmar-u20-vs-maldives-u20-1423446401",
+      "title": "Myanmar U20 vs Maldives U20",
+      "status": "2H",
+      "league": {
+        "league_name": "AFC U20 Asian Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Myanmar U20",
+        "away_name": "Maldives U20",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/965.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788687000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c40-backup/chunks.m3u8?is_vip=false&token=1788778058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a2d792a19c33aee8e62a73bdf90387ed",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c40/chunks.m3u8?is_vip=false&token=1788778059-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5d057499c75b1f70e4b983bec333b87b",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -541,7 +356,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7cbf-fhd/chunks.m3u8?is_vip=false&token=1788777171-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1617cf12ce9595ba71670da59a98cf6e",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7cbf-fhd/chunks.m3u8?is_vip=false&token=1788778060-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2fa79518abbc463dfdfc392c8d4eaa2d",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -572,75 +387,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/208/720p/chunks.m3u8?is_vip=false&token=1788777173-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-259ba6e735dbc9c996499c7f298a9427",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1233955329,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "oita-trinita-vs-imabari-1233955329",
-      "title": "Oita Trinita vs Imabari",
-      "status": "1H",
-      "league": {
-        "league_name": "J2 League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/99.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Oita Trinita",
-        "away_name": "Imabari",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/99.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788688800,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c23-backup/chunks.m3u8?is_vip=false&token=1788777174-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3dcf3d4f3729bd35b757dd30cd9ea187",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c23/chunks.m3u8?is_vip=false&token=1788777174-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5af90ad9ce8eed99b886d8f6083069aa",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1453517050,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "jubilo-iwata-vs-kataller-toyama-1453517050",
-      "title": "Jubilo Iwata vs Kataller Toyama",
-      "status": "1H",
-      "league": {
-        "league_name": "J2 League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/99.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Jubilo Iwata",
-        "away_name": "Kataller Toyama",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/99.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788688800,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c24/chunks.m3u8?is_vip=false&token=1788777175-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-caee8bfd775cff82cb7c0d43ee338eef",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/208/720p/chunks.m3u8?is_vip=false&token=1788778061-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5f36c150247b242ade0d59594f75a14b",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -671,13 +418,13 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7cc0-backup/chunks.m3u8?is_vip=false&token=1788777177-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-53a5352107532625f0a192d5d337857a",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7cc0-backup/chunks.m3u8?is_vip=false&token=1788778062-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f0b0a2c44ac66af48f25760abf112922",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7cc0/chunks.m3u8?is_vip=false&token=1788777177-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6d9108e1c92e251cc55ddb9066f44c2e",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7cc0/chunks.m3u8?is_vip=false&token=1788778063-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-da89a7443a8e1359a28741b5904c846d",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -708,13 +455,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c25-backup/chunks.m3u8?is_vip=false&token=1788777179-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4d41ed23f485414c83710d53e9025c9c",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c25/chunks.m3u8?is_vip=false&token=1788777179-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-964372078c8b02395526848db09b4564",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c25-backup/chunks.m3u8?is_vip=false&token=1788778064-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7c278c04f2ec26ff479ae54db22e9cc3",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -745,13 +486,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c22-backup/chunks.m3u8?is_vip=false&token=1788777180-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-82353c752283a455f17d335c6aa78b5f",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c22/chunks.m3u8?is_vip=false&token=1788777182-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bde3cd27e89e33a4ad09904fda728266",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c22-backup/chunks.m3u8?is_vip=false&token=1788778065-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-55c953dd8689e3d1f58fcc8e17512657",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -782,13 +517,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c1f-backup/chunks.m3u8?is_vip=false&token=1788777183-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e314cbecd5ac878fdd57d2fa30ff70f7",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c1f/chunks.m3u8?is_vip=false&token=1788777184-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e94be5e4dbff28d5d1cb554052336df4",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c1f-backup/chunks.m3u8?is_vip=false&token=1788778066-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d81c9ccf5d23615b301bf4484eaf77a6",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -819,44 +548,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c20-backup/chunks.m3u8?is_vip=false&token=1788777185-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-88ae7d048157c16efa60c66fa92451ee",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c20/chunks.m3u8?is_vip=false&token=1788777186-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f475606cf50ca897127f43ea02ee4de5",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1793350982,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "cerezo-osaka-vs-tokyo-verdy-1793350982",
-      "title": "Cerezo Osaka vs Tokyo Verdy",
-      "status": "1H",
-      "league": {
-        "league_name": "J1 League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Cerezo Osaka",
-        "away_name": "Tokyo Verdy",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788688800,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c21/chunks.m3u8?is_vip=false&token=1788777187-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c2b1d6db0c21bd9f89b2eaca1f45f104",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c20-backup/chunks.m3u8?is_vip=false&token=1788778068-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-994a2babc1034133bbd762e0d6b9711f",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -887,81 +579,13 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840ec-backup/chunks.m3u8?is_vip=false&token=1788777189-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-061b013e8656fc520aa4b24e4dcd49cb",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840ec-backup/chunks.m3u8?is_vip=false&token=1788778069-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cdc43d882a3a7d62eb69425749d07219",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840ec/chunks.m3u8?is_vip=false&token=1788777189-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0c0bd8ed01131a0e6d428f96f5b93d7f",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1070200935,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "suwon-bluewings-vs-asan-mugunghwa-1070200935",
-      "title": "Suwon Bluewings vs Asan Mugunghwa",
-      "status": "1H",
-      "league": {
-        "league_name": "K League 2",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/293.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Suwon Bluewings",
-        "away_name": "Asan Mugunghwa",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/293.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788688800,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c27-backup/chunks.m3u8?is_vip=false&token=1788777190-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e520979e14423739548c3d705be5e177",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c27/chunks.m3u8?is_vip=false&token=1788777191-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2cf455aa0bb00cbbbba719dc4b4eca17",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1251883935,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "gimpo-citizen-vs-seongnam-fc-1251883935",
-      "title": "Gimpo Citizen vs Seongnam FC",
-      "status": "1H",
-      "league": {
-        "league_name": "K League 2",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/293.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Gimpo Citizen",
-        "away_name": "Seongnam FC",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/293.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788688800,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c28/chunks.m3u8?is_vip=false&token=1788777192-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2a425093e31a37d63ea3122273eaf24f",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840ec/chunks.m3u8?is_vip=false&token=1788778070-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e245809080a867ae9bb331970beeb24d",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -992,13 +616,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c26-backup/chunks.m3u8?is_vip=false&token=1788777194-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c87cf2406661d71d2d8a7c1a8d100400",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c26/chunks.m3u8?is_vip=false&token=1788777194-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-98232ef33e11c6224cec1a234cbc08af",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c26-backup/chunks.m3u8?is_vip=false&token=1788778071-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-805c95e5f77bf0eb855c2898cbf33b6a",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -1029,7 +647,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c37-fhd/chunks.m3u8?is_vip=false&token=1788777195-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6ec86d5517a4b22f73f6220951525169",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c37-fhd/chunks.m3u8?is_vip=false&token=1788778072-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-542919a489c9285f2257246cc6be018b",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -1060,25 +678,25 @@
       "streams": [
         {
           "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c36-hd/chunks.m3u8?is_vip=false&token=1788777196-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b920441c8201b68e537f396e87f3997c",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c36-hd/chunks.m3u8?is_vip=false&token=1788778073-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-10e49563cf80234b66079efaa8f5316d",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c36-fhd/chunks.m3u8?is_vip=false&token=1788777197-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5344b5d31653802c0540f654fff921ca",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c36-fhd/chunks.m3u8?is_vip=false&token=1788778074-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-27160c0095874470fa71c9de0a2a14de",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c36-backup/chunks.m3u8?is_vip=false&token=1788777198-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-51858bc97d2c96207072fcd3984daf12",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c36-backup/chunks.m3u8?is_vip=false&token=1788778075-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c53b8d999b55eeb5d7e234e37e31f891",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c36/chunks.m3u8?is_vip=false&token=1788777199-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f6ae5d7731b4405a003d9caaf432e6ee",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c36/chunks.m3u8?is_vip=false&token=1788778075-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b65ea79bff0f02759b06dce0b65aabd2",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -1090,7 +708,7 @@
       "sport_id": 1,
       "slug": "juventus-w-vs-ac-milan-w-1788563268",
       "title": "Juventus W vs AC Milan W",
-      "status": "LIVE",
+      "status": "1H",
       "league": {
         "league_name": "Serie A Cup Women",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1198.png"
@@ -1109,7 +727,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e13b-backup/chunks.m3u8?is_vip=false&token=1788777200-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-77338e4d14837ed12490d0423ba55dde",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e13b-backup/chunks.m3u8?is_vip=false&token=1788778077-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-02d6af3e8e43cb7bfe31fdf0924ad5bc",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -1121,7 +739,7 @@
       "sport_id": 1,
       "slug": "fc-tokyo-vs-kyoto-sanga-1308403609",
       "title": "FC Tokyo vs Kyoto Sanga",
-      "status": "LIVE",
+      "status": "1H",
       "league": {
         "league_name": "J1 League",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
@@ -1140,20 +758,45 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c38-backup/chunks.m3u8?is_vip=false&token=1788777201-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5a530a71ca9838885f9de07344508729",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c38-backup/chunks.m3u8?is_vip=false&token=1788778078-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-19b04c21fb91cc88647165fad6882cbf",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
-        },
+        }
+      ]
+    },
+    {
+      "match_id": 1696742806,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "birmingham-vs-wolves-1696742806",
+      "title": "Birmingham vs Wolves",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Championship",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/40.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Birmingham",
+        "away_name": "Wolves",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/40.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788692400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
         {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c38/chunks.m3u8?is_vip=false&token=1788777202-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a602c206ae2b2617da1cbcc2558dafc1",
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884050-hd/chunks.m3u8?is_vip=false&token=1788778079-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4c71b3788de377bc1ec3cdfd9d4ce1b9",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 183,
+  "total_upcoming_matches": 182,
   "upcoming_matches": [
     {
       "match_id": 1387360038,
@@ -1199,30 +842,6 @@
       "timing": {
         "start_time_timestamp": 1788719400,
         "start_time_local": "06 Sep 2026, 06:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1269035626,
-      "sport_name": "Cycling",
-      "sport_id": 20,
-      "slug": "vuelta-a-espa-a-stage-15-1269035626",
-      "title": "Vuelta a España, Stage 15",
-      "status": "NS",
-      "league": {
-        "league_name": "La Vuelta",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788698700,
-        "start_time_local": "06 Sep 2026, 12:45 PM",
         "countdown_seconds": null
       },
       "streams": []
