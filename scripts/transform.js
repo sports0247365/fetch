@@ -76,7 +76,6 @@ const LEAGUE_KEYWORDS = [
   ["asia cup", "cricket"],
   ["cricket", "cricket"],
   ["ETPL", "cricket"],
-  ["Super League", "cricket"],
 
   // Table Tennis (specific before "tennis")
   ["table tennis", "table tennis"],
