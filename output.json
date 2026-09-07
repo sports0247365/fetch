@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "6:32:21 AM 07-09-2026"
+    "last_update_time": "6:17:21 AM 07-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788827542-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c6c19d71de6351d896391a2f113fabcd",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788826642-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f6e8b6a2c11a7991d3cc482522a0f21b",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,38 +59,75 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55850/720p/chunks.m3u8?is_vip=false&token=1788827543-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8fdfbc1b24e67349bf043a02cfe36244",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55850/720p/chunks.m3u8?is_vip=false&token=1788826643-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ea813a570bd5dfa2401585510ea5f20a",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1624003449,
+      "match_id": 1213628785,
       "sport_name": "Football",
       "sport_id": 1,
-      "slug": "orlando-pride-w-vs-houston-dash-w-1624003449",
-      "title": "Orlando Pride W vs Houston Dash W",
-      "status": "1H",
+      "slug": "corinthians-vs-chapecoense-sc-1213628785",
+      "title": "Corinthians vs Chapecoense-sc",
+      "status": "2H",
       "league": {
-        "league_name": "NWSL Women",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/254.png"
+        "league_name": "Serie A",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/71.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Orlando Pride W",
-        "away_name": "Houston Dash W",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/254.png"
+        "home_name": "Corinthians",
+        "away_name": "Chapecoense-sc",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/71.png"
       },
       "timing": {
-        "start_time_timestamp": 1788735600,
+        "start_time_timestamp": 1788733800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68514-backup/chunks.m3u8?is_vip=false&token=1788826644-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-78e63f5abc8e2a5a7acb59a1761773a0",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68514/chunks.m3u8?is_vip=false&token=1788826645-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7f3af0863edba98282bfada9cdc08bcd",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1591462362,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "palestino-vs-universidad-de-concepcion-1591462362",
+      "title": "Palestino vs Universidad de Concepcion",
+      "status": "2H",
+      "league": {
+        "league_name": "Primera División",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/265.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Palestino",
+        "away_name": "Universidad de Concepcion",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/265.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788733800,
         "start_time_local": "Live Now",
         "countdown_seconds": null
       },
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68552/chunks.m3u8?is_vip=false&token=1788827544-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7106f163fe4746c576a203c6d9c627ec",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68519/chunks.m3u8?is_vip=false&token=1788826646-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b6cebe50062fedf7bf067ee0ae5a742d",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -121,13 +158,13 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6855b-backup/chunks.m3u8?is_vip=false&token=1788827546-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c0f38d280f00c4061a6d58be34096949",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6855b-backup/chunks.m3u8?is_vip=false&token=1788826647-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7b9e0e66a56e7b6b9439b05c0e1259c6",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6855b/chunks.m3u8?is_vip=false&token=1788827547-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-102202f88f6cfc090ad3bcd5293a6bdf",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6855b/chunks.m3u8?is_vip=false&token=1788826648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-be2b88b2b6b90ad76ad7b945e854861e",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -158,7 +195,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274860/720p/chunks.m3u8?is_vip=false&token=1788827548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-37c1c4490837c57cc1a0633dfe4a432d",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274860/720p/chunks.m3u8?is_vip=false&token=1788826649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ded095de7bbdd2e96b8f153f6ac3626b",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -189,7 +226,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1788827549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d1b3c460f6334d3cbc5dbcabbbdd147e",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1788826651-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f873593f567ebaf3852bd0372e3ffc99",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -201,7 +238,7 @@
       "sport_id": 1,
       "slug": "fbc-melgar-vs-adt-1803162834",
       "title": "FBC Melgar vs ADT",
-      "status": "HT",
+      "status": "1H",
       "league": {
         "league_name": "Primera División",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/281.png"
@@ -220,13 +257,13 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7bf1-backup/chunks.m3u8?is_vip=false&token=1788827550-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d81486dcb7fbc3184c09b8d7963cbf91",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7bf1-backup/chunks.m3u8?is_vip=false&token=1788826652-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b7e1d20633b70096f6bc12517dc99bc7",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7bf1/chunks.m3u8?is_vip=false&token=1788827551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8f28d249ae477c19e4e27c89226fb9bf",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7bf1/chunks.m3u8?is_vip=false&token=1788826653-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-364887a3e49d7459d4d08a12d8c65717",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -257,56 +294,19 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68557-fhd/chunks.m3u8?is_vip=false&token=1788827552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e0d970a4498cda1f1407a090af438a39",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68557-fhd/chunks.m3u8?is_vip=false&token=1788826654-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-63d285301cdfb7b6a6736027b7fb0133",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68557-backup/chunks.m3u8?is_vip=false&token=1788827552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ef3cd8d1c46675b1e619ac5a403146e5",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68557-backup/chunks.m3u8?is_vip=false&token=1788826654-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2bd155c92469b57231eb70525e78bc3e",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68557/chunks.m3u8?is_vip=false&token=1788827553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-239cdd903cce72d959d071788d4ef5de",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1534638083,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "racing-club-vs-atletico-tucuman-1534638083",
-      "title": "Racing Club vs Atletico Tucuman",
-      "status": "1H",
-      "league": {
-        "league_name": "Liga Profesional Argentina",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/128.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Racing Club",
-        "away_name": "Atletico Tucuman",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/128.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788741000,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68504-backup/chunks.m3u8?is_vip=false&token=1788827554-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7a6a13bd734b7c2053c882956ea59d6f",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68504/chunks.m3u8?is_vip=false&token=1788827555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f421b5efae9569e01ca7b31c3202a4e1",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68557/chunks.m3u8?is_vip=false&token=1788826655-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-702a584414e462ef9107ce30dcb2568d",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -337,14 +337,14 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1788827556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6d41cfc12171a71498497c95a2c3565f",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1788826656-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cdb2bf2a615817d9774efcf8553764a7",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 47,
+  "total_upcoming_matches": 48,
   "upcoming_matches": [
     {
       "match_id": 1492811555,
@@ -462,6 +462,30 @@
       "timing": {
         "start_time_timestamp": 1788806700,
         "start_time_local": "07 Sep 2026, 06:45 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1494040416,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "seattle-reign-fc-w-vs-san-diego-wave-w-1494040416",
+      "title": "Seattle Reign FC W vs San Diego Wave W",
+      "status": "NS",
+      "league": {
+        "league_name": "NWSL Women",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/254.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Seattle Reign FC W",
+        "away_name": "San Diego Wave W",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/254.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788742800,
+        "start_time_local": "07 Sep 2026, 01:00 AM",
         "countdown_seconds": null
       },
       "streams": []
