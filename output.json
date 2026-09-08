@@ -1,41 +1,41 @@
 {
   "playlist_info": {
-    "last_update_time": "12:47:23 PM 08-09-2026"
+    "last_update_time": "1:02:27 PM 08-09-2026"
   },
   "live_matches": [
     {
-      "match_id": 1696019658,
-      "sport_name": "Tennis",
-      "sport_id": 5,
-      "slug": "us-open-1696019658",
-      "title": "US Open",
-      "status": "LIVE",
+      "match_id": 1851597287,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "utrecht-vs-go-ahead-eagles-1851597287",
+      "title": "Utrecht vs GO Ahead Eagles",
+      "status": "INT",
       "league": {
-        "league_name": "US Open",
-        "league_logo": ""
+        "league_name": "Eredivisie",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/88.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+        "home_name": "Utrecht",
+        "away_name": "GO Ahead Eagles",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/88.png"
       },
       "timing": {
-        "start_time_timestamp": 1788793200,
+        "start_time_timestamp": 1788868800,
         "start_time_local": "Live Now",
         "countdown_seconds": null
       },
       "streams": [
         {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788936444-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7cb7f0c6a14efb065610dd8ccbe0c071",
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7b94-hd/chunks.m3u8?is_vip=false&token=1788937349-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5ac065f3e1d9b147321af355f12a0e96",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 85,
+  "total_upcoming_matches": 86,
   "upcoming_matches": [
     {
       "match_id": 1628345363,
@@ -581,6 +581,30 @@
         "home_name": "Al-Ittihad FC",
         "away_name": "Al-Fayha",
         "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/307.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788890400,
+        "start_time_local": "08 Sep 2026, 06:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1692459992,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "doncaster-vs-huddersfield-1692459992",
+      "title": "Doncaster vs Huddersfield",
+      "status": "NS",
+      "league": {
+        "league_name": "EFL Trophy",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Doncaster",
+        "away_name": "Huddersfield",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png"
       },
       "timing": {
         "start_time_timestamp": 1788890400,
