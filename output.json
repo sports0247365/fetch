@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "7:02:25 AM 08-09-2026"
+    "last_update_time": "6:47:20 AM 08-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788915746-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6d6c8ff54f378ec7c1636e8657f0ea18",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788914841-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9ba9b44abec5becd88b7fbe07ec00bf3",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -58,8 +58,51 @@
       },
       "streams": [
         {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6850e-backup/chunks.m3u8?is_vip=false&token=1788914842-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bab904223b3e385766d32afba2d60da1",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6850e/chunks.m3u8?is_vip=false&token=1788915748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a15642d2eca2e92d7bd7d57a9757e827",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6850e/chunks.m3u8?is_vip=false&token=1788914843-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bb1c05a13379fdab34fb2f5d6e8362fd",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1024665966,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "deportes-limache-vs-cobresal-1024665966",
+      "title": "Deportes Limache vs Cobresal",
+      "status": "2H",
+      "league": {
+        "league_name": "Primera División",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/265.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Deportes Limache",
+        "away_name": "Cobresal",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/265.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788822000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6851b-backup/chunks.m3u8?is_vip=false&token=1788914844-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5df4181c266f4ee8eb6962500ba4b01f",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6851b/chunks.m3u8?is_vip=false&token=1788914845-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ec43d281f3fd21b86d1232b71667fb5b",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -90,7 +133,7 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1788915749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6057859d48335f4d834235530113f1c4",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1788914846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-74bca412aaff7816ccf9691e7207c751",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -121,45 +164,14 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68500/chunks.m3u8?is_vip=false&token=1788915750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e62962673f147067ecd25518757bcf71",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1531152766,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "le-n-w-vs-puebla-w-1531152766",
-      "title": "León W vs Puebla W",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Liga MX Femenil",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/673.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "León W",
-        "away_name": "Puebla W",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/673.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788829560,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f3488b6fa125e7d0fb29b/chunks.m3u8?is_vip=false&token=1788915754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fedf482e2e36d44a1c0fea9dc0400ae6",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68500/chunks.m3u8?is_vip=false&token=1788914847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8c97de843a09c46b45f9dda1d8981b30",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 80,
+  "total_upcoming_matches": 75,
   "upcoming_matches": [
     {
       "match_id": 1628345363,
@@ -642,30 +654,6 @@
       "streams": []
     },
     {
-      "match_id": 1495575035,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "yangon-united-vs-ezra-1495575035",
-      "title": "Yangon United vs Ezra",
-      "status": "NS",
-      "league": {
-        "league_name": "AFC Challenge League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1132.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Yangon United",
-        "away_name": "Ezra",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/1132.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788859800,
-        "start_time_local": "08 Sep 2026, 09:30 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
       "match_id": 1420594457,
       "sport_name": "Football",
       "sport_id": 1,
@@ -733,30 +721,6 @@
       "timing": {
         "start_time_timestamp": 1788865200,
         "start_time_local": "08 Sep 2026, 11:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1141870684,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "club-brugge-u19-vs-aston-villa-u19-1141870684",
-      "title": "Club Brugge U19 vs Aston Villa U19",
-      "status": "NS",
-      "league": {
-        "league_name": "UEFA Youth League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/14.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Club Brugge U19",
-        "away_name": "Aston Villa U19",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/14.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788868800,
-        "start_time_local": "08 Sep 2026, 12:00 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -1957,78 +1921,6 @@
       "timing": {
         "start_time_timestamp": 1788904800,
         "start_time_local": "08 Sep 2026, 10:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1081032856,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "new-york-city-ii-vs-new-york-rb-ii-1081032856",
-      "title": "New York City II vs New York RB II",
-      "status": "NS",
-      "league": {
-        "league_name": "MLS Next Pro",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/909.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "New York City II",
-        "away_name": "New York RB II",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/909.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788908400,
-        "start_time_local": "08 Sep 2026, 11:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1529739714,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "toronto-ii-vs-columbus-crew-ii-1529739714",
-      "title": "Toronto II vs Columbus Crew II",
-      "status": "NS",
-      "league": {
-        "league_name": "MLS Next Pro",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/909.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Toronto II",
-        "away_name": "Columbus Crew II",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/909.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788908400,
-        "start_time_local": "08 Sep 2026, 11:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1876121081,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "club-sando-vs-delfines-del-este-1876121081",
-      "title": "Club Sando vs Delfines Del Este",
-      "status": "NS",
-      "league": {
-        "league_name": "CONCACAF Caribbean Club Championship",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/856.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Club Sando",
-        "away_name": "Delfines Del Este",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/856.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788908400,
-        "start_time_local": "08 Sep 2026, 11:00 PM",
         "countdown_seconds": null
       },
       "streams": []
