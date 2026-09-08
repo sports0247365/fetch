@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "8:32:23 PM 08-09-2026"
+    "last_update_time": "8:17:23 PM 08-09-2026"
   },
   "live_matches": [
     {
@@ -28,76 +28,14 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1788964344-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-87af94229d45281defc9ceee8f46f36d",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1499685731,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "real-madrid-u19-vs-internazionale-u19-1499685731",
-      "title": "Real Madrid U19 vs Internazionale U19",
-      "status": "LIVE",
-      "league": {
-        "league_name": "UEFA Youth League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/14.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Real Madrid U19",
-        "away_name": "Internazionale U19",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/14.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788876000,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a987955e8a66eebd8ca1163/chunks.m3u8?is_vip=false&token=1788964345-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3f0d802767836da893da315b99d73aa1",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1199115446,
-      "sport_name": "Tennis",
-      "sport_id": 5,
-      "slug": "us-open-1199115446",
-      "title": "Us open",
-      "status": "LIVE",
-      "league": {
-        "league_name": "US Open",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1788879600,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788964348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-281f284031b14d695ddb75f0844d57fe",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1788963443-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b0c882ad43a47cda1c4c20f5061cd94c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 81,
+  "total_upcoming_matches": 82,
   "upcoming_matches": [
     {
       "match_id": 1628345363,
@@ -287,6 +225,30 @@
       "timing": {
         "start_time_timestamp": 1788894000,
         "start_time_local": "08 Sep 2026, 07:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1199115446,
+      "sport_name": "Tennis",
+      "sport_id": 5,
+      "slug": "us-open-1199115446",
+      "title": "Us open",
+      "status": "NS",
+      "league": {
+        "league_name": "US Open",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1788879600,
+        "start_time_local": "08 Sep 2026, 03:00 PM",
         "countdown_seconds": null
       },
       "streams": []
