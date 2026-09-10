@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "3:47:26 PM 10-09-2026"
+    "last_update_time": "4:02:23 PM 10-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1789120047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1a11692f3faadb9a84fe7063fee2642d",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1789120944-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0315b09c908f0f9dac9b27ba2f648bd8",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,7 +59,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789120049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-077c4e2fa658da0db9ec2fb0af81cfe9",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789120946-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6da1bfb59a09db1923770c697543766d",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -90,14 +90,14 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789120050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-632001aec5244f2dae8ef0c592721c23",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789120947-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1c48544b1f63a161e6e20e3c5f8e608a",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 39,
+  "total_upcoming_matches": 41,
   "upcoming_matches": [
     {
       "match_id": 1111580909,
@@ -820,6 +820,30 @@
       "streams": []
     },
     {
+      "match_id": 1896629485,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "england-vs-pakistan-1896629485",
+      "title": "England vs Pakistan",
+      "status": "NS",
+      "league": {
+        "league_name": "3rd Test",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "England",
+        "away_name": "Pakistan",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789120800,
+        "start_time_local": "11 Sep 2026, 10:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
       "match_id": 1456790784,
       "sport_name": "Baseball",
       "sport_id": 12,
@@ -983,6 +1007,30 @@
       "timing": {
         "start_time_timestamp": 1789086900,
         "start_time_local": "11 Sep 2026, 12:35 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1184526597,
+      "sport_name": "Australian Football",
+      "sport_id": 23,
+      "slug": "geelong-cats-vs-fremantle-1184526597",
+      "title": "Geelong Cats vs Fremantle",
+      "status": "NS",
+      "league": {
+        "league_name": "AFL Premiership",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Geelong Cats",
+        "away_name": "Fremantle",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789120200,
+        "start_time_local": "11 Sep 2026, 09:50 AM",
         "countdown_seconds": null
       },
       "streams": []
