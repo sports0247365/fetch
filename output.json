@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "1:02:27 PM 10-09-2026"
+    "last_update_time": "1:17:22 PM 10-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789110148-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0ba3eb9735ffccf24d0dfbbafe0e9d9b",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789111043-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b3b1a9a771efb9cabd89d66a8f85f651",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,14 +59,14 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1789110150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-952af2050cb09de34940823d56a97394",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1789111044-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6ff32e0df4141d173cf0137861754ba1",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 35,
+  "total_upcoming_matches": 36,
   "upcoming_matches": [
     {
       "match_id": 1111580909,
@@ -256,6 +256,30 @@
       "timing": {
         "start_time_timestamp": 1789033500,
         "start_time_local": "10 Sep 2026, 09:45 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1322856477,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "otago-vs-tasman-1322856477",
+      "title": "Otago vs Tasman",
+      "status": "NS",
+      "league": {
+        "league_name": "NPC",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Otago",
+        "away_name": "Tasman",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789110900,
+        "start_time_local": "11 Sep 2026, 07:15 AM",
         "countdown_seconds": null
       },
       "streams": []
