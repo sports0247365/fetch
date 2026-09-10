@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "7:47:30 PM 10-09-2026"
+    "last_update_time": "8:02:24 PM 10-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789134451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6b0ca112becf2f0ca8c7be0785eed083",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789135345-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-06e071a966fba1e15dd598da7fed2873",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,7 +59,7 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1789134452-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-80b036f42ec31db7abc37bb26435a3d8",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1789135348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-faac0d56cd881c07c8f89b401400d502",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -90,7 +90,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a989569a903b20f18349ada-backup/chunks.m3u8?is_vip=false&token=1789134454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-60b001a6a200bad49eff84b0c8751085",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a989569a903b20f18349ada-backup/chunks.m3u8?is_vip=false&token=1789135350-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f09a725d383ea33f626fbca8560e14b6",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -120,8 +120,14 @@
       },
       "streams": [
         {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fbd5751b97c1e61609a0a-backup/chunks.m3u8?is_vip=false&token=1789135352-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-abb0e0c8c5bf8d7d15e135e141a763bf",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fbd5751b97c1e61609a0a/chunks.m3u8?is_vip=false&token=1789134455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c558fc0243dd8375883206b08fd6175e",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fbd5751b97c1e61609a0a/chunks.m3u8?is_vip=false&token=1789135353-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3e0c14f2cadaaac21b6b0c31ed47626c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -152,7 +158,38 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fbd5751b97c1e61609a0b/chunks.m3u8?is_vip=false&token=1789134456-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-29dab1c51ff891ff6b5b26393c40ab90",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fbd5751b97c1e61609a0b/chunks.m3u8?is_vip=false&token=1789135354-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ffa70e8f4df6401cdc16c34572c9b10a",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1649180469,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "bayern-m-nchen-u19-vs-bod-glimt-u19-1649180469",
+      "title": "Bayern München U19 vs Bodø / Glimt U19",
+      "status": "LIVE",
+      "league": {
+        "league_name": "UEFA Youth League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/14.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Bayern München U19",
+        "away_name": "Bodø / Glimt U19",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/14.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789048800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a989569a903b20f18349adc-backup/chunks.m3u8?is_vip=false&token=1789135355-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f52fb04820b92775d727a49303c3fe1f",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -183,7 +220,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1789134462-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7de379c2b364f3d5f303c82f1cdaac77",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1789135363-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9b0f1296cae8a095c92f884c07d00c77",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
