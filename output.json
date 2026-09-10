@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "3:17:24 PM 10-09-2026"
+    "last_update_time": "3:32:24 PM 10-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "HD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1789118245-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bb214680ca0609c0365fc4219dff9fe2",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1789119145-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e9e64ad3365b6fda4709f7b38fdb29de",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,14 +59,45 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789118249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-86ff81cddd2f799937c259bc75a7c04f",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789119147-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9055e00805cf677fa8a24d3106e76b43",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1896629485,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "england-vs-pakistan-1896629485",
+      "title": "England vs Pakistan",
+      "status": "LIVE",
+      "league": {
+        "league_name": "3rd Test",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "England",
+        "away_name": "Pakistan",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789034400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789119151-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-00d9d3d3cf72cda80aa88d06e5a2011f",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 40,
+  "total_upcoming_matches": 39,
   "upcoming_matches": [
     {
       "match_id": 1111580909,
@@ -304,78 +335,6 @@
       "timing": {
         "start_time_timestamp": 1789066800,
         "start_time_local": "10 Sep 2026, 07:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1322856477,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "otago-vs-tasman-1322856477",
-      "title": "Otago vs Tasman",
-      "status": "NS",
-      "league": {
-        "league_name": "NPC",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Otago",
-        "away_name": "Tasman",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789110900,
-        "start_time_local": "11 Sep 2026, 07:15 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1017017734,
-      "sport_name": "Rugby",
-      "sport_id": 11,
-      "slug": "canberra-raiders-vs-wests-tigers-1017017734",
-      "title": "Canberra Raiders vs Wests Tigers",
-      "status": "NS",
-      "league": {
-        "league_name": "NRL Women's Premiership",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Canberra Raiders",
-        "away_name": "Wests Tigers",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789111800,
-        "start_time_local": "11 Sep 2026, 07:30 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1896629485,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "england-vs-pakistan-1896629485",
-      "title": "England vs Pakistan",
-      "status": "NS",
-      "league": {
-        "league_name": "3rd Test",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "England",
-        "away_name": "Pakistan",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789034400,
-        "start_time_local": "10 Sep 2026, 10:00 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -1024,6 +983,54 @@
       "timing": {
         "start_time_timestamp": 1789086900,
         "start_time_local": "11 Sep 2026, 12:35 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1322856477,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "otago-vs-tasman-1322856477",
+      "title": "Otago vs Tasman",
+      "status": "NS",
+      "league": {
+        "league_name": "NPC",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Otago",
+        "away_name": "Tasman",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789110900,
+        "start_time_local": "11 Sep 2026, 07:15 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1017017734,
+      "sport_name": "Rugby",
+      "sport_id": 11,
+      "slug": "canberra-raiders-vs-wests-tigers-1017017734",
+      "title": "Canberra Raiders vs Wests Tigers",
+      "status": "NS",
+      "league": {
+        "league_name": "NRL Women's Premiership",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Canberra Raiders",
+        "away_name": "Wests Tigers",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789111800,
+        "start_time_local": "11 Sep 2026, 07:30 AM",
         "countdown_seconds": null
       },
       "streams": []
