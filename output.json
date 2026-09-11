@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "3:17:25 PM 11-09-2026"
+    "last_update_time": "3:32:23 PM 11-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789204646-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dc71c8e30a022bec79ec0c9861683163",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789205544-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8a1c9c75c2f8813851c082a77197d790",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,7 +59,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789204648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-16971c12227386c36f01523c3dc6115a",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789205546-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9c553ad3978066696d2ad23df2d53236",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -90,7 +90,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969a94/chunks.m3u8?is_vip=false&token=1789204649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c51a3919ed799d30ba22b480cd9f0618",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969a94/chunks.m3u8?is_vip=false&token=1789205547-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-858ee88a9afe8b07ecd7f27b80fdb47c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -121,14 +121,144 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/263/720p/chunks.m3u8?is_vip=false&token=1789204651-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0870249678852e2fce43b1847bbd9a6c",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/263/720p/chunks.m3u8?is_vip=false&token=1789205549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-414c4fc2525ff55942de994a288256b1",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1742454416,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "melbourne-victory-ii-vs-eltham-redbacks-fc-1742454416",
+      "title": "Melbourne Victory II vs Eltham Redbacks FC",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Victoria NPL 2",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/836.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Melbourne Victory II",
+        "away_name": "Eltham Redbacks FC",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/836.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789119000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9c6ddbe8a66eebd8f09eb8-backup/chunks.m3u8?is_vip=false&token=1789205550-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-58cdef1f670efaa7147d0d1d27b22da0",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9c6ddbe8a66eebd8f09eb8/chunks.m3u8?is_vip=false&token=1789205551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d7950df800880cda1ef014e505d065cb",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1292857394,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "northcote-city-vs-bulleen-lions-1292857394",
+      "title": "Northcote City vs Bulleen Lions",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Victoria NPL 2",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/836.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Northcote City",
+        "away_name": "Bulleen Lions",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/836.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789119000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9c6ddbe8a66eebd8f09eb7/chunks.m3u8?is_vip=false&token=1789205553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c5d7ddee45a71101331e566486587fef",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1184526597,
+      "sport_name": "Australian Football",
+      "sport_id": 23,
+      "slug": "geelong-cats-vs-fremantle-1184526597",
+      "title": "Geelong Cats vs Fremantle",
+      "status": "LIVE",
+      "league": {
+        "league_name": "AFL Premiership",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Geelong Cats",
+        "away_name": "Fremantle",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789120200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789205557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-62a8f2d753c72fb479eb39618650d831",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1896629485,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "england-vs-pakistan-1896629485",
+      "title": "England vs Pakistan",
+      "status": "LIVE",
+      "league": {
+        "league_name": "3rd Test",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "England",
+        "away_name": "Pakistan",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789120800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789205558-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8d971fc2b55a50ea0789120afc53f545",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 106,
+  "total_upcoming_matches": 104,
   "upcoming_matches": [
     {
       "match_id": 1392423909,
@@ -347,11 +477,11 @@
       "streams": []
     },
     {
-      "match_id": 1184526597,
+      "match_id": 1856470464,
       "sport_name": "Australian Football",
       "sport_id": 23,
-      "slug": "geelong-cats-vs-fremantle-1184526597",
-      "title": "Geelong Cats vs Fremantle",
+      "slug": "adelaide-crows-vs-brisbane-lions-1856470464",
+      "title": "Adelaide Crows VS Brisbane Lions",
       "status": "NS",
       "league": {
         "league_name": "AFL Premiership",
@@ -359,37 +489,13 @@
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Geelong Cats",
-        "away_name": "Fremantle",
+        "home_name": "Adelaide Crows",
+        "away_name": "Brisbane Lions",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1789120200,
-        "start_time_local": "11 Sep 2026, 09:50 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1896629485,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "england-vs-pakistan-1896629485",
-      "title": "England vs Pakistan",
-      "status": "NS",
-      "league": {
-        "league_name": "3rd Test",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "England",
-        "away_name": "Pakistan",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789120800,
-        "start_time_local": "11 Sep 2026, 10:00 AM",
+        "start_time_timestamp": 1789205400,
+        "start_time_local": "12 Sep 2026, 09:30 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -443,49 +549,25 @@
       "streams": []
     },
     {
-      "match_id": 1704656760,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "kyoto-sanga-vs-kashiwa-reysol-1704656760",
-      "title": "Kyoto Sanga vs Kashiwa Reysol",
+      "match_id": 1191239220,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "wolves-vs-dockers-1191239220",
+      "title": "Wolves vs Dockers",
       "status": "NS",
       "league": {
-        "league_name": "J1 League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
+        "league_name": "ETPL",
+        "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Kyoto Sanga",
-        "away_name": "Kashiwa Reysol",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
+        "home_name": "Wolves",
+        "away_name": "Dockers",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1789120800,
-        "start_time_local": "11 Sep 2026, 10:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1459470234,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "vissel-kobe-vs-kashima-1459470234",
-      "title": "Vissel Kobe vs Kashima",
-      "status": "NS",
-      "league": {
-        "league_name": "J1 League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Vissel Kobe",
-        "away_name": "Kashima",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789120800,
-        "start_time_local": "11 Sep 2026, 10:00 AM",
+        "start_time_timestamp": 1789205400,
+        "start_time_local": "12 Sep 2026, 09:30 AM",
         "countdown_seconds": null
       },
       "streams": []
