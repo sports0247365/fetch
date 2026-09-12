@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "11:17:28 PM 12-09-2026"
+    "last_update_time": "11:32:25 PM 12-09-2026"
   },
   "live_matches": [
     {
@@ -28,13 +28,56 @@
       "streams": [
         {
           "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffc-hd/chunks.m3u8?is_vip=false&token=1789319849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e216cd5b6de02790e547ca615b41bf73",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffc-hd/chunks.m3u8?is_vip=false&token=1789320745-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-22ada2d3c9a8a72dd58520da05cf453a",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffc/chunks.m3u8?is_vip=false&token=1789319850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1a1ac4af510929e07dbfa6420c9b063e",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffc/chunks.m3u8?is_vip=false&token=1789320747-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-20fd127db5f9827391c80dbfc1921d6f",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1063544418,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "1-fc-k-ln-vs-werder-bremen-1063544418",
+      "title": "1. FC Köln vs Werder Bremen",
+      "status": "HT",
+      "league": {
+        "league_name": "Bundesliga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/78.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "1. FC Köln",
+        "away_name": "Werder Bremen",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/78.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789230600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd4-hd/chunks.m3u8?is_vip=false&token=1789320748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-57889465b278aca81a7de4c203dc0717",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd4-fhd/chunks.m3u8?is_vip=false&token=1789320748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b5c82cb00f4ff72d398e525944ca3c93",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd4/chunks.m3u8?is_vip=false&token=1789320749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cecf1c41da74c713eaea8240af33eb99",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -65,56 +108,19 @@
       "streams": [
         {
           "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd001a-hd/chunks.m3u8?is_vip=false&token=1789319851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5712d0f0c1628c13479966b1d6c31791",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd001a/chunks.m3u8?is_vip=false&token=1789319852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e22be185c940869b63de51cc6ff6c33c",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1063544418,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "1-fc-k-ln-vs-werder-bremen-1063544418",
-      "title": "1. FC Köln vs Werder Bremen",
-      "status": "1H",
-      "league": {
-        "league_name": "Bundesliga",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/78.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "1. FC Köln",
-        "away_name": "Werder Bremen",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/78.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789230600,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd4-hd/chunks.m3u8?is_vip=false&token=1789319853-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8725a75075776422b1e4a319d90dfca3",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd001a-hd/chunks.m3u8?is_vip=false&token=1789320750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ab0d014c14df6319a4329ffc1317671a",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd4-fhd/chunks.m3u8?is_vip=false&token=1789319854-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-18125772c373242c8a24a620cdd3c70c",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd001a-backup/chunks.m3u8?is_vip=false&token=1789320751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c2e0b967e58544872d11bd1d90d6591b",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd4/chunks.m3u8?is_vip=false&token=1789319854-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-401079b524acc0a6a5a1c66f03f49b18",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd001a/chunks.m3u8?is_vip=false&token=1789320752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4e0e83dccf4ff435abfbdebf82f7249f",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -126,7 +132,7 @@
       "sport_id": 1,
       "slug": "tottenham-vs-everton-1132152689",
       "title": "Tottenham vs Everton",
-      "status": "1H",
+      "status": "HT",
       "league": {
         "league_name": "Premier League",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/39.png"
@@ -145,19 +151,25 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/284/720p/chunks.m3u8?is_vip=false&token=1789319856-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bdaf36ff893938de72bf1c64541296c0",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/284/720p/chunks.m3u8?is_vip=false&token=1789320753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b78a100ac7717ebcd35dad67de8227de",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd3-hd/chunks.m3u8?is_vip=false&token=1789319857-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0ccc868922a56afcd64f17131aa9c019",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd3-hd/chunks.m3u8?is_vip=false&token=1789320754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9b8b784b8aa8ced6efe8d3e720cb1aaa",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd3-backup/chunks.m3u8?is_vip=false&token=1789320755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1d04401cb9000108ae1f2647298f30cb",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd3/chunks.m3u8?is_vip=false&token=1789319858-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-198d50d97289f31ec414e8fda43084a0",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd3/chunks.m3u8?is_vip=false&token=1789320756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-482d960c8df9599f54ac2178e1baa87d",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -188,255 +200,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789319859-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bd9c09b50ed077fe0190b6f04c7dafcd",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1804985167,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "nublense-vs-everton-de-vina-1804985167",
-      "title": "Nublense vs Everton de Vina",
-      "status": "2H",
-      "league": {
-        "league_name": "Primera División",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/265.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Nublense",
-        "away_name": "Everton de Vina",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/265.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789227000,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db021-backup/chunks.m3u8?is_vip=false&token=1789319860-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-52f51a899160aa5aa429d1affea8775a",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1840057795,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "sepsi-osk-sfantu-gheorghe-vs-cfr-1907-cluj-1840057795",
-      "title": "Sepsi OSK Sfantu Gheorghe vs CFR 1907 Cluj",
-      "status": "2H",
-      "league": {
-        "league_name": "Liga I",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/283.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Sepsi OSK Sfantu Gheorghe",
-        "away_name": "CFR 1907 Cluj",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/283.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789227000,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffda-fhd/chunks.m3u8?is_vip=false&token=1789319861-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fb10444918afbce0cfe37c2bd0a54ecb",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1570424759,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "dynamo-vs-fc-orenburg-1570424759",
-      "title": "Dynamo vs FC Orenburg",
-      "status": "2H",
-      "league": {
-        "league_name": "Premier League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/235.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Dynamo",
-        "away_name": "FC Orenburg",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/235.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789227000,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac46656/chunks.m3u8?is_vip=false&token=1789319862-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-59746578addb97462461616a77976cbf",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1287413005,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "gornik-zabrze-vs-lech-poznan-1287413005",
-      "title": "Gornik Zabrze vs Lech Poznan",
-      "status": "2H",
-      "league": {
-        "league_name": "Ekstraklasa",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/106.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Gornik Zabrze",
-        "away_name": "Lech Poznan",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/106.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789227000,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85be6e5213cd25c047902e-fhd/chunks.m3u8?is_vip=false&token=1789319864-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-03b69dc499ed9e69f73ac6e796d10b18",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1035036194,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "club-deportivo-los-chankas-vs-fc-cajamarca-1035036194",
-      "title": "Club Deportivo Los Chankas vs FC Cajamarca",
-      "status": "2H",
-      "league": {
-        "league_name": "Primera División",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/281.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Club Deportivo Los Chankas",
-        "away_name": "FC Cajamarca",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/281.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789227000,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0032-backup/chunks.m3u8?is_vip=false&token=1789319865-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ae2edc29677311208c8d6499363f3685",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1406965603,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "if-gnistan-vs-hps-w-1406965603",
-      "title": "IF Gnistan vs HPS W",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Kansallinen Liiga",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/640.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "IF Gnistan",
-        "away_name": "HPS W",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/640.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789228800,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a39b-backup/chunks.m3u8?is_vip=false&token=1789319866-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8a9cc4c382f4bdb2023a06bb4c8bd7d3",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1652472736,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "nantes-w-vs-fc-fleury-91-w-1652472736",
-      "title": "Nantes W vs FC Fleury 91 W",
-      "status": "2H",
-      "league": {
-        "league_name": "Feminine Division 1",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/64.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Nantes W",
-        "away_name": "FC Fleury 91 W",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/64.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789228800,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a398/chunks.m3u8?is_vip=false&token=1789319867-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6c83815bfc0e307e7decbd16a5d6cc09",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1096646558,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "saint-malo-w-vs-montpellier-w-1096646558",
-      "title": "Saint-Malo W vs Montpellier W",
-      "status": "2H",
-      "league": {
-        "league_name": "Feminine Division 1",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/64.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Saint-Malo W",
-        "away_name": "Montpellier W",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/64.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789228800,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a397/chunks.m3u8?is_vip=false&token=1789319868-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-db3e17f02019cf9d4c386b46e4734593",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789320757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c5c887931c55bedfbf0f299f5927e8f0",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -467,7 +231,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789319870-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3aed700d66e578ee2caa5bb181281521",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789320758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7da8d0fe8244e7db529305cd9d343aad",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -498,7 +262,100 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/53766/720p/chunks.m3u8?is_vip=false&token=1789319871-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e96dc3ba5ab1320d4cfd108355cba0bb",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/53766/720p/chunks.m3u8?is_vip=false&token=1789320759-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a099ab9c9473788d11d7c0bc3e6e5d08",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1406965603,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "if-gnistan-vs-hps-w-1406965603",
+      "title": "IF Gnistan vs HPS W",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Kansallinen Liiga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/640.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "IF Gnistan",
+        "away_name": "HPS W",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/640.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789228800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a39b-backup/chunks.m3u8?is_vip=false&token=1789320760-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-39018c2d97c71ec5bf11dc0ca5f3a118",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1096646558,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "saint-malo-w-vs-montpellier-w-1096646558",
+      "title": "Saint-Malo W vs Montpellier W",
+      "status": "2H",
+      "league": {
+        "league_name": "Feminine Division 1",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/64.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Saint-Malo W",
+        "away_name": "Montpellier W",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/64.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789228800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a397/chunks.m3u8?is_vip=false&token=1789320762-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-952405537ce4fe758e72e532cad9e709",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1652472736,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "nantes-w-vs-fc-fleury-91-w-1652472736",
+      "title": "Nantes W vs FC Fleury 91 W",
+      "status": "2H",
+      "league": {
+        "league_name": "Feminine Division 1",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/64.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Nantes W",
+        "away_name": "FC Fleury 91 W",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/64.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789228800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a398/chunks.m3u8?is_vip=false&token=1789320763-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d36ad844b42c7215b58607245d4af15c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -510,7 +367,7 @@
       "sport_id": 1,
       "slug": "kvc-westerlo-vs-standard-liege-1125405066",
       "title": "KVC Westerlo vs Standard Liege",
-      "status": "HT",
+      "status": "2H",
       "league": {
         "league_name": "Jupiler Pro League",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/144.png"
@@ -528,14 +385,8 @@
       },
       "streams": [
         {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a3f3-backup/chunks.m3u8?is_vip=false&token=1789319872-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b1ba206b85f25f631230fa3a136207c3",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a3f3/chunks.m3u8?is_vip=false&token=1789319873-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c7ed2f2aff6dc9d4353e629ccfbb4308",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a3f3/chunks.m3u8?is_vip=false&token=1789320764-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f7f9ef1958ef4f3e09864f1f895c2971",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -547,7 +398,7 @@
       "sport_id": 99,
       "slug": "granada-cf-vs-albacete-1179964327",
       "title": "Granada CF vs Albacete",
-      "status": "1H",
+      "status": "HT",
       "league": {
         "league_name": "Segunda División",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/141.png"
@@ -566,19 +417,19 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0234-fhd/chunks.m3u8?is_vip=false&token=1789319874-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d17f289ea15ea0d13a1e2fe38cfdec3f",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0234-fhd/chunks.m3u8?is_vip=false&token=1789320765-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a2893a2c839b8ae5ec35386d2b72ac45",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0234-backup/chunks.m3u8?is_vip=false&token=1789319875-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-001b83193e4441e6ec772aca024a83ee",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0234-backup/chunks.m3u8?is_vip=false&token=1789320766-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-15a0c8593bf1d9ef96334c371dc6f54e",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0234/chunks.m3u8?is_vip=false&token=1789319876-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0dbdbd05a4e59f38ae9f135283c17dff",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0234/chunks.m3u8?is_vip=false&token=1789320767-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0c4a5c5b9bb8bfd9c7681e8154ee2b68",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -590,7 +441,7 @@
       "sport_id": 99,
       "slug": "girona-vs-castell-n-1668976499",
       "title": "Girona vs Castellón",
-      "status": "1H",
+      "status": "HT",
       "league": {
         "league_name": "Segunda División",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/141.png"
@@ -609,44 +460,19 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0235-fhd/chunks.m3u8?is_vip=false&token=1789319877-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ede303e303704357650ad325cf14dd05",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0235-fhd/chunks.m3u8?is_vip=false&token=1789320768-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-642e410c6854ecff0a21c31255b7971b",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0235-backup/chunks.m3u8?is_vip=false&token=1789320768-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e300a0f08c77370f459b118200fd43b3",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0235/chunks.m3u8?is_vip=false&token=1789319878-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ddf2a830ff12f6e0e671dcd5cdc7b2b5",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1088538151,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "kilmarnock-vs-aberdeen-1088538151",
-      "title": "Kilmarnock vs Aberdeen",
-      "status": "1H",
-      "league": {
-        "league_name": "League Cup",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/185.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Kilmarnock",
-        "away_name": "Aberdeen",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/185.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789231500,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8ea436daf8f9c59c03dbfc/chunks.m3u8?is_vip=false&token=1789319879-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-81120eaa1ed4a6b9fb9a32904cbd5e62",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0235/chunks.m3u8?is_vip=false&token=1789320769-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9d3ef123984b6ac11843c2291b2500e2",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -677,40 +503,71 @@
       "streams": [
         {
           "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd7-hd/chunks.m3u8?is_vip=false&token=1789319880-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0f44c47375cdf24a7bf2c9402172b0cf",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd7-hd/chunks.m3u8?is_vip=false&token=1789320770-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bc96a5327e8a4650cf9e2c34dabb516f",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd7-fhd/chunks.m3u8?is_vip=false&token=1789319881-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b1a486336d06df25a2ab93397ed45e28",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd7-fhd/chunks.m3u8?is_vip=false&token=1789320771-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cd31a78cdc87c46f913197254dc14a0e",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd7/chunks.m3u8?is_vip=false&token=1789319882-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6b8390c5acd0a6e58aa649ac5e70979e",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd7/chunks.m3u8?is_vip=false&token=1789320772-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d0669ae63e664e95b2ad5bd196ed8924",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1611687081,
+      "match_id": 1088538151,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "kilmarnock-vs-aberdeen-1088538151",
+      "title": "Kilmarnock vs Aberdeen",
+      "status": "1H",
+      "league": {
+        "league_name": "League Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/185.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Kilmarnock",
+        "away_name": "Aberdeen",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/185.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789231500,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8ea436daf8f9c59c03dbfc/chunks.m3u8?is_vip=false&token=1789320773-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-23b9e6f9d8e19cc541a27ed7a098e5d8",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1664460058,
       "sport_name": "Football",
       "sport_id": 1,
-      "slug": "alanyaspor-vs-g-ztepe-1611687081",
-      "title": "Alanyaspor vs Göztepe",
+      "slug": "neman-vs-torpedo-zhodino-1664460058",
+      "title": "Neman vs Torpedo Zhodino",
       "status": "1H",
       "league": {
-        "league_name": "Süper Lig",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/203.png"
+        "league_name": "Premier League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/116.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Alanyaspor",
-        "away_name": "Göztepe",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/203.png"
+        "home_name": "Neman",
+        "away_name": "Torpedo Zhodino",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/116.png"
       },
       "timing": {
         "start_time_timestamp": 1789232400,
@@ -720,81 +577,13 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a462-backup/chunks.m3u8?is_vip=false&token=1789319884-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-24c60c4e354edaf5b505bd6f1405bf81",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465f2-backup/chunks.m3u8?is_vip=false&token=1789320774-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-17bf63daa53ff540a2e169ff6fb09d29",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a462/chunks.m3u8?is_vip=false&token=1789319884-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-90f1accc44a6652f6b27e2155185226a",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1484352374,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "bodrum-fk-vs-batman-petrolspor-1484352374",
-      "title": "Bodrum FK vs Batman Petrolspor",
-      "status": "1H",
-      "league": {
-        "league_name": "1. Lig",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/204.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Bodrum FK",
-        "away_name": "Batman Petrolspor",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/204.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789232400,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe691-backup/chunks.m3u8?is_vip=false&token=1789319886-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-64240ae39278018bb3fb79b893a68993",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe691/chunks.m3u8?is_vip=false&token=1789319886-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-26d4bac4650d0b599a40272dc3bc06ef",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1642947497,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "mraniyespor-vs-antalyaspor-1642947497",
-      "title": "Ümraniyespor vs Antalyaspor",
-      "status": "1H",
-      "league": {
-        "league_name": "1. Lig",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/204.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Ümraniyespor",
-        "away_name": "Antalyaspor",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/204.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789232400,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe689/chunks.m3u8?is_vip=false&token=1789319888-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-899ff74748379668f3c7b8b49dfc921c",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465f2/chunks.m3u8?is_vip=false&token=1789320775-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bff9932096d2fe67f60690439ec94d74",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -825,28 +614,59 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789319889-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9fc558af6a4c054e8ff49b79df33563f",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789320776-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e96db8e87ae229a0983549570921668b",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1664460058,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "neman-vs-torpedo-zhodino-1664460058",
-      "title": "Neman vs Torpedo Zhodino",
+      "match_id": 1642947497,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "mraniyespor-vs-antalyaspor-1642947497",
+      "title": "Ümraniyespor vs Antalyaspor",
       "status": "1H",
       "league": {
-        "league_name": "Premier League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/116.png"
+        "league_name": "1. Lig",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/204.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Neman",
-        "away_name": "Torpedo Zhodino",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/116.png"
+        "home_name": "Ümraniyespor",
+        "away_name": "Antalyaspor",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/204.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789232400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe689-backup/chunks.m3u8?is_vip=false&token=1789320778-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-49a1142020909e27e73716d05f57b7be",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1484352374,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "bodrum-fk-vs-batman-petrolspor-1484352374",
+      "title": "Bodrum FK vs Batman Petrolspor",
+      "status": "1H",
+      "league": {
+        "league_name": "1. Lig",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/204.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Bodrum FK",
+        "away_name": "Batman Petrolspor",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/204.png"
       },
       "timing": {
         "start_time_timestamp": 1789232400,
@@ -856,7 +676,75 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465f2/chunks.m3u8?is_vip=false&token=1789319891-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cc36a4d16520c793f76ed65463c9cec8",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe691/chunks.m3u8?is_vip=false&token=1789320779-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2e2fdf35bf9a47a1d19040b6c8ed3525",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1611687081,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "alanyaspor-vs-g-ztepe-1611687081",
+      "title": "Alanyaspor vs Göztepe",
+      "status": "1H",
+      "league": {
+        "league_name": "Süper Lig",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/203.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Alanyaspor",
+        "away_name": "Göztepe",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/203.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789232400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a462-backup/chunks.m3u8?is_vip=false&token=1789320780-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3ffe84708868a6f9474c671eedec9381",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a462/chunks.m3u8?is_vip=false&token=1789320781-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0a727801ad54b9d7f66aa66b48cd89d2",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1067290212,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "casa-pia-vs-fc-porto-1067290212",
+      "title": "Casa Pia vs FC Porto",
+      "status": "1H",
+      "league": {
+        "league_name": "Primeira Liga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/94.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Casa Pia",
+        "away_name": "FC Porto",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/94.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789232400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd023e-backup/chunks.m3u8?is_vip=false&token=1789320783-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7de2e3db297187c7e324af7e1ac1522b",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -887,7 +775,38 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1789319892-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0595d782e28f034676ff42ee0261888c",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1789320784-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f1768de3130ee0752749c4ed93075fd3",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1660917988,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "wolfsberger-ac-vs-rapid-vienna-1660917988",
+      "title": "Wolfsberger AC vs Rapid Vienna",
+      "status": "1H",
+      "league": {
+        "league_name": "Bundesliga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/218.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Wolfsberger AC",
+        "away_name": "Rapid Vienna",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/218.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789234200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465ca/chunks.m3u8?is_vip=false&token=1789320786-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5b32f8744b8ad15c28c0399e02000b5a",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -918,15 +837,70 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1789319895-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3636e2e6a369cf3cce9c9541556b7d2a",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1789320787-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7a80c511d5dbe0f48f4ac811e4694f30",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1079894777,
+      "sport_name": "MMA",
+      "sport_id": 14,
+      "slug": "prelims-1079894777",
+      "title": "PRELIMS",
+      "status": "LIVE",
+      "league": {
+        "league_name": "NOCHE UFC",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789236000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/53766/720p/chunks.m3u8?is_vip=false&token=1789320790-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ffe14cec8162310e3c19ef9f8fb3b9d3",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 162,
+  "total_upcoming_matches": 148,
   "upcoming_matches": [
+    {
+      "match_id": 1035036194,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "club-deportivo-los-chankas-vs-fc-cajamarca-1035036194",
+      "title": "Club Deportivo Los Chankas vs FC Cajamarca",
+      "status": "FT",
+      "league": {
+        "league_name": "Primera División",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/281.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Club Deportivo Los Chankas",
+        "away_name": "FC Cajamarca",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/281.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789227000,
+        "start_time_local": "12 Sep 2026, 03:30 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
     {
       "match_id": 1893603167,
       "sport_name": "Motorsport",
@@ -995,30 +969,6 @@
       "timing": {
         "start_time_timestamp": 1789255800,
         "start_time_local": "12 Sep 2026, 11:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1431941197,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "al-khaleej-saihat-vs-al-nassr-1431941197",
-      "title": "Al Khaleej Saihat vs Al-Nassr",
-      "status": "NS",
-      "league": {
-        "league_name": "Pro League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/307.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Al Khaleej Saihat",
-        "away_name": "Al-Nassr",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/307.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789236000,
-        "start_time_local": "12 Sep 2026, 06:00 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -1216,625 +1166,25 @@
       "streams": []
     },
     {
-      "match_id": 1211011390,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "pittsburgh-pirates-vs-chicago-cubs-1211011390",
-      "title": "Pittsburgh Pirates vs Chicago Cubs",
+      "match_id": 1806814655,
+      "sport_name": "MMA",
+      "sport_id": 14,
+      "slug": "silva-vs-delgadoa-1806814655",
+      "title": "SILVA vs DELGADOA",
       "status": "NS",
       "league": {
-        "league_name": "MLB",
+        "league_name": "NOCHE UFC",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Pittsburgh Pirates",
-        "away_name": "Chicago Cubs",
+        "home_name": "SILVA",
+        "away_name": "DELGADOA",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1789237200,
-        "start_time_local": "12 Sep 2026, 06:20 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1578171213,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "baltimore-orioles-vs-toronto-blue-jays-1578171213",
-      "title": "Baltimore Orioles vs Toronto Blue Jays",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Baltimore Orioles",
-        "away_name": "Toronto Blue Jays",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789239900,
-        "start_time_local": "12 Sep 2026, 07:05 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1741059564,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "los-angeles-angels-vs-washington-nationals-1741059564",
-      "title": "Los Angeles Angels vs Washington Nationals",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Los Angeles Angels",
-        "away_name": "Washington Nationals",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789243500,
-        "start_time_local": "12 Sep 2026, 08:05 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1821947973,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "san-diego-padres-vs-san-francisco-giants-1821947973",
-      "title": "San Diego Padres vs San Francisco Giants",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "San Diego Padres",
-        "away_name": "San Francisco Giants",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789243500,
-        "start_time_local": "12 Sep 2026, 08:05 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1263695782,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "kansas-city-royals-vs-boston-red-sox-1263695782",
-      "title": "Kansas City Royals vs Boston Red Sox",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Kansas City Royals",
-        "away_name": "Boston Red Sox",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789243800,
-        "start_time_local": "12 Sep 2026, 08:10 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1210334869,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "los-angeles-dodgers-vs-miami-marlins-1210334869",
-      "title": "Los Angeles Dodgers vs Miami Marlins",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Los Angeles Dodgers",
-        "away_name": "Miami Marlins",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789243800,
-        "start_time_local": "12 Sep 2026, 08:10 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1616867590,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "cleveland-guardians-vs-minnesota-twins-1616867590",
-      "title": "Cleveland Guardians vs Minnesota Twins",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Cleveland Guardians",
-        "away_name": "Minnesota Twins",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789243800,
-        "start_time_local": "12 Sep 2026, 08:10 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1874430432,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "houston-astros-vs-tampa-bay-rays-1874430432",
-      "title": "Houston Astros vs Tampa Bay Rays",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Houston Astros",
-        "away_name": "Tampa Bay Rays",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789251000,
-        "start_time_local": "12 Sep 2026, 10:10 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1391105895,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "cincinnati-reds-vs-milwaukee-brewers-1391105895",
-      "title": "Cincinnati Reds vs Milwaukee Brewers",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Cincinnati Reds",
-        "away_name": "Milwaukee Brewers",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789254600,
-        "start_time_local": "12 Sep 2026, 11:10 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1304415905,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "philadelphia-phillies-vs-atlanta-braves-1304415905",
-      "title": "Philadelphia Phillies vs Atlanta Braves",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Philadelphia Phillies",
-        "away_name": "Atlanta Braves",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789254900,
-        "start_time_local": "12 Sep 2026, 11:15 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1376005682,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "chicago-white-sox-vs-st-louis-cardinals-1376005682",
-      "title": "Chicago White Sox vs St. Louis Cardinals",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Chicago White Sox",
-        "away_name": "St. Louis Cardinals",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789254900,
-        "start_time_local": "12 Sep 2026, 11:15 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1628061018,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "texas-rangers-vs-arizona-diamondbacks-1628061018",
-      "title": "Texas Rangers vs Arizona Diamondbacks",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Texas Rangers",
-        "away_name": "Arizona Diamondbacks",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789258200,
-        "start_time_local": "13 Sep 2026, 12:10 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1340959445,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "seattle-mariners-vs-athletics-1340959445",
-      "title": "Seattle Mariners vs Athletics",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Seattle Mariners",
-        "away_name": "Athletics",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789263600,
-        "start_time_local": "13 Sep 2026, 01:40 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1189639962,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "al-shabab-vs-al-fayha-1189639962",
-      "title": "Al Shabab vs Al-Fayha",
-      "status": "NS",
-      "league": {
-        "league_name": "Pro League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/307.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Al Shabab",
-        "away_name": "Al-Fayha",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/307.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789236000,
-        "start_time_local": "12 Sep 2026, 06:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1892938126,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "nk-lokomotiva-zagreb-vs-hnk-rijeka-1892938126",
-      "title": "NK Lokomotiva Zagreb vs HNK Rijeka",
-      "status": "NS",
-      "league": {
-        "league_name": "HNL",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/210.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "NK Lokomotiva Zagreb",
-        "away_name": "HNK Rijeka",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/210.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789236000,
-        "start_time_local": "12 Sep 2026, 06:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1632651431,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "bryne-vs-stabaek-1632651431",
-      "title": "Bryne vs Stabaek",
-      "status": "NS",
-      "league": {
-        "league_name": "1. Division",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/104.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Bryne",
-        "away_name": "Stabaek",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/104.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789236000,
-        "start_time_local": "12 Sep 2026, 06:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1541278191,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "cobresal-vs-coquimbo-unido-1541278191",
-      "title": "Cobresal vs Coquimbo Unido",
-      "status": "NS",
-      "league": {
-        "league_name": "Primera División",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/265.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Cobresal",
-        "away_name": "Coquimbo Unido",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/265.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789236000,
-        "start_time_local": "12 Sep 2026, 06:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1460171603,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "palmeiras-u20-vs-sfera-u20-1460171603",
-      "title": "Palmeiras U20 vs Sfera U20",
-      "status": "NS",
-      "league": {
-        "league_name": "Paulista - U20",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1086.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Palmeiras U20",
-        "away_name": "Sfera U20",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/1086.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789236000,
-        "start_time_local": "12 Sep 2026, 06:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1509306451,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "santos-u20-vs-mirassol-u20-1509306451",
-      "title": "Santos U20 vs Mirassol U20",
-      "status": "NS",
-      "league": {
-        "league_name": "Paulista - U20",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1086.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Santos U20",
-        "away_name": "Mirassol U20",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/1086.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789236000,
-        "start_time_local": "12 Sep 2026, 06:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1101597767,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "s-o-paulo-u20-vs-uni-o-s-o-jo-o-u20-1101597767",
-      "title": "São Paulo U20 vs União São João U20",
-      "status": "NS",
-      "league": {
-        "league_name": "Paulista - U20",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1086.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "São Paulo U20",
-        "away_name": "União São João U20",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/1086.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789236000,
-        "start_time_local": "12 Sep 2026, 06:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1330330202,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "comerciantes-unidos-vs-sport-huancayo-1330330202",
-      "title": "Comerciantes Unidos vs Sport Huancayo",
-      "status": "NS",
-      "league": {
-        "league_name": "Primera División",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/281.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Comerciantes Unidos",
-        "away_name": "Sport Huancayo",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/281.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789236000,
-        "start_time_local": "12 Sep 2026, 06:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1415789387,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "dunkerque-vs-saint-etienne-1415789387",
-      "title": "Dunkerque vs Saint Etienne",
-      "status": "NS",
-      "league": {
-        "league_name": "Ligue 2",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/62.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Dunkerque",
-        "away_name": "Saint Etienne",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/62.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789236000,
-        "start_time_local": "12 Sep 2026, 06:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1749669660,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "atlanta-vs-club-atl-tico-g-emes-1749669660",
-      "title": "Atlanta vs Club Atlético Güemes",
-      "status": "NS",
-      "league": {
-        "league_name": "Primera Nacional",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/129.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Atlanta",
-        "away_name": "Club Atlético Güemes",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/129.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789236000,
-        "start_time_local": "12 Sep 2026, 06:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1393761470,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "colegiales-vs-nueva-chicago-1393761470",
-      "title": "Colegiales vs Nueva Chicago",
-      "status": "NS",
-      "league": {
-        "league_name": "Primera Nacional",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/129.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Colegiales",
-        "away_name": "Nueva Chicago",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/129.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789236000,
-        "start_time_local": "12 Sep 2026, 06:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1172114847,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "canuelas-vs-victoriano-arenas-1172114847",
-      "title": "Canuelas vs Victoriano Arenas",
-      "status": "NS",
-      "league": {
-        "league_name": "Primera C",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/132.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Canuelas",
-        "away_name": "Victoriano Arenas",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/132.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789236000,
-        "start_time_local": "12 Sep 2026, 06:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1303375367,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "lugano-vs-leones-de-rosario-1303375367",
-      "title": "Lugano vs Leones de Rosario",
-      "status": "NS",
-      "league": {
-        "league_name": "Primera C",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/132.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Lugano",
-        "away_name": "Leones de Rosario",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/132.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789236000,
-        "start_time_local": "12 Sep 2026, 06:00 PM",
+        "start_time_timestamp": 1789246800,
+        "start_time_local": "12 Sep 2026, 09:00 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -4072,49 +3422,313 @@
       "streams": []
     },
     {
-      "match_id": 1079894777,
-      "sport_name": "MMA",
-      "sport_id": 14,
-      "slug": "prelims-1079894777",
-      "title": "PRELIMS",
+      "match_id": 1211011390,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "pittsburgh-pirates-vs-chicago-cubs-1211011390",
+      "title": "Pittsburgh Pirates vs Chicago Cubs",
       "status": "NS",
       "league": {
-        "league_name": "NOCHE UFC",
+        "league_name": "MLB",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
+        "home_name": "Pittsburgh Pirates",
+        "away_name": "Chicago Cubs",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1789236000,
-        "start_time_local": "12 Sep 2026, 06:00 PM",
+        "start_time_timestamp": 1789237200,
+        "start_time_local": "12 Sep 2026, 06:20 PM",
         "countdown_seconds": null
       },
       "streams": []
     },
     {
-      "match_id": 1806814655,
-      "sport_name": "MMA",
-      "sport_id": 14,
-      "slug": "silva-vs-delgadoa-1806814655",
-      "title": "SILVA vs DELGADOA",
+      "match_id": 1578171213,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "baltimore-orioles-vs-toronto-blue-jays-1578171213",
+      "title": "Baltimore Orioles vs Toronto Blue Jays",
       "status": "NS",
       "league": {
-        "league_name": "NOCHE UFC",
+        "league_name": "MLB",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "SILVA",
-        "away_name": "DELGADOA",
+        "home_name": "Baltimore Orioles",
+        "away_name": "Toronto Blue Jays",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1789246800,
-        "start_time_local": "12 Sep 2026, 09:00 PM",
+        "start_time_timestamp": 1789239900,
+        "start_time_local": "12 Sep 2026, 07:05 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1741059564,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "los-angeles-angels-vs-washington-nationals-1741059564",
+      "title": "Los Angeles Angels vs Washington Nationals",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Los Angeles Angels",
+        "away_name": "Washington Nationals",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789243500,
+        "start_time_local": "12 Sep 2026, 08:05 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1821947973,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "san-diego-padres-vs-san-francisco-giants-1821947973",
+      "title": "San Diego Padres vs San Francisco Giants",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "San Diego Padres",
+        "away_name": "San Francisco Giants",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789243500,
+        "start_time_local": "12 Sep 2026, 08:05 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1263695782,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "kansas-city-royals-vs-boston-red-sox-1263695782",
+      "title": "Kansas City Royals vs Boston Red Sox",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Kansas City Royals",
+        "away_name": "Boston Red Sox",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789243800,
+        "start_time_local": "12 Sep 2026, 08:10 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1210334869,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "los-angeles-dodgers-vs-miami-marlins-1210334869",
+      "title": "Los Angeles Dodgers vs Miami Marlins",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Los Angeles Dodgers",
+        "away_name": "Miami Marlins",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789243800,
+        "start_time_local": "12 Sep 2026, 08:10 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1616867590,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "cleveland-guardians-vs-minnesota-twins-1616867590",
+      "title": "Cleveland Guardians vs Minnesota Twins",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Cleveland Guardians",
+        "away_name": "Minnesota Twins",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789243800,
+        "start_time_local": "12 Sep 2026, 08:10 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1874430432,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "houston-astros-vs-tampa-bay-rays-1874430432",
+      "title": "Houston Astros vs Tampa Bay Rays",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Houston Astros",
+        "away_name": "Tampa Bay Rays",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789251000,
+        "start_time_local": "12 Sep 2026, 10:10 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1391105895,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "cincinnati-reds-vs-milwaukee-brewers-1391105895",
+      "title": "Cincinnati Reds vs Milwaukee Brewers",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Cincinnati Reds",
+        "away_name": "Milwaukee Brewers",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789254600,
+        "start_time_local": "12 Sep 2026, 11:10 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1304415905,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "philadelphia-phillies-vs-atlanta-braves-1304415905",
+      "title": "Philadelphia Phillies vs Atlanta Braves",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Philadelphia Phillies",
+        "away_name": "Atlanta Braves",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789254900,
+        "start_time_local": "12 Sep 2026, 11:15 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1376005682,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "chicago-white-sox-vs-st-louis-cardinals-1376005682",
+      "title": "Chicago White Sox vs St. Louis Cardinals",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Chicago White Sox",
+        "away_name": "St. Louis Cardinals",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789254900,
+        "start_time_local": "12 Sep 2026, 11:15 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1628061018,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "texas-rangers-vs-arizona-diamondbacks-1628061018",
+      "title": "Texas Rangers vs Arizona Diamondbacks",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Texas Rangers",
+        "away_name": "Arizona Diamondbacks",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789258200,
+        "start_time_local": "13 Sep 2026, 12:10 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1340959445,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "seattle-mariners-vs-athletics-1340959445",
+      "title": "Seattle Mariners vs Athletics",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Seattle Mariners",
+        "away_name": "Athletics",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789263600,
+        "start_time_local": "13 Sep 2026, 01:40 AM",
         "countdown_seconds": null
       },
       "streams": []
