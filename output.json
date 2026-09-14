@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "8:47:27 PM 14-09-2026"
+    "last_update_time": "9:02:32 PM 14-09-2026"
   },
   "live_matches": [
     {
@@ -9,7 +9,7 @@
       "sport_id": 1,
       "slug": "neftchi-vs-al-quwa-al-jawiya-1500695920",
       "title": "Neftchi vs Al Quwa Al Jawiya",
-      "status": "HT",
+      "status": "2H",
       "league": {
         "league_name": "AFC Champions League Elite",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/17.png"
@@ -28,20 +28,156 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe709-fancode/chunks.m3u8?is_vip=false&token=1789483648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a2a501f2733db9bb2c95d201d2a0fc7f",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe709-fancode/chunks.m3u8?is_vip=false&token=1789484553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bd3fa42957778ba7d2db363b34d768eb",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe709/chunks.m3u8?is_vip=false&token=1789483650-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c778b8166bc17d9d8787029555cbb02a",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe709/chunks.m3u8?is_vip=false&token=1789484555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f36e26f809e1c56496a5a9878e91482d",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1500310223,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "universitatea-cluj-vs-o-elul-1500310223",
+      "title": "Universitatea Cluj vs Oţelul",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Liga I",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/283.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Universitatea Cluj",
+        "away_name": "Oţelul",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/283.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789398000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd9-fhd/chunks.m3u8?is_vip=false&token=1789484558-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3694922ea69bcd640e2021b6f176c626",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd9/chunks.m3u8?is_vip=false&token=1789484560-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-04634c26133fa7158c8f64d14e9a15eb",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1467113066,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "kamaz-vs-chelyabinsk-1467113066",
+      "title": "KAMAZ vs Chelyabinsk",
+      "status": "LIVE",
+      "league": {
+        "league_name": "First League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "KAMAZ",
+        "away_name": "Chelyabinsk",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789398000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465de/chunks.m3u8?is_vip=false&token=1789484562-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5bb08336f7e647e1c9b50bac530c6de5",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1717113329,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "r-gas-fs-ii-vs-skanste-1717113329",
+      "title": "Rīgas FS II vs Skanste",
+      "status": "HT",
+      "league": {
+        "league_name": "1. Liga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/364.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Rīgas FS II",
+        "away_name": "Skanste",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/364.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789394400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe70b/chunks.m3u8?is_vip=false&token=1789484566-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-773ca253e417f632e19642795d37b55d",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1142621669,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "spartak-kostroma-vs-fk-neftekhimik-1142621669",
+      "title": "Spartak Kostroma vs FK Neftekhimik",
+      "status": "LIVE",
+      "league": {
+        "league_name": "First League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Spartak Kostroma",
+        "away_name": "FK Neftekhimik",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789398000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465db-backup/chunks.m3u8?is_vip=false&token=1789484567-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9695a12f005e54f8b857559f4fdbea0d",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465db/chunks.m3u8?is_vip=false&token=1789484567-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-63f3c3c5836cc2a04b2320392a45d9a2",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 66,
+  "total_upcoming_matches": 69,
   "upcoming_matches": [
     {
       "match_id": 1446263411,
@@ -164,30 +300,6 @@
       "streams": []
     },
     {
-      "match_id": 1742930537,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "shinnik-yaroslavl-vs-ural-1742930537",
-      "title": "Shinnik Yaroslavl vs Ural",
-      "status": "NS",
-      "league": {
-        "league_name": "First League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Shinnik Yaroslavl",
-        "away_name": "Ural",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789399800,
-        "start_time_local": "14 Sep 2026, 03:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
       "match_id": 1175674717,
       "sport_name": "Other",
       "sport_id": 99,
@@ -255,6 +367,30 @@
       "timing": {
         "start_time_timestamp": 1789401600,
         "start_time_local": "14 Sep 2026, 04:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1657651443,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "veles-vs-fc-sochi-1657651443",
+      "title": "Veles vs FC Sochi",
+      "status": "NS",
+      "league": {
+        "league_name": "First League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Veles",
+        "away_name": "FC Sochi",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789403400,
+        "start_time_local": "14 Sep 2026, 04:30 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -515,6 +651,30 @@
         "home_name": "FCSB",
         "away_name": "Petrolul Ploiesti",
         "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/283.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789408800,
+        "start_time_local": "14 Sep 2026, 06:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1137648481,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "f-nix-vs-centro-espa-ol-1137648481",
+      "title": "Fénix vs Centro Español",
+      "status": "NS",
+      "league": {
+        "league_name": "Primera C",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/132.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Fénix",
+        "away_name": "Centro Español",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/132.png"
       },
       "timing": {
         "start_time_timestamp": 1789408800,
@@ -1263,6 +1423,54 @@
       "timing": {
         "start_time_timestamp": 1789474500,
         "start_time_local": "15 Sep 2026, 12:15 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1263428101,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "arkadag-vs-muharraq-1263428101",
+      "title": "Arkadag vs Muharraq",
+      "status": "NS",
+      "league": {
+        "league_name": "AFC Champions League Two",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/18.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Arkadag",
+        "away_name": "Muharraq",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/18.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789479900,
+        "start_time_local": "15 Sep 2026, 01:45 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1384445252,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "gol-gohar-vs-al-jazira-1384445252",
+      "title": "Gol Gohar vs Al-Jazira",
+      "status": "NS",
+      "league": {
+        "league_name": "AFC Champions League Two",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/18.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Gol Gohar",
+        "away_name": "Al-Jazira",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/18.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789479900,
+        "start_time_local": "15 Sep 2026, 01:45 PM",
         "countdown_seconds": null
       },
       "streams": []
