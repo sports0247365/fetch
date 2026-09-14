@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "3:47:22 AM 15-09-2026"
+    "last_update_time": "4:02:22 AM 15-09-2026"
   },
   "live_matches": [
     {
@@ -9,7 +9,7 @@
       "sport_id": 1,
       "slug": "portland-timbers-ii-vs-st-louis-city-ii-1792381138",
       "title": "Portland Timbers II vs St. Louis City II",
-      "status": "2H",
+      "status": "P",
       "league": {
         "league_name": "MLS Next Pro",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/909.png"
@@ -28,14 +28,76 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa2f7448b0323bfec6e37b6/chunks.m3u8?is_vip=false&token=1789508844-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a4f697d1c68841a62b08fd8cb7b57354",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa2f7448b0323bfec6e37b6/chunks.m3u8?is_vip=false&token=1789509744-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8d66fddf6d6c509a432e2b0bfd074334",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1116155840,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "banfield-vs-barracas-central-1116155840",
+      "title": "Banfield vs Barracas Central",
+      "status": "1H",
+      "league": {
+        "league_name": "Liga Profesional Argentina",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/128.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Banfield",
+        "away_name": "Barracas Central",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/128.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789423200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db011/chunks.m3u8?is_vip=false&token=1789509746-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d0f5930103816a045e235b9a1d536ac1",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1360721802,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "deportivo-riestra-vs-lanus-1360721802",
+      "title": "Deportivo Riestra vs Lanus",
+      "status": "1H",
+      "league": {
+        "league_name": "Liga Profesional Argentina",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/128.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Deportivo Riestra",
+        "away_name": "Lanus",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/128.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789423200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db00e/chunks.m3u8?is_vip=false&token=1789509749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-92c620d6d92c40f5a4a7d33f018327ac",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 47,
+  "total_upcoming_matches": 45,
   "upcoming_matches": [
     {
       "match_id": 1574905299,
@@ -177,54 +239,6 @@
       "timing": {
         "start_time_timestamp": 1789500600,
         "start_time_local": "15 Sep 2026, 07:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1525173564,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "america-mineiro-vs-s-o-bernardo-1525173564",
-      "title": "America Mineiro vs São Bernardo",
-      "status": "NS",
-      "league": {
-        "league_name": "Serie B",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/72.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "America Mineiro",
-        "away_name": "São Bernardo",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/72.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789425000,
-        "start_time_local": "14 Sep 2026, 10:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1018346288,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "botafogo-sp-vs-goias-1018346288",
-      "title": "Botafogo SP vs Goias",
-      "status": "NS",
-      "league": {
-        "league_name": "Serie B",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/72.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Botafogo SP",
-        "away_name": "Goias",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/72.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789425000,
-        "start_time_local": "14 Sep 2026, 10:30 PM",
         "countdown_seconds": null
       },
       "streams": []
