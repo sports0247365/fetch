@@ -1,39 +1,8 @@
 {
   "playlist_info": {
-    "last_update_time": "4:02:22 AM 15-09-2026"
+    "last_update_time": "4:17:22 AM 15-09-2026"
   },
   "live_matches": [
-    {
-      "match_id": 1792381138,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "portland-timbers-ii-vs-st-louis-city-ii-1792381138",
-      "title": "Portland Timbers II vs St. Louis City II",
-      "status": "P",
-      "league": {
-        "league_name": "MLS Next Pro",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/909.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Portland Timbers II",
-        "away_name": "St. Louis City II",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/909.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789416000,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa2f7448b0323bfec6e37b6/chunks.m3u8?is_vip=false&token=1789509744-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8d66fddf6d6c509a432e2b0bfd074334",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
     {
       "match_id": 1116155840,
       "sport_name": "Football",
@@ -59,7 +28,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db011/chunks.m3u8?is_vip=false&token=1789509746-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d0f5930103816a045e235b9a1d536ac1",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db011/chunks.m3u8?is_vip=false&token=1789510644-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-807b738a1f5512ec6d65f6b2fa8e7be9",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -90,14 +59,76 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db00e/chunks.m3u8?is_vip=false&token=1789509749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-92c620d6d92c40f5a4a7d33f018327ac",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db00e/chunks.m3u8?is_vip=false&token=1789510646-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3302675722e0634abef1c30065eae607",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1693079786,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "los-angeles-dodgers-vs-cincinnati-reds-1693079786",
+      "title": "Los Angeles Dodgers vs Cincinnati Reds",
+      "status": "LIVE",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Los Angeles Dodgers",
+        "away_name": "Cincinnati Reds",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789425600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1789510647-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2e8ddda9e8099142a45279e230f4568e",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1436151433,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "chicago-white-sox-vs-cleveland-guardians-1436151433",
+      "title": "Chicago White Sox vs Cleveland Guardians",
+      "status": "LIVE",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Chicago White Sox",
+        "away_name": "Cleveland Guardians",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789425600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1789510648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-62588b5e5b481a35f7d5502139e24a43",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 45,
+  "total_upcoming_matches": 43,
   "upcoming_matches": [
     {
       "match_id": 1574905299,
@@ -239,6 +270,198 @@
       "timing": {
         "start_time_timestamp": 1789500600,
         "start_time_local": "15 Sep 2026, 07:30 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1404418227,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "detroit-tigers-vs-toronto-blue-jays-1404418227",
+      "title": "Detroit Tigers vs Toronto Blue Jays",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Detroit Tigers",
+        "away_name": "Toronto Blue Jays",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789427100,
+        "start_time_local": "14 Sep 2026, 11:05 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1884596770,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "baltimore-orioles-vs-new-york-mets-1884596770",
+      "title": "Baltimore Orioles vs New York Mets",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Baltimore Orioles",
+        "away_name": "New York Mets",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789427400,
+        "start_time_local": "14 Sep 2026, 11:10 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1162770484,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "atlanta-braves-vs-chicago-cubs-1162770484",
+      "title": "Atlanta Braves vs Chicago Cubs",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Atlanta Braves",
+        "away_name": "Chicago Cubs",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789429200,
+        "start_time_local": "14 Sep 2026, 11:40 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1033699586,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "new-york-yankees-vs-minnesota-twins-1033699586",
+      "title": "New York Yankees vs Minnesota Twins",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "New York Yankees",
+        "away_name": "Minnesota Twins",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789429200,
+        "start_time_local": "14 Sep 2026, 11:40 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1105461730,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "san-francisco-giants-vs-st-louis-cardinals-1105461730",
+      "title": "San Francisco Giants vs St. Louis Cardinals",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "San Francisco Giants",
+        "away_name": "St. Louis Cardinals",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789429500,
+        "start_time_local": "14 Sep 2026, 11:45 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1720316459,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "san-diego-padres-vs-colorado-rockies-1720316459",
+      "title": "San Diego Padres vs Colorado Rockies",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "San Diego Padres",
+        "away_name": "Colorado Rockies",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789432800,
+        "start_time_local": "15 Sep 2026, 12:40 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1398770320,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "seattle-mariners-vs-los-angeles-angels-1398770320",
+      "title": "Seattle Mariners vs Los Angeles Angels",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Seattle Mariners",
+        "away_name": "Los Angeles Angels",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789436100,
+        "start_time_local": "15 Sep 2026, 01:35 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1820444129,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "miami-marlins-vs-arizona-diamondbacks-1820444129",
+      "title": "Miami Marlins vs Arizona Diamondbacks",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Miami Marlins",
+        "away_name": "Arizona Diamondbacks",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789436400,
+        "start_time_local": "15 Sep 2026, 01:40 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -791,246 +1014,6 @@
       "timing": {
         "start_time_timestamp": 1789498800,
         "start_time_local": "15 Sep 2026, 07:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1693079786,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "los-angeles-dodgers-vs-cincinnati-reds-1693079786",
-      "title": "Los Angeles Dodgers vs Cincinnati Reds",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Los Angeles Dodgers",
-        "away_name": "Cincinnati Reds",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789425600,
-        "start_time_local": "14 Sep 2026, 10:40 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1436151433,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "chicago-white-sox-vs-cleveland-guardians-1436151433",
-      "title": "Chicago White Sox vs Cleveland Guardians",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Chicago White Sox",
-        "away_name": "Cleveland Guardians",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789425600,
-        "start_time_local": "14 Sep 2026, 10:40 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1404418227,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "detroit-tigers-vs-toronto-blue-jays-1404418227",
-      "title": "Detroit Tigers vs Toronto Blue Jays",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Detroit Tigers",
-        "away_name": "Toronto Blue Jays",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789427100,
-        "start_time_local": "14 Sep 2026, 11:05 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1884596770,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "baltimore-orioles-vs-new-york-mets-1884596770",
-      "title": "Baltimore Orioles vs New York Mets",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Baltimore Orioles",
-        "away_name": "New York Mets",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789427400,
-        "start_time_local": "14 Sep 2026, 11:10 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1162770484,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "atlanta-braves-vs-chicago-cubs-1162770484",
-      "title": "Atlanta Braves vs Chicago Cubs",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Atlanta Braves",
-        "away_name": "Chicago Cubs",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789429200,
-        "start_time_local": "14 Sep 2026, 11:40 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1033699586,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "new-york-yankees-vs-minnesota-twins-1033699586",
-      "title": "New York Yankees vs Minnesota Twins",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "New York Yankees",
-        "away_name": "Minnesota Twins",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789429200,
-        "start_time_local": "14 Sep 2026, 11:40 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1105461730,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "san-francisco-giants-vs-st-louis-cardinals-1105461730",
-      "title": "San Francisco Giants vs St. Louis Cardinals",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "San Francisco Giants",
-        "away_name": "St. Louis Cardinals",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789429500,
-        "start_time_local": "14 Sep 2026, 11:45 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1720316459,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "san-diego-padres-vs-colorado-rockies-1720316459",
-      "title": "San Diego Padres vs Colorado Rockies",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "San Diego Padres",
-        "away_name": "Colorado Rockies",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789432800,
-        "start_time_local": "15 Sep 2026, 12:40 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1398770320,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "seattle-mariners-vs-los-angeles-angels-1398770320",
-      "title": "Seattle Mariners vs Los Angeles Angels",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Seattle Mariners",
-        "away_name": "Los Angeles Angels",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789436100,
-        "start_time_local": "15 Sep 2026, 01:35 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1820444129,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "miami-marlins-vs-arizona-diamondbacks-1820444129",
-      "title": "Miami Marlins vs Arizona Diamondbacks",
-      "status": "NS",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Miami Marlins",
-        "away_name": "Arizona Diamondbacks",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789436400,
-        "start_time_local": "15 Sep 2026, 01:40 AM",
         "countdown_seconds": null
       },
       "streams": []
