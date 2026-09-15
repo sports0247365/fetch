@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "3:47:24 PM 15-09-2026"
+    "last_update_time": "4:02:28 PM 15-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90e4b95d79ffdae276b408/chunks.m3u8?is_vip=false&token=1789552047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ca94fb70383567f1956ccf0cb08eea6f",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90e4b95d79ffdae276b408/chunks.m3u8?is_vip=false&token=1789552950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-029e76df2b7ca0624b8af787ae68fc15",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,7 +59,186 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789552048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-263c028d7469bc4e6b38e6b13f3f47c2",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789552952-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-12d4434d2a71ac1faca6b5126d6f5917",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1689876252,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "daejeon-citizen-vs-kyoto-sanga-1689876252",
+      "title": "Daejeon Citizen vs Kyoto Sanga",
+      "status": "1H",
+      "league": {
+        "league_name": "AFC Champions League Elite",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/17.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Daejeon Citizen",
+        "away_name": "Kyoto Sanga",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/17.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789466400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ae4-fancode/chunks.m3u8?is_vip=false&token=1789552957-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-47154f699eca2f929cd689575e139d7b",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ae4/chunks.m3u8?is_vip=false&token=1789552958-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-84d142654d1f0293321b0c5cdf05c2f9",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1597376847,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "gamba-osaka-vs-c-ng-an-nh-n-d-n-1597376847",
+      "title": "Gamba Osaka vs Công An Nhân Dân",
+      "status": "1H",
+      "league": {
+        "league_name": "AFC Champions League Elite",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/17.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Gamba Osaka",
+        "away_name": "Công An Nhân Dân",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/17.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789466400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ae6-fancode/chunks.m3u8?is_vip=false&token=1789552960-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c8e4102460b4f04a00453dcbc782a203",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ae6/chunks.m3u8?is_vip=false&token=1789552961-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d95f048bf1fb5e21894e30cadef06773",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1808844875,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "kashima-vs-newcastle-jets-1808844875",
+      "title": "Kashima vs Newcastle Jets",
+      "status": "1H",
+      "league": {
+        "league_name": "AFC Champions League Elite",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/17.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Kashima",
+        "away_name": "Newcastle Jets",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/17.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789466400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ae5-fancode/chunks.m3u8?is_vip=false&token=1789552963-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-760f3111388f2e2e8642e91e28602e56",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ae5/chunks.m3u8?is_vip=false&token=1789552964-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d23c642422ed5ecd4654ea37c6fcb399",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1798930956,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "ratchaburi-vs-shanghai-sipg-1798930956",
+      "title": "Ratchaburi vs SHANGHAI SIPG",
+      "status": "LIVE",
+      "league": {
+        "league_name": "AFC Champions League Elite",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/17.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Ratchaburi",
+        "away_name": "SHANGHAI SIPG",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/17.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789466400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ae7-fancode/chunks.m3u8?is_vip=false&token=1789552966-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e7b83a1ab4238f08f74544a34ef6fbb2",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ae7/chunks.m3u8?is_vip=false&token=1789552967-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-022c5ba9f3d8d007cfcaf964e1e79187",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1325632265,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "vietnam-u23-vs-kuwait-u23-1325632265",
+      "title": "Vietnam U23 vs Kuwait U23",
+      "status": "1H",
+      "league": {
+        "league_name": "Asian Games",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Vietnam U23",
+        "away_name": "Kuwait U23",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789466400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ae3/chunks.m3u8?is_vip=false&token=1789552969-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-78b9a03d10a52994d6365190b25057e0",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -213,25 +392,25 @@
       "streams": []
     },
     {
-      "match_id": 1528388956,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "qatar-u23-vs-korea-republic-u23-1528388956",
-      "title": "Qatar U23 vs Korea Republic U23",
+      "match_id": 1867750496,
+      "sport_name": "Cycling",
+      "sport_id": 20,
+      "slug": "es1-giro-d-abruzzo-stage-1-1867750496",
+      "title": "ES1, Giro d'Abruzzo, Stage 1",
       "status": "NS",
       "league": {
-        "league_name": "Asian Games",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png"
+        "league_name": "UCI Pro Series",
+        "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Qatar U23",
-        "away_name": "Korea Republic U23",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png"
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1789468200,
-        "start_time_local": "15 Sep 2026, 10:30 AM",
+        "start_time_timestamp": 1789471800,
+        "start_time_local": "15 Sep 2026, 11:30 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -597,49 +776,25 @@
       "streams": []
     },
     {
-      "match_id": 1867750496,
-      "sport_name": "Cycling",
-      "sport_id": 20,
-      "slug": "es1-giro-d-abruzzo-stage-1-1867750496",
-      "title": "ES1, Giro d'Abruzzo, Stage 1",
+      "match_id": 1814999575,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "fc-seoul-vs-persib-bandung-1814999575",
+      "title": "FC Seoul vs Persib Bandung",
       "status": "NS",
       "league": {
-        "league_name": "UCI Pro Series",
-        "league_logo": ""
+        "league_name": "AFC Champions League Two",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/18.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+        "home_name": "FC Seoul",
+        "away_name": "Persib Bandung",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/18.png"
       },
       "timing": {
-        "start_time_timestamp": 1789471800,
-        "start_time_local": "15 Sep 2026, 11:30 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1229468596,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "castle-rockers-vs-dockers-1229468596",
-      "title": "Castle Rockers vs Dockers",
-      "status": "NS",
-      "league": {
-        "league_name": "ETPL",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Castle Rockers",
-        "away_name": "Dockers",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789478100,
-        "start_time_local": "15 Sep 2026, 01:15 PM",
+        "start_time_timestamp": 1789552800,
+        "start_time_local": "16 Sep 2026, 10:00 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -662,8 +817,8 @@
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1789479000,
-        "start_time_local": "15 Sep 2026, 01:30 PM",
+        "start_time_timestamp": 1789480800,
+        "start_time_local": "15 Sep 2026, 02:00 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -688,6 +843,30 @@
       "timing": {
         "start_time_timestamp": 1789488000,
         "start_time_local": "15 Sep 2026, 04:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1436001112,
+      "sport_name": "Tennis",
+      "sport_id": 5,
+      "slug": "wta-guadalajara-1436001112",
+      "title": "WTA Guadalajara",
+      "status": "NS",
+      "league": {
+        "league_name": "WTA Guadalajara",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789495200,
+        "start_time_local": "15 Sep 2026, 06:00 PM",
         "countdown_seconds": null
       },
       "streams": []
