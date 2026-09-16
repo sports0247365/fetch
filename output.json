@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "4:17:25 AM 17-09-2026"
+    "last_update_time": "4:32:23 AM 17-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,38 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789683448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c1acc38e964a6588118414d5232771a1",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789684344-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-36da83ba66c52685765b4f8d4e0a7c46",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1374305645,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "hartford-athletic-vs-sporting-jax-1374305645",
+      "title": "Hartford Athletic vs Sporting JAX",
+      "status": "1H",
+      "league": {
+        "league_name": "USL Championship",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/255.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Hartford Athletic",
+        "away_name": "Sporting JAX",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/255.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789596000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b1212bd56ad3e896dc40f/chunks.m3u8?is_vip=false&token=1789684348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3f6f230d9a5f167754c1544da34d4aa9",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,7 +90,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c098fd629e492f245bac/chunks.m3u8?is_vip=false&token=1789683452-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4311069e5a0df9c70cecaec1195cec8c",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c098fd629e492f245bac/chunks.m3u8?is_vip=false&token=1789684351-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2554cd4f2ce3797c65deed94d6cd582a",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -90,7 +121,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b1212bd56ad3e896dc407/chunks.m3u8?is_vip=false&token=1789683454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0b9929c39cf3562082622b81ff2c7fb2",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b1212bd56ad3e896dc407/chunks.m3u8?is_vip=false&token=1789684353-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-914b4e6885b88af8a59aeb33910a95f7",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -121,7 +152,38 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa31368bd56ad3e8957d87f/chunks.m3u8?is_vip=false&token=1789683456-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aaeb8b445d2dc5b28b40f8f33c5deeea",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa31368bd56ad3e8957d87f/chunks.m3u8?is_vip=false&token=1789684355-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d086d6f9d41447f50814a636ff2022f6",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1658725669,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "botafogo-vs-gremio-1658725669",
+      "title": "Botafogo vs Gremio",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Serie A",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/71.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Botafogo",
+        "away_name": "Gremio",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/71.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789597800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4a787ed06bfc509447b8b1-fhd/chunks.m3u8?is_vip=false&token=1789684357-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f009cc00076d8fd56bf1d34332d46cbe",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -152,7 +214,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1789683459-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-128c983b75d3930de9fa3f75a1bad9e3",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1789684358-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-57a45852a096caa851f335f57c73af35",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -183,7 +245,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1789683458-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-85f6d93b8a9f91592ca58fbdaf4d040c",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1789684359-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-15fa45a87fd29e3da335c5517a90a543",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -214,7 +276,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1789683458-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5d45cb2d25f8fac98b77d8637d0b4bc4",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1789684361-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e36e855ef49a3b4aef6020e9642832c8",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -245,14 +307,14 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1789683459-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-76ce700d05055c3c3e363c62aee5fa6b",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1789684362-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b8b94340c1af70059cef5dbea99e3ed4",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 72,
+  "total_upcoming_matches": 67,
   "upcoming_matches": [
     {
       "match_id": 1381646374,
@@ -658,126 +720,6 @@
       "timing": {
         "start_time_timestamp": 1789672200,
         "start_time_local": "17 Sep 2026, 07:10 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1532398163,
-      "sport_name": "Tennis",
-      "sport_id": 5,
-      "slug": "columbus-crew-vs-orlando-city-sc-1532398163",
-      "title": "Columbus Crew vs Orlando City SC",
-      "status": "NS",
-      "league": {
-        "league_name": "US Open Cup",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/257.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Columbus Crew",
-        "away_name": "Orlando City SC",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/257.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789599600,
-        "start_time_local": "16 Sep 2026, 11:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1051947420,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "chattanooga-red-wolves-vs-forward-madison-1051947420",
-      "title": "Chattanooga Red Wolves vs Forward Madison",
-      "status": "NS",
-      "league": {
-        "league_name": "USL League One",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/489.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Chattanooga Red Wolves",
-        "away_name": "Forward Madison",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/489.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789599600,
-        "start_time_local": "16 Sep 2026, 11:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1024053274,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "westchester-sc-vs-richmond-kickers-1024053274",
-      "title": "Westchester SC vs Richmond Kickers",
-      "status": "NS",
-      "league": {
-        "league_name": "USL League One",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/489.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Westchester SC",
-        "away_name": "Richmond Kickers",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/489.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789599600,
-        "start_time_local": "16 Sep 2026, 11:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1546857930,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "real-monarchs-vs-minnesota-united-ii-1546857930",
-      "title": "Real Monarchs vs Minnesota United II",
-      "status": "NS",
-      "league": {
-        "league_name": "MLS Next Pro",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/909.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Real Monarchs",
-        "away_name": "Minnesota United II",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/909.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789599600,
-        "start_time_local": "16 Sep 2026, 11:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1167358759,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "cf-montreal-vs-vancouver-whitecaps-1167358759",
-      "title": "CF Montreal vs Vancouver Whitecaps",
-      "status": "NS",
-      "league": {
-        "league_name": "Canadian Championship",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/259.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "CF Montreal",
-        "away_name": "Vancouver Whitecaps",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/259.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789599600,
-        "start_time_local": "16 Sep 2026, 11:00 PM",
         "countdown_seconds": null
       },
       "streams": []
