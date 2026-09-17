@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "3:47:24 PM 17-09-2026"
+    "last_update_time": "4:02:29 PM 17-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789724846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-92955df58b13af93c686d9a6faf26657",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789725750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8cb3d4be5660dce79221c628ef3478d9",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,7 +59,118 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789724848-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b36409c839ec61353e678231d2c8f0de",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789725752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-540a94d750d8ee7ad3ebd3ecbbdd0fe7",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1136014178,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "adelaide-united-vs-wofoo-tai-po-1136014178",
+      "title": "Adelaide United vs Wofoo Tai Po",
+      "status": "LIVE",
+      "league": {
+        "league_name": "AFC Champions League Two",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/18.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Adelaide United",
+        "away_name": "Wofoo Tai Po",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/18.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789639200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b1212bd56ad3e896dc420-fancode/chunks.m3u8?is_vip=false&token=1789725754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bfdad736a36531d4f053b10d25a86d4c",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b1212bd56ad3e896dc420/chunks.m3u8?is_vip=false&token=1789725755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4f6636c69469d9f448f5c559901dc971",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1163821781,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "home-united-vs-bg-pathum-united-1163821781",
+      "title": "Home United vs BG Pathum United",
+      "status": "1H",
+      "league": {
+        "league_name": "AFC Champions League Two",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/18.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Home United",
+        "away_name": "BG Pathum United",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/18.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789639200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b1212bd56ad3e896dc41f-fancode/chunks.m3u8?is_vip=false&token=1789725758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-873599dd3868a85e1f7198cc7a3034af",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b1212bd56ad3e896dc41f/chunks.m3u8?is_vip=false&token=1789725759-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7c9f2d1f919c82287988e49df0d5a928",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1059147418,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "machida-zelvia-vs-svay-rieng-1059147418",
+      "title": "Machida Zelvia vs Svay Rieng",
+      "status": "1H",
+      "league": {
+        "league_name": "AFC Champions League Two",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/18.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Machida Zelvia",
+        "away_name": "Svay Rieng",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/18.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789639200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b1212bd56ad3e896dc41e-fancode/chunks.m3u8?is_vip=false&token=1789725762-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bb39d0691f388c3f8c18e165950ac5f9",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b1212bd56ad3e896dc41e/chunks.m3u8?is_vip=false&token=1789725762-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-49f25204160fe2fcee66bcc13e9dc785",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
