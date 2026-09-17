@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "9:17:26 PM 17-09-2026"
+    "last_update_time": "9:32:25 PM 17-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a980/chunks.m3u8?is_vip=false&token=1789744648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d58abe4c9b3aab72c8205b725b0610f3",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a980/chunks.m3u8?is_vip=false&token=1789745548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f091fb89325a2ca43e497bf0bf4dcac2",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,14 +59,107 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789744650-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f23bae1e4b65c895c7904cbedfc89cf8",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789745549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b4f7096e2560082a1e21cffec09eb8cb",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1426748043,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "akron-vs-akhmat-1426748043",
+      "title": "Akron vs Akhmat",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Premier League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/235.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Akron",
+        "away_name": "Akhmat",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/235.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789659000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a987-fhd/chunks.m3u8?is_vip=false&token=1789745551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d97b771bc2f283084ac304b3678a9df1",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1791198402,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "fc-rostov-vs-dynamo-1791198402",
+      "title": "FC Rostov vs Dynamo",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Premier League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/235.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "FC Rostov",
+        "away_name": "Dynamo",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/235.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789659000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a986-backup/chunks.m3u8?is_vip=false&token=1789745555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-014373694ea283a791c5488e8f836ebb",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1204774358,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "england-vs-sri-lanka-1204774358",
+      "title": "England vs Sri Lanka",
+      "status": "LIVE",
+      "league": {
+        "league_name": "2nd T20I",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "England",
+        "away_name": "Sri Lanka",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789660800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789745557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f4e8e3db47d65d28d9c572d04e591dda",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 81,
+  "total_upcoming_matches": 78,
   "upcoming_matches": [
     {
       "match_id": 1381646374,
@@ -189,49 +282,25 @@
       "streams": []
     },
     {
-      "match_id": 1090635605,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "nizhny-novgorod-vs-leningradets-1090635605",
-      "title": "Nizhny Novgorod vs Leningradets",
+      "match_id": 1141835643,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "tba-vs-tba-1141835643",
+      "title": "TBA vs TBA",
       "status": "NS",
       "league": {
-        "league_name": "First League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
+        "league_name": "CPL",
+        "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Nizhny Novgorod",
-        "away_name": "Leningradets",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
+        "home_name": "TBA",
+        "away_name": "TBA",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1789660800,
-        "start_time_local": "17 Sep 2026, 04:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1770203434,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "torpedo-moskva-vs-veles-1770203434",
-      "title": "Torpedo Moskva vs Veles",
-      "status": "NS",
-      "league": {
-        "league_name": "First League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Torpedo Moskva",
-        "away_name": "Veles",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789660800,
-        "start_time_local": "17 Sep 2026, 04:00 PM",
+        "start_time_timestamp": 1789689600,
+        "start_time_local": "18 Sep 2026, 12:00 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -1288,54 +1357,6 @@
       "timing": {
         "start_time_timestamp": 1789740000,
         "start_time_local": "18 Sep 2026, 02:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1204774358,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "england-vs-sri-lanka-1204774358",
-      "title": "England vs Sri Lanka",
-      "status": "NS",
-      "league": {
-        "league_name": "2nd T20I",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "England",
-        "away_name": "Sri Lanka",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789660800,
-        "start_time_local": "17 Sep 2026, 04:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1141835643,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "tba-vs-tba-1141835643",
-      "title": "TBA vs TBA",
-      "status": "NS",
-      "league": {
-        "league_name": "CPL",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "TBA",
-        "away_name": "TBA",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789689600,
-        "start_time_local": "18 Sep 2026, 12:00 AM",
         "countdown_seconds": null
       },
       "streams": []
