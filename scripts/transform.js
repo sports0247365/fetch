@@ -6,10 +6,18 @@ const crypto = require("crypto");
 const SOURCE_URL =
   "https://raw.githubusercontent.com/srhady/bingstream/main/playlist.json";
 
+// crichd.py ye file generate karta hai (OUTPUT_JSON). Path apne setup ke
+// hisab se adjust kar lein agar crichd.py kisi aur folder mein hai.
+const CRICHD_MATCHES_PATH = path.join(__dirname, "matches.json");
+
 const OUTPUT_PATH = path.join(__dirname, "..", "output.json");
 
 const DEFAULT_LOGO =
   "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png";
+
+// crichd match live maana jayega agar start time ho chuka ho aur is window
+// (ghanton mein) ke andar ho. Test/ODI lambe hote hain isliye 8 ghante default.
+const CRICHD_LIVE_WINDOW_HOURS = 8;
 
 // ---------- Generic sport IDs ----------
 const SPORT_ID_MAP = {
@@ -37,8 +45,6 @@ const SPORT_ID_MAP = {
 };
 const DEFAULT_SPORT_ID = 99;
 
-// Agar Category field mein already ek generic sport ka naam ho, to
-// usay seedha use kar liya jayega (case-insensitive match)
 const KNOWN_GENERIC_SPORTS = Object.keys(SPORT_ID_MAP);
 
 // Tournament/League/Category ke naam mein ye keyword mile to us sport
@@ -302,34 +308,25 @@ async function fetchSourceJson(url) {
   return res.json();
 }
 
-// Kuch sport names acronym hain (jaise MMA), inhe pura uppercase rakhna hai
-const ACRONYM_SPORT_NAMES = {
-  mma: "MMA",
-};
+const ACRONYM_SPORT_NAMES = { mma: "MMA" };
 
 function capitalizeWords(text) {
   const lower = (text || "").toLowerCase().trim();
-  if (ACRONYM_SPORT_NAMES[lower]) {
-    return ACRONYM_SPORT_NAMES[lower];
-  }
+  if (ACRONYM_SPORT_NAMES[lower]) return ACRONYM_SPORT_NAMES[lower];
   return (text || "")
     .split(" ")
     .map((w) => (w.length ? w[0].toUpperCase() + w.slice(1) : w))
     .join(" ");
 }
 
-// Text ko normalize karta hai: lowercase + spaces/hyphens/underscores hata deta hai
-// Taake "World Cup", "WorldCup", "World-Cup", "WORLD_CUP" sab ek jaisay match hon
 function normalize(text) {
   return (text || "").toLowerCase().replace(/[^a-z0-9]/g, "");
 }
 
-// Category aur League dono se dekh kar sahi generic sport pehchanta hai
 function classifySport(category, league) {
   const catLower = (category || "").toLowerCase().trim();
   const leagueLower = (league || "").toLowerCase().trim();
 
-  // Case 1: Category already ek generic sport ka naam hai
   if (KNOWN_GENERIC_SPORTS.includes(catLower)) {
     return {
       sportName: capitalizeWords(category),
@@ -337,10 +334,8 @@ function classifySport(category, league) {
     };
   }
 
-  // Case 2: Category ya League mein koi known tournament keyword dhoondein
-  // (normalized - spaces/hyphens/case ka farq nahi padega)
   const searchTextNormalized = normalize(`${category} ${league}`);
-  const searchTextRaw = `${catLower} ${leagueLower}`; // regex patterns ke liye (word boundaries)
+  const searchTextRaw = `${catLower} ${leagueLower}`;
 
   for (const [keyword, sport] of LEAGUE_KEYWORDS) {
     let isMatch;
@@ -357,8 +352,6 @@ function classifySport(category, league) {
     }
   }
 
-  // Case 3: Kuch match nahi mila - Category ko hi sport_name maan lein
-  // (fallback, taake data drop na ho)
   return {
     sportName: category ? capitalizeWords(category) : "Other",
     leagueName: league && league.trim() ? league : category || "Unknown League",
@@ -385,7 +378,6 @@ function getSportId(sportName) {
   return SPORT_ID_MAP[key] ?? DEFAULT_SPORT_ID;
 }
 
-// Unix timestamp (seconds) ko readable local time mein badalta hai
 function formatLocalTime(dateObj) {
   const dd = String(dateObj.getDate()).padStart(2, "0");
   const mon = MONTH_NAMES[dateObj.getMonth()];
@@ -401,7 +393,6 @@ function formatLocalTime(dateObj) {
   return `${dd} ${mon} ${yyyy}, ${hhStr}:${mm} ${ampm}`;
 }
 
-// Naya source "start_at" already unix timestamp (seconds) mein deta hai
 function buildTiming(isLive, startAt) {
   if (isLive) {
     return {
@@ -429,24 +420,23 @@ function buildTiming(isLive, startAt) {
 function transformStream(stream, referer) {
   return {
     server_name: stream.display_name || stream.stream_name || "",
-    // play_url <- SIRF videoURL (stream_link fallback nahi)
     play_url: stream.videoURL || "",
     is_new_format: !!stream.videoURL,
     required_referer: referer || null,
   };
 }
 
+// ============ GITHUB SOURCE (playlist.json) ============
+
 function transformMatch(m) {
   const title = m.name || "Unknown Match";
   const matchId = generateMatchId(title);
 
-  // isLive live-detection ke liye (timing/filter mein use hota hai)
   const isLive = m.is_playing === true;
   const referer = m.referer || null;
 
   const { sportName } = classifySport(null, m.league_name);
 
-  // teams: source deta hai; agar khali ho to title ko "vs" par split kar lo
   let home = m.localteam_name || "";
   let away = m.visitorteam_name || "";
   if ((!home || !away) && /\svs\s/i.test(title)) {
@@ -460,31 +450,28 @@ function transformMatch(m) {
     sport_name: sportName,
     sport_id: getSportId(sportName),
     slug: slugify(title, matchId),
-    title: title, // <- name
-    status: m.status || "NS", // <- status
+    title: title,
+    status: m.status || "NS",
     league: {
-      league_name: m.league_name || "", // <- league_name
-      league_logo: m.league_logo || "", // <- league_logo
+      league_name: m.league_name || "",
+      league_logo: m.league_logo || "",
     },
     venue: "TBA",
     teams: {
       home_name: home || "Unknown",
       away_name: away || "Unknown",
-      // combined_logo ab league_logo se pick hota hai (agar available ho),
-      // warna DEFAULT_LOGO fallback ke tor par use hota hai
       combined_logo: m.league_logo || DEFAULT_LOGO,
     },
-    timing: buildTiming(isLive, m.start_at), // <- start_at
+    timing: buildTiming(isLive, m.start_at),
     streams: Array.isArray(m.link_live)
       ? m.link_live
-          .filter((s) => s.videoURL) // sirf woh streams jinke paas videoURL hai
-          .map((s) => transformStream(s, referer)) // play_url <- videoURL, required_referer <- referer
+          .filter((s) => s.videoURL)
+          .map((s) => transformStream(s, referer))
       : [],
   };
 }
 
 function transformPlaylist(data) {
-  const info = data.playlist_info || {};
   const matches = Array.isArray(data.matches) ? data.matches : [];
 
   const liveMatches = matches
@@ -495,33 +482,123 @@ function transformPlaylist(data) {
     .filter((m) => m.is_playing !== true)
     .map(transformMatch);
 
+  return { liveMatches, upcomingMatches, lastUpdateTime: (data.playlist_info || {}).last_update_time || null };
+}
+
+// ============ CRICHD SOURCE (matches.json) ============
+
+// crichd date/time GMT+0 mein hote hain: "DD-MM-YYYY" + "HH:MM" (24hr)
+function crichdStartTimestamp(dateStr, timeStr) {
+  if (!dateStr || !timeStr) return null;
+
+  const dateParts = dateStr.split("-").map((x) => parseInt(x, 10));
+  const timeParts = timeStr.split(":").map((x) => parseInt(x, 10));
+  if (dateParts.length !== 3 || timeParts.length < 2) return null;
+
+  const [dd, mm, yyyy] = dateParts;
+  const [hh, min] = timeParts;
+  if ([dd, mm, yyyy, hh, min].some((n) => Number.isNaN(n))) return null;
+
+  const utcMs = Date.UTC(yyyy, mm - 1, dd, hh, min, 0);
+  return Math.floor(utcMs / 1000);
+}
+
+function crichdIsLive(startAt) {
+  if (!startAt) return false;
+  const nowSec = Math.floor(Date.now() / 1000);
+  const windowSec = CRICHD_LIVE_WINDOW_HOURS * 3600;
+  return nowSec >= startAt && nowSec <= startAt + windowSec;
+}
+
+function transformCrichdMatch(m) {
+  const title = m.title || "Unknown Match";
+  const matchId = generateMatchId(title);
+
+  const startAt = crichdStartTimestamp(m.date, m.time);
+  const isLive = crichdIsLive(startAt);
+
+  const homeName = (m.teams && m.teams.team1 && m.teams.team1.name) || "Unknown";
+  const awayName = (m.teams && m.teams.team2 && m.teams.team2.name) || "TBA";
+
+  // watch_url ki jitni entries hain, utni hi play_url wali stream entries banengi
+  const streams = Array.isArray(m.streams)
+    ? m.streams
+        .filter((s) => s.watch_url)
+        .map((s) => ({
+          server_name: s.channel || "",
+          play_url: s.watch_url,
+          is_new_format: true,
+          required_referer: null,
+        }))
+    : [];
+
   return {
-    playlist_info: {
-      last_update_time: info.last_update_time || null,
+    match_id: matchId,
+    sport_name: "Cricket",
+    sport_id: getSportId("cricket"),
+    slug: slugify(title, matchId),
+    title: title,
+    status: isLive ? "LIVE" : "NS",
+    league: {
+      league_name: m.league || "",
+      league_logo: m.icon || "",
     },
-    live_matches: liveMatches,
-    total_upcoming_matches: upcomingMatches.length,
-    upcoming_matches: upcomingMatches,
+    venue: "TBA",
+    teams: {
+      home_name: homeName,
+      away_name: awayName,
+      combined_logo: m.icon || DEFAULT_LOGO,
+    },
+    timing: buildTiming(isLive, startAt),
+    streams: streams,
   };
 }
 
+function loadCrichdMatches() {
+  if (!fs.existsSync(CRICHD_MATCHES_PATH)) {
+    console.log(`[crichd] ${CRICHD_MATCHES_PATH} nahi mili, crichd data skip kar raha hoon.`);
+    return { liveMatches: [], upcomingMatches: [] };
+  }
+
+  const raw = fs.readFileSync(CRICHD_MATCHES_PATH, "utf-8");
+  const data = JSON.parse(raw);
+  const matches = Array.isArray(data) ? data : [];
+
+  const transformed = matches.map(transformCrichdMatch);
+  const liveMatches = transformed.filter((m) => m.status === "LIVE");
+  const upcomingMatches = transformed.filter((m) => m.status !== "LIVE");
+
+  return { liveMatches, upcomingMatches };
+}
+
+// ============ MERGE + MAIN ============
+
 async function main() {
   try {
-    console.log("Fetching source JSON...");
+    console.log("Fetching GitHub source JSON...");
     const sourceData = await fetchSourceJson(SOURCE_URL);
+    const github = transformPlaylist(sourceData);
 
-    console.log("Transforming to app model format...");
-    const transformed = transformPlaylist(sourceData);
+    console.log("Loading crichd matches.json...");
+    const crichd = loadCrichdMatches();
 
-    fs.writeFileSync(
-      OUTPUT_PATH,
-      JSON.stringify(transformed, null, 2),
-      "utf-8"
-    );
+    const liveMatches = [...github.liveMatches, ...crichd.liveMatches];
+    const upcomingMatches = [...github.upcomingMatches, ...crichd.upcomingMatches];
+
+    const finalOutput = {
+      playlist_info: {
+        last_update_time: github.lastUpdateTime,
+      },
+      live_matches: liveMatches,
+      total_upcoming_matches: upcomingMatches.length,
+      upcoming_matches: upcomingMatches,
+    };
+
+    fs.writeFileSync(OUTPUT_PATH, JSON.stringify(finalOutput, null, 2), "utf-8");
 
     console.log(`Saved to ${OUTPUT_PATH}`);
-    console.log(`Live matches: ${transformed.live_matches.length}`);
-    console.log(`Upcoming matches: ${transformed.upcoming_matches.length}`);
+    console.log(`Live matches: ${finalOutput.live_matches.length} (crichd: ${crichd.liveMatches.length})`);
+    console.log(`Upcoming matches: ${finalOutput.upcoming_matches.length} (crichd: ${crichd.upcomingMatches.length})`);
   } catch (err) {
     console.error("Error:", err.message);
     process.exit(1);
