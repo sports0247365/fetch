@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "10:32:23 AM 17-09-2026"
+    "last_update_time": "10:47:23 AM 17-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55848/720p/chunks.m3u8?is_vip=false&token=1789705945-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-418ce86f3362ab5d8b4ea2242eacfdc2",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55848/720p/chunks.m3u8?is_vip=false&token=1789706843-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8f5abc7748e2f0a4c86384ba803a1b36",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,7 +59,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a98f7defbc4c8ef09f21fcf/chunks.m3u8?is_vip=false&token=1789705947-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3730b53253ed83fa708e967dbfed1cb8",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a98f7defbc4c8ef09f21fcf/chunks.m3u8?is_vip=false&token=1789706845-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a4cf7f01e3b33e900b2da2f12e6f2997",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -90,7 +90,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789705950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-157cbdcd2de32d180ac4db6ee8c5a51f",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789706849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-700b3277a215c0c7e57d74d03d88dacb",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -121,7 +121,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789705952-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c5becff56c091ebe1467f3f663e72b72",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789706850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-da9c1c0ebef7d6023f13159956c3080c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -251,6 +251,30 @@
       "streams": []
     },
     {
+      "match_id": 1434931222,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "counties-manukau-vs-otago-1434931222",
+      "title": "Counties Manukau vs Otago",
+      "status": "NS",
+      "league": {
+        "league_name": "NPC",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Counties Manukau",
+        "away_name": "Otago",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789628400,
+        "start_time_local": "17 Sep 2026, 07:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
       "match_id": 1265379014,
       "sport_name": "Cricket",
       "sport_id": 3,
@@ -366,30 +390,6 @@
       "timing": {
         "start_time_timestamp": 1789689600,
         "start_time_local": "18 Sep 2026, 12:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1434931222,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "counties-manukau-vs-otago-1434931222",
-      "title": "Counties Manukau vs Otago",
-      "status": "NS",
-      "league": {
-        "league_name": "NPC",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Counties Manukau",
-        "away_name": "Otago",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789628400,
-        "start_time_local": "17 Sep 2026, 07:00 AM",
         "countdown_seconds": null
       },
       "streams": []
