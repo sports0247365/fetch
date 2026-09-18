@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "8:47:22 AM 18-09-2026"
+    "last_update_time": "9:02:22 AM 18-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789786042-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e60377dc446fb06533656dfddc175974",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789786943-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9d46329fa067707072369966f4b40594",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,7 +59,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789786044-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cb4ca4391d6b99233e58e6960a9aecaa",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789786945-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b9bc7cf9609bd8f1aaddeb5349c1720f",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -90,7 +90,38 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52455/720p/chunks.m3u8?is_vip=false&token=1789786046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4216ade808bb3e33f0c13a11b2f22729",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52455/720p/chunks.m3u8?is_vip=false&token=1789786946-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0d2f88cfbb9aaf8a84f50e1a38480268",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1624541670,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "durango-vs-cruz-azul-hidalgo-1624541670",
+      "title": "Durango vs Cruz Azul Hidalgo",
+      "status": "2H",
+      "league": {
+        "league_name": "Liga de Expansión MX",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/263.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Durango",
+        "away_name": "Cruz Azul Hidalgo",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/263.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789693200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f3885f6/chunks.m3u8?is_vip=false&token=1789786948-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-31e4171eb1440be3d4c35710d4ab2176",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -121,14 +152,45 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/510825/720p/chunks.m3u8?is_vip=false&token=1789786047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a3383371acff51556a75a8b4d4dbe058",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/510825/720p/chunks.m3u8?is_vip=false&token=1789786949-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a6b99193ae3b1f654071115d0be16d7f",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1373766910,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "cd-olimpia-vs-firpo-1373766910",
+      "title": "CD Olimpia vs Firpo",
+      "status": "LIVE",
+      "league": {
+        "league_name": "CONCACAF Central American Cup",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1028.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "CD Olimpia",
+        "away_name": "Firpo",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/1028.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789701300,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9905ea5c0020a997b4adeb/chunks.m3u8?is_vip=false&token=1789786952-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-39000a45326eae3f46862670758f1149",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 114,
+  "total_upcoming_matches": 117,
   "upcoming_matches": [
     {
       "match_id": 1106312428,
@@ -1010,6 +1072,30 @@
         "home_name": "VfL Wolfsburg",
         "away_name": "SV Darmstadt 98",
         "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/79.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789749000,
+        "start_time_local": "18 Sep 2026, 04:30 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1860706791,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "1899-hoffenheim-w-vs-vfl-wolfsburg-w-1860706791",
+      "title": "1899 Hoffenheim W vs VfL Wolfsburg W",
+      "status": "NS",
+      "league": {
+        "league_name": "Frauen Bundesliga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/82.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "1899 Hoffenheim W",
+        "away_name": "VfL Wolfsburg W",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/82.png"
       },
       "timing": {
         "start_time_timestamp": 1789749000,
@@ -1974,6 +2060,54 @@
       "timing": {
         "start_time_timestamp": 1789779600,
         "start_time_local": "19 Sep 2026, 01:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1487089968,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "san-diego-wave-w-vs-kansas-city-w-1487089968",
+      "title": "San Diego Wave W vs Kansas City W",
+      "status": "NS",
+      "league": {
+        "league_name": "NWSL Women",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/254.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "San Diego Wave W",
+        "away_name": "Kansas City W",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/254.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789783200,
+        "start_time_local": "19 Sep 2026, 02:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1636484072,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "fc-juarez-vs-tigres-uanl-1636484072",
+      "title": "FC Juarez vs Tigres UANL",
+      "status": "NS",
+      "league": {
+        "league_name": "Liga MX",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/262.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "FC Juarez",
+        "away_name": "Tigres UANL",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/262.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789786800,
+        "start_time_local": "19 Sep 2026, 03:00 AM",
         "countdown_seconds": null
       },
       "streams": []
