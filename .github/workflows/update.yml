@@ -16,28 +16,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install Python deps
-        run: pip install requests
-
-      # ⚠️ Ye step naya hai: crichd.py chala kar scripts/matches.json banata hai,
-      # taake transform.js ke paas merge karne ke liye crichd ka data ho.
-      - name: Run crichd scraper (generates scripts/matches.json)
-        run: python scripts/crichd.py
-
       - name: Run transform script
         run: node scripts/transform.js
-
       - name: Commit and force push
         run: |
           git config user.name "github-actions[bot]"
