@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "4:32:25 PM 20-09-2026"
+    "last_update_time": "4:47:57 PM 20-09-2026"
   },
   "live_matches": [
     {
@@ -9,7 +9,7 @@
       "sport_id": 1,
       "slug": "fiorentina-vs-napoli-1595155608",
       "title": "Fiorentina vs Napoli",
-      "status": "LIVE",
+      "status": "1H",
       "league": {
         "league_name": "Serie A",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/135.png"
@@ -27,113 +27,26 @@
       },
       "streams": [
         {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/138846/720p/chunks.m3u8?is_vip=false&token=1789987679-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8dadccbe1790440716eee6d5ea44c0e5",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
           "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b81-hd/chunks.m3u8?is_vip=false&token=1789986746-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d88bb41ef617e44573cbb89e104c5964",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b81-hd/chunks.m3u8?is_vip=false&token=1789987680-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d90b77a4a069cc1b741dad20e15d995b",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b81-fhd/chunks.m3u8?is_vip=false&token=1789986748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eac194447d1c8cc9897f14da3869ded6",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b81-fhd/chunks.m3u8?is_vip=false&token=1789987683-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-805534a93c3aa53bc54cda0e11ae3472",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b81/chunks.m3u8?is_vip=false&token=1789986749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-85717472dbbf1b7c68fa52478cf6f7f6",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1039229717,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "granad-tenerife-w-vs-sevilla-w-1039229717",
-      "title": "Granad. Tenerife W vs Sevilla W",
-      "status": "1H",
-      "league": {
-        "league_name": "Primera División Femenina",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/142.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Granad. Tenerife W",
-        "away_name": "Sevilla W",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/142.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789898400,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f0698daf8f9c59c061d94-fhd/chunks.m3u8?is_vip=false&token=1789986750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-471c3f7b40305e8fcf50fe73d1ee5065",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1063843605,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "korea-dpr-u23-vs-uae-u23-1063843605",
-      "title": "Korea DPR U23 vs UAE U23",
-      "status": "1H",
-      "league": {
-        "league_name": "Asian Games",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Korea DPR U23",
-        "away_name": "UAE U23",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789898400,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b53/chunks.m3u8?is_vip=false&token=1789986752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-382da353d4ed4dbdc476ba89bf1f1876",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1755335432,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "novosibirsk-vs-kaluga-1755335432",
-      "title": "Novosibirsk vs Kaluga",
-      "status": "1H",
-      "league": {
-        "league_name": "Second League A - Division A Gold",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1025.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Novosibirsk",
-        "away_name": "Kaluga",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/1025.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789898400,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522fd629e492f4abcfb/chunks.m3u8?is_vip=false&token=1789986754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a833424660ba75689b6ed1598b17b86d",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b81/chunks.m3u8?is_vip=false&token=1789987683-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1fa2088cb6ac8da6cafb255c1b1b02a2",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -145,7 +58,7 @@
       "sport_id": 1,
       "slug": "incheon-united-vs-daejeon-citizen-1554152727",
       "title": "Incheon United vs Daejeon Citizen",
-      "status": "1H",
+      "status": "HT",
       "league": {
         "league_name": "K League 1",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/292.png"
@@ -164,69 +77,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b6d/chunks.m3u8?is_vip=false&token=1789986756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-864beefeae47cb45f6bc2685a45335be",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1540500485,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "seongnam-fc-vs-hwaseong-1540500485",
-      "title": "Seongnam FC vs Hwaseong",
-      "status": "1H",
-      "league": {
-        "league_name": "K League 2",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/293.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Seongnam FC",
-        "away_name": "Hwaseong",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/293.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789898400,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b6e/chunks.m3u8?is_vip=false&token=1789986758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b0cceef1cf92ece1574ee4e75cb47e30",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1374839140,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "gimhae-city-vs-paju-citizen-1374839140",
-      "title": "Gimhae City vs Paju Citizen",
-      "status": "1H",
-      "league": {
-        "league_name": "K League 2",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/293.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Gimhae City",
-        "away_name": "Paju Citizen",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/293.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789898400,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b6f/chunks.m3u8?is_vip=false&token=1789986760-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ba94a3b2f6d729b0a343a99df67aa9b7",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b6d/chunks.m3u8?is_vip=false&token=1789987685-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f529e75e80036acc313da699c8747af",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -257,38 +108,162 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b6c/chunks.m3u8?is_vip=false&token=1789986762-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-02a90ea2c4d559dad96785bf6321ab4d",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b6c/chunks.m3u8?is_vip=false&token=1789987686-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cf619774d3d9e50a36a071f541c105bb",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1179456131,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "piast-gliwice-vs-pogon-szczecin-1179456131",
-      "title": "Piast Gliwice vs Pogon Szczecin",
+      "match_id": 1374839140,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "gimhae-city-vs-paju-citizen-1374839140",
+      "title": "Gimhae City vs Paju Citizen",
       "status": "1H",
       "league": {
-        "league_name": "Ekstraklasa",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/106.png"
+        "league_name": "K League 2",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/293.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Piast Gliwice",
-        "away_name": "Pogon Szczecin",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/106.png"
+        "home_name": "Gimhae City",
+        "away_name": "Paju Citizen",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/293.png"
       },
       "timing": {
-        "start_time_timestamp": 1789899300,
+        "start_time_timestamp": 1789898400,
         "start_time_local": "Live Now",
         "countdown_seconds": null
       },
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b7f/chunks.m3u8?is_vip=false&token=1789986764-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d8d745db82060089154cf9e37b1b46d2",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b6f/chunks.m3u8?is_vip=false&token=1789987688-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-160847bebefa7148072db4c8686e095c",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1540500485,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "seongnam-fc-vs-hwaseong-1540500485",
+      "title": "Seongnam FC vs Hwaseong",
+      "status": "1H",
+      "league": {
+        "league_name": "K League 2",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/293.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Seongnam FC",
+        "away_name": "Hwaseong",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/293.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789898400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b6e/chunks.m3u8?is_vip=false&token=1789987689-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c6941d4cd1b2c02479e9d9a1ac6787fa",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1063843605,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "korea-dpr-u23-vs-uae-u23-1063843605",
+      "title": "Korea DPR U23 vs UAE U23",
+      "status": "1H",
+      "league": {
+        "league_name": "Asian Games",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Korea DPR U23",
+        "away_name": "UAE U23",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789898400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b53/chunks.m3u8?is_vip=false&token=1789987691-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-838ece11e8b6985314af43715d4d327b",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1039229717,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "granad-tenerife-w-vs-sevilla-w-1039229717",
+      "title": "Granad. Tenerife W vs Sevilla W",
+      "status": "1H",
+      "league": {
+        "league_name": "Primera División Femenina",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/142.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Granad. Tenerife W",
+        "away_name": "Sevilla W",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/142.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789898400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f0698daf8f9c59c061d94-fhd/chunks.m3u8?is_vip=false&token=1789987693-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b5f11b019ce70874f117b41f9a2692a3",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1755335432,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "novosibirsk-vs-kaluga-1755335432",
+      "title": "Novosibirsk vs Kaluga",
+      "status": "1H",
+      "league": {
+        "league_name": "Second League A - Division A Gold",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1025.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Novosibirsk",
+        "away_name": "Kaluga",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/1025.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789898400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522fd629e492f4abcfb/chunks.m3u8?is_vip=false&token=1789987695-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2678e1755cac9d3765aaeab245fc594c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -319,19 +294,50 @@
       "streams": [
         {
           "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b7e-hd/chunks.m3u8?is_vip=false&token=1789986766-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cfb4400971e59643b09221316548f1f0",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b7e-hd/chunks.m3u8?is_vip=false&token=1789987696-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5a0acd4b6b4700edf3e8049633a6598a",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b7e-fhd/chunks.m3u8?is_vip=false&token=1789986767-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-544011372ee2bb22551e630815a53beb",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b7e-fhd/chunks.m3u8?is_vip=false&token=1789987697-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-875f1a9ae556be2ecc04ff841f6f92d8",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b7e/chunks.m3u8?is_vip=false&token=1789986768-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-088e499231d8d08222f361281d60254e",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b7e/chunks.m3u8?is_vip=false&token=1789987697-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d69dc194129a82cbb2dbc7ac87c8e74e",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1179456131,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "piast-gliwice-vs-pogon-szczecin-1179456131",
+      "title": "Piast Gliwice vs Pogon Szczecin",
+      "status": "1H",
+      "league": {
+        "league_name": "Ekstraklasa",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/106.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Piast Gliwice",
+        "away_name": "Pogon Szczecin",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/106.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789899300,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b7f/chunks.m3u8?is_vip=false&token=1789987699-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-efbff9bc90ab315e8eec84863ae8b7d7",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -362,7 +368,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b80-fhd/chunks.m3u8?is_vip=false&token=1789986770-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d469c453856d9a804d9506ad527afbb9",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b80-fhd/chunks.m3u8?is_vip=false&token=1789987701-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8a497feaaa70e59f6f1686a55ce3a8a5",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -374,7 +380,7 @@
       "sport_id": 1,
       "slug": "rheindorf-altach-w-vs-first-vienna-w-1214827334",
       "title": "Rheindorf Altach W vs First Vienna W",
-      "status": "LIVE",
+      "status": "1H",
       "league": {
         "league_name": "Frauenliga",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/484.png"
@@ -424,38 +430,69 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b83/chunks.m3u8?is_vip=false&token=1789986772-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d04554ca9c50a440a4bccce30540ee95",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b83/chunks.m3u8?is_vip=false&token=1789987704-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fc3a28da7d39ab87164426459b7c6cfe",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1141671350,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "kyrgyz-republic-u23-vs-japan-u23-1141671350",
-      "title": "Kyrgyz Republic U23 vs Japan U23",
-      "status": "1H",
+      "match_id": 1631086807,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "wolves-vs-west-brom-1631086807",
+      "title": "Wolves vs West Brom",
+      "status": "LIVE",
       "league": {
-        "league_name": "Asian Games",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png"
+        "league_name": "Championship",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/40.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Kyrgyz Republic U23",
-        "away_name": "Japan U23",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png"
+        "home_name": "Wolves",
+        "away_name": "West Brom",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/40.png"
       },
       "timing": {
-        "start_time_timestamp": 1789900200,
+        "start_time_timestamp": 1789902000,
         "start_time_local": "Live Now",
         "countdown_seconds": null
       },
       "streams": [
         {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b55/chunks.m3u8?is_vip=false&token=1789985877-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-05e98bfd16564d9f95133984ea510e9d",
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58098-hd/chunks.m3u8?is_vip=false&token=1789987713-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bb941d170cfe0adcf17a7074bb3de4e4",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1022889028,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "celtic-vs-rangers-1022889028",
+      "title": "Celtic vs Rangers",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Premiership",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/179.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Celtic",
+        "away_name": "Rangers",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/179.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789902000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b84-hd/chunks.m3u8?is_vip=false&token=1789987718-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c4f3fce239065deb0084c73bc82a00b8",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -486,7 +523,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789986797-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-88fa7a5618035ad4889dd765c076f906",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789987720-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5c7b07fc03543da32c5cac4b0391f4f0",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -4192,30 +4229,6 @@
       "streams": []
     },
     {
-      "match_id": 1067788113,
-      "sport_name": "Darts",
-      "sport_id": 13,
-      "slug": "day-4-evening-session-1067788113",
-      "title": "Day 4 - Evening Session",
-      "status": "NS",
-      "league": {
-        "league_name": "World Series of Darts Finals",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789923600,
-        "start_time_local": "20 Sep 2026, 05:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
       "match_id": 1380434384,
       "sport_name": "Motorsport",
       "sport_id": 17,
@@ -4920,6 +4933,30 @@
       "status": "NS",
       "league": {
         "league_name": "PGA Tour",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789923600,
+        "start_time_local": "20 Sep 2026, 05:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1067788113,
+      "sport_name": "Darts",
+      "sport_id": 13,
+      "slug": "day-4-evening-session-1067788113",
+      "title": "Day 4 - Evening Session",
+      "status": "NS",
+      "league": {
+        "league_name": "World Series of Darts Finals",
         "league_logo": ""
       },
       "venue": "TBA",
