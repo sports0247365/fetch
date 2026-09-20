@@ -1,8 +1,39 @@
 {
   "playlist_info": {
-    "last_update_time": "3:32:24 PM 20-09-2026"
+    "last_update_time": "3:47:25 PM 20-09-2026"
   },
   "live_matches": [
+    {
+      "match_id": 1569406852,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "gamba-osaka-vs-vissel-kobe-1569406852",
+      "title": "Gamba Osaka vs Vissel Kobe",
+      "status": "2H",
+      "league": {
+        "league_name": "J1 League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Gamba Osaka",
+        "away_name": "Vissel Kobe",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1789891200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b5a/chunks.m3u8?is_vip=false&token=1789984047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3439edd034416eb371cbd116bbee7476",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
     {
       "match_id": 1760843568,
       "sport_name": "Football",
@@ -28,7 +59,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b5b/chunks.m3u8?is_vip=false&token=1789983148-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-045a1c09b18e8918c27304da48c5ea70",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b5b/chunks.m3u8?is_vip=false&token=1789984049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0d883124a0b281f1f8cc011f56b03a80",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,82 +90,14 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b5c/chunks.m3u8?is_vip=false&token=1789983149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-95024447e469c28f5674684db3e531fe",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1281220570,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "misano-race-3-1281220570",
-      "title": "Misano - Race 3",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Italian Formula 4 Championship",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789891800,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/138844/720p/chunks.m3u8?is_vip=false&token=1789983150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b4b8b1270a7f0deeb89d2b764c0c2f94",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1569406852,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "gamba-osaka-vs-vissel-kobe-1569406852",
-      "title": "Gamba Osaka vs Vissel Kobe",
-      "status": "2H",
-      "league": {
-        "league_name": "J1 League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Gamba Osaka",
-        "away_name": "Vissel Kobe",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789891200,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b5a/chunks.m3u8?is_vip=false&token=1789983153-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d50c038c8d13287f0d130ab80a2d075d",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b5a-hkhd/chunks.m3u8?is_vip=false&token=1789983153-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-da850a8dbc4340427e7c8bf78820dffd",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b5c/chunks.m3u8?is_vip=false&token=1789984050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e30d694a37c2ebb76b93c87919d0ea12",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 218,
+  "total_upcoming_matches": 215,
   "upcoming_matches": [
     {
       "match_id": 1072821023,
@@ -612,78 +575,6 @@
       "timing": {
         "start_time_timestamp": 1789945200,
         "start_time_local": "20 Sep 2026, 11:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1691510791,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "feyenoord-vs-utrecht-1691510791",
-      "title": "Feyenoord vs Utrecht",
-      "status": "NS",
-      "league": {
-        "league_name": "Eredivisie",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/88.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Feyenoord",
-        "away_name": "Utrecht",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/88.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789899300,
-        "start_time_local": "20 Sep 2026, 10:15 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1179456131,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "piast-gliwice-vs-pogon-szczecin-1179456131",
-      "title": "Piast Gliwice vs Pogon Szczecin",
-      "status": "NS",
-      "league": {
-        "league_name": "Ekstraklasa",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/106.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Piast Gliwice",
-        "away_name": "Pogon Szczecin",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/106.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789899300,
-        "start_time_local": "20 Sep 2026, 10:15 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1739579627,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "pec-zwolle-w-vs-de-graafschap-w-1739579627",
-      "title": "PEC Zwolle W vs De Graafschap W",
-      "status": "NS",
-      "league": {
-        "league_name": "Eredivisie Women",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/91.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "PEC Zwolle W",
-        "away_name": "De Graafschap W",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/91.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1789899300,
-        "start_time_local": "20 Sep 2026, 10:15 AM",
         "countdown_seconds": null
       },
       "streams": []
