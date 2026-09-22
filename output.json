@@ -1,34 +1,108 @@
 {
   "playlist_info": {
-    "last_update_time": "2:17:37 AM 23-09-2026"
+    "last_update_time": "2:32:24 AM 23-09-2026"
   },
   "live_matches": [
     {
-      "match_id": 1431259932,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "tampa-bay-rays-vs-new-york-yankees-1431259932",
-      "title": "Tampa Bay Rays vs New York Yankees",
-      "status": "LIVE",
+      "match_id": 1772168594,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "arsenal-w-vs-k-ge-w-1772168594",
+      "title": "Arsenal W vs Køge W",
+      "status": "2H",
       "league": {
-        "league_name": "MLB",
-        "league_logo": ""
+        "league_name": "UEFA Champions League Women",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Tampa Bay Rays",
-        "away_name": "New York Yankees",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+        "home_name": "Arsenal W",
+        "away_name": "Køge W",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png"
       },
       "timing": {
-        "start_time_timestamp": 1790096400,
+        "start_time_timestamp": 1790103600,
         "start_time_local": "Live Now",
         "countdown_seconds": null
       },
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790193752-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2f8c640ba6176bf2d9b301345b806342",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad62-fancode/chunks.m3u8?is_vip=false&token=1790195548-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8d403f633f9ba866845ae538023fe2d7",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad62/chunks.m3u8?is_vip=false&token=1790195552-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-08f3c0b449d64d40ad9b32341ecf4de9",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1512272367,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "juventus-w-vs-sl-benfica-w-1512272367",
+      "title": "Juventus W vs SL Benfica W",
+      "status": "2H",
+      "league": {
+        "league_name": "UEFA Champions League Women",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Juventus W",
+        "away_name": "SL Benfica W",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790103600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad61-fancode/chunks.m3u8?is_vip=false&token=1790195559-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ee56459de7bad1a24ab51c49b14f4439",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad61/chunks.m3u8?is_vip=false&token=1790195564-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4aa48782b80c0dc8d8e5d2c57a946909",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1342076290,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "real-madrid-w-vs-paris-saint-germain-w-1342076290",
+      "title": "Real Madrid W vs Paris Saint Germain W",
+      "status": "2H",
+      "league": {
+        "league_name": "UEFA Champions League Women",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Real Madrid W",
+        "away_name": "Paris Saint Germain W",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790103600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad60/chunks.m3u8?is_vip=false&token=1790195579-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cb220e5762f050ece5d7a8b58bd020d5",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,7 +133,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790193821-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d971c448020c3bca45eafbc71eb1e0bd",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790195588-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-949d7794687563561855be09ad6a3f4c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
