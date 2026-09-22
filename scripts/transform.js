@@ -75,7 +75,15 @@ const LEAGUE_KEYWORDS = [
   ["sheffield shield", "cricket"],
   ["asia cup", "cricket"],
   ["cricket", "cricket"],
-  ["ETPL", "cricket"],
+  ["Sri Lanka tour", "cricket"],
+  ["Pakistan tour", "cricket"],
+  ["India tour", "cricket"],
+  ["West Indies tour", "cricket"],
+  ["South Africa tour", "cricket"],
+  ["Australia tour", "cricket"],
+  ["England tour", "cricket"],
+  ["Bangladesh tour", "cricket"],
+  ["Afghanistan tour", "cricket"],
 
   // Table Tennis (specific before "tennis")
   ["table tennis", "table tennis"],
