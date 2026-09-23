@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "5:02:25 AM 24-09-2026"
+    "last_update_time": "5:17:27 AM 24-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1790290948-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-28904d9d862f3b67025b7652182d7268",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1790291850-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cac5ca2d120a0ede8329bba2dd9d7b5f",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,7 +59,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1790290954-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-75690b445f34b5bf817ce53a78d6d305",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1790291857-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-84b9f23501c0e9111c014b0f562bc5e8",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -90,7 +90,38 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1790290959-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-98199252d12af7c5117e36d2e8126d00",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1790291863-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cf92be957d5665838980e386f83870f5",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1156083230,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "aruba-vs-antigua-and-barbuda-1156083230",
+      "title": "Aruba vs Antigua and Barbuda",
+      "status": "1H",
+      "league": {
+        "league_name": "CONCACAF Nations League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/536.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Aruba",
+        "away_name": "Antigua and Barbuda",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/536.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790204400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fab78887f467189bd8fc4/chunks.m3u8?is_vip=false&token=1790291870-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-73300adc67009cc2abf63ee361946828",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -121,7 +152,38 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52440/720p/chunks.m3u8?is_vip=false&token=1790290970-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0a1bc33ab6cc82d5f970f89c5e16ca25",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52440/720p/chunks.m3u8?is_vip=false&token=1790291876-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cd94987f0bc16613dd17fef3182b961f",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1748537328,
+      "sport_name": "Ice Hockey",
+      "sport_id": 4,
+      "slug": "ottawa-senators-vs-toronto-maple-leafs-1748537328",
+      "title": "Ottawa Senators vs Toronto Maple Leafs",
+      "status": "LIVE",
+      "league": {
+        "league_name": "NHL",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Ottawa Senators",
+        "away_name": "Toronto Maple Leafs",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790204400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52441/720p/chunks.m3u8?is_vip=false&token=1790291882-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b0b29ec3295222a9ef85be1aaca1b5a5",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -152,7 +214,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1790290978-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c83803fdb81a5715b852736552dfbabb",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1790291889-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ec6d81dd78719ef988039bd95b7cef54",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -183,7 +245,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1790290984-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-912c50e8d68643ec7bee5410a4c0e329",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1790291896-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ea1c703913ba9dc1a6dd21f52e63c560",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -214,14 +276,45 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1790290989-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c39dc913c326e3680f7e244c5a1529dc",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1790291901-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ba4c0e6c1a2a97ef20d0e41c2a24a1b9",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1258060127,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "kokomo-speedway-1258060127",
+      "title": "Kokomo Speedway",
+      "status": "LIVE",
+      "league": {
+        "league_name": "High Limit Racing",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790206200,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1790291908-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f8a4d0617d9379692733b6622c2fb8d4",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 63,
+  "total_upcoming_matches": 64,
   "upcoming_matches": [
     {
       "match_id": 1012004596,
@@ -459,78 +552,6 @@
       "timing": {
         "start_time_timestamp": 1790275500,
         "start_time_local": "24 Sep 2026, 06:45 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1258060127,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "kokomo-speedway-1258060127",
-      "title": "Kokomo Speedway",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "High Limit Racing",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790206200,
-        "start_time_local": "23 Sep 2026, 11:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1572306481,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "azerbaijan-grand-prix-2026-practice-1-1572306481",
-      "title": "Azerbaijan Grand Prix 2026 Practice 1",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Formula 1 Practice",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790238300,
-        "start_time_local": "24 Sep 2026, 08:25 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1001343081,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "azerbaijan-grand-prix-2026-practice-2-1001343081",
-      "title": "Azerbaijan Grand Prix 2026 Practice 2",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Formula 1 Practice",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790251200,
-        "start_time_local": "24 Sep 2026, 12:00 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -867,6 +888,54 @@
       "timing": {
         "start_time_timestamp": 1790289900,
         "start_time_local": "24 Sep 2026, 10:45 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1431259932,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "tampa-bay-rays-vs-new-york-yankees-1431259932",
+      "title": "Tampa Bay Rays vs New York Yankees",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Tampa Bay Rays",
+        "away_name": "New York Yankees",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790291100,
+        "start_time_local": "24 Sep 2026, 11:05 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1428509496,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "cincinnati-reds-vs-atlanta-braves-1428509496",
+      "title": "Cincinnati Reds vs Atlanta Braves",
+      "status": "NS",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Cincinnati Reds",
+        "away_name": "Atlanta Braves",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790291700,
+        "start_time_local": "24 Sep 2026, 11:15 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -1376,6 +1445,54 @@
       "streams": []
     },
     {
+      "match_id": 1572306481,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "azerbaijan-grand-prix-2026-practice-1-1572306481",
+      "title": "Azerbaijan Grand Prix 2026 Practice 1",
+      "status": "UPCOMING",
+      "league": {
+        "league_name": "Formula 1 Practice",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790238300,
+        "start_time_local": "24 Sep 2026, 08:25 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1001343081,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "azerbaijan-grand-prix-2026-practice-2-1001343081",
+      "title": "Azerbaijan Grand Prix 2026 Practice 2",
+      "status": "UPCOMING",
+      "league": {
+        "league_name": "Formula 1 Practice",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790251200,
+        "start_time_local": "24 Sep 2026, 12:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
       "match_id": 1119188490,
       "sport_name": "Other",
       "sport_id": 99,
@@ -1597,7 +1714,7 @@
       "sport_id": 2,
       "slug": "toronto-tempo-vs-connecticut-sun-1368511775",
       "title": "Toronto Tempo vs Connecticut Sun",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "WNBA",
         "league_logo": ""
@@ -1621,7 +1738,7 @@
       "sport_id": 4,
       "slug": "new-jersey-devils-vs-new-york-rangers-1312004040",
       "title": "New Jersey Devils vs New York Rangers",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "NHL",
         "league_logo": ""
@@ -1645,7 +1762,7 @@
       "sport_id": 4,
       "slug": "boston-bruins-vs-philadelphia-flyers-1041058336",
       "title": "Boston Bruins vs Philadelphia Flyers",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "NHL",
         "league_logo": ""
@@ -1669,7 +1786,7 @@
       "sport_id": 4,
       "slug": "buffalo-sabres-vs-detroit-red-wings-1530581688",
       "title": "Buffalo Sabres vs Detroit Red Wings",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "NHL",
         "league_logo": ""
@@ -1693,7 +1810,7 @@
       "sport_id": 4,
       "slug": "florida-panthers-vs-tampa-bay-lightning-1342451557",
       "title": "Florida Panthers vs Tampa Bay Lightning",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "NHL",
         "league_logo": ""
@@ -1717,7 +1834,7 @@
       "sport_id": 4,
       "slug": "nashville-predators-vs-carolina-hurricanes-1227874009",
       "title": "Nashville Predators vs Carolina Hurricanes",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "NHL",
         "league_logo": ""
