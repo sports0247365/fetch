@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "5:02:25 PM 23-09-2026"
+    "last_update_time": "5:17:22 PM 23-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790247750-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f556b95bb13bd3deabab2ac2a7c11abf",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790248646-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-02a308fac4a3625a8f66ae5a16ebefa1",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,7 +59,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8d2/chunks.m3u8?is_vip=false&token=1790247756-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0ce6845d7105f7f6f48732285d7de8ae",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8d2/chunks.m3u8?is_vip=false&token=1790248652-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-34024dcb19988367a7ec8b9216b16ca2",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -71,7 +71,7 @@
       "sport_id": 99,
       "slug": "kyrgyz-republic-u23-vs-hong-kong-u23-1528054324",
       "title": "Kyrgyz Republic U23 vs Hong Kong U23",
-      "status": "1H",
+      "status": "HT",
       "league": {
         "league_name": "Asian Games",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png"
@@ -90,7 +90,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8d1/chunks.m3u8?is_vip=false&token=1790247761-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-67e1ca51aa7b2618e5351c65ef81f866",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8d1/chunks.m3u8?is_vip=false&token=1790248657-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-69351e57fa7c41dffa0df2021e88d1ba",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -99,30 +99,6 @@
   ],
   "total_upcoming_matches": 49,
   "upcoming_matches": [
-    {
-      "match_id": 1012004596,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "baku-azerbaijan-1012004596",
-      "title": "Baku, Azerbaijan",
-      "status": "NS",
-      "league": {
-        "league_name": "FIA Formula 2 Championship Practice",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790229600,
-        "start_time_local": "24 Sep 2026, 06:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1012004596,
       "sport_name": "Motorsport",
@@ -143,6 +119,30 @@
       "timing": {
         "start_time_timestamp": 1790244000,
         "start_time_local": "24 Sep 2026, 10:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1012004596,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "baku-azerbaijan-1012004596",
+      "title": "Baku, Azerbaijan",
+      "status": "NS",
+      "league": {
+        "league_name": "FIA Formula 2 Championship Practice",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790229600,
+        "start_time_local": "24 Sep 2026, 06:00 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -609,7 +609,7 @@
       "sport_id": 1,
       "slug": "japan-vs-uruguay-1807991551",
       "title": "Japan vs Uruguay",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "Friendlies",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png"
@@ -633,7 +633,7 @@
       "sport_id": 1,
       "slug": "south-korea-vs-ecuador-1559775997",
       "title": "South Korea vs Ecuador",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "Friendlies",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png"
@@ -657,7 +657,7 @@
       "sport_id": 1,
       "slug": "netherlands-u19-vs-belgium-u19-1551831533",
       "title": "Netherlands U19 vs Belgium U19",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "Friendlies",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png"
