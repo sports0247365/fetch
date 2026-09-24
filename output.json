@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "11:17:27 AM 24-09-2026"
+    "last_update_time": "11:32:24 AM 24-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55850/720p/chunks.m3u8?is_vip=false&token=1790313453-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-39bb7312b70a83d062e2f0a8ab088278",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55850/720p/chunks.m3u8?is_vip=false&token=1790314348-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7dd5e87882265a9c7d9303ee058d268c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,7 +59,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1790313460-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-876715c8c41b5841cead7c2187eea003",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1790314353-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ddfb66b61309ca3e73850e0ced7e5876",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -90,7 +90,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790313468-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f37cd1f204039d5c13be2f026c3bcef1",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790314359-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2f98a53ceaa2974fb55d4aab3abf1286",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -121,22 +121,19 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790313476-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9e2f27c1e7be67113df4b952e8c18da5",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790314364-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e57b16b26475c8a732573d51aa8cda51",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
-    }
-  ],
-  "total_upcoming_matches": 72,
-  "upcoming_matches": [
+    },
     {
       "match_id": 1012004596,
       "sport_name": "Motorsport",
       "sport_id": 17,
       "slug": "baku-azerbaijan-1012004596",
       "title": "Baku, Azerbaijan",
-      "status": "NS",
+      "status": "LIVE",
       "league": {
         "league_name": "FIA Formula 2 Championship Practice",
         "league_logo": ""
@@ -149,11 +146,21 @@
       },
       "timing": {
         "start_time_timestamp": 1790229600,
-        "start_time_local": "24 Sep 2026, 06:00 AM",
+        "start_time_local": "Live Now",
         "countdown_seconds": null
       },
-      "streams": []
-    },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1790314369-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-78bb12335ce02574b04cd9683aaad5f5",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    }
+  ],
+  "total_upcoming_matches": 71,
+  "upcoming_matches": [
     {
       "match_id": 1012004596,
       "sport_name": "Motorsport",
