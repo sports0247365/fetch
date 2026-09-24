@@ -1,46 +1,15 @@
 {
   "playlist_info": {
-    "last_update_time": "12:02:25 AM 25-09-2026"
+    "last_update_time": "12:17:28 AM 25-09-2026"
   },
   "live_matches": [
-    {
-      "match_id": 1715919885,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "pittsburgh-pirates-vs-st-louis-cardinals-1715919885",
-      "title": "Pittsburgh Pirates vs St.Louis Cardinals",
-      "status": "IN5",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Pittsburgh Pirates",
-        "away_name": "St.Louis Cardinals",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790267700,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790359348-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d8d45b7147cf88949899735f8de78522",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
     {
       "match_id": 1379242538,
       "sport_name": "Baseball",
       "sport_id": 12,
       "slug": "kansas-city-royals-vs-chicago-white-sox-1379242538",
       "title": "Kansas City Royals vs Chicago White Sox",
-      "status": "LIVE",
+      "status": "IN1",
       "league": {
         "league_name": "MLB",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png"
@@ -59,7 +28,38 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1790359356-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9e115071f996547bd3646b4155d6a74d",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1790360253-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0faf5c21354ee952f5d6cb6fc2c9b0c5",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1010637148,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "chicago-cubs-vs-miami-marlins-1010637148",
+      "title": "Chicago Cubs vs Miami Marlins",
+      "status": "LIVE",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Chicago Cubs",
+        "away_name": "Miami Marlins",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790274000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1790360259-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-687f1d8d4e4c88bd84ce89195a81fc97",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -90,100 +90,38 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790359362-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-97b8c4ecc9f5c84860fd1fe96059bfd5",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790360266-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8cbf6ea16a8cfa20da8e9163ba27b895",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1459129984,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "libya-vs-botswana-1459129984",
-      "title": "Libya vs Botswana",
-      "status": "2H",
+      "match_id": 1715919885,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "pittsburgh-pirates-vs-st-louis-cardinals-1715919885",
+      "title": "Pittsburgh Pirates vs St.Louis Cardinals",
+      "status": "IN6",
       "league": {
-        "league_name": "Africa Cup of Nations - Qualification",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+        "league_name": "MLB",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Libya",
-        "away_name": "Botswana",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+        "home_name": "Pittsburgh Pirates",
+        "away_name": "St.Louis Cardinals",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png"
       },
       "timing": {
-        "start_time_timestamp": 1790265600,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f2/chunks.m3u8?is_vip=false&token=1790359368-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8e91b1c0d5c61f710385d8ef49f71768",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1138280905,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "dubai-basketball-vs-real-madrid-1138280905",
-      "title": "Dubai Basketball vs Real Madrid",
-      "status": "LIVE",
-      "league": {
-        "league_name": "EuroLeague",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Dubai Basketball",
-        "away_name": "Real Madrid",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790265600,
+        "start_time_timestamp": 1790267700,
         "start_time_local": "Live Now",
         "countdown_seconds": null
       },
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1790359374-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-089cf9c3c72ef179c6c4f04baec6c389",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1784630793,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "hapoel-ibi-tel-aviv-vs-fc-bayern-munich-1784630793",
-      "title": "Hapoel IBI Tel Aviv vs FC Bayern Munich",
-      "status": "LIVE",
-      "league": {
-        "league_name": "EuroLeague",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Hapoel IBI Tel Aviv",
-        "away_name": "FC Bayern Munich",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790265600,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1790359385-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6a93f088e0f2f9ccbaa8b0b5dad4dd70",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790360272-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-91c4111ece015418a521bfa45ba0be07",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -214,7 +152,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d2/chunks.m3u8?is_vip=false&token=1790359390-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7a9ff6012c9cc34e6bc97c93ba29cd91",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d2/chunks.m3u8?is_vip=false&token=1790360277-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-08fe2b088f507064389712364e2e9cc7",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -245,7 +183,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=1790359396-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a68cfa1b4b8db3cdf41302fd5e40bdd6",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=1790360283-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3f6e5e2436fa05c939e983032132d0d",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -276,7 +214,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790359401-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fae8454217742e749ea12d50dfe5a0df",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790360288-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-67f848de8cc6dcbcb172b46802a64721",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -307,14 +245,45 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68895/720p/chunks.m3u8?is_vip=false&token=1790359407-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f1b744778b6904c623553a0154df14ed",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68895/720p/chunks.m3u8?is_vip=false&token=1790360299-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b72bb32b4e6e69cf7a0ac5fa210dab5e",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1678273418,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "fc-barcelona-vs-anadolu-efes-istanbul-1678273418",
+      "title": "FC Barcelona vs Anadolu Efes Istanbul",
+      "status": "LIVE",
+      "league": {
+        "league_name": "EuroLeague",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "FC Barcelona",
+        "away_name": "Anadolu Efes Istanbul",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790274600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1790360306-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c1b0c038513d1813774c53d199860f2d",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 81,
+  "total_upcoming_matches": 79,
   "upcoming_matches": [
     {
       "match_id": 1012004596,
@@ -360,30 +329,6 @@
       "timing": {
         "start_time_timestamp": 1790331000,
         "start_time_local": "25 Sep 2026, 10:10 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1010637148,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "chicago-cubs-vs-miami-marlins-1010637148",
-      "title": "Chicago Cubs vs Miami Marlins",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Chicago Cubs",
-        "away_name": "Miami Marlins",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790274000,
-        "start_time_local": "24 Sep 2026, 06:20 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -1032,102 +977,6 @@
       "timing": {
         "start_time_timestamp": 1790355900,
         "start_time_local": "25 Sep 2026, 05:05 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1678273418,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "fc-barcelona-vs-anadolu-efes-istanbul-1678273418",
-      "title": "FC Barcelona vs Anadolu Efes Istanbul",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "EuroLeague",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "FC Barcelona",
-        "away_name": "Anadolu Efes Istanbul",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790274600,
-        "start_time_local": "24 Sep 2026, 06:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1368511775,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "toronto-tempo-vs-connecticut-sun-1368511775",
-      "title": "Toronto Tempo vs Connecticut Sun",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "WNBA",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Toronto Tempo",
-        "away_name": "Connecticut Sun",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790290800,
-        "start_time_local": "24 Sep 2026, 11:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1572894464,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "chicago-sky-vs-washington-mystics-1572894464",
-      "title": "Chicago Sky vs Washington Mystics",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "WNBA",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Chicago Sky",
-        "away_name": "Washington Mystics",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790292600,
-        "start_time_local": "24 Sep 2026, 11:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1613176706,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "golden-state-valkyries-vs-los-angeles-sparks-1613176706",
-      "title": "Golden State Valkyries vs Los Angeles Sparks",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "WNBA",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Golden State Valkyries",
-        "away_name": "Los Angeles Sparks",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790301600,
-        "start_time_local": "25 Sep 2026, 02:00 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -1954,7 +1803,7 @@
       "sport_id": 1,
       "slug": "france-u21-vs-ukraine-u18-1443544695",
       "title": "France U21 vs Ukraine U18",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "Friendlies",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png"
@@ -1978,7 +1827,7 @@
       "sport_id": 1,
       "slug": "england-u19-vs-republic-of-ireland-u19-1223539323",
       "title": "England U19 vs Republic of Ireland U19",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "Friendlies",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png"
@@ -1992,6 +1841,78 @@
       "timing": {
         "start_time_timestamp": 1790359200,
         "start_time_local": "25 Sep 2026, 06:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1368511775,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "toronto-tempo-vs-connecticut-sun-1368511775",
+      "title": "Toronto Tempo vs Connecticut Sun",
+      "status": "UPCOMING",
+      "league": {
+        "league_name": "WNBA",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Toronto Tempo",
+        "away_name": "Connecticut Sun",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790290800,
+        "start_time_local": "24 Sep 2026, 11:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1572894464,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "chicago-sky-vs-washington-mystics-1572894464",
+      "title": "Chicago Sky vs Washington Mystics",
+      "status": "UPCOMING",
+      "league": {
+        "league_name": "WNBA",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Chicago Sky",
+        "away_name": "Washington Mystics",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790292600,
+        "start_time_local": "24 Sep 2026, 11:30 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1613176706,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "golden-state-valkyries-vs-los-angeles-sparks-1613176706",
+      "title": "Golden State Valkyries vs Los Angeles Sparks",
+      "status": "UPCOMING",
+      "league": {
+        "league_name": "WNBA",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Golden State Valkyries",
+        "away_name": "Los Angeles Sparks",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790301600,
+        "start_time_local": "25 Sep 2026, 02:00 AM",
         "countdown_seconds": null
       },
       "streams": []
