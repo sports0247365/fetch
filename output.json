@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "12:32:33 AM 25-09-2026"
+    "last_update_time": "12:47:29 AM 25-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1790361157-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4ab1151721dc8e3bc6dad520bec675ec",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1790362057-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-72b8f86415af8c658eb8a69abe8d985d",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -40,7 +40,7 @@
       "sport_id": 12,
       "slug": "chicago-cubs-vs-miami-marlins-1010637148",
       "title": "Chicago Cubs vs Miami Marlins",
-      "status": "IN1",
+      "status": "IN2",
       "league": {
         "league_name": "MLB",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png"
@@ -59,7 +59,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1790361164-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f96882a385eae60b2c94caa1232013c2",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1790362064-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e37dd70a718a51f96ab76753284bda9c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -71,7 +71,7 @@
       "sport_id": 12,
       "slug": "texas-rangers-vs-new-york-mets-1114239655",
       "title": "Texas Rangers vs New York Mets",
-      "status": "LIVE",
+      "status": "IN1",
       "league": {
         "league_name": "MLB",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png"
@@ -90,137 +90,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1790361171-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-71005f26bb3460ad9d4bce6132ac52ea",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1171636858,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "liechtenstein-vs-lithuania-1171636858",
-      "title": "Liechtenstein vs Lithuania",
-      "status": "LIVE",
-      "league": {
-        "league_name": "UEFA Nations League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Liechtenstein",
-        "away_name": "Lithuania",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790275500,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d4-hd/chunks.m3u8?is_vip=false&token=1790361182-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-604ed3075cbf3ce370584be3dc682f4d",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1729784354,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "austria-vs-israel-1729784354",
-      "title": "Austria vs Israel",
-      "status": "LIVE",
-      "league": {
-        "league_name": "UEFA Nations League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Austria",
-        "away_name": "Israel",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790275500,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d6-hd/chunks.m3u8?is_vip=false&token=1790361209-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d61f539fba4c199dfc04a3c193ca1c88",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1147581288,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "norway-vs-denmark-1147581288",
-      "title": "Norway vs Denmark",
-      "status": "LIVE",
-      "league": {
-        "league_name": "UEFA Nations League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Norway",
-        "away_name": "Denmark",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790275500,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1790361219-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-872183e18bafb5ed43018f40b64ba421",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1040277066,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "portugal-vs-wales-1040277066",
-      "title": "Portugal vs Wales",
-      "status": "LIVE",
-      "league": {
-        "league_name": "UEFA Nations League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Portugal",
-        "away_name": "Wales",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790275500,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1790361245-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-58c4814ee0046eea8b01af509c03b199",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38da-hd/chunks.m3u8?is_vip=false&token=1790361250-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e01ae36c8116b38ba00ca3c64b0732aa",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1790362070-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-35e824351831e6d624dc16a28fc1ee47",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -251,13 +121,204 @@
       "streams": [
         {
           "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d8-hd/chunks.m3u8?is_vip=false&token=1790361262-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-36dec2fee8027a299edd49f02d850de2",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d8-hd/chunks.m3u8?is_vip=false&token=1790362076-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9594cd7a73ac286b9dd60a9c5f66c661",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d8/chunks.m3u8?is_vip=false&token=1790362085-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7827bf3b7f692beadb73e33ddfdd7e2d",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/268277/720p/chunks.m3u8?is_vip=false&token=1790361270-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9badbf88f3c8890c3bf4547dca17841d",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/268277/720p/chunks.m3u8?is_vip=false&token=1790362088-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9ea020a19ae41da45d61ecbd3ef46712",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1171636858,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "liechtenstein-vs-lithuania-1171636858",
+      "title": "Liechtenstein vs Lithuania",
+      "status": "1H",
+      "league": {
+        "league_name": "UEFA Nations League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Liechtenstein",
+        "away_name": "Lithuania",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790275500,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d4-hd/chunks.m3u8?is_vip=false&token=1790362094-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1851f1b0140adf6505798a475d76ac3a",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d4/chunks.m3u8?is_vip=false&token=1790362100-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9fe7443a7adc8f9d6ad0809908abff94",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1798740638,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "kosovo-vs-rep-of-ireland-1798740638",
+      "title": "Kosovo vs Rep. Of Ireland",
+      "status": "1H",
+      "league": {
+        "league_name": "UEFA Nations League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Kosovo",
+        "away_name": "Rep. Of Ireland",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790275500,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d5-hd/chunks.m3u8?is_vip=false&token=1790362106-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-65b10b2bb2cbf908fad96935773da457",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1729784354,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "austria-vs-israel-1729784354",
+      "title": "Austria vs Israel",
+      "status": "LIVE",
+      "league": {
+        "league_name": "UEFA Nations League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Austria",
+        "away_name": "Israel",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790275500,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d6-hd/chunks.m3u8?is_vip=false&token=1790362115-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d6194ee20d61cc24fdab273739c72cf3",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1147581288,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "norway-vs-denmark-1147581288",
+      "title": "Norway vs Denmark",
+      "status": "1H",
+      "league": {
+        "league_name": "UEFA Nations League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Norway",
+        "away_name": "Denmark",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790275500,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1790362126-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-139c20b1c3373d18bf34371a3a26524d",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d7-hd/chunks.m3u8?is_vip=false&token=1790362131-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a0dd41ea12b578e80d073e34e749811b",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d7/chunks.m3u8?is_vip=false&token=1790362136-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-bea00ff3998c61796e2ea08ca2a9653d",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1040277066,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "portugal-vs-wales-1040277066",
+      "title": "Portugal vs Wales",
+      "status": "LIVE",
+      "league": {
+        "league_name": "UEFA Nations League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Portugal",
+        "away_name": "Wales",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790275500,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1790362142-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ca5397d1eed51419047aa03bdd54b03c",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38da-hd/chunks.m3u8?is_vip=false&token=1790362152-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7a04ff8e06407d9272c2675d9cd75c98",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38da/chunks.m3u8?is_vip=false&token=1790362157-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0d205edcc6894deb1fc09379e074e1df",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -288,7 +349,13 @@
       "streams": [
         {
           "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9-hd/chunks.m3u8?is_vip=false&token=1790361277-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b20ee056a035a84dd7940d9e895ea766",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9-hd/chunks.m3u8?is_vip=false&token=1790362164-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-97bb5f7fde7f4383bb7ab4c5f0a3b7fc",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9/chunks.m3u8?is_vip=false&token=1790362173-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-df9197a3d4c003d49cc9018af7cb7cad",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -319,7 +386,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790361294-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-332a4fd0a27844be0c8e2a08d306e490",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790362179-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-41305b722b2522192c5a970eec1588ea",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -350,7 +417,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790361300-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fa40f875a8aab4a93891af1a824a1d51",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790362184-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6833dcf8e7a2ea8736cdab5a83255cf9",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -381,7 +448,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790361308-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fb521114537e58860129a5d221e95d32",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790362190-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6036b5217ccc2b953da0e48c29d4cb14",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -412,7 +479,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=1790361314-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-debe34fc88ae05bbd6bfc36507453fa6",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=1790362199-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8fe64c6d384e7f170525dd7cdc740a56",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -424,7 +491,7 @@
       "sport_id": 99,
       "slug": "qatar-vs-bahrain-1581664810",
       "title": "Qatar vs Bahrain",
-      "status": "1H",
+      "status": "HT",
       "league": {
         "league_name": "Gulf Cup of Nations",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/25.png"
@@ -443,7 +510,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d2/chunks.m3u8?is_vip=false&token=1790361320-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-89f6302f50667aa59035ccd1b32b2c77",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d2/chunks.m3u8?is_vip=false&token=1790362207-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6b183bf3728c20f8239760173742cb43",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -474,7 +541,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68895/720p/chunks.m3u8?is_vip=false&token=1790361327-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f9464607f302ff7a12c2c8dc962cd8f6",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68895/720p/chunks.m3u8?is_vip=false&token=1790362213-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-40ce4fec30f11cf9e88f29ab532f01e5",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -505,45 +572,150 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1790361333-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-79e7e3f2ec1498a73b61ae0b802b3103",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1790362219-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7117079812c08da98fd1568492accb25",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     },
     {
-      "match_id": 1798740638,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "kosovo-vs-rep-of-ireland-1798740638",
-      "title": "Kosovo vs Rep. Of Ireland",
+      "match_id": 1435672783,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "tunisia-vs-uganda-1435672783",
+      "title": "Tunisia vs Uganda",
       "status": "LIVE",
       "league": {
-        "league_name": "UEFA Nations League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
+        "league_name": "Africa Cup of Nations - Qualification",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Kosovo",
-        "away_name": "Rep. Of Ireland",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
+        "home_name": "Tunisia",
+        "away_name": "Uganda",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
       },
       "timing": {
-        "start_time_timestamp": 1790275500,
+        "start_time_timestamp": 1790276400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274842/720p/chunks.m3u8?is_vip=false&token=1790362238-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2c10d3aa0ed6e90514984a88185e3e7f",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1236979091,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "sierra-leone-vs-zimbabwe-1236979091",
+      "title": "Sierra Leone vs Zimbabwe",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Africa Cup of Nations - Qualification",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Sierra Leone",
+        "away_name": "Zimbabwe",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790276400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274849/720p/chunks.m3u8?is_vip=false&token=1790362252-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-81b2a764e38c0e365076bfd8bccfe361",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1258794672,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "ivory-coast-vs-ghana-1258794672",
+      "title": "Ivory Coast vs Ghana",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Africa Cup of Nations - Qualification",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Ivory Coast",
+        "away_name": "Ghana",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790276400,
         "start_time_local": "Live Now",
         "countdown_seconds": null
       },
       "streams": [
         {
           "server_name": "GHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d5-hd/chunks.m3u8?is_vip=false&token=1790361343-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6816162c84450f08bdb496ec4c33a891",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f5-hd/chunks.m3u8?is_vip=false&token=1790362259-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a7f60c876fa880dde073b6058ba287d5",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/720p/chunks.m3u8?is_vip=false&token=1790362274-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b13b89e796a6628c2aa6a0b62aa77696",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1826936429,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "cameroon-vs-comoros-1826936429",
+      "title": "Cameroon vs Comoros",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Africa Cup of Nations - Qualification",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Cameroon",
+        "away_name": "Comoros",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790276400,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f7-hd/chunks.m3u8?is_vip=false&token=1790362281-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-61dbd4ca14d6dd36cebcd216e3bb0471",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274844/720p/chunks.m3u8?is_vip=false&token=1790362289-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-32ed22cd889a5308e1be78f77a509cfe",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 71,
+  "total_upcoming_matches": 68,
   "upcoming_matches": [
     {
       "match_id": 1012004596,
@@ -1050,121 +1222,97 @@
       "streams": []
     },
     {
-      "match_id": 1826936429,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "cameroon-vs-comoros-1826936429",
-      "title": "Cameroon vs Comoros",
+      "match_id": 1368511775,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "toronto-tempo-vs-connecticut-sun-1368511775",
+      "title": "Toronto Tempo vs Connecticut Sun",
       "status": "UPCOMING",
       "league": {
-        "league_name": "Africa Cup of Nations - Qualification",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+        "league_name": "WNBA",
+        "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Cameroon",
-        "away_name": "Comoros",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+        "home_name": "Toronto Tempo",
+        "away_name": "Connecticut Sun",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1790276400,
-        "start_time_local": "24 Sep 2026, 07:00 PM",
+        "start_time_timestamp": 1790290800,
+        "start_time_local": "24 Sep 2026, 11:00 PM",
         "countdown_seconds": null
       },
       "streams": []
     },
     {
-      "match_id": 1258794672,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "ivory-coast-vs-ghana-1258794672",
-      "title": "Ivory Coast vs Ghana",
+      "match_id": 1572894464,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "chicago-sky-vs-washington-mystics-1572894464",
+      "title": "Chicago Sky vs Washington Mystics",
       "status": "UPCOMING",
       "league": {
-        "league_name": "Africa Cup of Nations - Qualification",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+        "league_name": "WNBA",
+        "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Ivory Coast",
-        "away_name": "Ghana",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+        "home_name": "Chicago Sky",
+        "away_name": "Washington Mystics",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1790276400,
-        "start_time_local": "24 Sep 2026, 07:00 PM",
+        "start_time_timestamp": 1790292600,
+        "start_time_local": "24 Sep 2026, 11:30 PM",
         "countdown_seconds": null
       },
       "streams": []
     },
     {
-      "match_id": 1236979091,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "sierra-leone-vs-zimbabwe-1236979091",
-      "title": "Sierra Leone vs Zimbabwe",
+      "match_id": 1613176706,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "golden-state-valkyries-vs-los-angeles-sparks-1613176706",
+      "title": "Golden State Valkyries vs Los Angeles Sparks",
       "status": "UPCOMING",
       "league": {
-        "league_name": "Africa Cup of Nations - Qualification",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+        "league_name": "WNBA",
+        "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Sierra Leone",
-        "away_name": "Zimbabwe",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+        "home_name": "Golden State Valkyries",
+        "away_name": "Los Angeles Sparks",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1790276400,
-        "start_time_local": "24 Sep 2026, 07:00 PM",
+        "start_time_timestamp": 1790301600,
+        "start_time_local": "25 Sep 2026, 02:00 AM",
         "countdown_seconds": null
       },
       "streams": []
     },
     {
-      "match_id": 1435672783,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "tunisia-vs-uganda-1435672783",
-      "title": "Tunisia vs Uganda",
+      "match_id": 1607790954,
+      "sport_name": "MMA",
+      "sport_id": 14,
+      "slug": "ufc-bjj-11-musumeci-vs-mitchell-1607790954",
+      "title": "UFC BJJ 11: MUSUMECI vs MITCHELL",
       "status": "UPCOMING",
       "league": {
-        "league_name": "Africa Cup of Nations - Qualification",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+        "league_name": "MMA",
+        "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Tunisia",
-        "away_name": "Uganda",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+        "home_name": "UFC BJJ 11: MUSUMECI",
+        "away_name": "MITCHELL",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1790276400,
-        "start_time_local": "24 Sep 2026, 07:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1440399025,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "puerto-rico-vs-guyana-1440399025",
-      "title": "Puerto Rico vs Guyana",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "CONCACAF Nations League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/536.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Puerto Rico",
-        "away_name": "Guyana",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/536.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790276400,
-        "start_time_local": "24 Sep 2026, 07:00 PM",
+        "start_time_timestamp": 1790294400,
+        "start_time_local": "25 Sep 2026, 12:00 AM",
         "countdown_seconds": null
       },
       "streams": []
@@ -1914,102 +2062,6 @@
       "streams": []
     },
     {
-      "match_id": 1368511775,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "toronto-tempo-vs-connecticut-sun-1368511775",
-      "title": "Toronto Tempo vs Connecticut Sun",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "WNBA",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Toronto Tempo",
-        "away_name": "Connecticut Sun",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790290800,
-        "start_time_local": "24 Sep 2026, 11:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1572894464,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "chicago-sky-vs-washington-mystics-1572894464",
-      "title": "Chicago Sky vs Washington Mystics",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "WNBA",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Chicago Sky",
-        "away_name": "Washington Mystics",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790292600,
-        "start_time_local": "24 Sep 2026, 11:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1613176706,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "golden-state-valkyries-vs-los-angeles-sparks-1613176706",
-      "title": "Golden State Valkyries vs Los Angeles Sparks",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "WNBA",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Golden State Valkyries",
-        "away_name": "Los Angeles Sparks",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790301600,
-        "start_time_local": "25 Sep 2026, 02:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1607790954,
-      "sport_name": "MMA",
-      "sport_id": 14,
-      "slug": "ufc-bjj-11-musumeci-vs-mitchell-1607790954",
-      "title": "UFC BJJ 11: MUSUMECI vs MITCHELL",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "MMA",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "UFC BJJ 11: MUSUMECI",
-        "away_name": "MITCHELL",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790294400,
-        "start_time_local": "25 Sep 2026, 12:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
       "match_id": 1648929804,
       "sport_name": "Australian Football",
       "sport_id": 23,
@@ -2149,6 +2201,54 @@
       "timing": {
         "start_time_timestamp": 1790330400,
         "start_time_local": "25 Sep 2026, 10:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1373912241,
+      "sport_name": "Rugby",
+      "sport_id": 11,
+      "slug": "northampton-vs-newcastle-1373912241",
+      "title": "Northampton vs Newcastle",
+      "status": "NS",
+      "league": {
+        "league_name": "PREM Rugby",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Northampton",
+        "away_name": "Newcastle",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790361900,
+        "start_time_local": "25 Sep 2026, 06:45 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1482814248,
+      "sport_name": "Rugby",
+      "sport_id": 11,
+      "slug": "harlequins-vs-bath-1482814248",
+      "title": "Harlequins vs Bath",
+      "status": "NS",
+      "league": {
+        "league_name": "PREM Rugby",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Harlequins",
+        "away_name": "Bath",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790361900,
+        "start_time_local": "25 Sep 2026, 06:45 PM",
         "countdown_seconds": null
       },
       "streams": []
