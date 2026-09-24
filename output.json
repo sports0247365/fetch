@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "10:17:24 PM 24-09-2026"
+    "last_update_time": "10:47:28 PM 24-09-2026"
   },
   "live_matches": [
     {
@@ -28,13 +28,50 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1790353049-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f46fee92f04fbf6b20c3db55c9a60a9f",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1790354860-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9c29a118f33aa5d2d395247a3ec887d9",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d3-hd/chunks.m3u8?is_vip=false&token=1790354866-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-71d9fa3f2abb41008d08a0afbe5dc90c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d3/chunks.m3u8?is_vip=false&token=1790353058-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f078940b02147b3dab4f4e2d6f85f911",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d3/chunks.m3u8?is_vip=false&token=1790354870-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4356256ffe7e99a6098dff5649808df2",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1715919885,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "pittsburgh-pirates-vs-st-louis-cardinals-1715919885",
+      "title": "Pittsburgh Pirates vs St.Louis Cardinals",
+      "status": "IN1",
+      "league": {
+        "league_name": "MLB",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Pittsburgh Pirates",
+        "away_name": "St.Louis Cardinals",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790267700,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790354877-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a86eb613a1f51e644d1cd66586d00029",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -65,7 +102,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790353064-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-09bafbf2426bc0a3ee7c88bb114e167e",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790354884-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e247ac1907b53d32f0d9dcf7f4975e40",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -96,7 +133,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790353077-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-730ebe8cda6ef15b12c8a48b7612ff93",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790354891-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f51153a50fefdd4f0ed224f5df77c61c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -127,7 +164,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f4/chunks.m3u8?is_vip=false&token=1790353086-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f0386ae55f9537de108042e135846cdc",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f4/chunks.m3u8?is_vip=false&token=1790354897-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a4c9e1389c564208492848a42f2c8295",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -158,7 +195,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f2/chunks.m3u8?is_vip=false&token=1790353093-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cf6b4704a7773f8f8b49bba7d74bc2a3",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f2/chunks.m3u8?is_vip=false&token=1790354903-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1c1d2b182a97f658c5dd1cebbb291fc4",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -189,7 +226,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f3/chunks.m3u8?is_vip=false&token=1790353099-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a11f79839da5f471050e571838f9746c",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f3/chunks.m3u8?is_vip=false&token=1790354910-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e662d5b2f548cb48b18545c2e3b68c08",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -220,7 +257,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1790353105-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f4e6f8b47234bf4351d7c499d527860c",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1790354918-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0ca410b5ac63f47033b44658edf71eb6",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -251,7 +288,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1790353115-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5cb84366cf9030244c0a4dfa4f9c085d",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1790354931-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-82e0d7c6a039fb31b0386a00ac96032e",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -282,14 +319,14 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1790353120-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9e90140c128a3a87ada9c94d58a0c28a",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1790354937-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-483c61cad78cf4bac076aca5d576f547",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 78,
+  "total_upcoming_matches": 77,
   "upcoming_matches": [
     {
       "match_id": 1012004596,
@@ -335,30 +372,6 @@
       "timing": {
         "start_time_timestamp": 1790331000,
         "start_time_local": "25 Sep 2026, 10:10 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1715919885,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "pittsburgh-pirates-vs-st-louis-cardinals-1715919885",
-      "title": "Pittsburgh Pirates vs St.Louis Cardinals",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "MLB",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Pittsburgh Pirates",
-        "away_name": "St.Louis Cardinals",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790267700,
-        "start_time_local": "24 Sep 2026, 04:35 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -1060,25 +1073,73 @@
       "streams": []
     },
     {
-      "match_id": 1130350870,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "libya-u20-vs-egypt-u20-1130350870",
-      "title": "Libya U20 vs Egypt U20",
+      "match_id": 1668198364,
+      "sport_name": "Cycling",
+      "sport_id": 20,
+      "slug": "men-s-junior-rr-1668198364",
+      "title": "Men's Junior RR",
       "status": "UPCOMING",
       "league": {
-        "league_name": "Africa Cup of Nations U20",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/538.png"
+        "league_name": "Cycling World Championships",
+        "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Libya U20",
-        "away_name": "Egypt U20",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/538.png"
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1790254800,
-        "start_time_local": "24 Sep 2026, 01:00 PM",
+        "start_time_timestamp": 1790270100,
+        "start_time_local": "24 Sep 2026, 05:15 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1339077078,
+      "sport_name": "Cycling",
+      "sport_id": 20,
+      "slug": "es1-cro-race-stage-4-1339077078",
+      "title": "ES1, CRO Race, Stage 4",
+      "status": "UPCOMING",
+      "league": {
+        "league_name": "UCI Pro Series",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790337600,
+        "start_time_local": "25 Sep 2026, 12:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1602080258,
+      "sport_name": "Cycling",
+      "sport_id": 20,
+      "slug": "men-s-u23-rr-1602080258",
+      "title": "Men's U23 RR",
+      "status": "UPCOMING",
+      "league": {
+        "league_name": "Cycling World Championships",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790344800,
+        "start_time_local": "25 Sep 2026, 02:00 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -1756,84 +1817,12 @@
       "streams": []
     },
     {
-      "match_id": 1668198364,
-      "sport_name": "Cycling",
-      "sport_id": 20,
-      "slug": "men-s-junior-rr-1668198364",
-      "title": "Men's Junior RR",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Cycling World Championships",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790270100,
-        "start_time_local": "24 Sep 2026, 05:15 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1339077078,
-      "sport_name": "Cycling",
-      "sport_id": 20,
-      "slug": "es1-cro-race-stage-4-1339077078",
-      "title": "ES1, CRO Race, Stage 4",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "UCI Pro Series",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790337600,
-        "start_time_local": "25 Sep 2026, 12:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1602080258,
-      "sport_name": "Cycling",
-      "sport_id": 20,
-      "slug": "men-s-u23-rr-1602080258",
-      "title": "Men's U23 RR",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Cycling World Championships",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790344800,
-        "start_time_local": "25 Sep 2026, 02:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
       "match_id": 1134753761,
       "sport_name": "Basketball",
       "sport_id": 2,
       "slug": "crvena-zvezda-meridianbet-belgrade-vs-zalgiris-kaunas-1134753761",
       "title": "Crvena Zvezda Meridianbet Belgrade vs Zalgiris Kaunas",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "EuroLeague",
         "league_logo": ""
@@ -1857,7 +1846,7 @@
       "sport_id": 2,
       "slug": "panathinaikos-aktor-athens-vs-paris-basketball-1735821978",
       "title": "Panathinaikos AKTOR Athens vs Paris Basketball",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "EuroLeague",
         "league_logo": ""
@@ -1881,7 +1870,7 @@
       "sport_id": 2,
       "slug": "fc-barcelona-vs-anadolu-efes-istanbul-1678273418",
       "title": "FC Barcelona vs Anadolu Efes Istanbul",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "EuroLeague",
         "league_logo": ""
@@ -1991,6 +1980,30 @@
       "timing": {
         "start_time_timestamp": 1790272800,
         "start_time_local": "24 Sep 2026, 06:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1258732859,
+      "sport_name": "Golf",
+      "sport_id": 16,
+      "slug": "chicago-day-2-1258732859",
+      "title": "Chicago | Day 2",
+      "status": "NS",
+      "league": {
+        "league_name": "PGA Tour",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790353800,
+        "start_time_local": "25 Sep 2026, 04:30 PM",
         "countdown_seconds": null
       },
       "streams": []
