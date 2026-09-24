@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2:17:29 PM 24-09-2026"
+    "last_update_time": "2:32:32 PM 24-09-2026"
   },
   "live_matches": [
     {
@@ -28,7 +28,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1790324253-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-360297d040d581e804240dc45bea867f",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1790325155-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b254e430aad219558845300268e24ec9",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,7 +59,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790324261-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-310fd5baffd76bef46e88bab8dcb271c",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790325161-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-09608950915b20a46e17a1baae9fbab5",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -90,7 +90,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1790324268-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7b472f858f8b44b90da854375cecebf1",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1790325168-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e85661354e2344b3528793706003afe9",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -121,7 +121,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/61350/720p/chunks.m3u8?is_vip=false&token=1790324274-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-17cf9d8faa124e2aed0f13a6724a9177",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/61350/720p/chunks.m3u8?is_vip=false&token=1790325174-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7b4cbee0a418176fe4dbeab04a75a7bc",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -152,7 +152,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790324279-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3cdb8590ce8c4b9bb5c7937469b6fa09",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790325181-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1be8747dcbee0d544ac11152716e472c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -190,7 +190,7 @@
       ]
     }
   ],
-  "total_upcoming_matches": 82,
+  "total_upcoming_matches": 83,
   "upcoming_matches": [
     {
       "match_id": 1012004596,
@@ -654,7 +654,7 @@
       "sport_id": 10,
       "slug": "green-bay-packers-vs-atlanta-falcons-1796808485",
       "title": "Green Bay Packers vs Atlanta Falcons",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "NFL",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/an/1.png"
@@ -1412,6 +1412,30 @@
       "timing": {
         "start_time_timestamp": 1790251200,
         "start_time_local": "24 Sep 2026, 12:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1104389461,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "azerbaijan-grand-prix-2026-practice-3-1104389461",
+      "title": "Azerbaijan Grand Prix 2026 Practice 3",
+      "status": "NS",
+      "league": {
+        "league_name": "Formula 1 Practice",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790324700,
+        "start_time_local": "25 Sep 2026, 08:25 AM",
         "countdown_seconds": null
       },
       "streams": []
