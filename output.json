@@ -1,34 +1,10 @@
 {
   "playlist_info": {
-    "last_update_time": "10:02:30 PM 25-09-2026"
+    "last_update_time": "10:17:30 PM 25-09-2026"
   },
   "live_matches": [],
-  "total_upcoming_matches": 137,
+  "total_upcoming_matches": 136,
   "upcoming_matches": [
-    {
-      "match_id": 1141234149,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "race-to-stop-suicide-200-qualifying-1141234149",
-      "title": "Race to Stop Suicide 200, Qualifying",
-      "status": "NS",
-      "league": {
-        "league_name": "NASCAR Craftsman Truck Series",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790370000,
-        "start_time_local": "25 Sep 2026, 09:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1059132028,
       "sport_name": "Motorsport",
@@ -49,6 +25,30 @@
       "timing": {
         "start_time_timestamp": 1790406000,
         "start_time_local": "26 Sep 2026, 07:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1616476782,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "vfb-stuttgart-vs-1-fc-heidenheim-1616476782",
+      "title": "VfB Stuttgart vs 1. FC Heidenheim",
+      "status": "FT",
+      "league": {
+        "league_name": "Friendlies Clubs",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/667.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "VfB Stuttgart",
+        "away_name": "1. FC Heidenheim",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/667.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790346600,
+        "start_time_local": "25 Sep 2026, 02:30 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -731,7 +731,7 @@
       "sport_id": 1,
       "slug": "san-marino-vs-finland-1106383675",
       "title": "San Marino vs Finland",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "UEFA Nations League",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
@@ -755,7 +755,7 @@
       "sport_id": 1,
       "slug": "faroe-islands-vs-kazakhstan-1343234188",
       "title": "Faroe Islands vs Kazakhstan",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "UEFA Nations League",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
@@ -779,7 +779,7 @@
       "sport_id": 1,
       "slug": "iceland-vs-estonia-1343828664",
       "title": "Iceland vs Estonia",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "UEFA Nations League",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
@@ -803,7 +803,7 @@
       "sport_id": 1,
       "slug": "bulgaria-vs-luxembourg-1248067472",
       "title": "Bulgaria vs Luxembourg",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "UEFA Nations League",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
@@ -813,54 +813,6 @@
         "home_name": "Bulgaria",
         "away_name": "Luxembourg",
         "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790438400,
-        "start_time_local": "26 Sep 2026, 04:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1258732859,
-      "sport_name": "Golf",
-      "sport_id": 16,
-      "slug": "chicago-day-2-1258732859",
-      "title": "Chicago | Day 2",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "PGA Tour",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790353800,
-        "start_time_local": "25 Sep 2026, 04:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1201252414,
-      "sport_name": "Golf",
-      "sport_id": 16,
-      "slug": "chicago-day-3-1201252414",
-      "title": "Chicago | Day 3",
-      "status": "NS",
-      "league": {
-        "league_name": "PGA Tour",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
         "start_time_timestamp": 1790438400,
@@ -1187,7 +1139,7 @@
       "sport_id": 1,
       "slug": "bermuda-vs-guadeloupe-1657029668",
       "title": "Bermuda vs Guadeloupe",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "CONCACAF Nations League",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/536.png"
@@ -1211,7 +1163,7 @@
       "sport_id": 99,
       "slug": "palmeiras-u20-vs-ituano-u20-1736851191",
       "title": "Palmeiras U20 vs Ituano U20",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "Paulista - U20",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1086.png"
@@ -1715,7 +1667,7 @@
       "sport_id": 99,
       "slug": "china-pr-u23-vs-thailand-u23-1792066203",
       "title": "China PR U23 vs Thailand U23",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "Asian Games",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png"
@@ -2003,7 +1955,7 @@
       "sport_id": 1,
       "slug": "pakistan-vs-thailand-1008903374",
       "title": "Pakistan vs Thailand",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "FIFA Asean Cup",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1247.png"
@@ -2027,7 +1979,7 @@
       "sport_id": 99,
       "slug": "japan-u23-vs-korea-dpr-u23-1404671586",
       "title": "Japan U23 vs Korea DPR U23",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "Asian Games",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png"
@@ -2219,7 +2171,7 @@
       "sport_id": 1,
       "slug": "vietnam-vs-philippines-1397235128",
       "title": "Vietnam vs Philippines",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "FIFA Asean Cup",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1247.png"
@@ -2243,7 +2195,7 @@
       "sport_id": 99,
       "slug": "jippo-vs-pk-35-1263330789",
       "title": "JIPPO vs PK-35",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "Ykkösliiga",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1087.png"
@@ -2387,7 +2339,7 @@
       "sport_id": 99,
       "slug": "notts-county-vs-blackpool-1746941724",
       "title": "Notts County vs Blackpool",
-      "status": "PST",
+      "status": "UPCOMING",
       "league": {
         "league_name": "League One",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/41.png"
@@ -2507,7 +2459,7 @@
       "sport_id": 1,
       "slug": "heracles-vs-vitesse-1101924827",
       "title": "Heracles vs Vitesse",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "Eerste Divisie",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/89.png"
@@ -2531,7 +2483,7 @@
       "sport_id": 1,
       "slug": "ajax-w-vs-ado-den-haag-w-1044937707",
       "title": "Ajax W vs ADO Den Haag W",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "Eredivisie Women",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/91.png"
@@ -2555,7 +2507,7 @@
       "sport_id": 1,
       "slug": "feyenoord-w-vs-pec-zwolle-w-1337564373",
       "title": "Feyenoord W vs PEC Zwolle W",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "Eredivisie Women",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/91.png"
@@ -2579,7 +2531,7 @@
       "sport_id": 99,
       "slug": "kuwait-vs-iraq-1700471437",
       "title": "Kuwait vs Iraq",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "Gulf Cup of Nations",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/25.png"
@@ -2603,7 +2555,7 @@
       "sport_id": 99,
       "slug": "desenzano-calvina-vs-juventus-u23-1256368598",
       "title": "Desenzano Calvina vs Juventus U23",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "Serie C - Girone A",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/138.png"
@@ -2627,7 +2579,7 @@
       "sport_id": 1,
       "slug": "pogon-szczecin-vs-udinese-1229510558",
       "title": "Pogon Szczecin vs Udinese",
-      "status": "NS",
+      "status": "UPCOMING",
       "league": {
         "league_name": "Friendlies Clubs",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/667.png"
@@ -2646,20 +2598,20 @@
       "streams": []
     },
     {
-      "match_id": 1836350404,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "america-s-day-at-the-races-1836350404",
-      "title": "America's Day At the Races",
-      "status": "UPCOMING",
+      "match_id": 1689304930,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "besiktas-istanbul-vs-valencia-basket-1689304930",
+      "title": "Besiktas Istanbul vs Valencia Basket",
+      "status": "NS",
       "league": {
-        "league_name": "Horse Racing",
+        "league_name": "EuroLeague",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
+        "home_name": "Besiktas Istanbul",
+        "away_name": "Valencia Basket",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
@@ -2670,49 +2622,25 @@
       "streams": []
     },
     {
-      "match_id": 1836350404,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "america-s-day-at-the-races-1836350404",
-      "title": "America's Day At the Races",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Horse Racing",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790380800,
-        "start_time_local": "26 Sep 2026, 12:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1836350404,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "america-s-day-at-the-races-1836350404",
-      "title": "America's Day At the Races",
+      "match_id": 1681502544,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "partizan-mozzart-bet-belgrade-vs-armani-olimpia-milan-1681502544",
+      "title": "Partizan Mozzart Bet Belgrade vs Armani Olimpia Milan",
       "status": "NS",
       "league": {
-        "league_name": "Horse Racing",
+        "league_name": "EuroLeague",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
+        "home_name": "Partizan Mozzart Bet Belgrade",
+        "away_name": "Armani Olimpia Milan",
         "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
-        "start_time_timestamp": 1790438400,
-        "start_time_local": "26 Sep 2026, 04:00 PM",
+        "start_time_timestamp": 1790361900,
+        "start_time_local": "25 Sep 2026, 06:45 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -2982,6 +2910,78 @@
       "streams": []
     },
     {
+      "match_id": 1194414968,
+      "sport_name": "MMA",
+      "sport_id": 14,
+      "slug": "shooto-brazil-140-1194414968",
+      "title": "SHOOTO BRAZIL 140",
+      "status": "UPCOMING",
+      "league": {
+        "league_name": "MMA",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790377200,
+        "start_time_local": "25 Sep 2026, 11:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1396266966,
+      "sport_name": "MMA",
+      "sport_id": 14,
+      "slug": "mma-mexico-9-1396266966",
+      "title": "MMA MEXICO 9",
+      "status": "UPCOMING",
+      "league": {
+        "league_name": "MMA",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790388000,
+        "start_time_local": "26 Sep 2026, 02:00 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1231383273,
+      "sport_name": "MMA",
+      "sport_id": 14,
+      "slug": "tuff-n-uff-157-1231383273",
+      "title": "TUFF-N-UFF 157",
+      "status": "UPCOMING",
+      "league": {
+        "league_name": "MMA",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790389800,
+        "start_time_local": "26 Sep 2026, 02:30 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
       "match_id": 1107708415,
       "sport_name": "Other",
       "sport_id": 99,
@@ -3150,78 +3150,6 @@
       "streams": []
     },
     {
-      "match_id": 1194414968,
-      "sport_name": "MMA",
-      "sport_id": 14,
-      "slug": "shooto-brazil-140-1194414968",
-      "title": "SHOOTO BRAZIL 140",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "MMA",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790377200,
-        "start_time_local": "25 Sep 2026, 11:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1396266966,
-      "sport_name": "MMA",
-      "sport_id": 14,
-      "slug": "mma-mexico-9-1396266966",
-      "title": "MMA MEXICO 9",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "MMA",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790388000,
-        "start_time_local": "26 Sep 2026, 02:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1231383273,
-      "sport_name": "MMA",
-      "sport_id": 14,
-      "slug": "tuff-n-uff-157-1231383273",
-      "title": "TUFF-N-UFF 157",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "MMA",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790389800,
-        "start_time_local": "26 Sep 2026, 02:30 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
       "match_id": 1304052148,
       "sport_name": "Cycling",
       "sport_id": 20,
@@ -3289,6 +3217,54 @@
       "timing": {
         "start_time_timestamp": 1790427600,
         "start_time_local": "26 Sep 2026, 01:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1201252414,
+      "sport_name": "Golf",
+      "sport_id": 16,
+      "slug": "chicago-day-3-1201252414",
+      "title": "Chicago | Day 3",
+      "status": "UPCOMING",
+      "league": {
+        "league_name": "PGA Tour",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790438400,
+        "start_time_local": "26 Sep 2026, 04:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1836350404,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "america-s-day-at-the-races-1836350404",
+      "title": "America's Day At the Races",
+      "status": "UPCOMING",
+      "league": {
+        "league_name": "Horse Racing",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790438400,
+        "start_time_local": "26 Sep 2026, 04:00 PM",
         "countdown_seconds": null
       },
       "streams": []
