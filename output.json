@@ -1,8 +1,51 @@
 {
   "playlist_info": {
-    "last_update_time": "6:32:29 PM 26-09-2026"
+    "last_update_time": "6:47:28 PM 26-09-2026"
   },
   "live_matches": [
+    {
+      "match_id": 1429490491,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "slovenia-vs-scotland-1429490491",
+      "title": "Slovenia vs Scotland",
+      "status": "LIVE",
+      "league": {
+        "league_name": "UEFA Nations League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Slovenia",
+        "away_name": "Scotland",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790427600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "GHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047014-hd/chunks.m3u8?is_vip=false&token=1790513253-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fdde1cce6a8172f55283626728fa30b6",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047014-fhd/chunks.m3u8?is_vip=false&token=1790513254-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5cd42b8941a5e6fac6ffcf2d777fac7d",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047014/chunks.m3u8?is_vip=false&token=1790513254-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a490c1fca6f57d56784196e8c9b97c66",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
     {
       "match_id": 1730775308,
       "sport_name": "Tennis",
@@ -28,7 +71,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1790512351-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-eaeaf2bbe210fc16cec1a76ec1489cfb",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1790513257-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3f7b824f6d1807b3943ce3ff0ae8126",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -59,7 +102,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790512355-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9494d8f10531f32c9d1b582539aee49c",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790513260-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b924c2140e32487e1a272d5dc1929826",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -90,7 +133,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1790512358-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fd6098bf107bdc3ffe7270cac1ce2beb",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1790513263-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-32578d36d5e797268d04fe3c34de61ee",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -102,7 +145,7 @@
       "sport_id": 99,
       "slug": "nantong-zhiyun-vs-changchun-yatai-1248219115",
       "title": "Nantong Zhiyun vs Changchun Yatai",
-      "status": "HT",
+      "status": "2H",
       "league": {
         "league_name": "League One",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/170.png"
@@ -121,7 +164,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a32bd82774cbee6e5d90814/chunks.m3u8?is_vip=false&token=1790512362-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-de1abb277d288ea13cd38644a74593ba",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a32bd82774cbee6e5d90814/chunks.m3u8?is_vip=false&token=1790513266-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4fe38bbb6836d139b6113bb22e9272b9",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -133,7 +176,7 @@
       "sport_id": 1,
       "slug": "spartak-kostroma-vs-ural-1046598926",
       "title": "Spartak Kostroma vs Ural",
-      "status": "HT",
+      "status": "2H",
       "league": {
         "league_name": "First League",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
@@ -152,112 +195,13 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a64d69febc5c3ef2c40b21e/chunks.m3u8?is_vip=false&token=1790512364-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-020212f155b1a517172c7808b07547b3",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a64d69febc5c3ef2c40b21e/chunks.m3u8?is_vip=false&token=1790513269-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3cd8f16482f90c7a1f9c952097e9e08",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a64d69febc5c3ef2c40b21e-fhd/chunks.m3u8?is_vip=false&token=1790512365-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-256475009424253ac24675afeea99dc6",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1397235128,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "vietnam-vs-philippines-1397235128",
-      "title": "Vietnam vs Philippines",
-      "status": "LIVE",
-      "league": {
-        "league_name": "FIFA Asean Cup",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1247.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Vietnam",
-        "away_name": "Philippines",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/1247.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790422200,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9976857cb66c539a0afc5e/chunks.m3u8?is_vip=false&token=1790512368-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-652d52ad892eb0620bbc812c3946d64a",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1425143272,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "eif-vs-sjk-akatemia-1425143272",
-      "title": "EIF vs SJK Akatemia",
-      "status": "1H",
-      "league": {
-        "league_name": "Ykkösliiga",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1087.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "EIF",
-        "away_name": "SJK Akatemia",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/1087.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790424000,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458046fe1/chunks.m3u8?is_vip=false&token=1790512371-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-568470d7be1086d8e3d631404199f872",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
-    {
-      "match_id": 1870482809,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "ad-ceuta-fc-vs-real-sociedad-ii-1870482809",
-      "title": "AD Ceuta FC vs Real Sociedad II",
-      "status": "1H",
-      "league": {
-        "league_name": "Segunda División",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/141.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "AD Ceuta FC",
-        "away_name": "Real Sociedad II",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/141.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790424000,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73a-fhd/chunks.m3u8?is_vip=false&token=1790512374-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ffa0490ffd61a9345e1b2b56d9f9a172",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        },
-        {
-          "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73a/chunks.m3u8?is_vip=false&token=1790512374-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-194c47f3ff75766c8442ca6eef938c2a",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a64d69febc5c3ef2c40b21e-fhd/chunks.m3u8?is_vip=false&token=1790513270-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b9320109d52444d11366dceb964c99b1",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -269,7 +213,7 @@
       "sport_id": 99,
       "slug": "dinamo-stavropol-vs-amkar-1258096034",
       "title": "Dinamo Stavropol vs Amkar",
-      "status": "1H",
+      "status": "HT",
       "league": {
         "league_name": "Second League A - Division A Silver",
         "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1026.png"
@@ -288,7 +232,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38f6/chunks.m3u8?is_vip=false&token=1790512377-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-632d2ec1df7397ef7ac2fb2a99f1ff0e",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38f6/chunks.m3u8?is_vip=false&token=1790513272-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c97375e187faa88a7ec00d16c6a5dbd3",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -319,7 +263,75 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1790512380-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b81a3e4f3fc43919a1a72ff5dc8663ce",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1790513275-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-24c7fb7512833a644abd1257357dfc8f",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1425143272,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "eif-vs-sjk-akatemia-1425143272",
+      "title": "EIF vs SJK Akatemia",
+      "status": "1H",
+      "league": {
+        "league_name": "Ykkösliiga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1087.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "EIF",
+        "away_name": "SJK Akatemia",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/1087.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790424000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458046fe1/chunks.m3u8?is_vip=false&token=1790513278-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ce63b08bd028bb5d2056c693d7b8602a",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1870482809,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "ad-ceuta-fc-vs-real-sociedad-ii-1870482809",
+      "title": "AD Ceuta FC vs Real Sociedad II",
+      "status": "1H",
+      "league": {
+        "league_name": "Segunda División",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/141.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "AD Ceuta FC",
+        "away_name": "Real Sociedad II",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/141.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790424000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73a/chunks.m3u8?is_vip=false&token=1790513281-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3a4e08e1459c4f2a20ab7d86d5b45e67",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73a-fhd/chunks.m3u8?is_vip=false&token=1790513281-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-77848e48bf1b821067a391d3e2aaeeac",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -350,7 +362,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1790512383-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-10644d376cd899703c3055944d1c3bf6",
+          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1790513285-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-086b7b231a379e82742918602902788c",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -381,19 +393,19 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c45804700c-fancode/chunks.m3u8?is_vip=false&token=1790512385-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6d569cbe2c5214954460e385fbffbe53",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c45804700c-fancode/chunks.m3u8?is_vip=false&token=1790513288-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-982c90f788dfa6827b76ad379a61502b",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c45804700c/chunks.m3u8?is_vip=false&token=1790512386-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-98315993a274540623b854dfb513b575",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c45804700c/chunks.m3u8?is_vip=false&token=1790513289-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6af82dba77e8dc722ffb93c84f77341f",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         },
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c45804700c-fhd/chunks.m3u8?is_vip=false&token=1790512386-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a359567081306204cd01079a184693ca",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c45804700c-fhd/chunks.m3u8?is_vip=false&token=1790513289-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9ab008bb94194fe27cfbc071df81aa62",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -424,7 +436,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047012/chunks.m3u8?is_vip=false&token=1790512389-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ac0b7ab70f71c013e9829b6ee5a65117",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047012/chunks.m3u8?is_vip=false&token=1790513292-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fe522a022a9c3195351a113e2982903e",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -455,7 +467,7 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047011/chunks.m3u8?is_vip=false&token=1790512392-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ea00049343fdd8cac5b91da5be72af9d",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047011/chunks.m3u8?is_vip=false&token=1790513294-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3b8317dc1e490843cf8e1021761affa5",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -486,14 +498,231 @@
       "streams": [
         {
           "server_name": "WHD",
-          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047010/chunks.m3u8?is_vip=false&token=1790512396-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fffa0457492a6221df12749574362d90",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047010/chunks.m3u8?is_vip=false&token=1790513297-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-bfdc8b51a96c273cb53413cacdc7d6df",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1464104636,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "sk-rapid-w-vs-salzburg-w-1464104636",
+      "title": "SK Rapid W vs Salzburg W",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Frauenliga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/484.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "SK Rapid W",
+        "away_name": "Salzburg W",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/484.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790427600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba745/chunks.m3u8?is_vip=false&token=1790513299-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2679007c2ff9056b9d2adec7de0b3c7a",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1769684176,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "st-p-lten-w-vs-kleinm-nchen-bw-linz-w-1769684176",
+      "title": "St. Pölten W vs Kleinmünchen / BW Linz W",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Frauenliga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/484.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "St. Pölten W",
+        "away_name": "Kleinmünchen / BW Linz W",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/484.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790427600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba748/chunks.m3u8?is_vip=false&token=1790513303-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2b2b3a3eef966a46dbdeb700f758d551",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1769992099,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "volga-ulyanovsk-vs-leningradets-1769992099",
+      "title": "Volga Ulyanovsk vs Leningradets",
+      "status": "LIVE",
+      "league": {
+        "league_name": "First League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Volga Ulyanovsk",
+        "away_name": "Leningradets",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790427600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a64d69febc5c3ef2c40b21c/chunks.m3u8?is_vip=false&token=1790513315-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d15e8885753c6738283a979bc969e7a0",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1127303288,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "botswana-w-vs-namibia-w-1127303288",
+      "title": "Botswana W vs Namibia W",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Friendlies Women",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/666.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Botswana W",
+        "away_name": "Namibia W",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/666.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790427600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa0eee8e8a66eebd817163d/chunks.m3u8?is_vip=false&token=1790513318-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-bcd992b1efb240e9cef16eee3dcd6f56",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1614405691,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "south-africa-vs-guinea-1614405691",
+      "title": "South Africa vs Guinea",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Africa Cup of Nations - Qualification",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "South Africa",
+        "away_name": "Guinea",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790427600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa0eee8e8a66eebd817163e/chunks.m3u8?is_vip=false&token=1790513321-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0b13ac540058d1ee5e8d50b287762c34",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1494972463,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "kenya-vs-eritrea-1494972463",
+      "title": "Kenya vs Eritrea",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Africa Cup of Nations - Qualification",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Kenya",
+        "away_name": "Eritrea",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790427600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa0eee8e8a66eebd817163d/chunks.m3u8?is_vip=false&token=1790513328-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-039e47794ae493bac0c192208c226bcf",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1263330789,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "jippo-vs-pk-35-1263330789",
+      "title": "JIPPO vs PK-35",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Ykkösliiga",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1087.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "JIPPO",
+        "away_name": "PK-35",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/1087.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790427600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047017/chunks.m3u8?is_vip=false&token=1790513331-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8aabad1497bdf00e7e4cb63512bb84f2",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 171,
+  "total_upcoming_matches": 163,
   "upcoming_matches": [
     {
       "match_id": 1382690015,
@@ -539,30 +768,6 @@
       "timing": {
         "start_time_timestamp": 1790506800,
         "start_time_local": "27 Sep 2026, 11:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1429490491,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "slovenia-vs-scotland-1429490491",
-      "title": "Slovenia vs Scotland",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "UEFA Nations League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Slovenia",
-        "away_name": "Scotland",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790427600,
-        "start_time_local": "26 Sep 2026, 01:00 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -1403,174 +1608,6 @@
       "timing": {
         "start_time_timestamp": 1790474400,
         "start_time_local": "27 Sep 2026, 02:00 AM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1263330789,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "jippo-vs-pk-35-1263330789",
-      "title": "JIPPO vs PK-35",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Ykkösliiga",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1087.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "JIPPO",
-        "away_name": "PK-35",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/1087.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790427600,
-        "start_time_local": "26 Sep 2026, 01:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1494972463,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "kenya-vs-eritrea-1494972463",
-      "title": "Kenya vs Eritrea",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Africa Cup of Nations - Qualification",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Kenya",
-        "away_name": "Eritrea",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790427600,
-        "start_time_local": "26 Sep 2026, 01:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1769684176,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "st-p-lten-w-vs-kleinm-nchen-bw-linz-w-1769684176",
-      "title": "St. Pölten W vs Kleinmünchen / BW Linz W",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Frauenliga",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/484.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "St. Pölten W",
-        "away_name": "Kleinmünchen / BW Linz W",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/484.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790427600,
-        "start_time_local": "26 Sep 2026, 01:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1464104636,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "sk-rapid-w-vs-salzburg-w-1464104636",
-      "title": "SK Rapid W vs Salzburg W",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Frauenliga",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/484.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "SK Rapid W",
-        "away_name": "Salzburg W",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/484.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790427600,
-        "start_time_local": "26 Sep 2026, 01:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1769992099,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "volga-ulyanovsk-vs-leningradets-1769992099",
-      "title": "Volga Ulyanovsk vs Leningradets",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "First League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Volga Ulyanovsk",
-        "away_name": "Leningradets",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790427600,
-        "start_time_local": "26 Sep 2026, 01:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1614405691,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "south-africa-vs-guinea-1614405691",
-      "title": "South Africa vs Guinea",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Africa Cup of Nations - Qualification",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "South Africa",
-        "away_name": "Guinea",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790427600,
-        "start_time_local": "26 Sep 2026, 01:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1127303288,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "botswana-w-vs-namibia-w-1127303288",
-      "title": "Botswana W vs Namibia W",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Friendlies Women",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/666.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Botswana W",
-        "away_name": "Namibia W",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/666.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790427600,
-        "start_time_local": "26 Sep 2026, 01:00 PM",
         "countdown_seconds": null
       },
       "streams": []
