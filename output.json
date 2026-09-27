@@ -1,39 +1,8 @@
 {
   "playlist_info": {
-    "last_update_time": "6:47:23 PM 27-09-2026"
+    "last_update_time": "9:30:21 PM 27-09-2026"
   },
   "live_matches": [
-    {
-      "match_id": 1807718683,
-      "sport_name": "Tennis",
-      "sport_id": 5,
-      "slug": "atp-chengdu-1807718683",
-      "title": "ATP Chengdu",
-      "status": "LIVE",
-      "league": {
-        "league_name": "ATP Chengdu",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790485200,
-        "start_time_local": "Live Now",
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/510512/720p/chunks.m3u8?is_vip=false&token=1790498564-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-289460a8eda692052a150c42e2dcf9d4",
-          "is_new_format": true,
-          "required_referer": "https://iframe.rumsport8.live"
-        }
-      ]
-    },
     {
       "match_id": 1869122270,
       "sport_name": "Tennis",
@@ -59,7 +28,7 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/510515/720p/chunks.m3u8?is_vip=false&token=1790497654-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4a5ea4190b5baad12dfaf39a7290f50f",
+          "play_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/510526/720p/index.m3u8?is_vip=false&token=edf32fa22225bb8e82deca7133b2547b18a6d561&x-sign=df0a230be5318f5656cc342a4bcad731&x-time=1790523000",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
@@ -90,14 +59,274 @@
       "streams": [
         {
           "server_name": "FHD",
-          "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790498626-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-60951da20b7f36618a134fe511e6212c",
+          "play_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/490/720p/index.m3u8?is_vip=false&token=edf32fa22225bb8e82deca7133b2547b18a6d561&x-sign=7aa7e2ac2e1a21775f81e10e1a8ecdfc&x-time=1790523000",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1506109154,
+      "sport_name": "Tennis",
+      "sport_id": 5,
+      "slug": "laver-cup-1506109154",
+      "title": "Laver Cup",
+      "status": "LIVE",
+      "league": {
+        "league_name": "2026 Laver Cup Tennis",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790506800,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/143073/720p/index.m3u8?is_vip=false&token=edf32fa22225bb8e82deca7133b2547b18a6d561&x-sign=e715c9cabde66ca61418507eb27fa0d5&x-time=1790523000",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/1409/720p/index.m3u8?is_vip=false&token=edf32fa22225bb8e82deca7133b2547b18a6d561&x-sign=1e4d10a18dea10e91f4cd35bc5d7596f&x-time=1790523000",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1116270996,
+      "sport_name": "Cycling",
+      "sport_id": 20,
+      "slug": "men-s-elite-rr-1116270996",
+      "title": "Men's Elite RR",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Cycling World Championships",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790514000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/1410/720p/index.m3u8?is_vip=true&token=a4e869343731d037b3c44df8fce60fabd206f47e&x-sign=60637f54aeb47224493c5ebf3ca702a7&x-time=1790523000",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1221208024,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "rodina-moskva-ii-vs-novosibirsk-1221208024",
+      "title": "Rodina Moskva II vs Novosibirsk",
+      "status": "2H",
+      "league": {
+        "league_name": "Second League A - Division A Gold",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1025.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Rodina Moskva II",
+        "away_name": "Novosibirsk",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/1025.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790517600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2eada/index.m3u8?is_vip=false&token=edf32fa22225bb8e82deca7133b2547b18a6d561&x-sign=5363007081272d0bf2e623e10047a43a&x-time=1790523000",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1890700790,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "shinnik-yaroslavl-vs-ska-khabarovsk-1890700790",
+      "title": "Shinnik Yaroslavl vs Ska-khabarovsk",
+      "status": "2H",
+      "league": {
+        "league_name": "First League",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Shinnik Yaroslavl",
+        "away_name": "Ska-khabarovsk",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790517600,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a64d69febc5c3ef2c40b21f/index.m3u8?is_vip=false&token=edf32fa22225bb8e82deca7133b2547b18a6d561&x-sign=535f430555a8bc47aff612a31ce26cfa&x-time=1790523000",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1194471114,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "mallorca-vs-almeria-1194471114",
+      "title": "Mallorca vs Almeria",
+      "status": "2H",
+      "league": {
+        "league_name": "Segunda División",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/141.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Mallorca",
+        "away_name": "Almeria",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/141.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790518500,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba736/index.m3u8?is_vip=false&token=edf32fa22225bb8e82deca7133b2547b18a6d561&x-sign=27ff8a1ef8838ba669b3e4d1fa60a435&x-time=1790523000",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1724980176,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "chelsea-w-vs-arsenal-w-1724980176",
+      "title": "Chelsea W vs Arsenal W",
+      "status": "LIVE",
+      "league": {
+        "league_name": "FA WSL",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/44.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Chelsea W",
+        "away_name": "Arsenal W",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/44.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790523000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "FHD",
+          "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841285d79ffdae2c3e57d-fancode/index.m3u8?is_vip=true&token=40242ec08c3ddf3e9d72332677af1e6a57324944&x-sign=0461d530d21749cdca4d9945ddef47dc&x-time=1790523000",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        },
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841285d79ffdae2c3e57d/index.m3u8?is_vip=false&token=edf32fa22225bb8e82deca7133b2547b18a6d561&x-sign=71c723f92f430e0b36630533f419b730&x-time=1790523000",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1239712091,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "athletic-carpi-vs-arzignano-valchiampo-1239712091",
+      "title": "Athletic Carpi vs Arzignano Valchiampo",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Serie C - Girone A",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/138.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Athletic Carpi",
+        "away_name": "Arzignano Valchiampo",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/138.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790523000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841285d79ffdae2c3e582/index.m3u8?is_vip=false&token=edf32fa22225bb8e82deca7133b2547b18a6d561&x-sign=1881e57c65fb843e3e272d798187c609&x-time=1790523000",
+          "is_new_format": true,
+          "required_referer": "https://iframe.rumsport8.live"
+        }
+      ]
+    },
+    {
+      "match_id": 1739630722,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "renate-vs-treviso-1739630722",
+      "title": "Renate vs Treviso",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Serie C - Girone A",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/138.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Renate",
+        "away_name": "Treviso",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/138.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790523000,
+        "start_time_local": "Live Now",
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "WHD",
+          "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841285d79ffdae2c3e581/index.m3u8?is_vip=false&token=edf32fa22225bb8e82deca7133b2547b18a6d561&x-sign=e679a9f3d86ffce7d1fa1c649def34e3&x-time=1790523060",
           "is_new_format": true,
           "required_referer": "https://iframe.rumsport8.live"
         }
       ]
     }
   ],
-  "total_upcoming_matches": 97,
+  "total_upcoming_matches": 92,
   "upcoming_matches": [
     {
       "match_id": 1591342481,
@@ -1012,222 +1241,6 @@
       "streams": []
     },
     {
-      "match_id": 1890700790,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "shinnik-yaroslavl-vs-ska-khabarovsk-1890700790",
-      "title": "Shinnik Yaroslavl vs Ska-khabarovsk",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "First League",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Shinnik Yaroslavl",
-        "away_name": "Ska-khabarovsk",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790517600,
-        "start_time_local": "27 Sep 2026, 02:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1221208024,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "rodina-moskva-ii-vs-novosibirsk-1221208024",
-      "title": "Rodina Moskva II vs Novosibirsk",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Second League A - Division A Gold",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1025.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Rodina Moskva II",
-        "away_name": "Novosibirsk",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/1025.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790517600,
-        "start_time_local": "27 Sep 2026, 02:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1591583416,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "volgar-astrakhan-vs-alaniya-vladikavkaz-1591583416",
-      "title": "Volgar Astrakhan vs Alaniya Vladikavkaz",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Second League A - Division A Gold",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1025.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Volgar Astrakhan",
-        "away_name": "Alaniya Vladikavkaz",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/1025.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790517600,
-        "start_time_local": "27 Sep 2026, 02:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1662823421,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "sevilla-w-vs-eibar-w-1662823421",
-      "title": "Sevilla W vs Eibar W",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Primera División Femenina",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/142.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Sevilla W",
-        "away_name": "Eibar W",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/142.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790517600,
-        "start_time_local": "27 Sep 2026, 02:00 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1194471114,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "mallorca-vs-almeria-1194471114",
-      "title": "Mallorca vs Almeria",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Segunda División",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/141.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Mallorca",
-        "away_name": "Almeria",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/141.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790518500,
-        "start_time_local": "27 Sep 2026, 02:15 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1292756752,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "heerenveen-w-vs-utrecht-w-1292756752",
-      "title": "Heerenveen W vs Utrecht W",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Eredivisie Women",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/91.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Heerenveen W",
-        "away_name": "Utrecht W",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/91.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790520300,
-        "start_time_local": "27 Sep 2026, 02:45 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1724980176,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "chelsea-w-vs-arsenal-w-1724980176",
-      "title": "Chelsea W vs Arsenal W",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "FA WSL",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/44.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Chelsea W",
-        "away_name": "Arsenal W",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/44.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790523000,
-        "start_time_local": "27 Sep 2026, 03:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1239712091,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "athletic-carpi-vs-arzignano-valchiampo-1239712091",
-      "title": "Athletic Carpi vs Arzignano Valchiampo",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Serie C - Girone A",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/138.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Athletic Carpi",
-        "away_name": "Arzignano Valchiampo",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/138.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790523000,
-        "start_time_local": "27 Sep 2026, 03:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1739630722,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "renate-vs-treviso-1739630722",
-      "title": "Renate vs Treviso",
-      "status": "UPCOMING",
-      "league": {
-        "league_name": "Serie C - Girone A",
-        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/138.png"
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Renate",
-        "away_name": "Treviso",
-        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/138.png"
-      },
-      "timing": {
-        "start_time_timestamp": 1790523000,
-        "start_time_local": "27 Sep 2026, 03:30 PM",
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
       "match_id": 1879327840,
       "sport_name": "Other",
       "sport_id": 99,
@@ -1367,6 +1380,54 @@
       "timing": {
         "start_time_timestamp": 1790528400,
         "start_time_local": "27 Sep 2026, 05:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1831312579,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "berazategui-vs-sacachispas-1831312579",
+      "title": "Berazategui vs Sacachispas",
+      "status": "NS",
+      "league": {
+        "league_name": "Primera C",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/132.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Berazategui",
+        "away_name": "Sacachispas",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/132.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790532000,
+        "start_time_local": "27 Sep 2026, 06:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1067568465,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "canuelas-vs-f-nix-1067568465",
+      "title": "Canuelas vs Fénix",
+      "status": "NS",
+      "league": {
+        "league_name": "Primera C",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/132.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Canuelas",
+        "away_name": "Fénix",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/132.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790532000,
+        "start_time_local": "27 Sep 2026, 06:00 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -2164,49 +2225,73 @@
       "streams": []
     },
     {
-      "match_id": 1897105233,
-      "sport_name": "Rugby",
-      "sport_id": 11,
-      "slug": "leicester-vs-saracens-1897105233",
-      "title": "Leicester vs Saracens",
-      "status": "UPCOMING",
+      "match_id": 1497418055,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "england-u17-vs-israel-u17-1497418055",
+      "title": "England U17 vs Israel U17",
+      "status": "NS",
       "league": {
-        "league_name": "PREM Rugby",
-        "league_logo": ""
+        "league_name": "Friendlies",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Leicester",
-        "away_name": "Saracens",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+        "home_name": "England U17",
+        "away_name": "Israel U17",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png"
       },
       "timing": {
-        "start_time_timestamp": 1790517600,
-        "start_time_local": "27 Sep 2026, 02:00 PM",
+        "start_time_timestamp": 1790604000,
+        "start_time_local": "28 Sep 2026, 02:00 PM",
         "countdown_seconds": null
       },
       "streams": []
     },
     {
-      "match_id": 1127119370,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "ireland-vs-japan-1127119370",
-      "title": "Ireland vs Japan",
-      "status": "UPCOMING",
+      "match_id": 1162403437,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "serbia-u18-vs-russia-u18-1162403437",
+      "title": "Serbia U18 vs Russia U18",
+      "status": "NS",
       "league": {
-        "league_name": "WXV",
-        "league_logo": ""
+        "league_name": "Friendlies",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png"
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Ireland",
-        "away_name": "Japan",
-        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+        "home_name": "Serbia U18",
+        "away_name": "Russia U18",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png"
       },
       "timing": {
-        "start_time_timestamp": 1790595900,
-        "start_time_local": "28 Sep 2026, 11:45 AM",
+        "start_time_timestamp": 1790604000,
+        "start_time_local": "28 Sep 2026, 02:00 PM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1169912076,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "slovakia-u19-vs-poland-u19-1169912076",
+      "title": "Slovakia U19 vs Poland U19",
+      "status": "NS",
+      "league": {
+        "league_name": "Friendlies",
+        "league_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png"
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Slovakia U19",
+        "away_name": "Poland U19",
+        "combined_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790607600,
+        "start_time_local": "28 Sep 2026, 03:00 PM",
         "countdown_seconds": null
       },
       "streams": []
@@ -2423,6 +2508,30 @@
       "timing": {
         "start_time_timestamp": 1790569800,
         "start_time_local": "28 Sep 2026, 04:30 AM",
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1127119370,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "ireland-vs-japan-1127119370",
+      "title": "Ireland vs Japan",
+      "status": "UPCOMING",
+      "league": {
+        "league_name": "WXV",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Ireland",
+        "away_name": "Japan",
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+      },
+      "timing": {
+        "start_time_timestamp": 1790595900,
+        "start_time_local": "28 Sep 2026, 11:45 AM",
         "countdown_seconds": null
       },
       "streams": []
