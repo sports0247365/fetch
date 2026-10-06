@@ -4,7 +4,10 @@ const crypto = require("crypto");
 
 // ============ CONFIG ============
 const SOURCE_URL =
-  "https://raw.githubusercontent.com/srhady/bingstream/main/playlist.json";
+  "https://raw.githubusercontent.com/srhady/data/main/live_sports_playlist.json";
+
+// Source ka "Start Time" (jaise "06:15 AM | 06-Oct") UTC+6 mein hota hai
+const SOURCE_TZ_OFFSET_HOURS = 6;
 
 const OUTPUT_PATH = path.join(__dirname, "..", "output.json");
 
@@ -34,8 +37,23 @@ const SPORT_ID_MAP = {
   sailing: 21,
   padel: 22,
   "australian football": 23,
+  fight: 18,
 };
 const DEFAULT_SPORT_ID = 99;
+
+// Naye source ki Category names ko generic sport names par map karta hai
+// (hyphen/underscore pehle hi space ban jate hain, phir yahan check hota hai)
+const CATEGORY_ALIASES = {
+  "american football": "american football",
+  hockey: "ice hockey",
+  "motor sports": "motorsport",
+  "motor sport": "motorsport",
+  motorsports: "motorsport",
+  soccer: "football",
+  fight: "fight",
+  fighting: "fight",
+  wrestling: "fight",
+};
 
 // Agar Category field mein already ek generic sport ka naam ho, to
 // usay seedha use kar liya jayega (case-insensitive match)
@@ -75,15 +93,7 @@ const LEAGUE_KEYWORDS = [
   ["sheffield shield", "cricket"],
   ["asia cup", "cricket"],
   ["cricket", "cricket"],
-  ["Sri Lanka tour", "cricket"],
-  ["Pakistan tour", "cricket"],
-  ["India tour", "cricket"],
-  ["West Indies tour", "cricket"],
-  ["South Africa tour", "cricket"],
-  ["Australia tour", "cricket"],
-  ["England tour", "cricket"],
-  ["Bangladesh tour", "cricket"],
-  ["Afghanistan tour", "cricket"],
+  ["ETPL", "cricket"],
 
   // Table Tennis (specific before "tennis")
   ["table tennis", "table tennis"],
@@ -288,7 +298,6 @@ const LEAGUE_KEYWORDS = [
   ["Liga 1", "football"],
   ["Campionato Primavera", "football"],
   ["Süper Lig", "football"],
-  ["EFL", "football"],
   ["world cup", "football"], // note: "rugby world cup" upar rugby se pehle match ho chuka hoga
 ];
 
@@ -335,13 +344,19 @@ function normalize(text) {
 
 // Category aur League dono se dekh kar sahi generic sport pehchanta hai
 function classifySport(category, league) {
-  const catLower = (category || "").toLowerCase().trim();
+  // "American-football" -> "american football", "Motor-sports" -> "motor sports"
+  let catLower = (category || "")
+    .toLowerCase()
+    .replace(/[-_]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+  if (CATEGORY_ALIASES[catLower]) catLower = CATEGORY_ALIASES[catLower];
   const leagueLower = (league || "").toLowerCase().trim();
 
   // Case 1: Category already ek generic sport ka naam hai
   if (KNOWN_GENERIC_SPORTS.includes(catLower)) {
     return {
-      sportName: capitalizeWords(category),
+      sportName: capitalizeWords(catLower),
       leagueName: league && league.trim() ? league : category,
     };
   }
@@ -410,103 +425,136 @@ function formatLocalTime(dateObj) {
   return `${dd} ${mon} ${yyyy}, ${hhStr}:${mm} ${ampm}`;
 }
 
-// Naya source "start_at" already unix timestamp (seconds) mein deta hai
+// "06:15 AM | 06-Oct" (UTC+6) ko unix timestamp (seconds) mein badalta hai.
+// Source mein saal nahi hota, isliye current saal maan kar year-boundary adjust karte hain.
+function parseStartTime(str) {
+  if (!str) return null;
+  const m = String(str).match(
+    /(\d{1,2}):(\d{2})\s*(AM|PM)\s*\|\s*(\d{1,2})-([A-Za-z]{3})/i
+  );
+  if (!m) return null;
+
+  let hour = parseInt(m[1], 10) % 12;
+  if (m[3].toUpperCase() === "PM") hour += 12;
+  const minute = parseInt(m[2], 10);
+  const day = parseInt(m[4], 10);
+  const month = MONTH_NAMES.findIndex(
+    (x) => x.toLowerCase() === m[5].toLowerCase()
+  );
+  if (month < 0) return null;
+
+  const nowMs = Date.now();
+  const halfYear = 182 * 24 * 3600 * 1000;
+  let year = new Date(nowMs).getUTCFullYear();
+
+  const toMs = (y) =>
+    Date.UTC(y, month, day, hour, minute) -
+    SOURCE_TZ_OFFSET_HOURS * 3600 * 1000;
+
+  let ms = toMs(year);
+  if (ms - nowMs > halfYear) ms = toMs(year - 1); // e.g. Jan mein "31-Dec"
+  else if (nowMs - ms > halfYear) ms = toMs(year + 1); // e.g. Dec mein "01-Jan"
+
+  return Math.floor(ms / 1000);
+}
+
+// Time sirf unix timestamp (seconds) mein diya jata hai,
+// app khud har user ke area ke hisab se local time dikhayegi
 function buildTiming(isLive, startAt) {
-  if (isLive) {
-    return {
-      start_time_timestamp: startAt || Math.floor(Date.now() / 1000),
-      start_time_local: "Live Now",
-      countdown_seconds: null,
-    };
-  }
-
-  if (!startAt) {
-    return {
-      start_time_timestamp: null,
-      start_time_local: "TBA",
-      countdown_seconds: null,
-    };
-  }
-
+  const ts = startAt || (isLive ? Math.floor(Date.now() / 1000) : null);
   return {
-    start_time_timestamp: startAt,
-    start_time_local: formatLocalTime(new Date(startAt * 1000)),
+    start_time_timestamp: ts,
+    start_time_local: ts,
     countdown_seconds: null,
   };
 }
 
-function transformStream(stream, referer) {
+function isLiveStatus(status) {
+  return /live/i.test(status || "");
+}
+
+// Har Embed_URL ek alag server ban jata hai
+function transformStream(stream) {
+  const parts = [];
+  if (stream.Source) parts.push(capitalizeWords(stream.Source));
+  if (stream.Stream_No != null) parts.push(String(stream.Stream_No));
+  let name = parts.join(" ");
+  if (stream.Quality) name += ` (${stream.Quality})`;
+  if (stream.Language) name += ` - ${stream.Language}`;
+
   return {
-    server_name: stream.display_name || stream.stream_name || "",
-    // play_url <- SIRF videoURL (stream_link fallback nahi)
-    play_url: stream.videoURL || "",
-    is_new_format: !!stream.videoURL,
-    required_referer: referer || null,
+    server_name: name.trim() || "Server",
+    play_url: stream.Embed_URL || "",
+    is_new_format: !!stream.Embed_URL,
+    required_referer: null,
   };
 }
 
 function transformMatch(m) {
-  const title = m.name || "Unknown Match";
+  const title = (m["Match Title"] || "").trim() || "Unknown Match";
   const matchId = generateMatchId(title);
 
-  // isLive live-detection ke liye (timing/filter mein use hota hai)
-  const isLive = m.is_playing === true;
-  const referer = m.referer || null;
-
-  const { sportName } = classifySport(null, m.league_name);
+  const isLive = isLiveStatus(m["Match Status"]);
+  const { sportName, leagueName } = classifySport(m.Category, m.League);
 
   // teams: source deta hai; agar khali ho to title ko "vs" par split kar lo
-  let home = m.localteam_name || "";
-  let away = m.visitorteam_name || "";
-  if ((!home || !away) && /\svs\s/i.test(title)) {
-    const parts = title.split(/\s+vs\s+/i);
-    home = home || (parts[0] || "").trim() || "Unknown";
-    away = away || (parts[1] || "").trim() || "Unknown";
+  let home = (m["Team 1 Name"] || "").trim();
+  let away = (m["Team 2 Name"] || "").trim();
+  if ((!home || !away) && /\svs\.?\s/i.test(title)) {
+    const parts = title.split(/\s+vs\.?\s+/i);
+    home = home || (parts[0] || "").trim();
+    away = away || (parts[1] || "").trim();
   }
+
+  // Duplicate Embed_URLs hata do, baqi sab play_url ban jayenge
+  const seen = new Set();
+  const streams = (Array.isArray(m.Streams) ? m.Streams : [])
+    .filter((s) => s && s.Embed_URL && !seen.has(s.Embed_URL) && seen.add(s.Embed_URL))
+    .map(transformStream);
 
   return {
     match_id: matchId,
     sport_name: sportName,
     sport_id: getSportId(sportName),
     slug: slugify(title, matchId),
-    title: title, // <- name
-    status: m.status || "NS", // <- status
+    title: title, // <- Match Title
+    status: isLive ? "LIVE" : "NS", // <- Match Status
     league: {
-      league_name: m.league_name || "", // <- league_name
-      league_logo: m.league_logo || "", // <- league_logo
+      league_name: leagueName || "", // <- League
+      league_logo: "", // naye source mein league logo nahi hai
     },
     venue: "TBA",
     teams: {
       home_name: home || "Unknown",
       away_name: away || "Unknown",
-      // combined_logo ab league_logo se pick hota hai (agar available ho),
-      // warna DEFAULT_LOGO fallback ke tor par use hota hai
-      combined_logo: m.league_logo || DEFAULT_LOGO,
+      // combined_logo <- Match Poster (warna DEFAULT_LOGO)
+      combined_logo: m["Match Poster"] || DEFAULT_LOGO,
     },
-    timing: buildTiming(isLive, m.start_at), // <- start_at
-    streams: Array.isArray(m.link_live)
-      ? m.link_live
-          .filter((s) => s.videoURL) // sirf woh streams jinke paas videoURL hai
-          .map((s) => transformStream(s, referer)) // play_url <- videoURL, required_referer <- referer
-      : [],
+    timing: buildTiming(isLive, parseStartTime(m["Start Time"])), // <- Start Time
+    streams: streams, // <- Streams[].Embed_URL
   };
 }
 
 function transformPlaylist(data) {
-  const info = data.playlist_info || {};
-  const matches = Array.isArray(data.matches) ? data.matches : [];
+  // Naya source seedha array deta hai
+  const matches = Array.isArray(data)
+    ? data
+    : Array.isArray(data && data.matches)
+    ? data.matches
+    : [];
 
-  const liveMatches = matches
-    .filter((m) => m.is_playing === true)
-    .map(transformMatch);
-
-  const upcomingMatches = matches
-    .filter((m) => m.is_playing !== true)
-    .map(transformMatch);
+  const all = matches.map((m) => ({ raw: m, out: transformMatch(m) }));
+  const liveMatches = all
+    .filter((x) => isLiveStatus(x.raw["Match Status"]))
+    .map((x) => x.out);
+  const upcomingMatches = all
+    .filter((x) => !isLiveStatus(x.raw["Match Status"]))
+    .map((x) => x.out);
 
   return {
     playlist_info: {
-      last_update_time: info.last_update_time || null,
+      // Source mein update time nahi hai, isliye generate hone ka waqt
+      last_update_time: new Date().toISOString(),
     },
     live_matches: liveMatches,
     total_upcoming_matches: upcomingMatches.length,
