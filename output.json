@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-06T04:49:41.280Z"
+    "last_update_time": "2026-10-06T05:30:38.242Z"
   },
   "live_matches": [
     {
@@ -41,49 +41,6 @@
       ]
     },
     {
-      "match_id": 1675933906,
-      "sport_name": "Fight",
-      "sport_id": 18,
-      "slug": "monday-night-raw-1675933906",
-      "title": "Monday Night Raw",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Fight",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Monday%20Night%20Raw&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1791244800,
-        "start_time_local": 1791244800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Delta 1 (HD) - English",
-          "play_url": "https://embed.st/embed/delta/live-event_monday-night-raw-live-stream/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2070/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2070/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1650824672,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -107,20 +64,45 @@
       },
       "streams": [
         {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/atlanta-falcons-vs-new-orleans-saints-nfl-1791245700/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1541751508,
+      "sport_name": "Fight",
+      "sport_id": 18,
+      "slug": "wwe-monday-night-raw-1541751508",
+      "title": "WWE Monday Night RAW 🔥",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Fight",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=WWE%20Monday%20Night%20RAW%20%F0%9F%94%A5&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1791248400,
+        "start_time_local": 1791248400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
           "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1936/1",
+          "play_url": "https://embed.st/embed/golf/2070/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
           "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1936/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/atlanta-falcons-vs-new-orleans-saints-nfl-1791245700/1",
+          "play_url": "https://embed.st/embed/golf/2070/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -149,24 +131,6 @@
         "countdown_seconds": null
       },
       "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - NBA TV",
-          "play_url": "https://embed.st/embed/admin/ppv-los-angeles-lakers-vs-sacramento-kings/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - NBA TV",
-          "play_url": "https://embed.st/embed/admin/ppv-los-angeles-lakers-vs-sacramento-kings/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Delta 1 (HD) - English",
-          "play_url": "https://embed.st/embed/delta/live_nba-preseason_kings-lakers-live-streaming-659441520/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
         {
           "server_name": "Golf 1 (HD) - English",
           "play_url": "https://embed.st/embed/golf/1818/1",
