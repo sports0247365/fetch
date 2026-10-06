@@ -299,7 +299,6 @@ const LEAGUE_KEYWORDS = [
   ["Campionato Primavera", "football"],
   ["Süper Lig", "football"],
   ["world cup", "football"],
-  ["Basketball", "football"]
 ];
 
 const MONTH_NAMES = [
