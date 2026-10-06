@@ -128,7 +128,7 @@ const LEAGUE_KEYWORDS = [
   ["fip", "padel"], // Federacion Internacional de Padel
 
   // Basketball
-  ["nba", "football"],
+  ["nba", "basketball"],
   ["wnba", "basketball"],
   ["euroleague", "basketball"],
   ["eurocup basketball", "basketball"],
@@ -298,7 +298,8 @@ const LEAGUE_KEYWORDS = [
   ["Liga 1", "football"],
   ["Campionato Primavera", "football"],
   ["Süper Lig", "football"],
-  ["world cup", "football"], // note: "rugby world cup" upar rugby se pehle match ho chuka hoga
+  ["world cup", "football"],
+  ["Basketball", "football"]
 ];
 
 const MONTH_NAMES = [
