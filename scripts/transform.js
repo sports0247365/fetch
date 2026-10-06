@@ -128,7 +128,7 @@ const LEAGUE_KEYWORDS = [
   ["fip", "padel"], // Federacion Internacional de Padel
 
   // Basketball
-  ["nba", "basketball"],
+  ["nba", "football"],
   ["wnba", "basketball"],
   ["euroleague", "basketball"],
   ["eurocup basketball", "basketball"],
