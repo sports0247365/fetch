@@ -1,9 +1,71 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-07T15:20:53.283Z"
+    "last_update_time": "2026-10-07T20:41:47.137Z"
   },
-  "live_matches": [],
-  "total_upcoming_matches": 22,
+  "live_matches": [
+    {
+      "match_id": 1436151433,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "chicago-white-sox-vs-cleveland-guardians-1436151433",
+      "title": "Chicago White Sox vs Cleveland Guardians",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Baseball",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Chicago White Sox",
+        "away_name": "Cleveland Guardians",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGeCRhR+EBBDcQfECgMgYJo2cQSmWmP2Gz6KbWxRdt5ellkemtGBu9KIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791403200,
+        "start_time_local": 1791403200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - TBS",
+          "play_url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-chicago-white-sox/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - TBS",
+          "play_url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-chicago-white-sox/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Delta 1 (HD) - English",
+          "play_url": "https://embed.st/embed/delta/live_mlb-playoffs_white-sox-guardians-live-streaming-663827616/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2112/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2112/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/cleveland-guardians-vs-chicago-white-sox-mlb-1791403200/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    }
+  ],
+  "total_upcoming_matches": 21,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -185,61 +247,6 @@
       ]
     },
     {
-      "match_id": 1436151433,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "chicago-white-sox-vs-cleveland-guardians-1436151433",
-      "title": "Chicago White Sox vs Cleveland Guardians",
-      "status": "NS",
-      "league": {
-        "league_name": "Baseball",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Chicago White Sox",
-        "away_name": "Cleveland Guardians",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGeCRhR+EBBDcQfECgMgYJo2cQSmWmP2Gz6KbWxRdt5ellkemtGBu9KIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791403200,
-        "start_time_local": 1791403200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - TBS",
-          "play_url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-chicago-white-sox/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - TBS",
-          "play_url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-chicago-white-sox/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2112/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2112/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/cleveland-guardians-vs-chicago-white-sox-mlb-1791403200/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1281037271,
       "sport_name": "Baseball",
       "sport_id": 12,
@@ -364,7 +371,7 @@
       "teams": {
         "home_name": "Kennesaw State",
         "away_name": "Jacksonville State",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Kennesaw%20State%20vs%20Jacksonville%20State&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRIS+xAW4pG-ljNlG8cUH0WVKQPJksQA.webp"
       },
       "timing": {
         "start_time_timestamp": 1791414000,
@@ -401,7 +408,7 @@
       "teams": {
         "home_name": "New Mexico State Aggies",
         "away_name": "Florida International Panthers",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Florida%20Intl%20Golden%20Panthers%20vs%20New%20Mexico%20State%20Aggies&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRIS+xAW4NEDXyxmyjeOKD6LKlIHkyWEA.webp"
       },
       "timing": {
         "start_time_timestamp": 1791415800,
@@ -447,13 +454,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - ESPN+",
+          "server_name": "Admin 1 (HD) - English - Prime Video",
           "play_url": "https://embed.st/embed/admin/ppv-colorado-avalanche-vs-winnipeg-jets/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - ESPN+",
+          "server_name": "Admin 2 (SD) - English - Prime Video",
           "play_url": "https://embed.st/embed/admin/ppv-colorado-avalanche-vs-winnipeg-jets/2",
           "is_new_format": true,
           "required_referer": null
