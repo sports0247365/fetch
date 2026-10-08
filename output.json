@@ -1,9 +1,9 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-08T14:16:45.476Z"
+    "last_update_time": "2026-10-08T20:01:12.630Z"
   },
   "live_matches": [],
-  "total_upcoming_matches": 33,
+  "total_upcoming_matches": 35,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -185,55 +185,37 @@
       ]
     },
     {
-      "match_id": 1436151433,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "chicago-white-sox-vs-cleveland-guardians-1436151433",
-      "title": "Chicago White Sox vs Cleveland Guardians",
+      "match_id": 1528492882,
+      "sport_name": "Fight",
+      "sport_id": 18,
+      "slug": "iglesias-vs-zaren-1528492882",
+      "title": "Iglesias vs. Zaren",
       "status": "NS",
       "league": {
-        "league_name": "Baseball",
+        "league_name": "Fight",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Chicago White Sox",
-        "away_name": "Cleveland Guardians",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGeCRhR+EBBDcQfECgMgYJo2cQSmWmP2Gz6KbWxRdt5ellkemtGBu9KIQQA.webp"
+        "home_name": "Iglesias",
+        "away_name": "Zaren",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZEiADGIYSJBYpc6ShkhEwkBBAxN21RIhz1IMjQkwRpEDSzBe5QwKGWC2emELAkuSSmdhuTkNZMj9XeHIA4EMyCCA.webp"
       },
       "timing": {
-        "start_time_timestamp": 1791493200,
-        "start_time_local": 1791493200,
+        "start_time_timestamp": 1791498600,
+        "start_time_local": 1791498600,
         "countdown_seconds": null
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - TBS",
-          "play_url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-chicago-white-sox/1",
+          "server_name": "Admin 1 (HD) - English - DAZN",
+          "play_url": "https://embed.st/embed/admin/ppv-iglesias-vs-zaren/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - TBS",
-          "play_url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-chicago-white-sox/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2138/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2138/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/cleveland-guardians-vs-chicago-white-sox-mlb-1791493200/1",
+          "server_name": "Admin 2 (SD) - English - DAZN",
+          "play_url": "https://embed.st/embed/admin/ppv-iglesias-vs-zaren/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -585,6 +567,12 @@
           "play_url": "https://embed.st/embed/hotel/boston-celtics-vs-cleveland-cavaliers-nba-1791500400/1",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - Away broadcast",
+          "play_url": "https://embed.st/embed/hotel/boston-celtics-vs-cleveland-cavaliers-nba-1791500400/2",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -688,6 +676,12 @@
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/mount-panorama-free-practice-3-australian-supercars-championship-1791500700/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - Powered by Sky Sport NZ",
+          "play_url": "https://embed.st/embed/hotel/mount-panorama-free-practice-3-australian-supercars-championship-1791500700/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -794,6 +788,12 @@
           "play_url": "https://embed.st/embed/hotel/philadelphia-76ers-vs-brooklyn-nets-nba-1791502200/1",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - Away broadcast",
+          "play_url": "https://embed.st/embed/hotel/philadelphia-76ers-vs-brooklyn-nets-nba-1791502200/2",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -861,6 +861,12 @@
           "play_url": "https://embed.st/embed/hotel/washington-wizards-vs-new-york-knicks-nba-1791502200/1",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - Away broadcast",
+          "play_url": "https://embed.st/embed/hotel/washington-wizards-vs-new-york-knicks-nba-1791502200/2",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -914,6 +920,12 @@
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/new-orleans-pelicans-vs-miami-heat-nba-1791502200/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - Away broadcast",
+          "play_url": "https://embed.st/embed/hotel/new-orleans-pelicans-vs-miami-heat-nba-1791502200/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -994,6 +1006,55 @@
       ]
     },
     {
+      "match_id": 1441864090,
+      "sport_name": "Fight",
+      "sport_id": 18,
+      "slug": "ufc-bjj-12-moura-vs-fornarino-1441864090",
+      "title": "UFC BJJ 12: Moura vs. Fornarino",
+      "status": "NS",
+      "league": {
+        "league_name": "Fight",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "UFC BJJ 12: Moura",
+        "away_name": "Fornarino",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFKVIgqIAMYgYIkFmxKI4kIhTTla4OsTCQRxepCr124fuUgSE-mEEimqh4WBJcsiUKesIFzIJAmB4cid9SQggA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791504000,
+        "start_time_local": 1791504000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Sportsnet+",
+          "play_url": "https://embed.st/embed/admin/ppv-ufc-bjj-12-moura-vs-fornarino/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Sportsnet+",
+          "play_url": "https://embed.st/embed/admin/ppv-ufc-bjj-12-moura-vs-fornarino/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2149/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2149/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
       "match_id": 1583023235,
       "sport_name": "Baseball",
       "sport_id": 12,
@@ -1025,12 +1086,6 @@
         {
           "server_name": "Admin 2 (SD) - English - TBS",
           "play_url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-new-york-yankees/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/tampa-bay-rays-vs-new-york-yankees-mlb-1791504000/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -1135,6 +1190,61 @@
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/atlanta-hawks-vs-san-antonio-spurs-nba-1791504000/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1436151433,
+      "sport_name": "Baseball",
+      "sport_id": 12,
+      "slug": "chicago-white-sox-vs-cleveland-guardians-1436151433",
+      "title": "Chicago White Sox vs Cleveland Guardians",
+      "status": "NS",
+      "league": {
+        "league_name": "Baseball",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Chicago White Sox",
+        "away_name": "Cleveland Guardians",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGeCRhR+EBBDcQfECgMgYJo2cQSmWmP2Gz6KbWxRdt5ellkemtGBu9KIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791504000,
+        "start_time_local": 1791504000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - TBS",
+          "play_url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-chicago-white-sox/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - TBS",
+          "play_url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-chicago-white-sox/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2138/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2138/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/cleveland-guardians-vs-chicago-white-sox-mlb-1791493200/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -1389,6 +1499,12 @@
           "play_url": "https://embed.st/embed/hotel/mount-panorama-free-practice-4-australian-supercars-championship-1791512100/1",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - Powered by Sky Sport NZ",
+          "play_url": "https://embed.st/embed/hotel/mount-panorama-free-practice-4-australian-supercars-championship-1791512100/2",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -1473,6 +1589,18 @@
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/mandalika-street-circuit-free-practice-1-moto3-1791507600/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - Alt feed",
+          "play_url": "https://embed.st/embed/hotel/mandalika-street-circuit-free-practice-1-moto3-1791507600/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 3 (HD) - Spanish broadcast",
+          "play_url": "https://embed.st/embed/hotel/mandalika-street-circuit-free-practice-1-moto3-1791507600/3",
           "is_new_format": true,
           "required_referer": null
         }
