@@ -1,84 +1,810 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-10T10:19:30.461Z"
+    "last_update_time": "2026-10-10T15:55:08.729Z"
   },
   "live_matches": [
     {
-      "match_id": 1509258513,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "south-east-melbourne-phoenix-vs-melbourne-united-1509258513",
-      "title": "South East Melbourne Phoenix vs Melbourne United",
+      "match_id": 1121952715,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "marina-bay-qualifying-1121952715",
+      "title": "Marina Bay — Qualifying",
       "status": "LIVE",
       "league": {
-        "league_name": "Basketball",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "South East Melbourne Phoenix",
-        "away_name": "Melbourne United",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqygQ8BMCQhuIPiBKmQUkCgu4QEKwX0U+w2fRRgVKLp-L0tot5MtGCeYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791621000,
-        "start_time_local": 1791621000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-south-east-melbourne-phoenix-vs-melbourne-united/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-south-east-melbourne-phoenix-vs-melbourne-united/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1028083636,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "estoril-superpole-1028083636",
-      "title": "Estoril — Superpole",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Other",
+        "league_name": "Motor-sports",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
         "home_name": "Unknown",
         "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Estoril%20%E2%80%94%20Superpole&font=Oswald"
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Marina%20Bay%20%E2%80%94%20Qualifying&font=Oswald"
       },
       "timing": {
-        "start_time_timestamp": 1791627300,
-        "start_time_local": 1791627300,
+        "start_time_timestamp": 1791636660,
+        "start_time_local": 1791636660,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Italian broadcast",
+          "play_url": "https://embed.st/embed/hotel/marina-bay-qualifying-formula-1-1791636694/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1792837064,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "mainz-vs-bayer-leverkusen-1792837064",
+      "title": "Mainz vs Bayer Leverkusen",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Mainz",
+        "away_name": "Bayer Leverkusen",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGHAQQcECG3cQfECX06zMECiu4CwJBT7DZ9FGBUou78vSyzPTLQaovQhQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791639000,
+        "start_time_local": 1791639000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Fandango",
+          "play_url": "https://embed.st/embed/admin/ppv-mainz-vs-bayer-leverkusen/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Fandango",
+          "play_url": "https://embed.st/embed/admin/ppv-mainz-vs-bayer-leverkusen/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1239566992,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "hoffenheim-vs-hamburg-1239566992",
+      "title": "Hoffenheim vs Hamburg",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Hoffenheim",
+        "away_name": "Hamburg",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSBQgBG3qG7aQJEBBAwTIAzlPwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791639000,
+        "start_time_local": 1791639000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Fandango",
+          "play_url": "https://embed.st/embed/admin/ppv-tsg-hoffenheim-vs-hamburg-sv/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Fandango",
+          "play_url": "https://embed.st/embed/admin/ppv-tsg-hoffenheim-vs-hamburg-sv/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1303643735,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "augsburg-vs-bayern-munich-1303643735",
+      "title": "Augsburg vs Bayern Munich",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Augsburg",
+        "away_name": "Bayern Munich",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXtxC1uCEDBCapIY8aOJ9R4yQLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791639000,
+        "start_time_local": 1791639000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Fandango",
+          "play_url": "https://embed.st/embed/admin/ppv-fc-augsburg-vs-bayern-munich/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Fandango",
+          "play_url": "https://embed.st/embed/admin/ppv-fc-augsburg-vs-bayern-munich/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1465030340,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "union-berlin-vs-elversberg-1465030340",
+      "title": "Union Berlin vs Elversberg",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Union Berlin",
+        "away_name": "Elversberg",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmDBIEoEBBDcQfECcQwjIKRZIgYBYNpj9hs+ijAqUXD+XpZZXkwaHmKiEEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791639000,
+        "start_time_local": 1791639000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Fandango",
+          "play_url": "https://embed.st/embed/admin/ppv-1-fc-union-berlin-vs-sv-elversberg/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Fandango",
+          "play_url": "https://embed.st/embed/admin/ppv-1-fc-union-berlin-vs-sv-elversberg/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1077057030,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "paderborn-vs-stuttgart-1077057030",
+      "title": "Paderborn vs Stuttgart",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Paderborn",
+        "away_name": "Stuttgart",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBggp0GDxAa+IY4i1GpIIyQMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791639000,
+        "start_time_local": 1791639000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Fandango",
+          "play_url": "https://embed.st/embed/admin/ppv-sc-paderborn-07-vs-vf-b-stuttgart/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Fandango",
+          "play_url": "https://embed.st/embed/admin/ppv-sc-paderborn-07-vs-vf-b-stuttgart/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1625639479,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "algarve-race-4-hours-of-portim-o-1625639479",
+      "title": "Algarve — Race: 4 Hours of Portimão",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Motor-sports",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Algarve%20%E2%80%94%20Race%3A%204%20Hours%20of%20Portim%C3%A3o&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1791639000,
+        "start_time_local": 1791639000,
         "countdown_seconds": null
       },
       "streams": [
         {
           "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/estoril-superpole-worldsbk-1791627300/1",
+          "play_url": "https://embed.st/embed/hotel/algarve-race-4-hours-of-portim-o-european-le-mans-series-1791639000/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1217691323,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "chelsea-vs-bournemouth-1217691323",
+      "title": "Chelsea vs Bournemouth",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Chelsea",
+        "away_name": "Bournemouth",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBBisRfCA19NIEiBQhEGk4ikFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791640800,
+        "start_time_local": 1791640800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Sky Sport 4",
+          "play_url": "https://embed.st/embed/admin/ppv-chelsea-vs-afc-bournemouth/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Hotel 2 (HD) - World",
-          "play_url": "https://embed.st/embed/hotel/estoril-superpole-worldsbk-1791627300/2",
+          "server_name": "Admin 2 (SD) - English - Sky Sport 4",
+          "play_url": "https://embed.st/embed/admin/ppv-chelsea-vs-afc-bournemouth/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/1906/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/1906/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/chelsea-vs-afc-bournemouth-premier-league-1791640800/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1808040640,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "ipswich-town-vs-fulham-1808040640",
+      "title": "Ipswich Town vs Fulham",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Ipswich Town",
+        "away_name": "Fulham",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxg+YKWF7gYIbiD4gzEECRAWUIRDhQFgSCn2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791640800,
+        "start_time_local": 1791640800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Sky Sport 5",
+          "play_url": "https://embed.st/embed/admin/ppv-ipswich-town-vs-fulham/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Sky Sport 5",
+          "play_url": "https://embed.st/embed/admin/ppv-ipswich-town-vs-fulham/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/1907/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/1907/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/ipswich-town-vs-fulham-premier-league-1791640800/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1353415021,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "aston-villa-vs-brentford-1353415021",
+      "title": "Aston Villa vs Brentford",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Aston Villa",
+        "away_name": "Brentford",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmBIht4FGCkhuIPjpMmIIGDq1SCwJBT7DZ9PSpRdN5ellkemtGCaYqIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791640800,
+        "start_time_local": 1791640800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Sky Sport 7",
+          "play_url": "https://embed.st/embed/admin/ppv-aston-villa-vs-brentford/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Sky Sport 7",
+          "play_url": "https://embed.st/embed/admin/ppv-aston-villa-vs-brentford/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/1905/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/1905/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/aston-villa-vs-brentford-premier-league-1791640800/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1220121413,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "sunderland-vs-brighton-and-hove-albion-1220121413",
+      "title": "Sunderland vs Brighton and Hove Albion",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Sunderland",
+        "away_name": "Brighton and Hove Albion",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFBSwIQA0Nx0hDEECRDGUIRIglMkFPsNn0NKlFzBl4RLLLdNaYB5iohBAA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791640800,
+        "start_time_local": 1791640800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Sky Sport 6",
+          "play_url": "https://embed.st/embed/admin/ppv-sunderland-vs-brighton-hove-albion/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Sky Sport 6",
+          "play_url": "https://embed.st/embed/admin/ppv-sunderland-vs-brighton-hove-albion/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/1908/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/1908/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/sunderland-vs-brighton-hove-albion-premier-league-1791640800/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1430374243,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "watford-vs-burnley-1430374243",
+      "title": "Watford vs Burnley",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Watford",
+        "away_name": "Burnley",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBggy4ECG76QGvTgggpRkCnMgFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791640800,
+        "start_time_local": 1791640800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - EFL Championship",
+          "play_url": "https://embed.st/embed/admin/ppv-watford-vs-burnley/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - EFL Championship",
+          "play_url": "https://embed.st/embed/admin/ppv-watford-vs-burnley/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1319282098,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "derby-county-vs-wrexham-1319282098",
+      "title": "Derby County vs Wrexham",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Derby County",
+        "away_name": "Wrexham",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFSAEAGECmBgQ3TSBM4IIKcZTGJTJBT7DZ9FGBV62b8vSyy9TWjA3MVEIIA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791640800,
+        "start_time_local": 1791640800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-derby-county-vs-wrexham/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-derby-county-vs-wrexham/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1653000208,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "middlesbrough-vs-wolverhampton-wanderers-1653000208",
+      "title": "Middlesbrough vs Wolverhampton Wanderers",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Middlesbrough",
+        "away_name": "Wolverhampton Wanderers",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLE054YFCG4g+IYzgggphkHqONgGmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791640800,
+        "start_time_local": 1791640800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - EFL Championship",
+          "play_url": "https://embed.st/embed/admin/ppv-middlesbrough-vs-wolverhampton-wanderers/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - EFL Championship",
+          "play_url": "https://embed.st/embed/admin/ppv-middlesbrough-vs-wolverhampton-wanderers/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1505529700,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "deportivo-alav-s-vs-atl-tico-madrid-1505529700",
+      "title": "Deportivo Alavés vs Atlético Madrid",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Deportivo Alavés",
+        "away_name": "Atlético Madrid",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwIQKYEjnsQ3EHxCmI2kDBDmShywV0U+w2fRRgVOth-L0ssnSZaMA8xUQggA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791641700,
+        "start_time_local": 1791641700,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-alav-s-vs-atl-tico-madrid/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-alav-s-vs-atl-tico-madrid/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/alav-s-vs-atl-tico-madrid-laliga-ea-sports-1791641700/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1794889256,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "go-ahead-eagles-vs-sparta-rotterdam-1794889256",
+      "title": "Go Ahead Eagles vs Sparta Rotterdam",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Go Ahead Eagles",
+        "away_name": "Sparta Rotterdam",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRDHYgyfbSG4hdIXCZggU5yygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791642600,
+        "start_time_local": 1791642600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - Dutch - ESPN2",
+          "play_url": "https://embed.st/embed/admin/ppv-go-ahead-eagles-vs-sparta-rotterdam/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - Dutch - ESPN2",
+          "play_url": "https://embed.st/embed/admin/ppv-go-ahead-eagles-vs-sparta-rotterdam/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1892708804,
+      "sport_name": "Fight",
+      "sport_id": 18,
+      "slug": "kbx-cambridge-1892708804",
+      "title": "KBX Cambridge",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Fight",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiYSBjBENCCBpYQAY2ByYIMjJByVVEPFLaQIbMfnLsqkCjMlrylOQigwgkU0uOwhYElxLHIVdWZ2FSegJpcldVcIggA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791644400,
+        "start_time_local": 1791644400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - World of Combat TV",
+          "play_url": "https://embed.st/embed/admin/ppv-kbx-cambridge/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1189908265,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "lille-vs-le-havre-1189908265",
+      "title": "Lille vs Le Havre",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Lille",
+        "away_name": "Le Havre",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmBS4QU8iBDcQfECRAR9IGBa02CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791645300,
+        "start_time_local": 1791645300,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - French - Ligue 1+",
+          "play_url": "https://embed.st/embed/admin/ppv-lille-vs-le-havre-ac/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - French - Ligue 1+",
+          "play_url": "https://embed.st/embed/admin/ppv-lille-vs-le-havre-ac/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/lille-vs-le-havre-ac-ligue-1-1791645300/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1253092790,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "mj-llby-vs-degerfors-1253092790",
+      "title": "Mjällby vs Degerfors",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Mjällby",
+        "away_name": "Degerfors",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQiBC0wIFGCQhuIKSD4gSxzVtO6QMAsCQU+w2fT0qUXMGXhEssl5M2j5iohBAA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791646200,
+        "start_time_local": 1791646200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - Swedish - TV4 Sport Live 1",
+          "play_url": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-degerfors-if/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - Swedish - TV4 Sport Live 1",
+          "play_url": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-degerfors-if/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1055381736,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "charlotte-motor-speedway-qualifying-1055381736",
+      "title": "Charlotte Motor Speedway — Qualifying",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Motor-sports",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Charlotte%20Motor%20Speedway%20%E2%80%94%20Qualifying&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1791646500,
+        "start_time_local": 1791646500,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/charlotte-motor-speedway-qualifying-nascar-oreilly-auto-parts-series-1791646500/1",
           "is_new_format": true,
           "required_referer": null
         }
       ]
     }
   ],
-  "total_upcoming_matches": 135,
+  "total_upcoming_matches": 81,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -260,1226 +986,6 @@
       ]
     },
     {
-      "match_id": 1704868138,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "perth-wildcats-vs-new-zealand-breakers-1704868138",
-      "title": "Perth Wildcats vs New Zealand Breakers",
-      "status": "NS",
-      "league": {
-        "league_name": "Basketball",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Perth Wildcats",
-        "away_name": "New Zealand Breakers",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqxg+IGDw0huIHSRCmpIFCAs4clpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791628200,
-        "start_time_local": 1791628200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-perth-wildcats-vs-new-zealand-breakers/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-perth-wildcats-vs-new-zealand-breakers/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1721025110,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "hockenheim-race-1-1721025110",
-      "title": "Hockenheim — Race 1",
-      "status": "NS",
-      "league": {
-        "league_name": "Motor-sports",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Hockenheim%20%E2%80%94%20Race%201&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1791631800,
-        "start_time_local": 1791631800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/hockenheim-race-1-dtm-1791631800/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1298034208,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "west-bromwich-albion-vs-birmingham-city-1298034208",
-      "title": "West Bromwich Albion vs Birmingham City",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "West Bromwich Albion",
-        "away_name": "Birmingham City",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFHRDwwopAhDcQfECZwQQUoyBQWTBYHpj9hs+ih1sNbHeXpZZGky0YB70ohBAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791631800,
-        "start_time_local": 1791631800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Sky Sports Football",
-          "play_url": "https://embed.st/embed/admin/ppv-west-bromwich-albion-vs-birmingham-city/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Sky Sports Football",
-          "play_url": "https://embed.st/embed/admin/ppv-west-bromwich-albion-vs-birmingham-city/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1146172195,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "arsenal-vs-leeds-united-1146172195",
-      "title": "Arsenal vs Leeds United",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Arsenal",
-        "away_name": "Leeds United",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNtzApKIbSBDcQffSAggSp3SEQ4pBYEgp9hs+ijArtbD+XpZZ2ky0YB5iohBAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791631800,
-        "start_time_local": 1791631800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - TNT Sports 1",
-          "play_url": "https://embed.st/embed/admin/ppv-arsenal-vs-leeds-united/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - TNT Sports 1",
-          "play_url": "https://embed.st/embed/admin/ppv-arsenal-vs-leeds-united/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1904/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1904/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/arsenal-vs-leeds-united-premier-league-1791631800/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1541272534,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "rayo-vallecano-vs-athletic-bilbao-1541272534",
-      "title": "Rayo Vallecano vs Athletic Bilbao",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Rayo Vallecano",
-        "away_name": "Athletic Bilbao",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLAzBJYRPiG4g9IEBBAoQMEyBL6TBYNpj9hs+ijAqUXD+XobRXky0YB5iohBAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791633600,
-        "start_time_local": 1791633600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-rayo-vallecano-vs-athletic-club/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-rayo-vallecano-vs-athletic-club/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/rayo-vallecano-vs-athletic-club-laliga-ea-sports-1791633600/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1052695869,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "1st-qualifying-marina-bay-street-circuit-1052695869",
-      "title": "1st Qualifying | Marina Bay Street Circuit |",
-      "status": "NS",
-      "league": {
-        "league_name": "Motor-sports",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=1st%20Qualifying%20%7C%20Marina%20Bay%20Street%20Circuit%20%7C&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1791637200,
-        "start_time_local": 1791637200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/marina-bay-qualifying-formula-1-1791637200/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 2 (HD) - Alt feed",
-          "play_url": "https://embed.st/embed/hotel/marina-bay-qualifying-formula-1-1791637200/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 3 (HD) - LowRes",
-          "play_url": "https://embed.st/embed/hotel/marina-bay-qualifying-formula-1-1791637200/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 4 (HD) - 4K UHD",
-          "play_url": "https://embed.st/embed/hotel/marina-bay-qualifying-formula-1-1791637200/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 5 (HD) - Spanish broadcast",
-          "play_url": "https://embed.st/embed/hotel/marina-bay-qualifying-formula-1-1791637200/5",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 6 (HD) - Italian broadcast",
-          "play_url": "https://embed.st/embed/hotel/marina-bay-qualifying-formula-1-1791637200/6",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1622510976,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "singapore-grand-prix-qualifying-1622510976",
-      "title": "Singapore Grand Prix - Qualifying",
-      "status": "NS",
-      "league": {
-        "league_name": "Motor-sports",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCDJYQVccBo0SICCGkpgEEfK3CQKZTJC6AxuMnZVhlSD3myJdfzCCtBbPTCFgSXMfVDnVk1hUno3eHJnDVCIIA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791637200,
-        "start_time_local": 1791637200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Sky Sports F1",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Sky Sports F1",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 3 (HD) - English - Apple TV (F1TV)",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 4 (SD) - English - Apple TV (F1TV)",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 5 (HD) - Spanish - DAZN F1",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/5",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 6 (SD) - Spanish - DAZN F1",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/6",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 7 (HD) - German - Sky Sport F1",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/7",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 8 (SD) - German - Sky Sport F1",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/8",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 9 (HD) - Italian - Sky Sport F1",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/9",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 10 (SD) - Italian - Sky Sport F1",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/10",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 11 (HD) - Swedish - V Sport Motor",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/11",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 12 (SD) - Swedish - V Sport Motor",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/12",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 13 (HD) - Dutch - Viaplay",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/13",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 14 (SD) - Dutch - Viaplay",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/14",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 15 (HD) - Czech - Nova Sport 5",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/15",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 16 (SD) - Czech - Nova Sport 5",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/16",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 17 (HD) - Polish - Eleven Sports 1",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/17",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 18 (SD) - Polish - Eleven Sports 1",
-          "play_url": "https://embed.st/embed/admin/ppv-singapore-grand-prix-qualifying/18",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2134/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2134/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1156233646,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "genoa-vs-fiorentina-1156233646",
-      "title": "Genoa vs Fiorentina",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Genoa",
-        "away_name": "Fiorentina",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECRApszUCCkhuIPhtMoQiCIesSmSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791637200,
-        "start_time_local": 1791637200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-genoa-vs-fiorentina/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-genoa-vs-fiorentina/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/genoa-vs-fiorentina-serie-a-1791637200/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1683506404,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "gais-vs-sirius-1683506404",
-      "title": "GAIS vs Sirius",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "GAIS",
-        "away_name": "Sirius",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmHAoeYJLhDcQfECYghEJIyDOIpBYEgp9hs+ijArtbD+XpZZ2ky0YB5iohBAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791637200,
-        "start_time_local": 1791637200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - Swedish - TV4 Fotboll",
-          "play_url": "https://embed.st/embed/admin/ppv-gais-vs-ik-sirius/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - Swedish - TV4 Fotboll",
-          "play_url": "https://embed.st/embed/admin/ppv-gais-vs-ik-sirius/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1557129154,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "aik-vs-brommapojkarna-1557129154",
-      "title": "AIK vs Brommapojkarna",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "AIK",
-        "away_name": "Brommapojkarna",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLAly4wIBiG4gpIPiBKGQFxBbPwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791637200,
-        "start_time_local": 1791637200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - Swedish - TV4 Sportkanalen",
-          "play_url": "https://embed.st/embed/admin/ppv-aik-vs-if-brommapojkarna/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - Swedish - TV4 Sportkanalen",
-          "play_url": "https://embed.st/embed/admin/ppv-aik-vs-if-brommapojkarna/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1625639479,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "algarve-race-4-hours-of-portim-o-1625639479",
-      "title": "Algarve — Race: 4 Hours of Portimão",
-      "status": "NS",
-      "league": {
-        "league_name": "Motor-sports",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Algarve%20%E2%80%94%20Race%3A%204%20Hours%20of%20Portim%C3%A3o&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1791639000,
-        "start_time_local": 1791639000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/algarve-race-4-hours-of-portim-o-european-le-mans-series-1791639000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1077057030,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "paderborn-vs-stuttgart-1077057030",
-      "title": "Paderborn vs Stuttgart",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Paderborn",
-        "away_name": "Stuttgart",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBggp0GDxAa+IY4i1GpIIyQMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791639000,
-        "start_time_local": 1791639000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Fandango",
-          "play_url": "https://embed.st/embed/admin/ppv-sc-paderborn-07-vs-vf-b-stuttgart/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Fandango",
-          "play_url": "https://embed.st/embed/admin/ppv-sc-paderborn-07-vs-vf-b-stuttgart/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/sc-paderborn-07-vs-vfb-stuttgart-bundesliga-1791639000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1465030340,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "union-berlin-vs-elversberg-1465030340",
-      "title": "Union Berlin vs Elversberg",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Union Berlin",
-        "away_name": "Elversberg",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmDBIEoEBBDcQfECcQwjIKRZIgYBYNpj9hs+ijAqUXD+XpZZXkwaHmKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791639000,
-        "start_time_local": 1791639000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Fandango",
-          "play_url": "https://embed.st/embed/admin/ppv-1-fc-union-berlin-vs-sv-elversberg/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Fandango",
-          "play_url": "https://embed.st/embed/admin/ppv-1-fc-union-berlin-vs-sv-elversberg/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/1-fc-union-berlin-vs-sv-elversberg-bundesliga-1791639000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1303643735,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "augsburg-vs-bayern-munich-1303643735",
-      "title": "Augsburg vs Bayern Munich",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Augsburg",
-        "away_name": "Bayern Munich",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXtxC1uCEDBCapIY8aOJ9R4yQLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791639000,
-        "start_time_local": 1791639000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Fandango",
-          "play_url": "https://embed.st/embed/admin/ppv-fc-augsburg-vs-bayern-munich/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Fandango",
-          "play_url": "https://embed.st/embed/admin/ppv-fc-augsburg-vs-bayern-munich/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/fc-augsburg-vs-bayern-munich-bundesliga-1791639000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1239566992,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "hoffenheim-vs-hamburg-1239566992",
-      "title": "Hoffenheim vs Hamburg",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Hoffenheim",
-        "away_name": "Hamburg",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSBQgBG3qG7aQJEBBAwTIAzlPwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791639000,
-        "start_time_local": 1791639000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Fandango",
-          "play_url": "https://embed.st/embed/admin/ppv-tsg-hoffenheim-vs-hamburg-sv/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Fandango",
-          "play_url": "https://embed.st/embed/admin/ppv-tsg-hoffenheim-vs-hamburg-sv/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/tsg-hoffenheim-vs-hamburg-sv-bundesliga-1791639000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1792837064,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "mainz-vs-bayer-leverkusen-1792837064",
-      "title": "Mainz vs Bayer Leverkusen",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Mainz",
-        "away_name": "Bayer Leverkusen",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGHAQQcECG3cQfECX06zMECiu4CwJBT7DZ9FGBUou78vSyzPTLQaovQhQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791639000,
-        "start_time_local": 1791639000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Fandango",
-          "play_url": "https://embed.st/embed/admin/ppv-mainz-vs-bayer-leverkusen/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Fandango",
-          "play_url": "https://embed.st/embed/admin/ppv-mainz-vs-bayer-leverkusen/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/mainz-vs-bayer-leverkusen-bundesliga-1791639000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1319282098,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "derby-county-vs-wrexham-1319282098",
-      "title": "Derby County vs Wrexham",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Derby County",
-        "away_name": "Wrexham",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFSAEAGECmBgQ3TSBM4IIKcZTGJTJBT7DZ9FGBV62b8vSyy9TWjA3MVEIIA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791640800,
-        "start_time_local": 1791640800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-derby-county-vs-wrexham/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-derby-county-vs-wrexham/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1220121413,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "sunderland-vs-brighton-and-hove-albion-1220121413",
-      "title": "Sunderland vs Brighton and Hove Albion",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Sunderland",
-        "away_name": "Brighton and Hove Albion",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFBSwIQA0Nx0hDEECRDGUIRIglMkFPsNn0NKlFzBl4RLLLdNaYB5iohBAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791640800,
-        "start_time_local": 1791640800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Sky Sport 6",
-          "play_url": "https://embed.st/embed/admin/ppv-sunderland-vs-brighton-hove-albion/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Sky Sport 6",
-          "play_url": "https://embed.st/embed/admin/ppv-sunderland-vs-brighton-hove-albion/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1908/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1908/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/sunderland-vs-brighton-hove-albion-premier-league-1791640800/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1353415021,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "aston-villa-vs-brentford-1353415021",
-      "title": "Aston Villa vs Brentford",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Aston Villa",
-        "away_name": "Brentford",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmBIht4FGCkhuIPjpMmIIGDq1SCwJBT7DZ9PSpRdN5ellkemtGCaYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791640800,
-        "start_time_local": 1791640800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Sky Sport 7",
-          "play_url": "https://embed.st/embed/admin/ppv-aston-villa-vs-brentford/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Sky Sport 7",
-          "play_url": "https://embed.st/embed/admin/ppv-aston-villa-vs-brentford/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1905/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1905/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/aston-villa-vs-brentford-premier-league-1791640800/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1808040640,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "ipswich-town-vs-fulham-1808040640",
-      "title": "Ipswich Town vs Fulham",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Ipswich Town",
-        "away_name": "Fulham",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxg+YKWF7gYIbiD4gzEECRAWUIRDhQFgSCn2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791640800,
-        "start_time_local": 1791640800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Sky Sport 5",
-          "play_url": "https://embed.st/embed/admin/ppv-ipswich-town-vs-fulham/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Sky Sport 5",
-          "play_url": "https://embed.st/embed/admin/ppv-ipswich-town-vs-fulham/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1907/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1907/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/ipswich-town-vs-fulham-premier-league-1791640800/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1217691323,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "chelsea-vs-bournemouth-1217691323",
-      "title": "Chelsea vs Bournemouth",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Chelsea",
-        "away_name": "Bournemouth",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBBisRfCA19NIEiBQhEGk4ikFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791640800,
-        "start_time_local": 1791640800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Sky Sport 4",
-          "play_url": "https://embed.st/embed/admin/ppv-chelsea-vs-afc-bournemouth/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Sky Sport 4",
-          "play_url": "https://embed.st/embed/admin/ppv-chelsea-vs-afc-bournemouth/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1906/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1906/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/chelsea-vs-afc-bournemouth-premier-league-1791640800/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1505529700,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "deportivo-alav-s-vs-atl-tico-madrid-1505529700",
-      "title": "Deportivo Alavés vs Atlético Madrid",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Deportivo Alavés",
-        "away_name": "Atlético Madrid",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwIQKYEjnsQ3EHxCmI2kDBDmShywV0U+w2fRRgVOth-L0ssnSZaMA8xUQggA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791641700,
-        "start_time_local": 1791641700,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-alav-s-vs-atl-tico-madrid/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-alav-s-vs-atl-tico-madrid/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/alav-s-vs-atl-tico-madrid-laliga-ea-sports-1791641700/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1401240158,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "charlotte-motor-speedway-free-practice-1401240158",
-      "title": "Charlotte Motor Speedway — Free Practice",
-      "status": "NS",
-      "league": {
-        "league_name": "Motor-sports",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Charlotte%20Motor%20Speedway%20%E2%80%94%20Free%20Practice&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1791642600,
-        "start_time_local": 1791642600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/charlotte-motor-speedway-free-practice-nascar-oreilly-auto-parts-series-1791642600/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1794889256,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "go-ahead-eagles-vs-sparta-rotterdam-1794889256",
-      "title": "Go Ahead Eagles vs Sparta Rotterdam",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Go Ahead Eagles",
-        "away_name": "Sparta Rotterdam",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRDHYgyfbSG4hdIXCZggU5yygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791642600,
-        "start_time_local": 1791642600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - Dutch - ESPN2",
-          "play_url": "https://embed.st/embed/admin/ppv-go-ahead-eagles-vs-sparta-rotterdam/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - Dutch - ESPN2",
-          "play_url": "https://embed.st/embed/admin/ppv-go-ahead-eagles-vs-sparta-rotterdam/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1189908265,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "lille-vs-le-havre-1189908265",
-      "title": "Lille vs Le Havre",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Lille",
-        "away_name": "Le Havre",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmBS4QU8iBDcQfECRAR9IGBa02CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791645300,
-        "start_time_local": 1791645300,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - French - Ligue 1+",
-          "play_url": "https://embed.st/embed/admin/ppv-lille-vs-le-havre-ac/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - French - Ligue 1+",
-          "play_url": "https://embed.st/embed/admin/ppv-lille-vs-le-havre-ac/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/lille-vs-le-havre-ac-ligue-1-1791645300/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1253092790,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "mj-llby-vs-degerfors-1253092790",
-      "title": "Mjällby vs Degerfors",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Mjällby",
-        "away_name": "Degerfors",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQiBC0wIFGCQhuIKSD4gSxzVtO6QMAsCQU+w2fT0qUXMGXhEssl5M2j5iohBAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791646200,
-        "start_time_local": 1791646200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - Swedish - TV4 Sport Live 1",
-          "play_url": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-degerfors-if/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - Swedish - TV4 Sport Live 1",
-          "play_url": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-degerfors-if/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1291788952,
       "sport_name": "Football",
       "sport_id": 1,
@@ -1556,18 +1062,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-texas-a-m-aggies-at-missouri-tigers/4",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2028/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2028/2",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -1609,80 +1103,6 @@
       ]
     },
     {
-      "match_id": 1640251091,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "army-vs-tulane-1640251091",
-      "title": "Army vs Tulane",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Army",
-        "away_name": "Tulane",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCD65o3MFJDcQ+lCEQwQJEBAMhzKAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791648000,
-        "start_time_local": 1791648000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2033/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2033/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1470567843,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "bowling-green-vs-sacramento-state-1470567843",
-      "title": "Bowling Green vs Sacramento State",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Bowling Green",
-        "away_name": "Sacramento State",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRISzRDXT6G-ljNlG8cUH0WVKQPJksQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791648000,
-        "start_time_local": 1791648000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2034/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2034/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1465647712,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -1714,55 +1134,6 @@
         {
           "server_name": "Admin 2 (SD) - English - FOX",
           "play_url": "https://embed.st/embed/admin/ppv-indiana-hoosiers-at-nebraska-cornhuskers/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2027/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2027/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1147160073,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "nc-state-vs-wake-forest-1147160073",
-      "title": "NC State vs Wake Forest",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "NC State",
-        "away_name": "Wake Forest",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHBBBkQwKSBghuIPShCIDmjSGsSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791648000,
-        "start_time_local": 1791648000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2032/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2032/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -1814,18 +1185,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-north-carolina-tar-heels-at-pittsburgh-panthers/4",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2030/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2030/2",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -1861,55 +1220,6 @@
         {
           "server_name": "Admin 2 (SD) - English - ESPN2",
           "play_url": "https://embed.st/embed/admin/ppv-ucf-knights-at-oklahoma-state-cowboys/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2029/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2029/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1830030901,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "west-virginia-vs-arizona-1830030901",
-      "title": "West Virginia vs Arizona",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "West Virginia",
-        "away_name": "Arizona",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRIS6RA1LIeiD05YzZRvHFB9FlSkDyZFhAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791648000,
-        "start_time_local": 1791648000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2031/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2031/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -1994,18 +1304,6 @@
           "required_referer": null
         },
         {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2131/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2131/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/barcelona-vs-getafe-laliga-ea-sports-1791649800/1",
           "is_new_format": true,
@@ -2049,57 +1347,8 @@
           "required_referer": null
         },
         {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1909/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1909/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/manchester-united-vs-tottenham-hotspur-premier-league-1791649800/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1223017581,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "northwestern-vs-ball-state-1223017581",
-      "title": "Northwestern vs Ball State",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Northwestern",
-        "away_name": "Ball State",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRIS6UshTlxjljNlG8cUH0WVKQPJksQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791649800,
-        "start_time_local": 1791649800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2035/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2035/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -2176,55 +1425,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-south-carolina-gamecocks-at-florida-gators/2",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2036/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2036/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1533212523,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "old-dominion-monarchs-app-state-mountaineers-1533212523",
-      "title": "Old Dominion Monarchs @ App State Mountaineers",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Old Dominion Monarchs",
-        "away_name": "App State Mountaineers",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRISzRCJLIU3pyxmyjeOKD6LKlIHkyWEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791651600,
-        "start_time_local": 1791651600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2037/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2037/2",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -2297,104 +1497,6 @@
         {
           "server_name": "Admin 2 (SD) - English - NESN",
           "play_url": "https://embed.st/embed/admin/ppv-philadelphia-flyers-vs-boston-bruins/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2145/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2145/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2145/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2145/4",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1056097380,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "east-carolina-vs-rice-1056097380",
-      "title": "East Carolina vs Rice",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "East Carolina",
-        "away_name": "Rice",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRISzRD0Q7EIjv5YzZRvHFB9FlSkDyZFhAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791651600,
-        "start_time_local": 1791651600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2054/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2054/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1783389416,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "massachusetts-minutemen-vs-miami-oh-red-hawks-1783389416",
-      "title": "Massachusetts Minutemen vs Miami (Oh) Red Hawks",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Miami (OH) RedHawks",
-        "away_name": "Massachusetts Minutemen",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRISzRDXTpmPljNlG8cUH0WVKQPJksQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791655200,
-        "start_time_local": 1791655200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2038/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2038/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -2725,18 +1827,6 @@
           "required_referer": null
         },
         {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2132/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2132/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/real-madrid-vs-villarreal-laliga-ea-sports-1791658800/1",
           "is_new_format": true,
@@ -2815,67 +1905,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-vancouver-canucks-vs-new-jersey-devils/2",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2146/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2146/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2146/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2146/4",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1487559996,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "navy-vs-tulsa-1487559996",
-      "title": "Navy vs Tulsa",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Navy",
-        "away_name": "Tulsa",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFGBDAZKEL03cQUkLsQwQEXCHOWYBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791660600,
-        "start_time_local": 1791660600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2048/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2048/2",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -2911,203 +1940,6 @@
         {
           "server_name": "Admin 2 (SD) - English - NBC",
           "play_url": "https://embed.st/embed/admin/ppv-stanford-cardinal-at-notre-dame-fighting-irish/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2040/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2040/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1719842781,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "western-michigan-vs-kent-state-1719842781",
-      "title": "Western Michigan vs Kent State",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Western Michigan",
-        "away_name": "Kent State",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUQAY2IeGCm4Q3EPpQ6QMECQNWcfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791660600,
-        "start_time_local": 1791660600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2052/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2052/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1197577385,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "ohio-vs-central-michigan-1197577385",
-      "title": "Ohio vs Central Michigan",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Ohio",
-        "away_name": "Central Michigan",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMrTBg+REiG4gpIFCEQwQenBFwg+BYEgp3WIsSjAqUXD+XpZZXkyaHmKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791660600,
-        "start_time_local": 1791660600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2051/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2051/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1383709475,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "toledo-vs-buffalo-1383709475",
-      "title": "Toledo vs Buffalo",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Toledo",
-        "away_name": "Buffalo",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCBByNIWiRDcQUkChAQQfE0dwGTBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791660600,
-        "start_time_local": 1791660600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2050/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2050/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1133518667,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "akron-vs-eastern-michigan-1133518667",
-      "title": "Akron vs Eastern Michigan",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Akron",
-        "away_name": "Eastern Michigan",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPthCJ4YDUhDcQUkCi0gYIEiAgg+BkCaZIKfYbPoowKlFy-l6WLI+TLRgXmKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791660600,
-        "start_time_local": 1791660600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2049/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2049/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1807805019,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "north-texas-vs-charlotte-1807805019",
-      "title": "North Texas vs Charlotte",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "North Texas",
-        "away_name": "Charlotte",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRISzRD0Q7EIhA18sZso3jig+iypSB5GRYQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791660600,
-        "start_time_local": 1791660600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2047/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2047/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -3147,129 +1979,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-ucla-bruins-at-oregon-ducks/2",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2042/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2042/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1148154351,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "michigan-state-vs-illinois-1148154351",
-      "title": "Michigan State vs Illinois",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Michigan State",
-        "away_name": "Illinois",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKRQAM5AfhDcQUkChCIYIEiAiHj+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791660600,
-        "start_time_local": 1791660600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2046/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2046/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1366563344,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "california-vs-virginia-tech-1366563344",
-      "title": "California vs Virginia Tech",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "California",
-        "away_name": "Virginia Tech",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRIS6Ush6Ia4nyxmyjeOKD6LKlIHkyWEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791660600,
-        "start_time_local": 1791660600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2045/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2045/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1505408842,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "georgia-tech-vs-duke-1505408842",
-      "title": "Georgia Tech vs Duke",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Georgia Tech",
-        "away_name": "Duke",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VASjG1N+ENxBSQKEIhggIuEGcPwCwJBT7DZ9FGBWa278vSyydzMBg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791660600,
-        "start_time_local": 1791660600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2044/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2044/2",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -3305,18 +2014,6 @@
         {
           "server_name": "Admin 2 (SD) - English - FOX",
           "play_url": "https://embed.st/embed/admin/ppv-houston-cougars-at-kansas-state-wildcats/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2043/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2043/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -3368,18 +2065,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-ole-miss-rebels-at-vanderbilt-commodores/4",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2041/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2041/2",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -3427,55 +2112,6 @@
         {
           "server_name": "Admin 4 (SD) - English - SkyCast",
           "play_url": "https://embed.st/embed/admin/ppv-texas-longhorns-at-oklahoma-sooners/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2039/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2039/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1238675201,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "temple-vs-uconn-1238675201",
-      "title": "Temple vs UConn",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Temple",
-        "away_name": "UConn",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFNDIQQUEiG4gpIFCEQwQeveb2NgSCn2Gz6GlSi5gy8IllnumtGCeYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791661500,
-        "start_time_local": 1791661500,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2053/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2053/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -3546,30 +2182,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-edmonton-oilers-vs-san-jose-sharks/2",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2147/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2147/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2147/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2147/4",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -3605,18 +2217,6 @@
         {
           "server_name": "Admin 2 (SD) - English - BTN",
           "play_url": "https://embed.st/embed/admin/ppv-maryland-terrapins-at-ohio-state-buckeyes/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2055/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2055/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -3656,55 +2256,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-tennessee-volunteers-at-arkansas-razorbacks/2",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2056/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2056/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1613448514,
-      "sport_name": "Fight",
-      "sport_id": 18,
-      "slug": "floyd-schofield-vs-lucas-bahdi-1613448514",
-      "title": "Floyd Schofield vs Lucas Bahdi",
-      "status": "NS",
-      "league": {
-        "league_name": "Fight",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Floyd Schofield",
-        "away_name": "Lucas Bahdi",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRDww0kLSTAkIXiCwgUxkJt2IQlxfkMUsIuYxRhVKHp-KNqct6O9GCe4mIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791664200,
-        "start_time_local": 1791664200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2187/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2187/2",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -3732,14 +2283,38 @@
       },
       "streams": [
         {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2185/1",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2185/2",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 3 (HD) - Spanish - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/3",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 4 (SD) - Spanish - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 5 (HD) - Portuguese - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/5",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 6 (SD) - Portuguese - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-ufc-fight-night-allen-vs-duncan/6",
           "is_new_format": true,
           "required_referer": null
         },
@@ -3816,67 +2391,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-minnesota-wild-vs-florida-panthers/2",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2160/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2160/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2160/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2160/4",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1409097965,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "oregon-state-vs-san-diego-state-1409097965",
-      "title": "Oregon State vs San Diego State",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Oregon State",
-        "away_name": "San Diego State",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcHEQowISiG4gpIFCAgg+x05bONgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791669600,
-        "start_time_local": 1791669600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2084/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2084/2",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -3912,18 +2426,6 @@
         {
           "server_name": "Admin 2 (SD) - English - NBA League Pass",
           "play_url": "https://embed.st/embed/admin/ppv-la-clippers-vs-toronto-raptors/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2152/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2152/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -4043,30 +2545,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-utah-mammoth-vs-buffalo-sabres/2",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2161/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2161/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2161/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2161/4",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -4102,30 +2580,6 @@
         {
           "server_name": "Admin 2 (SD) - English - CHSN",
           "play_url": "https://embed.st/embed/admin/ppv-carolina-hurricanes-vs-chicago-blackhawks/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2165/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2165/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2165/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2165/4",
           "is_new_format": true,
           "required_referer": null
         }
@@ -4165,30 +2619,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-toronto-maple-leafs-vs-colorado-avalanche/2",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2167/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2167/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2167/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2167/4",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -4224,30 +2654,6 @@
         {
           "server_name": "Admin 2 (SD) - English - ESPN+",
           "play_url": "https://embed.st/embed/admin/ppv-detroit-red-wings-vs-montreal-canadiens/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2162/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2162/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2162/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2162/4",
           "is_new_format": true,
           "required_referer": null
         }
@@ -4287,30 +2693,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-dallas-stars-vs-pittsburgh-penguins/2",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2164/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2164/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2164/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2164/4",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -4346,30 +2728,6 @@
         {
           "server_name": "Admin 2 (SD) - English - Blues App",
           "play_url": "https://embed.st/embed/admin/ppv-columbus-blue-jackets-vs-st-louis-blues/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2166/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2166/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2166/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2166/4",
           "is_new_format": true,
           "required_referer": null
         }
@@ -4409,30 +2767,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-nashville-predators-vs-ottawa-senators/2",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2163/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2163/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2163/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2163/4",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -4468,18 +2802,6 @@
         {
           "server_name": "Admin 2 (SD) - English - MNMT",
           "play_url": "https://embed.st/embed/admin/ppv-detroit-pistons-vs-washington-wizards/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2154/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2154/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -4527,168 +2849,8 @@
           "required_referer": null
         },
         {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2153/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2153/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/atlanta-hawks-vs-indiana-pacers-nba-1791673200/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1457055683,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "unlv-vs-north-dakota-state-1457055683",
-      "title": "UNLV vs North Dakota State",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "UNLV",
-        "away_name": "North Dakota State",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRISzRCnSICyHyxmyjeOKD6LKlIHkyWEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791673200,
-        "start_time_local": 1791673200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2088/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2088/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1825468339,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "marshall-vs-coastal-carolina-1825468339",
-      "title": "Marshall vs Coastal Carolina",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Marshall",
-        "away_name": "Coastal Carolina",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRISzRCIbIU3pyxmyjeOKD6LKlIHkyWEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791673200,
-        "start_time_local": 1791673200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2089/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2089/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1445966866,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "utep-vs-nevada-1445966866",
-      "title": "UTEP vs Nevada",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "UTEP",
-        "away_name": "Nevada",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCCmaQ4JGBIhu2lCEQaDiExBAoCwPTH7DZ9FPrYou+8vSyzPTLRg7vSiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791673200,
-        "start_time_local": 1791673200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2087/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2087/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1624233531,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "memphis-vs-uab-1624233531",
-      "title": "Memphis vs UAB",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Memphis",
-        "away_name": "UAB",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRISzRD0Q7EIkv5YzZRvHFB9FlSkDyZFhAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791673200,
-        "start_time_local": 1791673200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2086/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2086/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -4738,18 +2900,6 @@
         {
           "server_name": "Admin 4 (SD) - English - SkyCast",
           "play_url": "https://embed.st/embed/admin/ppv-lsu-tigers-at-kentucky-wildcats/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2085/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2085/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -5085,141 +3235,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-tampa-bay-lightning-vs-new-york-islanders/2",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2168/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2168/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2168/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2168/4",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1793580398,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "northern-illinois-vs-air-force-1793580398",
-      "title": "Northern Illinois vs Air Force",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Northern Illinois",
-        "away_name": "Air Force",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRISzRCnSICzXyxmyjeOKD6LKlIHkyWEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791675000,
-        "start_time_local": 1791675000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2093/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2093/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1443387132,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "louisiana-tech-vs-louisiana-1443387132",
-      "title": "Louisiana Tech vs Louisiana",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Louisiana Tech",
-        "away_name": "Louisiana",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRISzRCIbIa-JyxmyjeOKD6LKlIHkyWEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791675000,
-        "start_time_local": 1791675000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2095/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2095/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1565621768,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "georgia-southern-vs-james-madison-1565621768",
-      "title": "Georgia Southern vs James Madison",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Georgia Southern",
-        "away_name": "James Madison",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBAh6UsHxAkQ3EFJAoQiGNtxGTZgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791675000,
-        "start_time_local": 1791675000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2094/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2094/2",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -5255,55 +3270,6 @@
         {
           "server_name": "Admin 2 (SD) - English - NBC",
           "play_url": "https://embed.st/embed/admin/ppv-usc-trojans-at-penn-state-nittany-lions/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2090/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2090/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1113156726,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "virginia-vs-syracuse-1113156726",
-      "title": "Virginia vs Syracuse",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Virginia",
-        "away_name": "Syracuse",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRIS6Ush6IayHyxmyjeOKD6LKlIHkyWEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791675000,
-        "start_time_local": 1791675000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2092/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2092/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -5355,18 +3321,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-georgia-bulldogs-at-alabama-crimson-tide/4",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2091/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2091/2",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -5406,14 +3360,8 @@
           "required_referer": null
         },
         {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2156/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2156/2",
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/philadelphia-76ers-vs-boston-celtics-nba-1791676800/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -5451,18 +3399,6 @@
         {
           "server_name": "Admin 2 (SD) - English - NBA League Pass",
           "play_url": "https://embed.st/embed/admin/ppv-minnesota-timberwolves-vs-miami-heat/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2155/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2155/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -5510,57 +3446,8 @@
           "required_referer": null
         },
         {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2172/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2172/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/chicago-white-sox-vs-cleveland-guardians-mlb-1791666000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1749065691,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "purdue-vs-minnesota-1749065691",
-      "title": "Purdue vs Minnesota",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Purdue",
-        "away_name": "Minnesota",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCFEAGOcCTApIbiEMbEMTSAggLOPgT0V7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791676800,
-        "start_time_local": 1791676800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2096/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2096/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -5713,14 +3600,39 @@
           "required_referer": null
         },
         {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2157/1",
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/sacramento-kings-vs-golden-state-warriors-nba-1791678600/1",
           "is_new_format": true,
           "required_referer": null
-        },
+        }
+      ]
+    },
+    {
+      "match_id": 1173080026,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "fuji-speedway-qualifying-2-1173080026",
+      "title": "Fuji Speedway — Qualifying 2",
+      "status": "NS",
+      "league": {
+        "league_name": "Motor-sports",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fuji%20Speedway%20%E2%80%94%20Qualifying%202&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1791680400,
+        "start_time_local": 1791680400,
+        "countdown_seconds": null
+      },
+      "streams": [
         {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2157/2",
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/fuji-speedway-qualifying-2-super-formula-1791680400/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -5834,30 +3746,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-los-angeles-kings-vs-vegas-golden-knights/2",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2170/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2170/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2170/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2170/4",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -5895,30 +3783,6 @@
           "play_url": "https://embed.st/embed/admin/ppv-anaheim-ducks-vs-calgary-flames/2",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2169/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2169/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2169/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2169/4",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -5954,55 +3818,6 @@
         {
           "server_name": "Admin 2 (SD) - English - ESPN",
           "play_url": "https://embed.st/embed/admin/ppv-kansas-jayhawks-at-utah-utes/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2098/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2098/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1105237362,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "arizona-state-sun-devils-vs-hawaii-rainbow-warriors-1105237362",
-      "title": "Arizona State Sun Devils vs Hawaii Rainbow Warriors",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Hawai'i Rainbow Warriors",
-        "away_name": "Arizona State Sun Devils",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRIS6RA1LZy-ljNlG8cUH0WVKQPJksQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791685800,
-        "start_time_local": 1791685800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2097/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2097/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -6081,14 +3896,8 @@
           "required_referer": null
         },
         {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2158/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2158/2",
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/san-antonio-spurs-vs-phoenix-suns-nba-1791685800/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -6128,16 +3937,35 @@
           "play_url": "https://embed.st/embed/admin/ppv-boise-state-broncos-at-fresno-state-bulldogs/2",
           "is_new_format": true,
           "required_referer": null
-        },
+        }
+      ]
+    },
+    {
+      "match_id": 1703514774,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "mandalika-street-circuit-warm-up-1703514774",
+      "title": "Mandalika Street Circuit - Warm-Up",
+      "status": "NS",
+      "league": {
+        "league_name": "Motor-sports",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGlnJBM9rD49NDWWdYxFsrQWxbKfAAyaz6aPRbCIKqksvcmp-HFhmZQ1xYkEfEKkBcjIsIA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791686400,
+        "start_time_local": 1791686400,
+        "countdown_seconds": null
+      },
+      "streams": [
         {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2099/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2099/2",
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/mandalika-street-circuit-warm-up-motogp-1791686400/1",
           "is_new_format": true,
           "required_referer": null
         }
