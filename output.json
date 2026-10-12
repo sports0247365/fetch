@@ -1,9 +1,53 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-12T10:02:42.256Z"
+    "last_update_time": "2026-10-12T16:38:48.177Z"
   },
-  "live_matches": [],
-  "total_upcoming_matches": 23,
+  "live_matches": [
+    {
+      "match_id": 1753319216,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "atalanta-vs-venezia-1753319216",
+      "title": "Atalanta vs Venezia",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Atalanta",
+        "away_name": "Venezia",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBTYYFLlIhuIPhpAxTeyyD0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791822600,
+        "start_time_local": 1791822600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-atalanta-vs-venezia/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-atalanta-vs-venezia/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/atalanta-vs-venezia-serie-a-1791822600/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    }
+  ],
+  "total_upcoming_matches": 22,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -185,43 +229,6 @@
       ]
     },
     {
-      "match_id": 1753319216,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "atalanta-vs-venezia-1753319216",
-      "title": "Atalanta vs Venezia",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Atalanta",
-        "away_name": "Venezia",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBTYYFLlIhuIPhpAxTeyyD0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791822600,
-        "start_time_local": 1791822600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-atalanta-vs-venezia/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-atalanta-vs-venezia/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1325523161,
       "sport_name": "Football",
       "sport_id": 1,
@@ -245,13 +252,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - Swedish - TV4 Play",
+          "server_name": "Admin 1 (HD) - Swedish - TV4 Fotboll",
           "play_url": "https://embed.st/embed/admin/ppv-malm-ff-vs-kalmar-ff/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - Swedish - TV4 Play",
+          "server_name": "Admin 2 (SD) - Swedish - TV4 Fotboll",
           "play_url": "https://embed.st/embed/admin/ppv-malm-ff-vs-kalmar-ff/2",
           "is_new_format": true,
           "required_referer": null
@@ -282,13 +289,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - Swedish - TV4 Play",
+          "server_name": "Admin 1 (HD) - Swedish - TV4 Sport Live 2",
           "play_url": "https://embed.st/embed/admin/ppv-if-elfsborg-vs-halmstads-bk/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - Swedish - TV4 Play",
+          "server_name": "Admin 2 (SD) - Swedish - TV4 Sport Live 2",
           "play_url": "https://embed.st/embed/admin/ppv-if-elfsborg-vs-halmstads-bk/2",
           "is_new_format": true,
           "required_referer": null
@@ -427,6 +434,12 @@
           "play_url": "https://embed.st/embed/admin/ppv-torino-vs-udinese/2",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/torino-vs-udinese-serie-a-1791830700/1",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -464,6 +477,12 @@
           "play_url": "https://embed.st/embed/admin/ppv-levante-vs-sevilla/2",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/levante-vs-sevilla-laliga-ea-sports-1791831600/1",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -491,13 +510,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Premier League",
+          "server_name": "Admin 1 (HD) - English - Sky Sports Premier League",
           "play_url": "https://embed.st/embed/admin/ppv-coventry-city-vs-newcastle-united/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Premier League",
+          "server_name": "Admin 2 (SD) - English - Sky Sports Premier League",
           "play_url": "https://embed.st/embed/admin/ppv-coventry-city-vs-newcastle-united/2",
           "is_new_format": true,
           "required_referer": null
@@ -511,6 +530,12 @@
         {
           "server_name": "Golf 2 (SD) - English",
           "play_url": "https://embed.st/embed/golf/1913/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/coventry-city-vs-newcastle-united-premier-league-1791831600/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -548,6 +573,12 @@
         {
           "server_name": "Golf 2 (SD) - English",
           "play_url": "https://embed.st/embed/golf/2181/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/london-lions-vs-portland-trail-blazers-nba-1791835200/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -597,6 +628,12 @@
         {
           "server_name": "Golf 2 (SD) - English",
           "play_url": "https://embed.st/embed/golf/2199/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/los-angeles-dodgers-vs-milwaukee-brewers-mlb-1791838800/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -697,6 +734,12 @@
           "play_url": "https://embed.st/embed/golf/2193/2",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/brooklyn-nets-vs-washington-wizards-nba-1791846000/1",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -734,6 +777,12 @@
           "play_url": "https://embed.st/embed/golf/2192/2",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/oklahoma-city-thunder-vs-atlanta-hawks-nba-1791846000/1",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -769,6 +818,12 @@
         {
           "server_name": "Golf 2 (SD) - English",
           "play_url": "https://embed.st/embed/golf/2194/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/minnesota-timberwolves-vs-new-york-knicks-nba-1791847800/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -869,6 +924,12 @@
           "play_url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-tampa-bay-rays/2",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/cleveland-guardians-vs-tampa-bay-rays-mlb-1791849600/1",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -918,6 +979,12 @@
           "play_url": "https://embed.st/embed/golf/2139/2",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/buffalo-bills-vs-los-angeles-rams-nfl-1791850500/1",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -953,6 +1020,12 @@
         {
           "server_name": "Golf 2 (SD) - English",
           "play_url": "https://embed.st/embed/golf/2195/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/san-antonio-spurs-vs-utah-jazz-nba-1791853200/1",
           "is_new_format": true,
           "required_referer": null
         }
