@@ -1,14 +1,112 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-12T16:38:48.177Z"
+    "last_update_time": "2026-10-12T19:54:22.075Z"
   },
   "live_matches": [
     {
-      "match_id": 1753319216,
+      "match_id": 1500097193,
+      "sport_name": "American Football",
+      "sport_id": 10,
+      "slug": "montreal-alouettes-vs-saskatchewan-roughriders-1500097193",
+      "title": "Montreal Alouettes vs Saskatchewan Roughriders",
+      "status": "LIVE",
+      "league": {
+        "league_name": "American-football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Montreal Alouettes",
+        "away_name": "Saskatchewan Roughriders",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJlmBIuABjBSQ3EAcQwQKECRARclkPAJaKfYbPoowKlF0-l6m0W8mWjBPMVEIIA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791824400,
+        "start_time_local": 1791824400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - TSN5",
+          "play_url": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-at-montreal-alouettes/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - TSN5",
+          "play_url": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-at-montreal-alouettes/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1596101015,
+      "sport_name": "Ice Hockey",
+      "sport_id": 4,
+      "slug": "buffalo-sabres-vs-florida-panthers-1596101015",
+      "title": "Buffalo Sabres vs Florida Panthers",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Hockey",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Buffalo Sabres",
+        "away_name": "Florida Panthers",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGF5VuYFGCkhuIPiAMwQKEOfMRTVgsA0x+w2fT0qUXMGXhEssl5MtGA+YqIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791824400,
+        "start_time_local": 1791824400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - MSGB",
+          "play_url": "https://embed.st/embed/admin/ppv-florida-panthers-vs-buffalo-sabres/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - MSGB",
+          "play_url": "https://embed.st/embed/admin/ppv-florida-panthers-vs-buffalo-sabres/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2184/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2184/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 3 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2184/3",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 4 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2184/4",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1347991196,
       "sport_name": "Football",
       "sport_id": 1,
-      "slug": "atalanta-vs-venezia-1753319216",
-      "title": "Atalanta vs Venezia",
+      "slug": "torino-vs-udinese-1347991196",
+      "title": "Torino vs Udinese",
       "status": "LIVE",
       "league": {
         "league_name": "Football",
@@ -16,38 +114,142 @@
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Atalanta",
-        "away_name": "Venezia",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBTYYFLlIhuIPhpAxTeyyD0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+        "home_name": "Torino",
+        "away_name": "Udinese",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGCnYQMpOxDcQfECRMgUIRBBDXj8AsA0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
       },
       "timing": {
-        "start_time_timestamp": 1791822600,
-        "start_time_local": 1791822600,
+        "start_time_timestamp": 1791830700,
+        "start_time_local": 1791830700,
         "countdown_seconds": null
       },
       "streams": [
         {
           "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-atalanta-vs-venezia/1",
+          "play_url": "https://embed.st/embed/admin/ppv-torino-vs-udinese/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
           "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-atalanta-vs-venezia/2",
+          "play_url": "https://embed.st/embed/admin/ppv-torino-vs-udinese/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
           "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/atalanta-vs-venezia-serie-a-1791822600/1",
+          "play_url": "https://embed.st/embed/hotel/torino-vs-udinese-serie-a-1791830700/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1583266521,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "coventry-city-vs-newcastle-united-1583266521",
+      "title": "Coventry City vs Newcastle United",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Coventry City",
+        "away_name": "Newcastle United",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxzOoviF3c9IIxBAkQJlCESJGwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791831600,
+        "start_time_local": 1791831600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Sky Sports Premier League",
+          "play_url": "https://embed.st/embed/admin/ppv-coventry-city-vs-newcastle-united/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Sky Sports Premier League",
+          "play_url": "https://embed.st/embed/admin/ppv-coventry-city-vs-newcastle-united/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/1913/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/1913/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/coventry-city-vs-newcastle-united-premier-league-1791831600/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - World",
+          "play_url": "https://embed.st/embed/hotel/coventry-city-vs-newcastle-united-premier-league-1791831600/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1430475475,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "levante-vs-sevilla-1430475475",
+      "title": "Levante vs Sevilla",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Levante",
+        "away_name": "Sevilla",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCG4gpIEJ11a+ukBBAoQMEyBIWQfAsCQV7rEWJRgVKLp-L0sst5MtGCeYqIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791831600,
+        "start_time_local": 1791831600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-levante-vs-sevilla/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-levante-vs-sevilla/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/levante-vs-sevilla-laliga-ea-sports-1791831600/1",
           "is_new_format": true,
           "required_referer": null
         }
       ]
     }
   ],
-  "total_upcoming_matches": 22,
+  "total_upcoming_matches": 15,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -229,319 +431,6 @@
       ]
     },
     {
-      "match_id": 1325523161,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "malm-vs-kalmar-1325523161",
-      "title": "Malmö vs Kalmar",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Malmö",
-        "away_name": "Kalmar",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJDzACqMqSG4g+IYxBCISxkHotSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791824400,
-        "start_time_local": 1791824400,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - Swedish - TV4 Fotboll",
-          "play_url": "https://embed.st/embed/admin/ppv-malm-ff-vs-kalmar-ff/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - Swedish - TV4 Fotboll",
-          "play_url": "https://embed.st/embed/admin/ppv-malm-ff-vs-kalmar-ff/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1790449440,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "elfsborg-vs-halmstad-1790449440",
-      "title": "Elfsborg vs Halmstad",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Elfsborg",
-        "away_name": "Halmstad",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXixB8wZbiD1StIEiEMgQiczBAwCwJBT7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791824400,
-        "start_time_local": 1791824400,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - Swedish - TV4 Sport Live 2",
-          "play_url": "https://embed.st/embed/admin/ppv-if-elfsborg-vs-halmstads-bk/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - Swedish - TV4 Sport Live 2",
-          "play_url": "https://embed.st/embed/admin/ppv-if-elfsborg-vs-halmstads-bk/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1596101015,
-      "sport_name": "Ice Hockey",
-      "sport_id": 4,
-      "slug": "buffalo-sabres-vs-florida-panthers-1596101015",
-      "title": "Buffalo Sabres vs Florida Panthers",
-      "status": "NS",
-      "league": {
-        "league_name": "Hockey",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Buffalo Sabres",
-        "away_name": "Florida Panthers",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGF5VuYFGCkhuIPiAMwQKEOfMRTVgsA0x+w2fT0qUXMGXhEssl5MtGA+YqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791824400,
-        "start_time_local": 1791824400,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - MSGB",
-          "play_url": "https://embed.st/embed/admin/ppv-florida-panthers-vs-buffalo-sabres/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - MSGB",
-          "play_url": "https://embed.st/embed/admin/ppv-florida-panthers-vs-buffalo-sabres/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2184/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2184/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2184/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2184/4",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1500097193,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "montreal-alouettes-vs-saskatchewan-roughriders-1500097193",
-      "title": "Montreal Alouettes vs Saskatchewan Roughriders",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Montreal Alouettes",
-        "away_name": "Saskatchewan Roughriders",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJlmBIuABjBSQ3EAcQwQKECRARclkPAJaKfYbPoowKlF0-l6m0W8mWjBPMVEIIA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791824400,
-        "start_time_local": 1791824400,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - TSN5",
-          "play_url": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-at-montreal-alouettes/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - TSN5",
-          "play_url": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-at-montreal-alouettes/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1347991196,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "torino-vs-udinese-1347991196",
-      "title": "Torino vs Udinese",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Torino",
-        "away_name": "Udinese",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGCnYQMpOxDcQfECRMgUIRBBDXj8AsA0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791830700,
-        "start_time_local": 1791830700,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-torino-vs-udinese/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-torino-vs-udinese/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/torino-vs-udinese-serie-a-1791830700/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1430475475,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "levante-vs-sevilla-1430475475",
-      "title": "Levante vs Sevilla",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Levante",
-        "away_name": "Sevilla",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCG4gpIEJ11a+ukBBAoQMEyBIWQfAsCQV7rEWJRgVKLp-L0sst5MtGCeYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791831600,
-        "start_time_local": 1791831600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-levante-vs-sevilla/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-levante-vs-sevilla/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/levante-vs-sevilla-laliga-ea-sports-1791831600/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1583266521,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "coventry-city-vs-newcastle-united-1583266521",
-      "title": "Coventry City vs Newcastle United",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Coventry City",
-        "away_name": "Newcastle United",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxzOoviF3c9IIxBAkQJlCESJGwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791831600,
-        "start_time_local": 1791831600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Sky Sports Premier League",
-          "play_url": "https://embed.st/embed/admin/ppv-coventry-city-vs-newcastle-united/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Sky Sports Premier League",
-          "play_url": "https://embed.st/embed/admin/ppv-coventry-city-vs-newcastle-united/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1913/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1913/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/coventry-city-vs-newcastle-united-premier-league-1791831600/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1481485683,
       "sport_name": "Basketball",
       "sport_id": 2,
@@ -556,7 +445,7 @@
       "teams": {
         "home_name": "London Lions",
         "away_name": "Portland Trail Blazers",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Portland%20Trail%20Blazers%20vs%20London%20Lions&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm+AJzZ0IAiBgTm5WmGEFgwuljkVmMPoLwl83FOzBF4LeQ1I0OhiqwhA.webp"
       },
       "timing": {
         "start_time_timestamp": 1791835200,
@@ -736,8 +625,14 @@
           "required_referer": null
         },
         {
-          "server_name": "Hotel 1 (HD) - Main",
+          "server_name": "Hotel 1 (HD) - Home",
           "play_url": "https://embed.st/embed/hotel/brooklyn-nets-vs-washington-wizards-nba-1791846000/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - Away",
+          "play_url": "https://embed.st/embed/hotel/brooklyn-nets-vs-washington-wizards-nba-1791846000/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -779,8 +674,14 @@
           "required_referer": null
         },
         {
-          "server_name": "Hotel 1 (HD) - Main",
+          "server_name": "Hotel 1 (HD) - Home",
           "play_url": "https://embed.st/embed/hotel/oklahoma-city-thunder-vs-atlanta-hawks-nba-1791846000/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - Away",
+          "play_url": "https://embed.st/embed/hotel/oklahoma-city-thunder-vs-atlanta-hawks-nba-1791846000/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -926,6 +827,18 @@
           "required_referer": null
         },
         {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2253/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2253/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/cleveland-guardians-vs-tampa-bay-rays-mlb-1791849600/1",
           "is_new_format": true,
@@ -1024,8 +937,14 @@
           "required_referer": null
         },
         {
-          "server_name": "Hotel 1 (HD) - Main",
+          "server_name": "Hotel 1 (HD) - Home",
           "play_url": "https://embed.st/embed/hotel/san-antonio-spurs-vs-utah-jazz-nba-1791853200/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - Away",
+          "play_url": "https://embed.st/embed/hotel/san-antonio-spurs-vs-utah-jazz-nba-1791853200/2",
           "is_new_format": true,
           "required_referer": null
         }
