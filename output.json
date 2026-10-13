@@ -1,9 +1,433 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-13T16:37:49.676Z"
+    "last_update_time": "2026-10-13T21:40:22.125Z"
   },
-  "live_matches": [],
-  "total_upcoming_matches": 43,
+  "live_matches": [
+    {
+      "match_id": 1660905033,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "arsenal-vs-lille-1660905033",
+      "title": "Arsenal vs Lille",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Arsenal",
+        "away_name": "Lille",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBCVO8SCG4gNmjSn0gS5wyCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791918000,
+        "start_time_local": 1791918000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - TNT Sports 1",
+          "play_url": "https://embed.st/embed/admin/ppv-arsenal-vs-lille/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - TNT Sports 1",
+          "play_url": "https://embed.st/embed/admin/ppv-arsenal-vs-lille/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/1861/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/1861/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 3 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/1861/3",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 4 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/1861/4",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1649573053,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "rb-leipzig-vs-psv-eindhoven-1649573053",
+      "title": "RB Leipzig vs PSV Eindhoven",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "RB Leipzig",
+        "away_name": "PSV Eindhoven",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVgAZQYXhBB8Q3fSBMGUhkCRBSLfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791918000,
+        "start_time_local": 1791918000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-rb-leipzig-vs-psv-eindhoven/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-rb-leipzig-vs-psv-eindhoven/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/1865/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/1865/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1136036289,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "inter-milan-vs-club-brugge-1136036289",
+      "title": "Inter Milan vs Club Brugge",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Inter Milan",
+        "away_name": "Club Brugge",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEMxBkBIXCG4g+uwyBT6tIKSAi6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791918000,
+        "start_time_local": 1791918000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-inter-milan-vs-club-brugge/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-inter-milan-vs-club-brugge/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1307533715,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "atl-tico-madrid-vs-manchester-united-1307533715",
+      "title": "Atlético Madrid vs Manchester United",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Atlético Madrid",
+        "away_name": "Manchester United",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEFyYAGMKJIhuIPiBPGUBkPqmXcBYEgp9hs+il1sUXXeXpZZnplowd3pRCCA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791918000,
+        "start_time_local": 1791918000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-manchester-united/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-manchester-united/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/1862/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/1862/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1558816400,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "villarreal-vs-napoli-1558816400",
+      "title": "Villarreal vs Napoli",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Villarreal",
+        "away_name": "Napoli",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHDLYAGYFLDcQBviBPGUhkCRBTLIPgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791918000,
+        "start_time_local": 1791918000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-villarreal-vs-napoli/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-villarreal-vs-napoli/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/1867/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/1867/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1527844612,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "galatasaray-vs-barcelona-1527844612",
+      "title": "Galatasaray vs Barcelona",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Galatasaray",
+        "away_name": "Barcelona",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwheogQJRaQfEMaP7uIEiCnGLBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791918000,
+        "start_time_local": 1791918000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - TNT Sports 2",
+          "play_url": "https://embed.st/embed/admin/ppv-galatasaray-vs-barcelona/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - TNT Sports 2",
+          "play_url": "https://embed.st/embed/admin/ppv-galatasaray-vs-barcelona/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/1863/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/1863/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 3 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/1863/3",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 4 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/1863/4",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1690063732,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "viking-vs-bayern-munich-1690063732",
+      "title": "Viking vs Bayern Munich",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Viking",
+        "away_name": "Bayern Munich",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBB1cYDRu4gNmjShAGSIKZpAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1791918000,
+        "start_time_local": 1791918000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English - TNT Sports 4",
+          "play_url": "https://embed.st/embed/admin/ppv-viking-fk-vs-bayern-munich/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - TNT Sports 4",
+          "play_url": "https://embed.st/embed/admin/ppv-viking-fk-vs-bayern-munich/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/1866/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/1866/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1660798517,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "the-golazo-show-1660798517",
+      "title": "The Golazo Show ⚽ ⚽ ⚽",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=The%20Golazo%20Show%20%E2%9A%BD%20%E2%9A%BD%20%E2%9A%BD&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1791918000,
+        "start_time_local": 1791918000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/the-golazo-show-uefa-champions-league-1791912600/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1280791263,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "internazionale-club-brugge-1280791263",
+      "title": "Internazionale - Club Brugge",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Internazionale",
+        "away_name": "Club Brugge",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Internazionale%20-%20Club%20Brugge&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1791918000,
+        "start_time_local": 1791918000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/1864/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/1864/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    }
+  ],
+  "total_upcoming_matches": 31,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -179,594 +603,6 @@
         {
           "server_name": "Admin 2 (SD) - English - NFL Network (ESPN)",
           "play_url": "https://embed.st/embed/admin/ppv-nfl-network/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1607976949,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "sabah-baku-vs-slavia-prague-1607976949",
-      "title": "Sabah Baku vs Slavia Prague",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Sabah Baku",
-        "away_name": "Slavia Prague",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAoiYMLyQhuIPiFMmUhkCWMgYhgsCQU+w2fW0qUXMGU30ssl5MtLqi9GFAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791909900,
-        "start_time_local": 1791909900,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - TNT Sports 4",
-          "play_url": "https://embed.st/embed/admin/ppv-sabah-fk-vs-slavia-prague/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - TNT Sports 4",
-          "play_url": "https://embed.st/embed/admin/ppv-sabah-fk-vs-slavia-prague/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1860/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1860/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/sabah-fk-vs-slavia-prague-uefa-champions-league-1791909900/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1893411230,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "lens-vs-sporting-cp-1893411230",
-      "title": "Lens vs Sporting CP",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Lens",
-        "away_name": "Sporting CP",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGD5gUuCju4g+IY0f0gSIKSBggJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791909900,
-        "start_time_local": 1791909900,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - TNT Sports 2",
-          "play_url": "https://embed.st/embed/admin/ppv-lens-vs-sporting-cp/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - TNT Sports 2",
-          "play_url": "https://embed.st/embed/admin/ppv-lens-vs-sporting-cp/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1859/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1859/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/lens-vs-sporting-cp-uefa-champions-league-1791909900/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1015946575,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "the-golazo-show-1015946575",
-      "title": "The Golazo Show",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=The%20Golazo%20Show&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1791912600,
-        "start_time_local": 1791912600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/the-golazo-show-uefa-champions-league-1791912600/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1251881305,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "wrexham-vs-west-bromwich-albion-1251881305",
-      "title": "Wrexham vs West Bromwich Albion",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Wrexham",
-        "away_name": "West Bromwich Albion",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBgQZJAxAQQ3EHxBmchqSZAozGgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791917100,
-        "start_time_local": 1791917100,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-wrexham-vs-west-bromwich-albion/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-wrexham-vs-west-bromwich-albion/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1280791263,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "internazionale-club-brugge-1280791263",
-      "title": "Internazionale - Club Brugge",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Internazionale",
-        "away_name": "Club Brugge",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Internazionale%20-%20Club%20Brugge&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1791918000,
-        "start_time_local": 1791918000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1864/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1864/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/internazionale-vs-club-brugge-uefa-champions-league-1791918000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1690063732,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "viking-vs-bayern-munich-1690063732",
-      "title": "Viking vs Bayern Munich",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Viking",
-        "away_name": "Bayern Munich",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBB1cYDRu4gNmjShAGSIKZpAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791918000,
-        "start_time_local": 1791918000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - TNT Sports 4",
-          "play_url": "https://embed.st/embed/admin/ppv-viking-fk-vs-bayern-munich/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - TNT Sports 4",
-          "play_url": "https://embed.st/embed/admin/ppv-viking-fk-vs-bayern-munich/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1866/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1866/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/viking-fk-vs-bayern-munich-uefa-champions-league-1791918000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1527844612,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "galatasaray-vs-barcelona-1527844612",
-      "title": "Galatasaray vs Barcelona",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Galatasaray",
-        "away_name": "Barcelona",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwheogQJRaQfEMaP7uIEiCnGLBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791918000,
-        "start_time_local": 1791918000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - TNT Sports 2",
-          "play_url": "https://embed.st/embed/admin/ppv-galatasaray-vs-barcelona/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - TNT Sports 2",
-          "play_url": "https://embed.st/embed/admin/ppv-galatasaray-vs-barcelona/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1863/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1863/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/galatasaray-vs-barcelona-uefa-champions-league-1791918000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1558816400,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "villarreal-vs-napoli-1558816400",
-      "title": "Villarreal vs Napoli",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Villarreal",
-        "away_name": "Napoli",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHDLYAGYFLDcQBviBPGUhkCRBTLIPgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791918000,
-        "start_time_local": 1791918000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-villarreal-vs-napoli/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-villarreal-vs-napoli/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1867/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1867/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/villarreal-vs-napoli-uefa-champions-league-1791918000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1307533715,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "atl-tico-madrid-vs-manchester-united-1307533715",
-      "title": "Atlético Madrid vs Manchester United",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Atlético Madrid",
-        "away_name": "Manchester United",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEFyYAGMKJIhuIPiBPGUBkPqmXcBYEgp9hs+il1sUXXeXpZZnplowd3pRCCA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791918000,
-        "start_time_local": 1791918000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-manchester-united/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-manchester-united/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1862/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1862/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/atl-tico-madrid-vs-manchester-united-uefa-champions-league-1791918000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1136036289,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "inter-milan-vs-club-brugge-1136036289",
-      "title": "Inter Milan vs Club Brugge",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Inter Milan",
-        "away_name": "Club Brugge",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEMxBkBIXCG4g+uwyBT6tIKSAi6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791918000,
-        "start_time_local": 1791918000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-inter-milan-vs-club-brugge/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-inter-milan-vs-club-brugge/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1649573053,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "rb-leipzig-vs-psv-eindhoven-1649573053",
-      "title": "RB Leipzig vs PSV Eindhoven",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "RB Leipzig",
-        "away_name": "PSV Eindhoven",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVgAZQYXhBB8Q3fSBMGUhkCRBSLfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791918000,
-        "start_time_local": 1791918000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-rb-leipzig-vs-psv-eindhoven/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-rb-leipzig-vs-psv-eindhoven/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1865/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1865/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/rb-leipzig-vs-psv-eindhoven-uefa-champions-league-1791918000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1660905033,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "arsenal-vs-lille-1660905033",
-      "title": "Arsenal vs Lille",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Arsenal",
-        "away_name": "Lille",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBCVO8SCG4gNmjSn0gS5wyCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791918000,
-        "start_time_local": 1791918000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - TNT Sports 1",
-          "play_url": "https://embed.st/embed/admin/ppv-arsenal-vs-lille/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - TNT Sports 1",
-          "play_url": "https://embed.st/embed/admin/ppv-arsenal-vs-lille/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/1861/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/1861/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/arsenal-vs-lille-uefa-champions-league-1791918000/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -1721,6 +1557,18 @@
         {
           "server_name": "Admin 2 (SD) - English - TBS",
           "play_url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-tampa-bay-rays/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2294/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2294/2",
           "is_new_format": true,
           "required_referer": null
         },
