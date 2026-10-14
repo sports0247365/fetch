@@ -1,47 +1,9 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-14T10:56:37.390Z"
+    "last_update_time": "2026-10-14T15:41:29.782Z"
   },
-  "live_matches": [
-    {
-      "match_id": 1447477757,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "sydney-kings-vs-new-zealand-breakers-1447477757",
-      "title": "Sydney Kings vs New Zealand Breakers",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Basketball",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Sydney Kings",
-        "away_name": "New Zealand Breakers",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCChIxUPiG4gphkCRAwTxiCEQSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1791966600,
-        "start_time_local": 1791966600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-sydney-kings-vs-new-zealand-breakers/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-sydney-kings-vs-new-zealand-breakers/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    }
-  ],
-  "total_upcoming_matches": 42,
+  "live_matches": [],
+  "total_upcoming_matches": 44,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -339,6 +301,68 @@
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/feyenoord-rotterdam-vs-como-uefa-champions-league-1791996300/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1759122796,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "goals-show-xtra-tnt-1759122796",
+      "title": "Goals Show Xtra (TNT)",
+      "status": "NS",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Goals%20Show%20Xtra%20%28TNT%29&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1792000800,
+        "start_time_local": 1792000800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/goals-show-xtra-tnt-uefa-champions-league-1792000800/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1660798517,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "the-golazo-show-1660798517",
+      "title": "The Golazo Show ⚽ ⚽ ⚽",
+      "status": "NS",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=The%20Golazo%20Show%20%E2%9A%BD%20%E2%9A%BD%20%E2%9A%BD&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1792004400,
+        "start_time_local": 1792004400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/the-golazo-show-cbs-uefa-champions-league-1792000800/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -748,6 +772,12 @@
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/manchester-city-vs-paris-saint-germain-uefa-champions-league-1792004400/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - 4K UHD",
+          "play_url": "https://embed.st/embed/hotel/manchester-city-vs-paris-saint-germain-uefa-champions-league-1792004400/2",
           "is_new_format": true,
           "required_referer": null
         }
