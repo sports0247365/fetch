@@ -1,14 +1,14 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-15T06:05:27.989Z"
+    "last_update_time": "2026-10-15T11:50:30.420Z"
   },
   "live_matches": [
     {
-      "match_id": 1507889574,
+      "match_id": 1708056763,
       "sport_name": "Basketball",
       "sport_id": 2,
-      "slug": "los-angeles-clippers-vs-denver-nuggets-1507889574",
-      "title": "Los Angeles Clippers vs Denver Nuggets",
+      "slug": "brisbane-bullets-vs-south-east-melbourne-phoenix-1708056763",
+      "title": "Brisbane Bullets vs South East Melbourne Phoenix",
       "status": "LIVE",
       "league": {
         "league_name": "Basketball",
@@ -16,32 +16,32 @@
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Los Angeles Clippers",
-        "away_name": "Denver Nuggets",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjCjeIYAAYGIbiD4gSG3CEQRLKEDALAkFPsNn1NKlFy3l6WWW8mWjAtMVEIIA.webp"
+        "home_name": "Brisbane Bullets",
+        "away_name": "South East Melbourne Phoenix",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKFmAymIENz0gphkCRAwTxiCCuNgSCn2Gz6KMCpRc35eptEemtGBuYqIQQA.webp"
       },
       "timing": {
-        "start_time_timestamp": 1792031400,
-        "start_time_local": 1792031400,
+        "start_time_timestamp": 1792053000,
+        "start_time_local": 1792053000,
         "countdown_seconds": null
       },
       "streams": [
         {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2291/1",
+          "server_name": "Admin 1 (HD) - English - ESPN",
+          "play_url": "https://embed.st/embed/admin/ppv-brisbane-bullets-vs-south-east-melbourne-phoenix/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2291/2",
+          "server_name": "Admin 2 (SD) - English - ESPN",
+          "play_url": "https://embed.st/embed/admin/ppv-brisbane-bullets-vs-south-east-melbourne-phoenix/2",
           "is_new_format": true,
           "required_referer": null
         }
       ]
     }
   ],
-  "total_upcoming_matches": 62,
+  "total_upcoming_matches": 61,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -223,43 +223,6 @@
       ]
     },
     {
-      "match_id": 1708056763,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "brisbane-bullets-vs-south-east-melbourne-phoenix-1708056763",
-      "title": "Brisbane Bullets vs South East Melbourne Phoenix",
-      "status": "NS",
-      "league": {
-        "league_name": "Basketball",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Brisbane Bullets",
-        "away_name": "South East Melbourne Phoenix",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKFmAymIENz0gphkCRAwTxiCCuNgSCn2Gz6KMCpRc35eptEemtGBuYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792053000,
-        "start_time_local": 1792053000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-brisbane-bullets-vs-south-east-melbourne-phoenix/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-brisbane-bullets-vs-south-east-melbourne-phoenix/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1680676373,
       "sport_name": "Football",
       "sport_id": 1,
@@ -283,13 +246,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-fc-lugano-vs-red-star-belgrade/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-fc-lugano-vs-red-star-belgrade/2",
           "is_new_format": true,
           "required_referer": null
@@ -326,14 +289,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - TNT Sports 2",
           "play_url": "https://embed.st/embed/admin/ppv-torreense-vs-sunderland/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - TNT Sports 2",
           "play_url": "https://embed.st/embed/admin/ppv-torreense-vs-sunderland/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2347/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2347/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -369,14 +344,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-nk-celje-vs-omonia-nicosia/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-nk-celje-vs-omonia-nicosia/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2344/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2344/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -412,14 +399,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-union-st-gilloise-vs-real-sociedad/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-union-st-gilloise-vs-real-sociedad/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2348/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2348/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -455,14 +454,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-sparta-prague-vs-lillestrom/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-sparta-prague-vs-lillestrom/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2346/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2346/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -498,14 +509,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-rb-salzburg-vs-ac-milan/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-rb-salzburg-vs-ac-milan/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2345/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2345/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -541,14 +564,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-lech-poznan-vs-bayer-leverkusen/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-lech-poznan-vs-bayer-leverkusen/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2342/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2342/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -584,14 +619,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-az-alkmaar-vs-hapoel-be-er/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-az-alkmaar-vs-hapoel-be-er/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2341/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2341/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -627,14 +674,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - TNT Sports 1",
           "play_url": "https://embed.st/embed/admin/ppv-lyon-vs-crystal-palace/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - TNT Sports 1",
           "play_url": "https://embed.st/embed/admin/ppv-lyon-vs-crystal-palace/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2343/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2343/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -670,13 +729,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-riga-fc-vs-kairat-almaty/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-riga-fc-vs-kairat-almaty/2",
           "is_new_format": true,
           "required_referer": null
@@ -713,13 +772,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-egnatia-vs-fc-midtjylland/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-egnatia-vs-fc-midtjylland/2",
           "is_new_format": true,
           "required_referer": null
@@ -756,13 +815,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-inter-d-escaldes/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-inter-d-escaldes/2",
           "is_new_format": true,
           "required_referer": null
@@ -799,13 +858,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-ku-ps-kuopio-vs-trabzonspor/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-ku-ps-kuopio-vs-trabzonspor/2",
           "is_new_format": true,
           "required_referer": null
@@ -842,13 +901,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-cska-sofia-vs-as-monaco/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-cska-sofia-vs-as-monaco/2",
           "is_new_format": true,
           "required_referer": null
@@ -885,13 +944,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-csu-craiova-vs-getafe/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-csu-craiova-vs-getafe/2",
           "is_new_format": true,
           "required_referer": null
@@ -928,13 +987,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-kaa-gent-vs-agf/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-kaa-gent-vs-agf/2",
           "is_new_format": true,
           "required_referer": null
@@ -971,13 +1030,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-panathinaikos-vs-borac-banja-luka/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-panathinaikos-vs-borac-banja-luka/2",
           "is_new_format": true,
           "required_referer": null
@@ -1014,13 +1073,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-hajduk-split-vs-ajax-amsterdam/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-hajduk-split-vs-ajax-amsterdam/2",
           "is_new_format": true,
           "required_referer": null
@@ -1048,7 +1107,7 @@
       "teams": {
         "home_name": "Cleveland Guardians",
         "away_name": "Tampa Bay Rays",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBCUasBMGkheILCBSHTxkDBAHrMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECErU4tKSG4g+IFPuOGQMEHsswCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
       },
       "timing": {
         "start_time_timestamp": 1792083600,
@@ -1112,14 +1171,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-stade-rennais-vs-ofi-crete/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-stade-rennais-vs-ofi-crete/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2357/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2357/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -1155,13 +1226,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-f-c-k-benhavn-vs-braga/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-f-c-k-benhavn-vs-braga/2",
           "is_new_format": true,
           "required_referer": null
@@ -1198,14 +1269,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-ferencvaros-vs-viktoria-plzen/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-ferencvaros-vs-viktoria-plzen/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2353/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2353/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -1241,14 +1324,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-dinamo-zagreb-vs-anderlecht/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-dinamo-zagreb-vs-anderlecht/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2352/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2352/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -1284,14 +1379,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-celta-vigo-vs-juventus/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-celta-vigo-vs-juventus/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2351/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2351/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -1327,14 +1434,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-nec-nijmegen-vs-levski-sofia/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-nec-nijmegen-vs-levski-sofia/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2356/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2356/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -1370,14 +1489,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-jagiellonia-bialystok-vs-ararat-armenia/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-jagiellonia-bialystok-vs-ararat-armenia/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2354/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2354/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -1413,14 +1544,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - TNT Sports 3",
           "play_url": "https://embed.st/embed/admin/ppv-benfica-vs-celtic/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - TNT Sports 3",
           "play_url": "https://embed.st/embed/admin/ppv-benfica-vs-celtic/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2350/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2350/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -1456,14 +1599,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-tsg-hoffenheim-vs-besiktas/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-tsg-hoffenheim-vs-besiktas/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2358/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2358/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -1499,14 +1654,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-marseille-vs-olympiacos/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-marseille-vs-olympiacos/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2355/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2355/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -1542,14 +1709,26 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Europa League",
+          "server_name": "Admin 1 (HD) - English - TNT Sports 1",
           "play_url": "https://embed.st/embed/admin/ppv-afc-bournemouth-vs-sk-sturm-graz/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Europa League",
+          "server_name": "Admin 2 (SD) - English - TNT Sports 1",
           "play_url": "https://embed.st/embed/admin/ppv-afc-bournemouth-vs-sk-sturm-graz/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2349/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2349/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -1585,13 +1764,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-sint-truidense-vs-iberia-1999/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-sint-truidense-vs-iberia-1999/2",
           "is_new_format": true,
           "required_referer": null
@@ -1628,13 +1807,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-atalanta-vs-pafos/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-atalanta-vs-pafos/2",
           "is_new_format": true,
           "required_referer": null
@@ -1671,13 +1850,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-fc-twente-vs-fc-thun/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-fc-twente-vs-fc-thun/2",
           "is_new_format": true,
           "required_referer": null
@@ -1714,13 +1893,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-sk-brann-vs-lincoln-red-imps/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-sk-brann-vs-lincoln-red-imps/2",
           "is_new_format": true,
           "required_referer": null
@@ -1757,13 +1936,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - TNT Sports 4",
           "play_url": "https://embed.st/embed/admin/ppv-heart-of-midlothian-vs-fc-nordsj-lland/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - TNT Sports 4",
           "play_url": "https://embed.st/embed/admin/ppv-heart-of-midlothian-vs-fc-nordsj-lland/2",
           "is_new_format": true,
           "required_referer": null
@@ -1800,13 +1979,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-sc-freiburg-vs-jablonec/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-sc-freiburg-vs-jablonec/2",
           "is_new_format": true,
           "required_referer": null
@@ -1843,13 +2022,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Conference League",
+          "server_name": "Admin 1 (HD) - English - TNT Sports 2",
           "play_url": "https://embed.st/embed/admin/ppv-brighton-hove-albion-vs-kauno-zalgiris/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 2 (SD) - English - Conference League",
+          "server_name": "Admin 2 (SD) - English - TNT Sports 2",
           "play_url": "https://embed.st/embed/admin/ppv-brighton-hove-albion-vs-kauno-zalgiris/2",
           "is_new_format": true,
           "required_referer": null
@@ -2555,7 +2734,7 @@
       "teams": {
         "home_name": "Los Angeles Dodgers",
         "away_name": "Milwaukee Brewers",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkj5h+Y3iER6sIFCD0mjMECWMgsLJBTvtR4lGFUoe78o2pzP+KzAYO7iYhBAA.webp"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJDzC9R3EIl18QKELuOGYIEkZB8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
       },
       "timing": {
         "start_time_timestamp": 1792108800,
