@@ -1,128 +1,79 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-16T05:19:01.941Z"
+    "last_update_time": "2026-10-16T10:00:06.814Z"
   },
   "live_matches": [
     {
-      "match_id": 1567377091,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "denver-broncos-vs-seattle-seahawks-1567377091",
-      "title": "Denver Broncos vs Seattle Seahawks",
+      "match_id": 1213469621,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "tasmania-jackjumpers-vs-adelaide-36ers-1213469621",
+      "title": "Tasmania JackJumpers vs Adelaide 36ers",
       "status": "LIVE",
       "league": {
-        "league_name": "American-football",
+        "league_name": "Basketball",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Denver Broncos",
-        "away_name": "Seattle Seahawks",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGXwoo2kENxB8QRiAZAkQKI7j0FgSCn2Gz6KMCu06y8IllnamtGBuYqIQQA.webp"
+        "home_name": "Tasmania JackJumpers",
+        "away_name": "Adelaide 36ers",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEPxC1uuSiB1SQhkiBggThiLn0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
       },
       "timing": {
-        "start_time_timestamp": 1792109700,
-        "start_time_local": 1792109700,
+        "start_time_timestamp": 1792139400,
+        "start_time_local": 1792139400,
         "countdown_seconds": null
       },
       "streams": [
         {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/seattle-seahawks-vs-denver-broncos-nfl-1792109700/1",
+          "server_name": "Admin 1 (HD) - English - ESPN",
+          "play_url": "https://embed.st/embed/admin/ppv-tasmania-jack-jumpers-vs-adelaide-36-ers/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 2 (SD) - English - ESPN",
+          "play_url": "https://embed.st/embed/admin/ppv-tasmania-jack-jumpers-vs-adelaide-36-ers/2",
           "is_new_format": true,
           "required_referer": null
         }
       ]
     },
     {
-      "match_id": 1250654785,
-      "sport_name": "Ice Hockey",
-      "sport_id": 4,
-      "slug": "vegas-golden-knights-vs-calgary-flames-1250654785",
-      "title": "Vegas Golden Knights vs Calgary Flames",
+      "match_id": 1190558392,
+      "sport_name": "Other",
+      "sport_id": 99,
+      "slug": "jerez-free-practice-1190558392",
+      "title": "Jerez — Free Practice",
       "status": "LIVE",
       "league": {
-        "league_name": "Hockey",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Vegas Golden Knights",
-        "away_name": "Calgary Flames",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLAxAxgM8BBDcQfEFK0gUZwyQMgFTJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792116000,
-        "start_time_local": 1792116000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2309/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2309/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2309/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2309/4",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    }
-  ],
-  "total_upcoming_matches": 42,
-  "upcoming_matches": [
-    {
-      "match_id": 1516541789,
-      "sport_name": "Golf",
-      "sport_id": 16,
-      "slug": "sky-sports-golf-1516541789",
-      "title": "Sky Sports Golf",
-      "status": "NS",
-      "league": {
-        "league_name": "Golf",
+        "league_name": "Other",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
         "home_name": "Unknown",
         "away_name": "Unknown",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFOJAkQMUiHhyaiLNhBZxwBSogga64Wt2lNakzQPTZOgMZqU5CKDCCRTbPTCFgSXNftDnVkdhY3sCTXJnYEcyCCA.webp"
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Jerez%20%E2%80%94%20Free%20Practice&font=Oswald"
       },
       "timing": {
-        "start_time_timestamp": null,
-        "start_time_local": null,
+        "start_time_timestamp": 1792143300,
+        "start_time_local": 1792143300,
         "countdown_seconds": null
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - NOWTV",
-          "play_url": "https://embed.st/embed/admin/ppv-sky-sports-golf/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - NOWTV",
-          "play_url": "https://embed.st/embed/admin/ppv-sky-sports-golf/2",
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/jerez-free-practice-supersport-world-championship-1792143300/1",
           "is_new_format": true,
           "required_referer": null
         }
       ]
-    },
+    }
+  ],
+  "total_upcoming_matches": 36,
+  "upcoming_matches": [
     {
       "match_id": 1827313229,
       "sport_name": "Tennis",
@@ -229,111 +180,6 @@
       ]
     },
     {
-      "match_id": 1195742161,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "nfl-network-1195742161",
-      "title": "NFL Network",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmQggAxqWwgqIGMBokQIUiETqpwkHphaRSmSClYQF9bMXKaU6SnIRQYQSKbZ6YQsCS5HIXJuThdhOScCYHhyN2AXSSA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": null,
-        "start_time_local": null,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - NFL Network (ESPN)",
-          "play_url": "https://embed.st/embed/admin/ppv-nfl-network/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - NFL Network (ESPN)",
-          "play_url": "https://embed.st/embed/admin/ppv-nfl-network/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1190558392,
-      "sport_name": "Other",
-      "sport_id": 99,
-      "slug": "jerez-free-practice-1190558392",
-      "title": "Jerez — Free Practice",
-      "status": "NS",
-      "league": {
-        "league_name": "Other",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Jerez%20%E2%80%94%20Free%20Practice&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1792137300,
-        "start_time_local": 1792137300,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/jerez-free-practice-world-sportbike-championship-1792137300/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1213469621,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "tasmania-jackjumpers-vs-adelaide-36ers-1213469621",
-      "title": "Tasmania JackJumpers vs Adelaide 36ers",
-      "status": "NS",
-      "league": {
-        "league_name": "Basketball",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Tasmania JackJumpers",
-        "away_name": "Adelaide 36ers",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEPxC1uuSiB1SQhkiBggThiLn0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792139400,
-        "start_time_local": 1792139400,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-tasmania-jack-jumpers-vs-adelaide-36-ers/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-tasmania-jack-jumpers-vs-adelaide-36-ers/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1571151388,
       "sport_name": "Other",
       "sport_id": 99,
@@ -433,43 +279,6 @@
       ]
     },
     {
-      "match_id": 1782251940,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "fc-eindhoven-vs-vitesse-1782251940",
-      "title": "FC Eindhoven vs Vitesse",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "FC Eindhoven",
-        "away_name": "Vitesse",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMijAhcYKSG76QfbblMGYIRBZgFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792173600,
-        "start_time_local": 1792173600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - Dutch - ESPN Extra",
-          "play_url": "https://embed.st/embed/admin/ppv-fc-eindhoven-vs-vitesse/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - Dutch - ESPN Extra",
-          "play_url": "https://embed.st/embed/admin/ppv-fc-eindhoven-vs-vitesse/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1723825549,
       "sport_name": "Football",
       "sport_id": 1,
@@ -529,18 +338,6 @@
         "countdown_seconds": null
       },
       "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - Bundesliga",
-          "play_url": "https://embed.st/embed/admin/ppv-eintracht-frankfurt-vs-fc-cologne/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Bundesliga",
-          "play_url": "https://embed.st/embed/admin/ppv-eintracht-frankfurt-vs-fc-cologne/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/eintracht-frankfurt-vs-fc-cologne-bundesliga-1792175400/1",
@@ -616,18 +413,6 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-frosinone-vs-sassuolo/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-frosinone-vs-sassuolo/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/frosinone-vs-sassuolo-serie-a-1792176300/1",
           "is_new_format": true,
@@ -658,18 +443,6 @@
         "countdown_seconds": null
       },
       "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-deportivo-vs-levante/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-deportivo-vs-levante/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/deportivo-vs-levante-laliga-ea-sports-1792177200/1",
@@ -764,18 +537,6 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - TBS",
-          "play_url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-cleveland-guardians/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - TBS",
-          "play_url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-cleveland-guardians/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
           "server_name": "Golf 1 (HD) - English",
           "play_url": "https://embed.st/embed/golf/2374/1",
           "is_new_format": true,
@@ -818,18 +579,6 @@
         "countdown_seconds": null
       },
       "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - NBA League Pass",
-          "play_url": "https://embed.st/embed/admin/ppv-toronto-raptors-vs-detroit-pistons/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - NBA League Pass",
-          "play_url": "https://embed.st/embed/admin/ppv-toronto-raptors-vs-detroit-pistons/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
         {
           "server_name": "Golf 1 (HD) - English",
           "play_url": "https://embed.st/embed/golf/2319/1",
@@ -886,18 +635,6 @@
           "required_referer": null
         },
         {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2320/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2320/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/milwaukee-bucks-vs-indiana-pacers-nba-1792191600/1",
           "is_new_format": true,
@@ -937,18 +674,6 @@
         {
           "server_name": "Admin 2 (SD) - English - NBA League Pass",
           "play_url": "https://embed.st/embed/admin/ppv-miami-heat-vs-orlando-magic/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2317/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2317/2",
           "is_new_format": true,
           "required_referer": null
         },
@@ -1006,12 +731,6 @@
           "play_url": "https://embed.st/embed/golf/2318/2",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/boston-celtics-vs-philadelphia-76ers-nba-1792191600/1",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -1053,11 +772,11 @@
       ]
     },
     {
-      "match_id": 1440006327,
+      "match_id": 1468312252,
       "sport_name": "Motorsport",
       "sport_id": 17,
-      "slug": "phoenix-raceway-the-chase-race-1440006327",
-      "title": "Phoenix Raceway — The Chase - Race",
+      "slug": "phoenix-raceway-the-chase-race-zero-carbon-bioethanol-150-powered-by-poet-1468312252",
+      "title": "Phoenix Raceway — The Chase - Race: Zero Carbon Bioethanol 150 Powered by POET",
       "status": "NS",
       "league": {
         "league_name": "Motor-sports",
@@ -1067,7 +786,7 @@
       "teams": {
         "home_name": "Unknown",
         "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Phoenix%20Raceway%20%E2%80%94%20The%20Chase%20-%20Race&font=Oswald"
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Phoenix%20Raceway%20%E2%80%94%20The%20Chase%20-%20Race%3A%20Zero%20Carbon%20Bioethanol%20150%20Powered%20by%20POET&font=Oswald"
       },
       "timing": {
         "start_time_timestamp": 1792193400,
@@ -1077,7 +796,7 @@
       "streams": [
         {
           "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/phoenix-raceway-the-chase-race-nascar-craftsman-trucks-series-1792193400/1",
+          "play_url": "https://embed.st/embed/hotel/phoenix-raceway-the-chase-race-zero-carbon-bioethanol-150-powered-by-poet-nascar-craftsman-trucks-series-1792193400/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -1195,43 +914,6 @@
       ]
     },
     {
-      "match_id": 1044588410,
-      "sport_name": "Fight",
-      "sport_id": 18,
-      "slug": "wwe-friday-night-smackdown-1044588410",
-      "title": "WWE Friday Night Smackdown",
-      "status": "NS",
-      "league": {
-        "league_name": "Fight",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792195200,
-        "start_time_local": 1792195200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - USA",
-          "play_url": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - USA",
-          "play_url": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1804684505,
       "sport_name": "Basketball",
       "sport_id": 2,
@@ -1287,12 +969,6 @@
         {
           "server_name": "Golf 2 (SD) - English",
           "play_url": "https://embed.st/embed/golf/2324/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/washington-wizards-vs-new-orleans-pelicans-nba-1792195200/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -1354,6 +1030,49 @@
       ]
     },
     {
+      "match_id": 1551993330,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "atlanta-hawks-vs-dallas-mavericks-1551993330",
+      "title": "Atlanta Hawks vs. Dallas Mavericks",
+      "status": "NS",
+      "league": {
+        "league_name": "Basketball",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Dallas Mavericks",
+        "away_name": "Atlanta Hawks",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52wCMHjAaM6SBTiR87CFVksIGKs3aU2qRBABjEFnHHTc4SqoL+YQSKbZ6YQsCS4jCoQ9YTrMgUCSXIHRTIIIA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792195200,
+        "start_time_local": 1792195200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2321/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2321/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/atlanta-hawks-vs-dallas-mavericks-nba-1792195200/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
       "match_id": 1737909957,
       "sport_name": "Basketball",
       "sport_id": 2,
@@ -1376,18 +1095,6 @@
         "countdown_seconds": null
       },
       "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - NBA League Pass",
-          "play_url": "https://embed.st/embed/admin/ppv-minnesota-timberwolves-vs-chicago-bulls/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - NBA League Pass",
-          "play_url": "https://embed.st/embed/admin/ppv-minnesota-timberwolves-vs-chicago-bulls/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
         {
           "server_name": "Golf 1 (HD) - English",
           "play_url": "https://embed.st/embed/golf/2325/1",
@@ -1444,75 +1151,8 @@
           "required_referer": null
         },
         {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2322/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2322/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/sacramento-kings-vs-san-antonio-spurs-nba-1792195200/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1551993330,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "atlanta-hawks-vs-dallas-mavericks-1551993330",
-      "title": "Atlanta Hawks vs. Dallas Mavericks",
-      "status": "NS",
-      "league": {
-        "league_name": "Basketball",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Dallas Mavericks",
-        "away_name": "Atlanta Hawks",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52wCMHjAaM6SBTiR87CFVksIGKs3aU2qRBABjEFnHHTc4SqoL+YQSKbZ6YQsCS4jCoQ9YTrMgUCSXIHRTIIIA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792195200,
-        "start_time_local": 1792195200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - NBA League Pass",
-          "play_url": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-dallas-mavericks/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - NBA League Pass",
-          "play_url": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-dallas-mavericks/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2321/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2321/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/atlanta-hawks-vs-dallas-mavericks-nba-1792195200/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -1541,18 +1181,6 @@
         "countdown_seconds": null
       },
       "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - FS1",
-          "play_url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-los-angeles-dodgers/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - FS1",
-          "play_url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-los-angeles-dodgers/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
         {
           "server_name": "Golf 1 (HD) - English",
           "play_url": "https://embed.st/embed/golf/2375/1",
@@ -1605,30 +1233,6 @@
         {
           "server_name": "Admin 2 (SD) - English - Altitude Sports",
           "play_url": "https://embed.st/embed/admin/ppv-pittsburgh-penguins-vs-colorado-avalanche/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2329/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2329/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2329/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2329/4",
           "is_new_format": true,
           "required_referer": null
         }
@@ -1793,18 +1397,6 @@
       },
       "streams": [
         {
-          "server_name": "Admin 1 (HD) - English - NBA League Pass",
-          "play_url": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-golden-state-warriors/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - NBA League Pass",
-          "play_url": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-golden-state-warriors/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
           "server_name": "Golf 1 (HD) - English",
           "play_url": "https://embed.st/embed/golf/2326/1",
           "is_new_format": true,
@@ -1813,12 +1405,6 @@
         {
           "server_name": "Golf 2 (SD) - English",
           "play_url": "https://embed.st/embed/golf/2326/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/portland-trail-blazers-vs-golden-state-warriors-nba-1792202400/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -1902,18 +1488,6 @@
         "countdown_seconds": null
       },
       "streams": [
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-denver-nuggets-vs-los-angeles-lakers/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-denver-nuggets-vs-los-angeles-lakers/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
         {
           "server_name": "Golf 1 (HD) - English",
           "play_url": "https://embed.st/embed/golf/2328/1",
