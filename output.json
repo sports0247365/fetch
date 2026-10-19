@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-19T17:00:37.894Z"
+    "last_update_time": "2026-10-19T17:37:32.595Z"
   },
   "live_matches": [
     {
@@ -45,9 +45,46 @@
           "required_referer": null
         }
       ]
+    },
+    {
+      "match_id": 1890187935,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "degerfors-vs-kalmar-1890187935",
+      "title": "Degerfors vs Kalmar",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Degerfors",
+        "away_name": "Kalmar",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGClhRKMBu4gDfECYghEJEMbNmYBYBpj9hs+rpUou28vSyzPTLRg2mKiEEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792429200,
+        "start_time_local": 1792429200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - Swedish - TV4 Fotboll",
+          "play_url": "https://embed.st/embed/admin/ppv-degerfors-if-vs-kalmar-ff/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - Swedish - TV4 Fotboll",
+          "play_url": "https://embed.st/embed/admin/ppv-degerfors-if-vs-kalmar-ff/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
     }
   ],
-  "total_upcoming_matches": 16,
+  "total_upcoming_matches": 15,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -223,43 +260,6 @@
         {
           "server_name": "Admin 1 (HD) - English - NFL Network (ESPN)",
           "play_url": "https://embed.st/embed/admin/ppv-nfl-network/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1890187935,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "degerfors-vs-kalmar-1890187935",
-      "title": "Degerfors vs Kalmar",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Degerfors",
-        "away_name": "Kalmar",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGClhRKMBu4gDfECYghEJEMbNmYBYBpj9hs+rpUou28vSyzPTLRg2mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792429200,
-        "start_time_local": 1792429200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - Swedish - TV4 Fotboll",
-          "play_url": "https://embed.st/embed/admin/ppv-degerfors-if-vs-kalmar-ff/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - Swedish - TV4 Fotboll",
-          "play_url": "https://embed.st/embed/admin/ppv-degerfors-if-vs-kalmar-ff/1",
           "is_new_format": true,
           "required_referer": null
         }
