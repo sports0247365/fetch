@@ -1,9 +1,53 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-19T13:00:36.972Z"
+    "last_update_time": "2026-10-19T16:34:44.847Z"
   },
-  "live_matches": [],
-  "total_upcoming_matches": 18,
+  "live_matches": [
+    {
+      "match_id": 1378142712,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "monza-vs-cagliari-1378142712",
+      "title": "Monza vs Cagliari",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Monza",
+        "away_name": "Cagliari",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VemDC9RIdiG4g+IYzGMgU5yxfgFgSCn2Gz6KMCpRc35ellkemtJqi9MFAA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792427400,
+        "start_time_local": 1792427400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-monza-vs-cagliari/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-monza-vs-cagliari/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/monza-vs-cagliari-serie-a-1792426800/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    }
+  ],
+  "total_upcoming_matches": 16,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -185,49 +229,6 @@
       ]
     },
     {
-      "match_id": 1378142712,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "monza-vs-cagliari-1378142712",
-      "title": "Monza vs Cagliari",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Monza",
-        "away_name": "Cagliari",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VemDC9RIdiG4g+IYzGMgU5yxfgFgSCn2Gz6KMCpRc35ellkemtJqi9MFAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792427400,
-        "start_time_local": 1792427400,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-monza-vs-cagliari/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-monza-vs-cagliari/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/monza-vs-cagliari-serie-a-1792427400/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1890187935,
       "sport_name": "Football",
       "sport_id": 1,
@@ -251,13 +252,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - Swedish - TV4 Play",
+          "server_name": "Admin 2 (SD) - Swedish - TV4 Fotboll",
           "play_url": "https://embed.st/embed/admin/ppv-degerfors-if-vs-kalmar-ff/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - Swedish - TV4 Play",
+          "server_name": "Admin 1 (HD) - Swedish - TV4 Fotboll",
           "play_url": "https://embed.st/embed/admin/ppv-degerfors-if-vs-kalmar-ff/1",
           "is_new_format": true,
           "required_referer": null
@@ -301,7 +302,7 @@
         },
         {
           "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/parma-vs-torino-serie-a-1792435500/1",
+          "play_url": "https://embed.st/embed/hotel/parma-vs-torino-serie-a-1792434600/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -344,7 +345,7 @@
         },
         {
           "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/getafe-vs-rayo-vallecano-laliga-ea-sports-1792436400/1",
+          "play_url": "https://embed.st/embed/hotel/getafe-vs-rayo-vallecano-laliga-ea-sports-1792434900/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -374,13 +375,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - English - Premier League",
+          "server_name": "Admin 2 (SD) - English - Sky Sports Premier League",
           "play_url": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-coventry-city/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - English - Premier League",
+          "server_name": "Admin 1 (HD) - English - Sky Sports Premier League",
           "play_url": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-coventry-city/1",
           "is_new_format": true,
           "required_referer": null
@@ -399,7 +400,13 @@
         },
         {
           "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/tottenham-hotspur-vs-coventry-city-premier-league-1792436400/1",
+          "play_url": "https://embed.st/embed/hotel/tottenham-hotspur-vs-coventry-city-premier-league-1792431000/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - 4K UHD",
+          "play_url": "https://embed.st/embed/hotel/tottenham-hotspur-vs-coventry-city-premier-league-1792431000/2",
           "is_new_format": true,
           "required_referer": null
         }
@@ -589,37 +596,6 @@
       ]
     },
     {
-      "match_id": 1466999370,
-      "sport_name": "Baseball",
-      "sport_id": 12,
-      "slug": "los-angeles-dodgers-vs-milwaukee-brewers-1466999370",
-      "title": "Los Angeles Dodgers vs Milwaukee Brewers",
-      "status": "NS",
-      "league": {
-        "league_name": "Baseball",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Los Angeles Dodgers",
-        "away_name": "Milwaukee Brewers",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Los%20Angeles%20Dodgers%20vs%20Milwaukee%20Brewers&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1792454400,
-        "start_time_local": 1792454400,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/los-angeles-dodgers-vs-milwaukee-brewers-mlb-1792454400/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1268031755,
       "sport_name": "Basketball",
       "sport_id": 2,
@@ -693,7 +669,7 @@
         },
         {
           "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/cleveland-guardians-vs-tampa-bay-rays-mlb-1792443600/1",
+          "play_url": "https://embed.st/embed/hotel/cleveland-guardians-vs-tampa-bay-rays-mlb-1792452600/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -748,7 +724,7 @@
         },
         {
           "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/washington-commanders-vs-san-francisco-49ers-nfl-1792455300/1",
+          "play_url": "https://embed.st/embed/hotel/washington-commanders-vs-san-francisco-49ers-nfl-1792447200/1",
           "is_new_format": true,
           "required_referer": null
         }
