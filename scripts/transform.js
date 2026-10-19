@@ -41,8 +41,7 @@ const SPORT_ID_MAP = {
 };
 const DEFAULT_SPORT_ID = 99;
 
-// Naye source ki Category names ko generic sport names par map karta hai
-// (hyphen/underscore pehle hi space ban jate hain, phir yahan check hota hai)
+
 const CATEGORY_ALIASES = {
   "american football": "american football",
   hockey: "ice hockey",
@@ -320,7 +319,7 @@ async function fetchSourceJson(url) {
   return res.json();
 }
 
-// Kuch sport names acronym hain (jaise MMA), inhe pura uppercase rakhna hai
+
 const ACRONYM_SPORT_NAMES = {
   mma: "MMA",
 };
@@ -336,13 +335,12 @@ function capitalizeWords(text) {
     .join(" ");
 }
 
-// Text ko normalize karta hai: lowercase + spaces/hyphens/underscores hata deta hai
-// Taake "World Cup", "WorldCup", "World-Cup", "WORLD_CUP" sab ek jaisay match hon
+
 function normalize(text) {
   return (text || "").toLowerCase().replace(/[^a-z0-9]/g, "");
 }
 
-// Category aur League dono se dekh kar sahi generic sport pehchanta hai
+
 function classifySport(category, league) {
   // "American-football" -> "american football", "Motor-sports" -> "motor sports"
   let catLower = (category || "")
@@ -381,8 +379,7 @@ function classifySport(category, league) {
     }
   }
 
-  // Case 3: Kuch match nahi mila - Category ko hi sport_name maan lein
-  // (fallback, taake data drop na ho)
+  
   return {
     sportName: category ? capitalizeWords(category) : "Other",
     leagueName: league && league.trim() ? league : category || "Unknown League",
@@ -409,7 +406,7 @@ function getSportId(sportName) {
   return SPORT_ID_MAP[key] ?? DEFAULT_SPORT_ID;
 }
 
-// Unix timestamp (seconds) ko readable local time mein badalta hai
+
 function formatLocalTime(dateObj) {
   const dd = String(dateObj.getDate()).padStart(2, "0");
   const mon = MONTH_NAMES[dateObj.getMonth()];
@@ -425,8 +422,7 @@ function formatLocalTime(dateObj) {
   return `${dd} ${mon} ${yyyy}, ${hhStr}:${mm} ${ampm}`;
 }
 
-// "06:15 AM | 06-Oct" (UTC+6) ko unix timestamp (seconds) mein badalta hai.
-// Source mein saal nahi hota, isliye current saal maan kar year-boundary adjust karte hain.
+
 function parseStartTime(str) {
   if (!str) return null;
   const m = String(str).match(
@@ -458,8 +454,7 @@ function parseStartTime(str) {
   return Math.floor(ms / 1000);
 }
 
-// Time sirf unix timestamp (seconds) mein diya jata hai,
-// app khud har user ke area ke hisab se local time dikhayegi
+
 function buildTiming(isLive, startAt) {
   const ts = startAt || (isLive ? Math.floor(Date.now() / 1000) : null);
   return {
@@ -471,6 +466,32 @@ function buildTiming(isLive, startAt) {
 
 function isLiveStatus(status) {
   return /live/i.test(status || "");
+}
+
+
+function qualityRank(quality) {
+  const q = (quality || "").toLowerCase();
+  if (/\bsd\b/.test(q)) return 0;
+  if (/hd/.test(q)) return 1;
+  return 2;
+}
+
+// Source ka order wahi rakhta hai jo data mein hai,
+// har source ke andar SD pehle aur HD baad mein
+// (jaise: Admin SD -> Admin HD -> Golf SD -> Golf HD)
+function sortStreams(streams) {
+  const sourceOrder = new Map();
+  streams.forEach((s) => {
+    const key = (s.Source || "").toLowerCase().trim();
+    if (!sourceOrder.has(key)) sourceOrder.set(key, sourceOrder.size);
+  });
+
+  return streams.slice().sort((a, b) => {
+    const srcA = sourceOrder.get((a.Source || "").toLowerCase().trim());
+    const srcB = sourceOrder.get((b.Source || "").toLowerCase().trim());
+    if (srcA !== srcB) return srcA - srcB;
+    return qualityRank(a.Quality) - qualityRank(b.Quality);
+  });
 }
 
 // Har Embed_URL ek alag server ban jata hai
@@ -506,11 +527,14 @@ function transformMatch(m) {
     away = away || (parts[1] || "").trim();
   }
 
-  // Duplicate Embed_URLs hata do, baqi sab play_url ban jayenge
+  // Duplicate Embed_URLs hata do
   const seen = new Set();
-  const streams = (Array.isArray(m.Streams) ? m.Streams : [])
-    .filter((s) => s && s.Embed_URL && !seen.has(s.Embed_URL) && seen.add(s.Embed_URL))
-    .map(transformStream);
+  const uniqueStreams = (Array.isArray(m.Streams) ? m.Streams : []).filter(
+    (s) => s && s.Embed_URL && !seen.has(s.Embed_URL) && seen.add(s.Embed_URL)
+  );
+
+  // SD pehle, HD baad mein (har source ke andar), phir play_url format
+  const streams = sortStreams(uniqueStreams).map(transformStream);
 
   return {
     match_id: matchId,
@@ -521,7 +545,7 @@ function transformMatch(m) {
     status: isLive ? "LIVE" : "NS", // <- Match Status
     league: {
       league_name: leagueName || "", // <- League
-      league_logo: "", // naye source mein league logo nahi hai
+      league_logo: "", 
     },
     venue: "TBA",
     teams: {
@@ -531,7 +555,7 @@ function transformMatch(m) {
       combined_logo: m["Match Poster"] || DEFAULT_LOGO,
     },
     timing: buildTiming(isLive, parseStartTime(m["Start Time"])), // <- Start Time
-    streams: streams, // <- Streams[].Embed_URL
+    streams: streams, // <- Streams[].Embed_URL (SD pehle, HD baad mein)
   };
 }
 
@@ -553,7 +577,7 @@ function transformPlaylist(data) {
 
   return {
     playlist_info: {
-      // Source mein update time nahi hai, isliye generate hone ka waqt
+      
       last_update_time: new Date().toISOString(),
     },
     live_matches: liveMatches,
