@@ -1,102 +1,41 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-19T21:53:39.619Z"
+    "last_update_time": "2026-10-19T23:00:37.129Z"
   },
   "live_matches": [
     {
-      "match_id": 1280848615,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "tottenham-hotspur-vs-coventry-city-1280848615",
-      "title": "Tottenham Hotspur vs Coventry City",
+      "match_id": 1389266205,
+      "sport_name": "American Football",
+      "sport_id": 10,
+      "slug": "washington-commanders-vs-san-francisco-49ers-1389266205",
+      "title": "Washington Commanders vs San Francisco 49ers",
       "status": "LIVE",
       "league": {
-        "league_name": "Football",
+        "league_name": "American-football",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Tottenham Hotspur",
-        "away_name": "Coventry City",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekgZgUbMEhDcQfECYggSIMyhCJEUgsCQU+w2fRRgVO3WXhEssjpMtGCeYqIQQA.webp"
+        "home_name": "Washington Commanders",
+        "away_name": "San Francisco 49ers",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Washington%20Commanders%20vs%20San%20Francisco%2049ers&font=Oswald"
       },
       "timing": {
-        "start_time_timestamp": 1792436400,
-        "start_time_local": 1792436400,
+        "start_time_timestamp": 1792447200,
+        "start_time_local": 1792447200,
         "countdown_seconds": null
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - English - Sky Sports Premier League",
-          "play_url": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-coventry-city/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - Sky Sports Premier League",
-          "play_url": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-coventry-city/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
           "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/tottenham-hotspur-vs-coventry-city-premier-league-1792431000/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 2 (HD) - 4K UHD",
-          "play_url": "https://embed.st/embed/hotel/tottenham-hotspur-vs-coventry-city-premier-league-1792431000/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1897080868,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "getafe-vs-rayo-vallecano-1897080868",
-      "title": "Getafe vs Rayo Vallecano",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Getafe",
-        "away_name": "Rayo Vallecano",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXoimwwIOiG4g+IYxBAoQMEKZIhEMAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792436400,
-        "start_time_local": 1792436400,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-getafe-vs-rayo-vallecano/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-getafe-vs-rayo-vallecano/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/getafe-vs-rayo-vallecano-laliga-ea-sports-1792434900/1",
+          "play_url": "https://embed.st/embed/hotel/washington-commanders-vs-san-francisco-49ers-nfl-1792447200/1",
           "is_new_format": true,
           "required_referer": null
         }
       ]
     }
   ],
-  "total_upcoming_matches": 11,
+  "total_upcoming_matches": 12,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -167,6 +106,37 @@
         {
           "server_name": "Admin 1 (HD) - English",
           "play_url": "https://embed.st/embed/admin/admin-tennis-channel/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1875191776,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "rally-tv-1875191776",
+      "title": "Rally TV",
+      "status": "NS",
+      "league": {
+        "league_name": "Motor-sports",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": null,
+        "start_time_local": null,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 1 (HD) - English",
+          "play_url": "https://embed.st/embed/admin/admin-rally-tv/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -269,6 +239,18 @@
         "countdown_seconds": null
       },
       "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - NBC Sports Phil",
+          "play_url": "https://embed.st/embed/admin/ppv-colorado-avalanche-vs-philadelphia-flyers/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - NBC Sports Phil",
+          "play_url": "https://embed.st/embed/admin/ppv-colorado-avalanche-vs-philadelphia-flyers/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
         {
           "server_name": "Golf 2 (SD) - English",
           "play_url": "https://embed.st/embed/golf/2388/2",
@@ -478,6 +460,18 @@
       },
       "streams": [
         {
+          "server_name": "Admin 2 (SD) - English - TBS",
+          "play_url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-tampa-bay-rays/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - TBS",
+          "play_url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-tampa-bay-rays/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/cleveland-guardians-vs-tampa-bay-rays-mlb-1792452600/1",
           "is_new_format": true,
@@ -517,6 +511,18 @@
         {
           "server_name": "Admin 1 (HD) - English - ESPN",
           "play_url": "https://embed.st/embed/admin/ppv-washington-commanders-at-san-francisco-49-ers/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2316/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2316/1",
           "is_new_format": true,
           "required_referer": null
         },
