@@ -1,9 +1,9 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-20T15:00:41.108Z"
+    "last_update_time": "2026-10-20T15:30:41.835Z"
   },
   "live_matches": [],
-  "total_upcoming_matches": 40,
+  "total_upcoming_matches": 41,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -344,6 +344,49 @@
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/goals-show-xtra-tnt-uefa-champions-league-1792519200/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1015946575,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "the-golazo-show-1015946575",
+      "title": "The Golazo Show",
+      "status": "NS",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792519200,
+        "start_time_local": 1792519200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/the-golazo-show-cbs-uefa-champions-league-1792517400/1",
           "is_new_format": true,
           "required_referer": null
         }
