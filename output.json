@@ -1,14 +1,14 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-20T17:00:38.776Z"
+    "last_update_time": "2026-10-20T19:00:36.179Z"
   },
   "live_matches": [
     {
-      "match_id": 1271737118,
+      "match_id": 1588664864,
       "sport_name": "Football",
       "sport_id": 1,
-      "slug": "fenerbahce-vs-slavia-prague-1271737118",
-      "title": "Fenerbahce vs Slavia Prague",
+      "slug": "fenerbah-e-vs-slavia-prague-1588664864",
+      "title": "Fenerbahçe vs Slavia Prague",
       "status": "LIVE",
       "league": {
         "league_name": "Football",
@@ -16,50 +16,55 @@
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Fenerbahce",
+        "home_name": "Fenerbahçe",
         "away_name": "Slavia Prague",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fenerbahce%20vs%20Slavia%20Prague&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
       },
       "timing": {
-        "start_time_timestamp": 1792512000,
-        "start_time_local": 1792512000,
+        "start_time_timestamp": 1792514700,
+        "start_time_local": 1792514700,
         "countdown_seconds": null
       },
       "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - TNT Sports 3",
+          "play_url": "https://embed.st/embed/admin/ppv-fenerbahce-vs-slavia-prague/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - TNT Sports 3",
+          "play_url": "https://embed.st/embed/admin/ppv-fenerbahce-vs-slavia-prague/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2391/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 4 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2391/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2391/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 3 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2391/3",
+          "is_new_format": true,
+          "required_referer": null
+        },
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/fenerbahce-vs-slavia-prague-uefa-champions-league-1792512000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1326656411,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "sabah-fk-vs-borussia-dortmund-1326656411",
-      "title": "Sabah FK vs Borussia Dortmund",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Sabah FK",
-        "away_name": "Borussia Dortmund",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Sabah%20FK%20vs%20Borussia%20Dortmund&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1792512000,
-        "start_time_local": 1792512000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/sabah-fk-vs-borussia-dortmund-uefa-champions-league-1792512000/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -133,11 +138,11 @@
       ]
     },
     {
-      "match_id": 1588664864,
+      "match_id": 1113305434,
       "sport_name": "Football",
       "sport_id": 1,
-      "slug": "fenerbah-e-vs-slavia-prague-1588664864",
-      "title": "Fenerbahçe vs Slavia Prague",
+      "slug": "al-nassr-vs-neom-1113305434",
+      "title": "Al-Nassr vs Neom",
       "status": "LIVE",
       "league": {
         "league_name": "Football",
@@ -145,62 +150,285 @@
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Fenerbahçe",
-        "away_name": "Slavia Prague",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
+        "home_name": "Al-Nassr",
+        "away_name": "Neom",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAKw8KZRNw0gSIYzhS5DxjQWBIKfYbPoowKlFxfl6W0W6a0wLmKiEEA.webp"
       },
       "timing": {
-        "start_time_timestamp": 1792514700,
-        "start_time_local": 1792514700,
+        "start_time_timestamp": 1792519200,
+        "start_time_local": 1792519200,
         "countdown_seconds": null
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - English - TNT Sports 3",
-          "play_url": "https://embed.st/embed/admin/ppv-fenerbahce-vs-slavia-prague/2",
+          "server_name": "Admin 2 (SD) - English - FOX Soccer Plus",
+          "play_url": "https://embed.st/embed/admin/ppv-al-nassr-vs-neom-sc/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - English - TNT Sports 3",
-          "play_url": "https://embed.st/embed/admin/ppv-fenerbahce-vs-slavia-prague/1",
+          "server_name": "Admin 1 (HD) - English - FOX Soccer Plus",
+          "play_url": "https://embed.st/embed/admin/ppv-al-nassr-vs-neom-sc/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1015946575,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "the-golazo-show-1015946575",
+      "title": "The Golazo Show",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792519200,
+        "start_time_local": 1792519200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2391/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2391/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2391/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2391/3",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
           "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/fenerbahce-vs-slavia-prague-uefa-champions-league-1792512000/1",
+          "play_url": "https://embed.st/embed/hotel/the-golazo-show-cbs-uefa-champions-league-1792517400/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1359848513,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "manchester-city-vs-aek-athens-1359848513",
+      "title": "Manchester City vs AEK Athens",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Manchester City",
+        "away_name": "AEK Athens",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Manchester%20City%20vs%20AEK%20Athens&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1792519200,
+        "start_time_local": 1792519200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/manchester-city-vs-aek-athens-uefa-champions-league-1792519200/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - 4K UHD",
+          "play_url": "https://embed.st/embed/hotel/manchester-city-vs-aek-athens-uefa-champions-league-1792519200/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1759122796,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "goals-show-xtra-tnt-1759122796",
+      "title": "Goals Show Xtra (TNT)",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Goals%20Show%20Xtra%20%28TNT%29&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1792519200,
+        "start_time_local": 1792519200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/goals-show-xtra-tnt-uefa-champions-league-1792519200/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1276653816,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "boston-celtics-vs-detroit-pistons-1276653816",
+      "title": "Boston Celtics vs Detroit Pistons",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Basketball",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Boston Celtics",
+        "away_name": "Detroit Pistons",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Boston%20Celtics%20vs%20Detroit%20Pistons&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1792521000,
+        "start_time_local": 1792521000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/boston-celtics-vs-detroit-pistons-nba-1792521000/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1510459372,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "wolverhampton-wanderers-vs-portsmouth-1510459372",
+      "title": "Wolverhampton Wanderers vs Portsmouth",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Wolverhampton Wanderers",
+        "away_name": "Portsmouth",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCHop+uMCRDcQfECZwQQUoyA2IpBYEgp9hsrXrba2e8vSyztTLRg7vSiEEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792521900,
+        "start_time_local": 1792521900,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - Sky Sports+",
+          "play_url": "https://embed.st/embed/admin/ppv-wolverhampton-wanderers-vs-portsmouth/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - Sky Sports+",
+          "play_url": "https://embed.st/embed/admin/ppv-wolverhampton-wanderers-vs-portsmouth/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1486159867,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "walsall-vs-oldham-athletic-1486159867",
+      "title": "Walsall vs Oldham Athletic",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Walsall",
+        "away_name": "Oldham Athletic",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHChAC+YEHpDct+nBBBSQpmEZAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792521900,
+        "start_time_local": 1792521900,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - Sky Sports+",
+          "play_url": "https://embed.st/embed/admin/ppv-walsall-vs-oldham-athletic/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - Sky Sports+",
+          "play_url": "https://embed.st/embed/admin/ppv-walsall-vs-oldham-athletic/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1425697839,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "rochdale-vs-grimsby-town-1425697839",
+      "title": "Rochdale vs Grimsby Town",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Rochdale",
+        "away_name": "Grimsby Town",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMVBSQIYNu4g+O3CAghtZmIcMFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792521900,
+        "start_time_local": 1792521900,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - Sky Sports+",
+          "play_url": "https://embed.st/embed/admin/ppv-rochdale-vs-grimsby-town/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - Sky Sports+",
+          "play_url": "https://embed.st/embed/admin/ppv-rochdale-vs-grimsby-town/1",
           "is_new_format": true,
           "required_referer": null
         }
       ]
     }
   ],
-  "total_upcoming_matches": 39,
+  "total_upcoming_matches": 33,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -376,191 +604,6 @@
         {
           "server_name": "Admin 1 (HD) - English - NFL Network (ESPN)",
           "play_url": "https://embed.st/embed/admin/ppv-nfl-network/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1759122796,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "goals-show-xtra-tnt-1759122796",
-      "title": "Goals Show Xtra (TNT)",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Goals%20Show%20Xtra%20%28TNT%29&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1792519200,
-        "start_time_local": 1792519200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/goals-show-xtra-tnt-uefa-champions-league-1792519200/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1015946575,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "the-golazo-show-1015946575",
-      "title": "The Golazo Show",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792519200,
-        "start_time_local": 1792519200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/the-golazo-show-cbs-uefa-champions-league-1792517400/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1510459372,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "wolverhampton-wanderers-vs-portsmouth-1510459372",
-      "title": "Wolverhampton Wanderers vs Portsmouth",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Wolverhampton Wanderers",
-        "away_name": "Portsmouth",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCHop+uMCRDcQfECZwQQUoyA2IpBYEgp9hsrXrba2e8vSyztTLRg7vSiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792521900,
-        "start_time_local": 1792521900,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - Sky Sports+",
-          "play_url": "https://embed.st/embed/admin/ppv-wolverhampton-wanderers-vs-portsmouth/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - Sky Sports+",
-          "play_url": "https://embed.st/embed/admin/ppv-wolverhampton-wanderers-vs-portsmouth/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1486159867,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "walsall-vs-oldham-athletic-1486159867",
-      "title": "Walsall vs Oldham Athletic",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Walsall",
-        "away_name": "Oldham Athletic",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHChAC+YEHpDct+nBBBSQpmEZAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792521900,
-        "start_time_local": 1792521900,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - Sky Sports+",
-          "play_url": "https://embed.st/embed/admin/ppv-walsall-vs-oldham-athletic/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - Sky Sports+",
-          "play_url": "https://embed.st/embed/admin/ppv-walsall-vs-oldham-athletic/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1425697839,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "rochdale-vs-grimsby-town-1425697839",
-      "title": "Rochdale vs Grimsby Town",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Rochdale",
-        "away_name": "Grimsby Town",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMVBSQIYNu4g+O3CAghtZmIcMFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792521900,
-        "start_time_local": 1792521900,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - Sky Sports+",
-          "play_url": "https://embed.st/embed/admin/ppv-rochdale-vs-grimsby-town/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - Sky Sports+",
-          "play_url": "https://embed.st/embed/admin/ppv-rochdale-vs-grimsby-town/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -854,79 +897,6 @@
       ]
     },
     {
-      "match_id": 1359848513,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "manchester-city-vs-aek-athens-1359848513",
-      "title": "Manchester City vs AEK Athens",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Manchester City",
-        "away_name": "AEK Athens",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUCGBgGzWCG4g+IY0ZT6QJC8cMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792522800,
-        "start_time_local": 1792522800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - TNT Sports 1",
-          "play_url": "https://embed.st/embed/admin/ppv-manchester-city-vs-aek-athens/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - TNT Sports 1",
-          "play_url": "https://embed.st/embed/admin/ppv-manchester-city-vs-aek-athens/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2396/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2396/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2396/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2396/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/manchester-city-vs-aek-athens-uefa-champions-league-1792519200/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 2 (HD) - 4K UHD",
-          "play_url": "https://embed.st/embed/hotel/manchester-city-vs-aek-athens-uefa-champions-league-1792519200/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1040881125,
       "sport_name": "Football",
       "sport_id": 1,
@@ -1042,7 +1012,7 @@
         },
         {
           "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/boston-celtics-vs-detroit-pistons-nba-1792515600/1",
+          "play_url": "https://embed.st/embed/hotel/boston-celtics-vs-detroit-pistons-nba-1792521000/1",
           "is_new_format": true,
           "required_referer": null
         }
