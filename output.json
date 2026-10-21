@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-21T17:28:35.948Z"
+    "last_update_time": "2026-10-21T19:00:40.053Z"
   },
   "live_matches": [
     {
@@ -136,9 +136,126 @@
           "required_referer": null
         }
       ]
+    },
+    {
+      "match_id": 1878046786,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "levante-vs-athletic-bilbao-1878046786",
+      "title": "Levante vs Athletic Bilbao",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Levante",
+        "away_name": "Athletic Bilbao",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAVSRgBAnNxB8QRiCBQgYIEycMoCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792605600,
+        "start_time_local": 1792605600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-levante-vs-athletic-club/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-levante-vs-athletic-club/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/levante-vs-athletic-club-laliga-ea-sports-1792605300/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1015946575,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "the-golazo-show-1015946575",
+      "title": "The Golazo Show",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792605600,
+        "start_time_local": 1792605600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/the-golazo-show-cbs-uefa-champions-league-1792605600/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1524389376,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "bayern-munich-vs-arsenal-1524389376",
+      "title": "Bayern Munich vs Arsenal",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Bayern Munich",
+        "away_name": "Arsenal",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Bayern%20Munich%20vs%20Arsenal&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1792605600,
+        "start_time_local": 1792605600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/bayern-munich-vs-arsenal-uefa-champions-league-1792605600/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
     }
   ],
-  "total_upcoming_matches": 37,
+  "total_upcoming_matches": 34,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -314,104 +431,6 @@
         {
           "server_name": "Admin 1 (HD) - English - NFL Network (ESPN)",
           "play_url": "https://embed.st/embed/admin/ppv-nfl-network/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1015946575,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "the-golazo-show-1015946575",
-      "title": "The Golazo Show",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792605600,
-        "start_time_local": 1792605600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2497/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2497/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/the-golazo-show-cbs-uefa-champions-league-1792605600/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1878046786,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "levante-vs-athletic-bilbao-1878046786",
-      "title": "Levante vs Athletic Bilbao",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Levante",
-        "away_name": "Athletic Bilbao",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAVSRgBAnNxB8QRiCBQgYIEycMoCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792605600,
-        "start_time_local": 1792605600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-levante-vs-athletic-club/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-levante-vs-athletic-club/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/levante-vs-athletic-club-laliga-ea-sports-1792605300/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -755,73 +774,6 @@
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/sporting-cp-vs-lask-linz-uefa-champions-league-1792608900/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1524389376,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "bayern-munich-vs-arsenal-1524389376",
-      "title": "Bayern Munich vs Arsenal",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Bayern Munich",
-        "away_name": "Arsenal",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzkQwGepAwQ3EHxCmTKQyBIgp+qwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792609200,
-        "start_time_local": 1792609200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - TNT Sports 1",
-          "play_url": "https://embed.st/embed/admin/ppv-bayern-munich-vs-arsenal/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - TNT Sports 1",
-          "play_url": "https://embed.st/embed/admin/ppv-bayern-munich-vs-arsenal/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2403/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2403/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2403/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2403/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/bayern-munich-vs-arsenal-uefa-champions-league-1792605600/1",
           "is_new_format": true,
           "required_referer": null
         }
