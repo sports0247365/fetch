@@ -1,59 +1,47 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-21T07:00:32.655Z"
+    "last_update_time": "2026-10-21T09:00:33.695Z"
   },
   "live_matches": [
     {
-      "match_id": 1055620693,
-      "sport_name": "Ice Hockey",
-      "sport_id": 4,
-      "slug": "vegas-golden-knights-vs-tampa-bay-lightning-1055620693",
-      "title": "Vegas Golden Knights vs Tampa Bay Lightning",
+      "match_id": 1234094798,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "tasmania-jackjumpers-vs-brisbane-bullets-1234094798",
+      "title": "Tasmania JackJumpers vs Brisbane Bullets",
       "status": "LIVE",
       "league": {
-        "league_name": "Hockey",
+        "league_name": "Basketball",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Vegas Golden Knights",
-        "away_name": "Tampa Bay Lightning",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAoQ3aijDcdIPhpAwQF7ds2aYBYEgp9hs+vpUouYMvCJZZnky0YN5iohBAA.webp"
+        "home_name": "Tasmania JackJumpers",
+        "away_name": "Brisbane Bullets",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBgh4CYEmBgQGqSBMlNIcycQmQBPRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
       },
       "timing": {
-        "start_time_timestamp": 1792549800,
-        "start_time_local": 1792549800,
+        "start_time_timestamp": 1792571400,
+        "start_time_local": 1792571400,
         "countdown_seconds": null
       },
       "streams": [
         {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2422/2",
+          "server_name": "Admin 2 (SD) - English - ESPN",
+          "play_url": "https://embed.st/embed/admin/ppv-tasmania-jack-jumpers-vs-brisbane-bullets/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2422/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2422/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2422/3",
+          "server_name": "Admin 1 (HD) - English - ESPN",
+          "play_url": "https://embed.st/embed/admin/ppv-tasmania-jack-jumpers-vs-brisbane-bullets/1",
           "is_new_format": true,
           "required_referer": null
         }
       ]
     }
   ],
-  "total_upcoming_matches": 37,
+  "total_upcoming_matches": 36,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -235,43 +223,6 @@
       ]
     },
     {
-      "match_id": 1234094798,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "tasmania-jackjumpers-vs-brisbane-bullets-1234094798",
-      "title": "Tasmania JackJumpers vs Brisbane Bullets",
-      "status": "NS",
-      "league": {
-        "league_name": "Basketball",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Tasmania JackJumpers",
-        "away_name": "Brisbane Bullets",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBgh4CYEmBgQGqSBMlNIcycQmQBPRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792571400,
-        "start_time_local": 1792571400,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-tasmania-jack-jumpers-vs-brisbane-bullets/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-tasmania-jack-jumpers-vs-brisbane-bullets/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1427139297,
       "sport_name": "Football",
       "sport_id": 1,
@@ -437,6 +388,18 @@
         {
           "server_name": "Admin 1 (HD) - English - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2497/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2497/1",
           "is_new_format": true,
           "required_referer": null
         }
