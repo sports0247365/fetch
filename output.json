@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-22T15:00:39.665Z"
+    "last_update_time": "2026-10-22T17:00:38.064Z"
   },
   "live_matches": [
     {
@@ -45,9 +45,139 @@
           "required_referer": null
         }
       ]
+    },
+    {
+      "match_id": 1015946575,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "the-golazo-show-1015946575",
+      "title": "The Golazo Show",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNhFSsIAMbiQMUiCohhICCHgi5anZpnqUIGZpBqVwCNi2KN4ifzCCpBSY8LAkuWRKHPWa2FSejdtMGcrEIggA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792684800,
+        "start_time_local": 1792684800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1365722347,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "jablonec-vs-brighton-hove-albion-1365722347",
+      "title": "Jablonec vs Brighton & Hove Albion",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Jablonec",
+        "away_name": "Brighton & Hove Albion",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Jablonec%20vs%20Brighton%20%26%20Hove%20Albion&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1792684800,
+        "start_time_local": 1792684800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/jablonec-vs-brighton-hove-albion-uefa-europa-conference-league-1792684800/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1241758043,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "trabzonspor-vs-heart-of-midlothian-1241758043",
+      "title": "Trabzonspor vs Heart of Midlothian",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Trabzonspor",
+        "away_name": "Heart of Midlothian",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Trabzonspor%20vs%20Heart%20of%20Midlothian&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1792684800,
+        "start_time_local": 1792684800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/trabzonspor-vs-heart-of-midlothian-uefa-europa-conference-league-1792684800/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1588225473,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "lech-poznan-vs-sunderland-1588225473",
+      "title": "Lech Poznan vs Sunderland",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Lech Poznan",
+        "away_name": "Sunderland",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Lech%20Poznan%20vs%20Sunderland&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1792684800,
+        "start_time_local": 1792684800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/lech-poznan-vs-sunderland-uefa-europa-league-1792684800/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
     }
   ],
-  "total_upcoming_matches": 64,
+  "total_upcoming_matches": 61,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -223,43 +353,6 @@
         {
           "server_name": "Admin 1 (HD) - English - NFL Network (ESPN)",
           "play_url": "https://embed.st/embed/admin/ppv-nfl-network/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1015946575,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "the-golazo-show-1015946575",
-      "title": "The Golazo Show",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNhFSsIAMbiQMUiCohhICCHgi5anZpnqUIGZpBqVwCNi2KN4ifzCCpBSY8LAkuWRKHPWa2FSejdtMGcrEIggA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792684800,
-        "start_time_local": 1792684800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -958,49 +1051,6 @@
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/jablonec-vs-brighton-hove-albion-uefa-europa-conference-league-1792684800/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1241758043,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "trabzonspor-vs-heart-of-midlothian-1241758043",
-      "title": "Trabzonspor vs Heart of Midlothian",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Trabzonspor",
-        "away_name": "Heart of Midlothian",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKdCxhwSEFJDcQfECeMoQiYxBAkTBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792687500,
-        "start_time_local": 1792687500,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - TNT Sports 3",
-          "play_url": "https://embed.st/embed/admin/ppv-trabzonspor-vs-heart-of-midlothian/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - TNT Sports 3",
-          "play_url": "https://embed.st/embed/admin/ppv-trabzonspor-vs-heart-of-midlothian/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/trabzonspor-vs-heart-of-midlothian-uefa-europa-conference-league-1792684800/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -2076,6 +2126,49 @@
           "play_url": "https://embed.st/embed/hotel/phillip-island-free-practice-1-moto3-1792706400/1",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - Alt feed",
+          "play_url": "https://embed.st/embed/hotel/phillip-island-free-practice-1-moto3-1792706400/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 3 (HD) - Spanish Broadcast",
+          "play_url": "https://embed.st/embed/hotel/phillip-island-free-practice-1-moto3-1792706400/3",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1303932267,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "circuit-of-the-americas-paddock-uncut-sky-sports-1303932267",
+      "title": "Circuit of the Americas - Paddock Uncut (Sky Sports)",
+      "status": "NS",
+      "league": {
+        "league_name": "Motor-sports",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Circuit%20of%20the%20Americas%20-%20Paddock%20Uncut%20%28Sky%20Sports%29&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1792707000,
+        "start_time_local": 1792707000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/circuit-of-the-americas-paddock-uncut-sky-sports-formula-1-1792707000/1",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -2809,6 +2902,18 @@
           "play_url": "https://embed.st/embed/hotel/new-england-patriots-vs-chicago-bears-nfl-1792710000/1",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - 4K UHD",
+          "play_url": "https://embed.st/embed/hotel/new-england-patriots-vs-chicago-bears-nfl-1792710000/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 3 (HD) - NFL Game Pass on DAZN",
+          "play_url": "https://embed.st/embed/hotel/new-england-patriots-vs-chicago-bears-nfl-1792710000/3",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -2980,43 +3085,6 @@
           "play_url": "https://embed.st/embed/golf/2479/1",
           "is_new_format": true,
           "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/denver-nuggets-vs-oklahoma-city-thunder-nba-1792719000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1369339486,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "surfers-paradise-free-practice-1-1369339486",
-      "title": "Surfers Paradise — Free Practice 1",
-      "status": "NS",
-      "league": {
-        "league_name": "Motor-sports",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Surfers%20Paradise%20%E2%80%94%20Free%20Practice%201&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1792719900,
-        "start_time_local": 1792719900,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/surfers-paradise-free-practice-1-australian-supercars-championship-1792719900/1",
-          "is_new_format": true,
-          "required_referer": null
         }
       ]
     },
@@ -3137,37 +3205,6 @@
         {
           "server_name": "Golf 3 (HD) - English",
           "play_url": "https://embed.st/embed/golf/2491/3",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1792166734,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "phillip-island-free-practice-2-1792166734",
-      "title": "Phillip Island — Free Practice 2",
-      "status": "NS",
-      "league": {
-        "league_name": "Motor-sports",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Phillip%20Island%20%E2%80%94%20Free%20Practice%202&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1792721700,
-        "start_time_local": 1792721700,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/phillip-island-free-practice-2-moto3-1792721700/1",
           "is_new_format": true,
           "required_referer": null
         }
