@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-22T07:00:33.250Z"
+    "last_update_time": "2026-10-22T08:10:18.577Z"
   },
   "live_matches": [],
   "total_upcoming_matches": 66,
@@ -302,6 +302,49 @@
       ]
     },
     {
+      "match_id": 1602604042,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "red-star-belgrade-vs-f-c-k-benhavn-1602604042",
+      "title": "Red Star Belgrade vs. F.C. København",
+      "status": "NS",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Red Star Belgrade",
+        "away_name": "F.C. København",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMBpUQ06YhCSQCxCRDDFqpQuEyQAYxH7gEEGVUmsIE3rXB42UynIRQYQSKbZ6YQsCS49JyE3Vhd1MicCO3I3Y1JjIA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792687500,
+        "start_time_local": 1792687500,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - Conference League",
+          "play_url": "https://embed.st/embed/admin/ppv-red-star-belgrade-vs-f-c-k-benhavn/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - Conference League",
+          "play_url": "https://embed.st/embed/admin/ppv-red-star-belgrade-vs-f-c-k-benhavn/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/red-star-belgrade-vs-f-c-k-benhavn-uefa-europa-conference-league-1792687500/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
       "match_id": 1412247295,
       "sport_name": "Football",
       "sport_id": 1,
@@ -351,49 +394,6 @@
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/juventus-vs-stade-rennais-uefa-europa-league-1792687200/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1602604042,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "red-star-belgrade-vs-f-c-k-benhavn-1602604042",
-      "title": "Red Star Belgrade vs. F.C. København",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Red Star Belgrade",
-        "away_name": "F.C. København",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMBpUQ06YhCSQCxCRDDFqpQuEyQAYxH7gEEGVUmsIE3rXB42UynIRQYQSKbZ6YQsCS49JyE3Vhd1MicCO3I3Y1JjIA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792687500,
-        "start_time_local": 1792687500,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - Conference League",
-          "play_url": "https://embed.st/embed/admin/ppv-red-star-belgrade-vs-f-c-k-benhavn/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - Conference League",
-          "play_url": "https://embed.st/embed/admin/ppv-red-star-belgrade-vs-f-c-k-benhavn/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/red-star-belgrade-vs-f-c-k-benhavn-uefa-europa-conference-league-1792687500/1",
           "is_new_format": true,
           "required_referer": null
         }
