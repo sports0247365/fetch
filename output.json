@@ -1,9 +1,41 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-23T09:00:37.230Z"
+    "last_update_time": "2026-10-23T10:19:15.558Z"
   },
-  "live_matches": [],
-  "total_upcoming_matches": 51,
+  "live_matches": [
+    {
+      "match_id": 1887596790,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "rally-six-cities-north-of-portugal-qualifying-stage-luilhas-1887596790",
+      "title": "Rally Six Cities North of Portugal — Qualifying Stage - Luilhas",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Motor-sports",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rally%20Six%20Cities%20North%20of%20Portugal%20%E2%80%94%20Qualifying%20Stage%20-%20Luilhas&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1792747860,
+        "start_time_local": 1792747860,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/rally-six-cities-north-of-portugal-qualifying-stage-luilhas-european-rally-championship-1792747860/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    }
+  ],
+  "total_upcoming_matches": 50,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -179,37 +211,6 @@
         {
           "server_name": "Admin 1 (HD) - English - NFL Network (ESPN)",
           "play_url": "https://embed.st/embed/admin/ppv-nfl-network/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1887596790,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "rally-six-cities-north-of-portugal-qualifying-stage-luilhas-1887596790",
-      "title": "Rally Six Cities North of Portugal — Qualifying Stage - Luilhas",
-      "status": "NS",
-      "league": {
-        "league_name": "Motor-sports",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rally%20Six%20Cities%20North%20of%20Portugal%20%E2%80%94%20Qualifying%20Stage%20-%20Luilhas&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1792747860,
-        "start_time_local": 1792747860,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/rally-six-cities-north-of-portugal-qualifying-stage-luilhas-european-rally-championship-1792747860/1",
           "is_new_format": true,
           "required_referer": null
         }
