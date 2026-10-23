@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-23T19:00:36.006Z"
+    "last_update_time": "2026-10-23T19:24:02.154Z"
   },
   "live_matches": [
     {
@@ -183,37 +183,6 @@
       ]
     },
     {
-      "match_id": 1149233323,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "rally-six-cities-north-of-portugal-ss1-monte-penha-guimar-es-1149233323",
-      "title": "Rally Six Cities North of Portugal — SS1 - Monte Penha - Guimarães",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Motor-sports",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rally%20Six%20Cities%20North%20of%20Portugal%20%E2%80%94%20SS1%20-%20Monte%20Penha%20-%20Guimar%C3%A3es&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1792778700,
-        "start_time_local": 1792778700,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/rally-six-cities-north-of-portugal-ss1-monte-penha-guimar-es-european-rally-championship-1792778700/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1810383227,
       "sport_name": "Football",
       "sport_id": 1,
@@ -257,11 +226,11 @@
       ]
     },
     {
-      "match_id": 1192551358,
+      "match_id": 1553620777,
       "sport_name": "Football",
       "sport_id": 1,
-      "slug": "ipswich-town-vs-nottingham-forest-1192551358",
-      "title": "Ipswich Town vs Nottingham Forest",
+      "slug": "torino-vs-monza-1553620777",
+      "title": "Torino vs Monza",
       "status": "LIVE",
       "league": {
         "league_name": "Football",
@@ -269,25 +238,31 @@
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Ipswich Town",
-        "away_name": "Nottingham Forest",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Ipswich%20Town%20vs%20Nottingham%20Forest&font=Oswald"
+        "home_name": "Torino",
+        "away_name": "Monza",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFGCkg+YECER8Q3bXpAxTKEJesgSBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp"
       },
       "timing": {
-        "start_time_timestamp": 1792780200,
-        "start_time_local": 1792780200,
+        "start_time_timestamp": 1792781100,
+        "start_time_local": 1792781100,
         "countdown_seconds": null
       },
       "streams": [
         {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/ipswich-town-vs-nottingham-forest-premier-league-1792780200/1",
+          "server_name": "Admin 2 (SD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-torino-vs-monza/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Hotel 2 (HD) - 4K UHD",
-          "play_url": "https://embed.st/embed/hotel/ipswich-town-vs-nottingham-forest-premier-league-1792780200/2",
+          "server_name": "Admin 1 (HD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-torino-vs-monza/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/torino-vs-monza-serie-a-1792781100/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -337,11 +312,11 @@
       ]
     },
     {
-      "match_id": 1553620777,
+      "match_id": 1192551358,
       "sport_name": "Football",
       "sport_id": 1,
-      "slug": "torino-vs-monza-1553620777",
-      "title": "Torino vs Monza",
+      "slug": "ipswich-town-vs-nottingham-forest-1192551358",
+      "title": "Ipswich Town vs Nottingham Forest",
       "status": "LIVE",
       "league": {
         "league_name": "Football",
@@ -349,38 +324,99 @@
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Torino",
-        "away_name": "Monza",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFGCkg+YECER8Q3bXpAxTKEJesgSBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp"
+        "home_name": "Ipswich Town",
+        "away_name": "Nottingham Forest",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiCkgYIRCGAAGENxAaQICCBIWQKXTYVMkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
       },
       "timing": {
-        "start_time_timestamp": 1792781100,
-        "start_time_local": 1792781100,
+        "start_time_timestamp": 1792782000,
+        "start_time_local": 1792782000,
         "countdown_seconds": null
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-torino-vs-monza/2",
+          "server_name": "Admin 2 (SD) - English - Sky Sports Premier League",
+          "play_url": "https://embed.st/embed/admin/ppv-ipswich-town-vs-nottingham-forest/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-torino-vs-monza/1",
+          "server_name": "Admin 1 (HD) - English - Sky Sports Premier League",
+          "play_url": "https://embed.st/embed/admin/ppv-ipswich-town-vs-nottingham-forest/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2440/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2440/1",
           "is_new_format": true,
           "required_referer": null
         },
         {
           "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/torino-vs-monza-serie-a-1792781100/1",
+          "play_url": "https://embed.st/embed/hotel/ipswich-town-vs-nottingham-forest-premier-league-1792780200/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - 4K UHD",
+          "play_url": "https://embed.st/embed/hotel/ipswich-town-vs-nottingham-forest-premier-league-1792780200/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1277690381,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "deportivo-alav-s-vs-m-laga-1277690381",
+      "title": "Deportivo Alavés vs Málaga",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Deportivo Alavés",
+        "away_name": "Málaga",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEBpC8mSMCS0g+miCBQgYIE-pONgumP2Gz6KPWxRc95ellkemtGBu9KIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792782000,
+        "start_time_local": 1792782000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-alav-s-vs-m-laga/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-alav-s-vs-m-laga/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/alav-s-vs-m-laga-laliga-ea-sports-1792781400/1",
           "is_new_format": true,
           "required_referer": null
         }
       ]
     }
   ],
-  "total_upcoming_matches": 36,
+  "total_upcoming_matches": 35,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -556,49 +592,6 @@
         {
           "server_name": "Admin 1 (HD) - English - NFL Network (ESPN)",
           "play_url": "https://embed.st/embed/admin/ppv-nfl-network/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1277690381,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "deportivo-alav-s-vs-m-laga-1277690381",
-      "title": "Deportivo Alavés vs Málaga",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Deportivo Alavés",
-        "away_name": "Málaga",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEBpC8mSMCS0g+miCBQgYIE-pONgumP2Gz6KPWxRc95ellkemtGBu9KIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792782000,
-        "start_time_local": 1792782000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-alav-s-vs-m-laga/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-alav-s-vs-m-laga/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/alav-s-vs-m-laga-laliga-ea-sports-1792781400/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -2074,6 +2067,12 @@
           "play_url": "https://embed.st/embed/golf/2550/1",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/la-clippers-vs-los-angeles-lakers-nba-1792807200/1",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -2121,6 +2120,18 @@
         {
           "server_name": "Golf 1 (HD) - English",
           "play_url": "https://embed.st/embed/golf/2549/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/memphis-grizzlies-vs-golden-state-warriors-nba-1792807200/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - Away broadcast",
+          "play_url": "https://embed.st/embed/hotel/memphis-grizzlies-vs-golden-state-warriors-nba-1792807200/2",
           "is_new_format": true,
           "required_referer": null
         }
