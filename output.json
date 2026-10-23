@@ -1,45 +1,8 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-22T23:00:37.594Z"
+    "last_update_time": "2026-10-23T00:17:22.151Z"
   },
   "live_matches": [
-    {
-      "match_id": 1015946575,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "the-golazo-show-1015946575",
-      "title": "The Golazo Show",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNhFSsIAMbiQMUiCohhICCHgi5anZpnqUIGZpBqVwCNi2KN4ifzCCpBSY8LAkuWRKHPWa2FSejdtMGcrEIggA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792684800,
-        "start_time_local": 1792684800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-the-golazo-show/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
     {
       "match_id": 1270928842,
       "sport_name": "Motorsport",
@@ -72,37 +35,6 @@
         {
           "server_name": "Admin 1 (HD) - English - TNT Sports 2",
           "play_url": "https://embed.st/embed/admin/ppv-australia-practice-1/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1730350374,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "cleveland-cavaliers-vs-philadelphia-76ers-1730350374",
-      "title": "Cleveland Cavaliers vs Philadelphia 76ers",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Basketball",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Cleveland Cavaliers",
-        "away_name": "Philadelphia 76ers",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Cleveland%20Cavaliers%20vs%20Philadelphia%2076ers&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1792706400,
-        "start_time_local": 1792706400,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/cleveland-cavaliers-vs-philadelphia-76ers-nba-1792706400/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -150,9 +82,785 @@
           "required_referer": null
         }
       ]
+    },
+    {
+      "match_id": 1002359169,
+      "sport_name": "American Football",
+      "sport_id": 10,
+      "slug": "kennesaw-state-vs-liberty-1002359169",
+      "title": "Kennesaw State vs Liberty",
+      "status": "LIVE",
+      "league": {
+        "league_name": "American-football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Kennesaw State",
+        "away_name": "Liberty",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzpDE9gFNgBOEY3CYAExQFZgVgGBjYZxsQ-G2YAQxfwQ1g5PGCppguCkXogIWEDxDLGihXhBVq3Wo3oMwo+JCL46wWrjCHhZiEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792710000,
+        "start_time_local": 1792710000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2425/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2425/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1879040401,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "philadelphia-76ers-vs-cleveland-cavaliers-1879040401",
+      "title": "Philadelphia 76ers vs Cleveland Cavaliers",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Basketball",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Philadelphia 76ers",
+        "away_name": "Cleveland Cavaliers",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAy4eICCHhgpIbiD4gSIFLj3XLiEgWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792710000,
+        "start_time_local": 1792710000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - ESPN",
+          "play_url": "https://embed.st/embed/admin/ppv-cleveland-cavaliers-vs-philadelphia-76-ers/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - ESPN",
+          "play_url": "https://embed.st/embed/admin/ppv-cleveland-cavaliers-vs-philadelphia-76-ers/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2478/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2478/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/cleveland-cavaliers-vs-philadelphia-76ers-nba-1792706400/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1673700481,
+      "sport_name": "Ice Hockey",
+      "sport_id": 4,
+      "slug": "toronto-maple-leafs-vs-new-york-rangers-1673700481",
+      "title": "Toronto Maple Leafs vs New York Rangers",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Hockey",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Toronto Maple Leafs",
+        "away_name": "New York Rangers",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAC29FGBQhuIPiCkgYIAxaOITMAsCQU+w2brAqUXD+XpZZXky0YB5iohBAA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792710000,
+        "start_time_local": 1792710000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-new-york-rangers-vs-toronto-maple-leafs/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-new-york-rangers-vs-toronto-maple-leafs/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2482/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 4 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2482/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2482/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 3 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2482/3",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1786469933,
+      "sport_name": "Ice Hockey",
+      "sport_id": 4,
+      "slug": "pittsburgh-penguins-vs-florida-panthers-1786469933",
+      "title": "Pittsburgh Penguins vs Florida Panthers",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Hockey",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Pittsburgh Penguins",
+        "away_name": "Florida Panthers",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGMSRdQEENxB8QUkDBAoTekCQO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792710000,
+        "start_time_local": 1792710000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-florida-panthers-vs-pittsburgh-penguins/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-florida-panthers-vs-pittsburgh-penguins/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2485/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 4 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2485/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2485/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 3 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2485/3",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1541886380,
+      "sport_name": "Ice Hockey",
+      "sport_id": 4,
+      "slug": "new-jersey-devils-vs-anaheim-ducks-1541886380",
+      "title": "New Jersey Devils vs Anaheim Ducks",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Hockey",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "New Jersey Devils",
+        "away_name": "Anaheim Ducks",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNLmBhKIFDu4g+IKSBi7TFsyRDwCwJBT7DZ9FGBV6278vSyy9TLRg7mKiEEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792710000,
+        "start_time_local": 1792710000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - MSGSN",
+          "play_url": "https://embed.st/embed/admin/ppv-anaheim-ducks-vs-new-jersey-devils/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - MSGSN",
+          "play_url": "https://embed.st/embed/admin/ppv-anaheim-ducks-vs-new-jersey-devils/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2484/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 4 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2484/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2484/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 3 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2484/3",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1465564388,
+      "sport_name": "Ice Hockey",
+      "sport_id": 4,
+      "slug": "ottawa-senators-vs-san-jose-sharks-1465564388",
+      "title": "Ottawa Senators vs San Jose Sharks",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Hockey",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Ottawa Senators",
+        "away_name": "San Jose Sharks",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXtK5gw3ELr4gpIGCBTG9ucwqZIKfYbPoowKlFrLwiWWW6a1tovSBQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792710000,
+        "start_time_local": 1792710000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-san-jose-sharks-vs-ottawa-senators/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-san-jose-sharks-vs-ottawa-senators/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2483/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 4 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2483/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2483/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 3 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2483/3",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1764256445,
+      "sport_name": "Ice Hockey",
+      "sport_id": 4,
+      "slug": "boston-bruins-vs-nashville-predators-1764256445",
+      "title": "Boston Bruins vs Nashville Predators",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Hockey",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Boston Bruins",
+        "away_name": "Nashville Predators",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGG6bgABhApYIbiD4gpIGPovXzKEwWBIKfYbPoGVKLmDLwiWWS8mWjAfMVEIIA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792710000,
+        "start_time_local": 1792710000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - NESN",
+          "play_url": "https://embed.st/embed/admin/ppv-nashville-predators-vs-boston-bruins/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - NESN",
+          "play_url": "https://embed.st/embed/admin/ppv-nashville-predators-vs-boston-bruins/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2481/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 4 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2481/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2481/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 3 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2481/3",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1859936249,
+      "sport_name": "American Football",
+      "sport_id": 10,
+      "slug": "james-madison-dukes-app-state-mountaineers-1859936249",
+      "title": "James Madison Dukes @ App State Mountaineers",
+      "status": "LIVE",
+      "league": {
+        "league_name": "American-football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "James Madison Dukes",
+        "away_name": "App State Mountaineers",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzpDE9gFNgBOEY3CYAExQFZgVgGBjYZxsQ-G2YAQxfwQ1g5PGCppguCkXogIWEDxDKKIFMrkg8XGMFqN6DMKPiQi+OnsnAwx4RYhA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792710000,
+        "start_time_local": 1792710000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2424/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2424/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1528404644,
+      "sport_name": "American Football",
+      "sport_id": 10,
+      "slug": "new-england-patriots-vs-chicago-bears-1528404644",
+      "title": "New England Patriots vs Chicago Bears",
+      "status": "LIVE",
+      "league": {
+        "league_name": "American-football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "New England Patriots",
+        "away_name": "Chicago Bears",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=New%20England%20Patriots%20vs%20Chicago%20Bears&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1792710000,
+        "start_time_local": 1792710000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/new-england-patriots-vs-chicago-bears-nfl-1792710000/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - 4K UHD",
+          "play_url": "https://embed.st/embed/hotel/new-england-patriots-vs-chicago-bears-nfl-1792710000/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1286702380,
+      "sport_name": "American Football",
+      "sport_id": 10,
+      "slug": "memphis-vs-east-carolina-1286702380",
+      "title": "Memphis vs East Carolina",
+      "status": "LIVE",
+      "league": {
+        "league_name": "American-football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Memphis",
+        "away_name": "East Carolina",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMjH5hu2YGBDcQUkChCIYIEmZAWLJAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792711800,
+        "start_time_local": 1792711800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2426/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2426/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1119955229,
+      "sport_name": "Ice Hockey",
+      "sport_id": 4,
+      "slug": "new-york-islanders-vs-los-angeles-kings-1119955229",
+      "title": "New York Islanders vs Los Angeles Kings",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Hockey",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "New York Islanders",
+        "away_name": "Los Angeles Kings",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECG5EmMlJpB8QUkDBB7T3fcbNMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792711800,
+        "start_time_local": 1792711800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - Disney+",
+          "play_url": "https://embed.st/embed/admin/ppv-los-angeles-kings-vs-new-york-islanders/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - Disney+",
+          "play_url": "https://embed.st/embed/admin/ppv-los-angeles-kings-vs-new-york-islanders/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2486/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 4 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2486/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2486/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 3 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2486/3",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1671170776,
+      "sport_name": "Ice Hockey",
+      "sport_id": 4,
+      "slug": "dallas-stars-vs-winnipeg-jets-1671170776",
+      "title": "Dallas Stars vs Winnipeg Jets",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Hockey",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Dallas Stars",
+        "away_name": "Winnipeg Jets",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFGDKjEOGCG4g+IKSD0pT+kCQsgCwJBT7DZ9DSpRdN5ellkemtGCaYqIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792713600,
+        "start_time_local": 1792713600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - KDFW 4",
+          "play_url": "https://embed.st/embed/admin/ppv-winnipeg-jets-vs-dallas-stars/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - KDFW 4",
+          "play_url": "https://embed.st/embed/admin/ppv-winnipeg-jets-vs-dallas-stars/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2488/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 4 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2488/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2488/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 3 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2488/3",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1709141672,
+      "sport_name": "Ice Hockey",
+      "sport_id": 4,
+      "slug": "st-louis-blues-vs-vegas-golden-knights-1709141672",
+      "title": "St. Louis Blues vs Vegas Golden Knights",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Hockey",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "St. Louis Blues",
+        "away_name": "Vegas Golden Knights",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiFHxsIXml0gNUkDBAoTFxDhgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792713600,
+        "start_time_local": 1792713600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - Blues App",
+          "play_url": "https://embed.st/embed/admin/ppv-vegas-golden-knights-vs-st-louis-blues/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - Blues App",
+          "play_url": "https://embed.st/embed/admin/ppv-vegas-golden-knights-vs-st-louis-blues/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2487/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 4 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2487/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2487/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 3 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2487/3",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1590927162,
+      "sport_name": "American Football",
+      "sport_id": 10,
+      "slug": "chicago-bears-vs-new-england-patriots-1590927162",
+      "title": "Chicago Bears vs New England Patriots",
+      "status": "LIVE",
+      "league": {
+        "league_name": "American-football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Chicago Bears",
+        "away_name": "New England Patriots",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGBCckIOBBDcQfECf3GSIFCZD7GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792714500,
+        "start_time_local": 1792714500,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - Prime Video",
+          "play_url": "https://embed.st/embed/admin/ppv-new-england-patriots-at-chicago-bears/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 4 (SD) - Spanish - Prime Video",
+          "play_url": "https://embed.st/embed/admin/ppv-new-england-patriots-at-chicago-bears/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 6 (SD) - English - Prime Vision with Next Gen Stats",
+          "play_url": "https://embed.st/embed/admin/ppv-new-england-patriots-at-chicago-bears/6",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - Prime Video",
+          "play_url": "https://embed.st/embed/admin/ppv-new-england-patriots-at-chicago-bears/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 3 (HD) - Spanish - Prime Video",
+          "play_url": "https://embed.st/embed/admin/ppv-new-england-patriots-at-chicago-bears/3",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 5 (HD) - English - Prime Vision with Next Gen Stats",
+          "play_url": "https://embed.st/embed/admin/ppv-new-england-patriots-at-chicago-bears/5",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2423/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2423/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/new-england-patriots-vs-chicago-bears-nfl-1792710000/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - 4K UHD",
+          "play_url": "https://embed.st/embed/hotel/new-england-patriots-vs-chicago-bears-nfl-1792710000/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
     }
   ],
-  "total_upcoming_matches": 26,
+  "total_upcoming_matches": 12,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -328,751 +1036,6 @@
         {
           "server_name": "Admin 1 (HD) - English - NFL Network (ESPN)",
           "play_url": "https://embed.st/embed/admin/ppv-nfl-network/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1859936249,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "james-madison-dukes-app-state-mountaineers-1859936249",
-      "title": "James Madison Dukes @ App State Mountaineers",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "James Madison Dukes",
-        "away_name": "App State Mountaineers",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzpDE9gFNgBOEY3CYAExQFZgVgGBjYZxsQ-G2YAQxfwQ1g5PGCppguCkXogIWEDxDKKIFMrkg8XGMFqN6DMKPiQi+OnsnAwx4RYhA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792710000,
-        "start_time_local": 1792710000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2424/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2424/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1764256445,
-      "sport_name": "Ice Hockey",
-      "sport_id": 4,
-      "slug": "boston-bruins-vs-nashville-predators-1764256445",
-      "title": "Boston Bruins vs Nashville Predators",
-      "status": "NS",
-      "league": {
-        "league_name": "Hockey",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Boston Bruins",
-        "away_name": "Nashville Predators",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGG6bgABhApYIbiD4gpIGPovXzKEwWBIKfYbPoGVKLmDLwiWWS8mWjAfMVEIIA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792710000,
-        "start_time_local": 1792710000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - NESN",
-          "play_url": "https://embed.st/embed/admin/ppv-nashville-predators-vs-boston-bruins/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - NESN",
-          "play_url": "https://embed.st/embed/admin/ppv-nashville-predators-vs-boston-bruins/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2481/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2481/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2481/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2481/3",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1465564388,
-      "sport_name": "Ice Hockey",
-      "sport_id": 4,
-      "slug": "ottawa-senators-vs-san-jose-sharks-1465564388",
-      "title": "Ottawa Senators vs San Jose Sharks",
-      "status": "NS",
-      "league": {
-        "league_name": "Hockey",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Ottawa Senators",
-        "away_name": "San Jose Sharks",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXtK5gw3ELr4gpIGCBTG9ucwqZIKfYbPoowKlFrLwiWWW6a1tovSBQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792710000,
-        "start_time_local": 1792710000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-san-jose-sharks-vs-ottawa-senators/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-san-jose-sharks-vs-ottawa-senators/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2483/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2483/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2483/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2483/3",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1541886380,
-      "sport_name": "Ice Hockey",
-      "sport_id": 4,
-      "slug": "new-jersey-devils-vs-anaheim-ducks-1541886380",
-      "title": "New Jersey Devils vs Anaheim Ducks",
-      "status": "NS",
-      "league": {
-        "league_name": "Hockey",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "New Jersey Devils",
-        "away_name": "Anaheim Ducks",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNLmBhKIFDu4g+IKSBi7TFsyRDwCwJBT7DZ9FGBV6278vSyy9TLRg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792710000,
-        "start_time_local": 1792710000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - MSGSN",
-          "play_url": "https://embed.st/embed/admin/ppv-anaheim-ducks-vs-new-jersey-devils/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - MSGSN",
-          "play_url": "https://embed.st/embed/admin/ppv-anaheim-ducks-vs-new-jersey-devils/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2484/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2484/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2484/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2484/3",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1786469933,
-      "sport_name": "Ice Hockey",
-      "sport_id": 4,
-      "slug": "pittsburgh-penguins-vs-florida-panthers-1786469933",
-      "title": "Pittsburgh Penguins vs Florida Panthers",
-      "status": "NS",
-      "league": {
-        "league_name": "Hockey",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Pittsburgh Penguins",
-        "away_name": "Florida Panthers",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGMSRdQEENxB8QUkDBAoTekCQO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792710000,
-        "start_time_local": 1792710000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-florida-panthers-vs-pittsburgh-penguins/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-florida-panthers-vs-pittsburgh-penguins/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2485/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2485/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2485/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2485/3",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1673700481,
-      "sport_name": "Ice Hockey",
-      "sport_id": 4,
-      "slug": "toronto-maple-leafs-vs-new-york-rangers-1673700481",
-      "title": "Toronto Maple Leafs vs New York Rangers",
-      "status": "NS",
-      "league": {
-        "league_name": "Hockey",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Toronto Maple Leafs",
-        "away_name": "New York Rangers",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAC29FGBQhuIPiCkgYIAxaOITMAsCQU+w2brAqUXD+XpZZXky0YB5iohBAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792710000,
-        "start_time_local": 1792710000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-new-york-rangers-vs-toronto-maple-leafs/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-new-york-rangers-vs-toronto-maple-leafs/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2482/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2482/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2482/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2482/3",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1879040401,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "philadelphia-76ers-vs-cleveland-cavaliers-1879040401",
-      "title": "Philadelphia 76ers vs Cleveland Cavaliers",
-      "status": "NS",
-      "league": {
-        "league_name": "Basketball",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Philadelphia 76ers",
-        "away_name": "Cleveland Cavaliers",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAy4eICCHhgpIbiD4gSIFLj3XLiEgWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792710000,
-        "start_time_local": 1792710000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-cleveland-cavaliers-vs-philadelphia-76-ers/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-cleveland-cavaliers-vs-philadelphia-76-ers/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2478/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2478/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/cleveland-cavaliers-vs-philadelphia-76ers-nba-1792706400/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1002359169,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "kennesaw-state-vs-liberty-1002359169",
-      "title": "Kennesaw State vs Liberty",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Kennesaw State",
-        "away_name": "Liberty",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzpDE9gFNgBOEY3CYAExQFZgVgGBjYZxsQ-G2YAQxfwQ1g5PGCppguCkXogIWEDxDLGihXhBVq3Wo3oMwo+JCL46wWrjCHhZiEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792710000,
-        "start_time_local": 1792710000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2425/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2425/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1119955229,
-      "sport_name": "Ice Hockey",
-      "sport_id": 4,
-      "slug": "new-york-islanders-vs-los-angeles-kings-1119955229",
-      "title": "New York Islanders vs Los Angeles Kings",
-      "status": "NS",
-      "league": {
-        "league_name": "Hockey",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "New York Islanders",
-        "away_name": "Los Angeles Kings",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECG5EmMlJpB8QUkDBB7T3fcbNMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792711800,
-        "start_time_local": 1792711800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - Disney+",
-          "play_url": "https://embed.st/embed/admin/ppv-los-angeles-kings-vs-new-york-islanders/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - Disney+",
-          "play_url": "https://embed.st/embed/admin/ppv-los-angeles-kings-vs-new-york-islanders/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2486/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2486/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2486/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2486/3",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1286702380,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "memphis-vs-east-carolina-1286702380",
-      "title": "Memphis vs East Carolina",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Memphis",
-        "away_name": "East Carolina",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMjH5hu2YGBDcQUkChCIYIEmZAWLJAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792711800,
-        "start_time_local": 1792711800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2426/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2426/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1709141672,
-      "sport_name": "Ice Hockey",
-      "sport_id": 4,
-      "slug": "st-louis-blues-vs-vegas-golden-knights-1709141672",
-      "title": "St. Louis Blues vs Vegas Golden Knights",
-      "status": "NS",
-      "league": {
-        "league_name": "Hockey",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "St. Louis Blues",
-        "away_name": "Vegas Golden Knights",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiFHxsIXml0gNUkDBAoTFxDhgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792713600,
-        "start_time_local": 1792713600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - Blues App",
-          "play_url": "https://embed.st/embed/admin/ppv-vegas-golden-knights-vs-st-louis-blues/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - Blues App",
-          "play_url": "https://embed.st/embed/admin/ppv-vegas-golden-knights-vs-st-louis-blues/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2487/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2487/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2487/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2487/3",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1671170776,
-      "sport_name": "Ice Hockey",
-      "sport_id": 4,
-      "slug": "dallas-stars-vs-winnipeg-jets-1671170776",
-      "title": "Dallas Stars vs Winnipeg Jets",
-      "status": "NS",
-      "league": {
-        "league_name": "Hockey",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Dallas Stars",
-        "away_name": "Winnipeg Jets",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFGDKjEOGCG4g+IKSD0pT+kCQsgCwJBT7DZ9DSpRdN5ellkemtGCaYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792713600,
-        "start_time_local": 1792713600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - KDFW 4",
-          "play_url": "https://embed.st/embed/admin/ppv-winnipeg-jets-vs-dallas-stars/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - KDFW 4",
-          "play_url": "https://embed.st/embed/admin/ppv-winnipeg-jets-vs-dallas-stars/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2488/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2488/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2488/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2488/3",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1590927162,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "chicago-bears-vs-new-england-patriots-1590927162",
-      "title": "Chicago Bears vs New England Patriots",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Chicago Bears",
-        "away_name": "New England Patriots",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGBCckIOBBDcQfECf3GSIFCZD7GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792714500,
-        "start_time_local": 1792714500,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - Prime Video",
-          "play_url": "https://embed.st/embed/admin/ppv-new-england-patriots-at-chicago-bears/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 4 (SD) - Spanish - Prime Video",
-          "play_url": "https://embed.st/embed/admin/ppv-new-england-patriots-at-chicago-bears/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 6 (SD) - English - Prime Vision with Next Gen Stats",
-          "play_url": "https://embed.st/embed/admin/ppv-new-england-patriots-at-chicago-bears/6",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - Prime Video",
-          "play_url": "https://embed.st/embed/admin/ppv-new-england-patriots-at-chicago-bears/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 3 (HD) - Spanish - Prime Video",
-          "play_url": "https://embed.st/embed/admin/ppv-new-england-patriots-at-chicago-bears/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 5 (HD) - English - Prime Vision with Next Gen Stats",
-          "play_url": "https://embed.st/embed/admin/ppv-new-england-patriots-at-chicago-bears/5",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2423/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2423/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/new-england-patriots-vs-chicago-bears-nfl-1792710000/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 2 (HD) - 4K UHD",
-          "play_url": "https://embed.st/embed/hotel/new-england-patriots-vs-chicago-bears-nfl-1792710000/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 3 (HD) - NFL Game Pass on DAZN",
-          "play_url": "https://embed.st/embed/hotel/new-england-patriots-vs-chicago-bears-nfl-1792710000/3",
           "is_new_format": true,
           "required_referer": null
         }
@@ -1446,43 +1409,6 @@
         {
           "server_name": "Hotel 3 (HD) - Spanish Broadcast",
           "play_url": "https://embed.st/embed/hotel/phillip-island-free-practice-2-moto3-1792721700/3",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1456194322,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "australia-practice-1456194322",
-      "title": "Australia - Practice",
-      "status": "NS",
-      "league": {
-        "league_name": "Motor-sports",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMhBAxgkmCCrzgNBYkQQlIAMZKZILHoMKUWkLKnYpIKwpLirKcuoFCRTbPTCFgSXJodCwbk51YVJ6AmB4ckCZMIggA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792721700,
-        "start_time_local": 1792721700,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - TNT Sports 2",
-          "play_url": "https://embed.st/embed/admin/ppv-australia-practice/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - TNT Sports 2",
-          "play_url": "https://embed.st/embed/admin/ppv-australia-practice/1",
           "is_new_format": true,
           "required_referer": null
         }
