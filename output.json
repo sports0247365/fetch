@@ -1,41 +1,47 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-23T10:19:15.558Z"
+    "last_update_time": "2026-10-23T11:00:38.016Z"
   },
   "live_matches": [
     {
-      "match_id": 1887596790,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "rally-six-cities-north-of-portugal-qualifying-stage-luilhas-1887596790",
-      "title": "Rally Six Cities North of Portugal — Qualifying Stage - Luilhas",
+      "match_id": 1394582359,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "perth-wildcats-vs-melbourne-united-1394582359",
+      "title": "Perth Wildcats vs Melbourne United",
       "status": "LIVE",
       "league": {
-        "league_name": "Motor-sports",
+        "league_name": "Basketball",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rally%20Six%20Cities%20North%20of%20Portugal%20%E2%80%94%20Qualifying%20Stage%20-%20Luilhas&font=Oswald"
+        "home_name": "Perth Wildcats",
+        "away_name": "Melbourne United",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFMCQgyIOWBQhuIPsZCIjEXCGslrBTRT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp"
       },
       "timing": {
-        "start_time_timestamp": 1792747860,
-        "start_time_local": 1792747860,
+        "start_time_timestamp": 1792751400,
+        "start_time_local": 1792751400,
         "countdown_seconds": null
       },
       "streams": [
         {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/rally-six-cities-north-of-portugal-qualifying-stage-luilhas-european-rally-championship-1792747860/1",
+          "server_name": "Admin 2 (SD) - English - ESPN",
+          "play_url": "https://embed.st/embed/admin/ppv-perth-wildcats-vs-melbourne-united/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - ESPN",
+          "play_url": "https://embed.st/embed/admin/ppv-perth-wildcats-vs-melbourne-united/1",
           "is_new_format": true,
           "required_referer": null
         }
       ]
     }
   ],
-  "total_upcoming_matches": 50,
+  "total_upcoming_matches": 49,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -217,43 +223,6 @@
       ]
     },
     {
-      "match_id": 1394582359,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "perth-wildcats-vs-melbourne-united-1394582359",
-      "title": "Perth Wildcats vs Melbourne United",
-      "status": "NS",
-      "league": {
-        "league_name": "Basketball",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Perth Wildcats",
-        "away_name": "Melbourne United",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFMCQgyIOWBQhuIPsZCIjEXCGslrBTRT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792751400,
-        "start_time_local": 1792751400,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-perth-wildcats-vs-melbourne-united/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-perth-wildcats-vs-melbourne-united/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1132980866,
       "sport_name": "Motorsport",
       "sport_id": 17,
@@ -421,151 +390,6 @@
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/circuit-of-the-americas-free-practice-1-formula-1-1792774800/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1085168570,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "united-states-grand-prix-practice-1-1085168570",
-      "title": "United States Grand Prix - Practice 1",
-      "status": "NS",
-      "league": {
-        "league_name": "Motor-sports",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiAjApwkMODxpIKpPEgQwGhBABjTSJApsc1Yj2yV2xWbVHto8lIFCRTbPTCFgSXDqNCwbk4ZUnoCBXJA6VCIIA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792776600,
-        "start_time_local": 1792776600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - Sky Sports F1",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 4 (SD) - English - Apple TV (F1TV)",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 6 (SD) - Spanish - DAZN F1",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/6",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 8 (SD) - German - Sky Sport F1",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/8",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 10 (SD) - Italian - Sky Sport F1",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/10",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 12 (SD) - Swedish - V Sport Motor",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/12",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 14 (SD) - Dutch - Viaplay",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/14",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 16 (SD) - Czech - Nova Sport 5",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/16",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 18 (SD) - Polish - Eleven Sports 1",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/18",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - Sky Sports F1",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 3 (HD) - English - Apple TV (F1TV)",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 5 (HD) - Spanish - DAZN F1",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/5",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 7 (HD) - German - Sky Sport F1",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/7",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 9 (HD) - Italian - Sky Sport F1",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/9",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 11 (HD) - Swedish - V Sport Motor",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/11",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 13 (HD) - Dutch - Viaplay",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/13",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 15 (HD) - Czech - Nova Sport 5",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/15",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 17 (HD) - Polish - Eleven Sports 1",
-          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-1/17",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2441/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2441/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -1021,6 +845,151 @@
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/circuit-of-the-americas-free-practice-2-formula-1-1792787400/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1419715736,
+      "sport_name": "Motorsport",
+      "sport_id": 17,
+      "slug": "united-states-grand-prix-practice-2-1419715736",
+      "title": "United States Grand Prix - Practice 2",
+      "status": "NS",
+      "league": {
+        "league_name": "Motor-sports",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkBBAkQWEAGMQ4iMCozgkySBCIFZcXJHyQqvaXmHxiYYZggUWlOWUChIptnphCwJLjmOhMG5OZWsyRwJgeHIg9VJ1IA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792789200,
+        "start_time_local": 1792789200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - Sky Sports F1",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 4 (SD) - English - Apple TV (F1TV)",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 6 (SD) - Spanish - DAZN F1",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/6",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 8 (SD) - German - Sky Sport F1",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/8",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 10 (SD) - Italian - Sky Sport F1",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/10",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 12 (SD) - Swedish - V Sport Motor",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/12",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 14 (SD) - Dutch - Viaplay",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/14",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 16 (SD) - Czech - Nova Sport 5",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/16",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 18 (SD) - Polish - Eleven Sports 1",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/18",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - Sky Sports F1",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 3 (HD) - English - Apple TV (F1TV)",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/3",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 5 (HD) - Spanish - DAZN F1",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/5",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 7 (HD) - German - Sky Sport F1",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/7",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 9 (HD) - Italian - Sky Sport F1",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/9",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 11 (HD) - Swedish - V Sport Motor",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/11",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 13 (HD) - Dutch - Viaplay",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/13",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 15 (HD) - Czech - Nova Sport 5",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/15",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 17 (HD) - Polish - Eleven Sports 1",
+          "play_url": "https://embed.st/embed/admin/ppv-united-states-grand-prix-practice-2/17",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2442/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2442/1",
           "is_new_format": true,
           "required_referer": null
         }
