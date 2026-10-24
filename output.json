@@ -1,40 +1,40 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-24T11:00:31.138Z"
+    "last_update_time": "2026-10-24T13:00:34.620Z"
   },
   "live_matches": [
     {
-      "match_id": 1224564232,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "south-east-melbourne-phoenix-vs-adelaide-36ers-1224564232",
-      "title": "South East Melbourne Phoenix vs Adelaide 36ers",
+      "match_id": 1467073980,
+      "sport_name": "Darts",
+      "sport_id": 13,
+      "slug": "2026-european-championship-day-3-s1-1467073980",
+      "title": "2026 European Championship | Day 3 S1",
       "status": "LIVE",
       "league": {
-        "league_name": "Basketball",
+        "league_name": "Darts",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "South East Melbourne Phoenix",
-        "away_name": "Adelaide 36ers",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQiHZgyKOSG4g+hkIgMRcIS1JAwCwJBT7DZ9FNra6228vSyzdTLRg7vSiEEA.webp"
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYDRIgIIFBJCTsI7CERqQIYDI0BjEDBBZV8nSen6tyxJqxz+YQcoJK7hYElw65Qh63HDSemd4cgdLMgggA.webp"
       },
       "timing": {
-        "start_time_timestamp": 1792830600,
-        "start_time_local": 1792830600,
+        "start_time_timestamp": 1792839600,
+        "start_time_local": 1792839600,
         "countdown_seconds": null
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-south-east-melbourne-phoenix-vs-adelaide-36-ers/2",
+          "server_name": "Admin 2 (SD) - English - PDC.TV",
+          "play_url": "https://embed.st/embed/admin/ppv-2026-european-championship-day-3-s-1/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - English - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-south-east-melbourne-phoenix-vs-adelaide-36-ers/1",
+          "server_name": "Admin 1 (HD) - English - PDC.TV",
+          "play_url": "https://embed.st/embed/admin/ppv-2026-european-championship-day-3-s-1/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -55,14 +55,38 @@
       "teams": {
         "home_name": "Aston Villa",
         "away_name": "Manchester City",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Aston%20Villa%20vs%20Manchester%20City&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxBQklBiBIhuGkCc2aIIGCf0mCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
       },
       "timing": {
-        "start_time_timestamp": 1792836000,
-        "start_time_local": 1792836000,
+        "start_time_timestamp": 1792841400,
+        "start_time_local": 1792841400,
         "countdown_seconds": null
       },
       "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - TNT Sports 1",
+          "play_url": "https://embed.st/embed/admin/ppv-aston-villa-vs-manchester-city/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - TNT Sports 1",
+          "play_url": "https://embed.st/embed/admin/ppv-aston-villa-vs-manchester-city/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2493/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2493/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/aston-villa-vs-manchester-city-premier-league-1792836000/1",
@@ -78,38 +102,50 @@
       ]
     },
     {
-      "match_id": 1500771003,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "rally-six-cities-north-of-portugal-ss5-boticas-senhor-do-monte-1-1500771003",
-      "title": "Rally Six Cities North of Portugal — SS5 - Boticas - Senhor do Monte 1",
+      "match_id": 1016718871,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "rayo-vallecano-vs-elche-1016718871",
+      "title": "Rayo Vallecano vs Elche",
       "status": "LIVE",
       "league": {
-        "league_name": "Motor-sports",
+        "league_name": "Football",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rally%20Six%20Cities%20North%20of%20Portugal%20%E2%80%94%20SS5%20-%20Boticas%20-%20Senhor%20do%20Monte%201&font=Oswald"
+        "home_name": "Rayo Vallecano",
+        "away_name": "Elche",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCHpYxYbCG4g+IYxBAoQMTSBJWSBYEgp9hs+ijAqUXD+S2yvTLS6ovQhQA.webp"
       },
       "timing": {
-        "start_time_timestamp": 1792836600,
-        "start_time_local": 1792836600,
+        "start_time_timestamp": 1792843200,
+        "start_time_local": 1792843200,
         "countdown_seconds": null
       },
       "streams": [
         {
+          "server_name": "Admin 2 (SD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-rayo-vallecano-vs-elche/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-rayo-vallecano-vs-elche/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
           "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/rally-six-cities-north-of-portugal-ss5-boticas-senhor-do-monte-1-european-rally-championship-1792836600/1",
+          "play_url": "https://embed.st/embed/hotel/rayo-vallecano-vs-elche-laliga-ea-sports-1792842900/1",
           "is_new_format": true,
           "required_referer": null
         }
       ]
     }
   ],
-  "total_upcoming_matches": 135,
+  "total_upcoming_matches": 133,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -285,49 +321,6 @@
         {
           "server_name": "Admin 1 (HD) - English - NFL Network (ESPN)",
           "play_url": "https://embed.st/embed/admin/ppv-nfl-network/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1016718871,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "rayo-vallecano-vs-elche-1016718871",
-      "title": "Rayo Vallecano vs Elche",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Rayo Vallecano",
-        "away_name": "Elche",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCHpYxYbCG4g+IYxBAoQMTSBJWSBYEgp9hs+ijAqUXD+S2yvTLS6ovQhQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792843200,
-        "start_time_local": 1792843200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-rayo-vallecano-vs-elche/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-rayo-vallecano-vs-elche/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/rayo-vallecano-vs-elche-laliga-ea-sports-1792842900/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -1053,6 +1046,18 @@
         {
           "server_name": "Admin 5 (HD) - Portuguese - Paramount+",
           "play_url": "https://embed.st/embed/admin/ppv-ufc-333-volkanovski-vs-evloev/5",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2596/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2596/1",
           "is_new_format": true,
           "required_referer": null
         },
@@ -2032,7 +2037,7 @@
       "teams": {
         "home_name": "Central Michigan",
         "away_name": "Miami (OH)",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Central%20Michigan%20Chippewas%20vs%20Miami%20%28Oh%29%20Red%20Hawks&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQxAExAKZ4gqHCJYoCswKw9AxsEw2AJzAHWzbOcLVgEfrkzxguYGzogIIGCBwhi+OQzzcYwGgzr0wBBJCmda28sDAGhpiEA.webp"
       },
       "timing": {
         "start_time_timestamp": 1792861200,
@@ -2049,43 +2054,6 @@
         {
           "server_name": "Golf 1 (HD) - English",
           "play_url": "https://embed.st/embed/golf/2461/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1619121442,
-      "sport_name": "Darts",
-      "sport_id": 13,
-      "slug": "2026-european-championship-day-3-s2-1619121442",
-      "title": "2026 European Championship | Day 3 S2",
-      "status": "NS",
-      "league": {
-        "league_name": "Darts",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYDRIgIIFBJCTsI7CERqQIYDI0BjEDBBZV8nSen6tyxJqxz+YQcoJK7hYElw65Qh63HDSemd4cgdLMgggA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792861200,
-        "start_time_local": 1792861200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - PDC.TV",
-          "play_url": "https://embed.st/embed/admin/ppv-2026-european-championship-day-3-s-2/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - PDC.TV",
-          "play_url": "https://embed.st/embed/admin/ppv-2026-european-championship-day-3-s-2/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -2316,6 +2284,18 @@
           "play_url": "https://embed.st/embed/admin/ppv-dalton-smith-vs-alberto-puello/1",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2597/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2597/1",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -2500,7 +2480,7 @@
       "teams": {
         "home_name": "Illinois",
         "away_name": "Oregon",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Illinois%20vs%20Oregon&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQxAExAKZ4gqHCJYoCswKw9AxsEw2AJzAHWzbOcLVgEfrkzxguYGzogIIGCBwhCy2SULcYwGgzr0wBBJCmda28sDAGhpiEA.webp"
       },
       "timing": {
         "start_time_timestamp": 1792868400,
@@ -2863,7 +2843,7 @@
       "teams": {
         "home_name": "Ball State",
         "away_name": "Sacramento State",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Ball%20State%20vs%20Sacramento%20State&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQxAExAKZ4gqHCJYoCswKw9AxsEw2AJzAHWzbOcLVgEfrkzxguYGzogIIGCBwhi+OXIbcYwGhvrAwBBJCmda28voNDTEIA.webp"
       },
       "timing": {
         "start_time_timestamp": 1792870200,
@@ -3145,7 +3125,7 @@
       "teams": {
         "home_name": "Mississippi State",
         "away_name": "Oklahoma",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mississippi%20State%20vs%20Oklahoma&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQxAExAKZ4gqHCJYoCswKw9AxsEw2AJzAHWzbOcLVgEfrkzxguYGzogIIGCBwhCxBiEQxuMYDQZ16YAgkhTOtHeWBhDQsxCA.webp"
       },
       "timing": {
         "start_time_timestamp": 1792870200,
@@ -3182,7 +3162,7 @@
       "teams": {
         "home_name": "Arizona State",
         "away_name": "Kansas State",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Arizona%20State%20Sun%20Devils%20vs%20Kansas%20State%20Wildcats&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQxAExAKZ4gqHCJYoCswKw9AxsEw2AJzAHWzbOcLVgEfrkzxguYGzogIIGCBwhCxZYhTcYwGgzr0wBBJCmda28sDAGhpiEA.webp"
       },
       "timing": {
         "start_time_timestamp": 1792871100,
@@ -3205,11 +3185,11 @@
       ]
     },
     {
-      "match_id": 1237214422,
+      "match_id": 1356489490,
       "sport_name": "American Football",
       "sport_id": 10,
-      "slug": "ul-monroe-warhawks-troy-trojans-1237214422",
-      "title": "UL Monroe Warhawks - Troy Trojans",
+      "slug": "ul-monroe-warhawks-troy-trojans-1356489490",
+      "title": "UL Monroe Warhawks @ Troy Trojans",
       "status": "NS",
       "league": {
         "league_name": "American-football",
@@ -3219,7 +3199,7 @@
       "teams": {
         "home_name": "UL Monroe Warhawks",
         "away_name": "Troy Trojans",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UL%20Monroe%20Warhawks%20-%20Troy%20Trojans&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQxAExAKZ4gqHCJYoCswKw9AxsEw2AJzAHWzbOcLVgEfrkzxguYGzogIIGCBwgQDRfJKzuMYDQZ16YAgkhTOtHeWBhDQsxCA.webp"
       },
       "timing": {
         "start_time_timestamp": 1792872000,
@@ -3256,7 +3236,7 @@
       "teams": {
         "home_name": "Ohio",
         "away_name": "Eastern Michigan",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Ohio%20vs%20Eastern%20Michigan&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQxAExAKZ4gqHCJYoCswKw9AxsEw2AJzAHWzbOcLVgEfrkzxguYGzogIIGCBwhi+OXJTcYwGgzr0wBBJCmda28sDAGhpiEA.webp"
       },
       "timing": {
         "start_time_timestamp": 1792872000,
@@ -3469,7 +3449,7 @@
       "teams": {
         "home_name": "Louisiana Tech",
         "away_name": "Old Dominion",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Louisiana%20Tech%20vs%20Old%20Dominion&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQxAExAKZ4gqHCJYoCswKw9AxsEw2AJzAHWzbOcLVgEfrkzxguYGzogIIGCBwgQDRfJIh43GMBoM69MAQSQpnWrvLAwRoeYhA.webp"
       },
       "timing": {
         "start_time_timestamp": 1792875600,
@@ -3832,7 +3812,7 @@
       "teams": {
         "home_name": "Oklahoma State",
         "away_name": "Colorado",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Oklahoma%20State%20Cowboys%20vs%20Colorado%20Buffaloes&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQxAExAKZ4gqHCJYoCswKw9AxsEw2AJzAHWzbOcLVgEfrkzxguYGzogIIGCBwhCxZYlFUeNBnXpgCCSFM61gNcWH1CTEIA.webp"
       },
       "timing": {
         "start_time_timestamp": 1792882800,
@@ -4249,7 +4229,7 @@
       "teams": {
         "home_name": "Arkansas State",
         "away_name": "Georgia State",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Arkansas%20State%20vs%20Georgia%20State&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQxAExAKZ4gqHCJYoCswKw9AxsEw2AJzAHWzbOcLVgEfrkzxguYGzogIIGCBwhipUoi5UeNBnXpgCCSFM61gNcWH1CTEIA.webp"
       },
       "timing": {
         "start_time_timestamp": 1792882800,
@@ -4286,7 +4266,7 @@
       "teams": {
         "home_name": "Clemson",
         "away_name": "Virginia Tech",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Clemson%20vs%20Virginia%20Tech&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQxAExAKZ4gqHCJYoCswKw9AxsEw2AJzAHWzbOcLVgEfrkzxguYGzogIIGCBwhCykGxAM83GMBoM69MAQSQpnWrvLAwRoeYhA.webp"
       },
       "timing": {
         "start_time_timestamp": 1792882800,
@@ -4605,7 +4585,7 @@
       "teams": {
         "home_name": "Texas State",
         "away_name": "Utah State",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Texas%20State%20vs%20Utah%20State&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQxAExAKZ4gqHCJYoCswKw9AxsEw2AJzAHWzbOcLVgEfrkzxguYGzogIIGCBwhiC0gtFUeNBnXpgCCSFM61gNcWH1CTEIA.webp"
       },
       "timing": {
         "start_time_timestamp": 1792884600,
@@ -5213,6 +5193,18 @@
           "play_url": "https://embed.st/embed/admin/ppv-emanuel-navarrete-vs-o-shaquie-foster/1",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2598/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2598/1",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -5764,7 +5756,7 @@
       "teams": {
         "home_name": "New Mexico",
         "away_name": "North Dakota State",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=New%20Mexico%20vs%20North%20Dakota%20State&font=Oswald"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQxAExAKZ4gqHCJYoCswKw9AxsEw2AJzAHWzbOcLVgEfrkzxguYGzogIIGCBwhicomxANuMYDU31gYAgkhTOtHeQOGhZiEA.webp"
       },
       "timing": {
         "start_time_timestamp": 1792893600,
