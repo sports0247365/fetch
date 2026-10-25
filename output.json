@@ -1,14 +1,211 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-25T11:00:33.919Z"
+    "last_update_time": "2026-10-25T13:00:32.899Z"
   },
   "live_matches": [
     {
-      "match_id": 1328052984,
+      "match_id": 1025243176,
+      "sport_name": "American Football",
+      "sport_id": 10,
+      "slug": "pittsburgh-steelers-vs-new-orleans-saints-1025243176",
+      "title": "Pittsburgh Steelers vs New Orleans Saints",
+      "status": "LIVE",
+      "league": {
+        "league_name": "American-football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Pittsburgh Steelers",
+        "away_name": "New Orleans Saints",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Pittsburgh%20Steelers%20vs%20New%20Orleans%20Saints&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1792926000,
+        "start_time_local": 1792926000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/pittsburgh-steelers-vs-new-orleans-saints-nfl-1792926000/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1013892460,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "fortuna-sittard-vs-excelsior-1013892460",
+      "title": "Fortuna Sittard vs Excelsior",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Fortuna Sittard",
+        "away_name": "Excelsior",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLACADMx5aQ3EHxCmcOIzBBWjfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792926900,
+        "start_time_local": 1792926900,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - Dutch - ESPN",
+          "play_url": "https://embed.st/embed/admin/ppv-fortuna-sittard-vs-excelsior/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - Dutch - ESPN",
+          "play_url": "https://embed.st/embed/admin/ppv-fortuna-sittard-vs-excelsior/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1230839094,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "inter-milan-vs-fiorentina-1230839094",
+      "title": "Inter Milan vs Fiorentina",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Inter Milan",
+        "away_name": "Fiorentina",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792927800,
+        "start_time_local": 1792927800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-inter-milan-vs-fiorentina/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 4 (SD) - Italian - DAZN 1",
+          "play_url": "https://embed.st/embed/admin/ppv-inter-milan-vs-fiorentina/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - Paramount+",
+          "play_url": "https://embed.st/embed/admin/ppv-inter-milan-vs-fiorentina/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 3 (HD) - Italian - DAZN 1",
+          "play_url": "https://embed.st/embed/admin/ppv-inter-milan-vs-fiorentina/3",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/internazionale-vs-fiorentina-serie-a-1792927500/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1326679179,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "hibernian-vs-celtic-1326679179",
+      "title": "Hibernian vs Celtic",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Hibernian",
+        "away_name": "Celtic",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFF3wgY-MCBDcQffbgMgUIRIhwwCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792929600,
+        "start_time_local": 1792929600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - Sky Sports Football",
+          "play_url": "https://embed.st/embed/admin/ppv-hibernian-vs-celtic/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - Sky Sports Football",
+          "play_url": "https://embed.st/embed/admin/ppv-hibernian-vs-celtic/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1045892294,
+      "sport_name": "Darts",
+      "sport_id": 13,
+      "slug": "2026-european-championship-day-4-s1-1045892294",
+      "title": "2026 European Championship | Day 4 S1",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Darts",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYDRIgIIFBJCTsI7CERqQIYDI0BjEDBBZV8nSen6tyxJqxz+YQcoJK7hYElw65Qh63HDSemd4cgdLMgggA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1792929600,
+        "start_time_local": 1792929600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - PDC.TV",
+          "play_url": "https://embed.st/embed/admin/ppv-2026-european-championship-day-4-s-1/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - PDC.TV",
+          "play_url": "https://embed.st/embed/admin/ppv-2026-european-championship-day-4-s-1/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1244318320,
       "sport_name": "Motorsport",
       "sport_id": 17,
-      "slug": "rally-six-cities-north-of-portugal-ss13-lameirinha-1-1328052984",
-      "title": "Rally Six Cities North of Portugal — SS13 - Lameirinha 1",
+      "slug": "rally-six-cities-north-of-portugal-ss14-montim-2-1244318320",
+      "title": "Rally Six Cities North of Portugal — SS14 - Montim 2",
       "status": "LIVE",
       "league": {
         "league_name": "Motor-sports",
@@ -18,24 +215,24 @@
       "teams": {
         "home_name": "Unknown",
         "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rally%20Six%20Cities%20North%20of%20Portugal%20%E2%80%94%20SS13%20-%20Lameirinha%201&font=Oswald"
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rally%20Six%20Cities%20North%20of%20Portugal%20%E2%80%94%20SS14%20-%20Montim%202&font=Oswald"
       },
       "timing": {
-        "start_time_timestamp": 1792922400,
-        "start_time_local": 1792922400,
+        "start_time_timestamp": 1792930380,
+        "start_time_local": 1792930380,
         "countdown_seconds": null
       },
       "streams": [
         {
           "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/rally-six-cities-north-of-portugal-ss13-lameirinha-1-european-rally-championship-1792922400/1",
+          "play_url": "https://embed.st/embed/hotel/rally-six-cities-north-of-portugal-ss14-montim-2-european-rally-championship-1792930380/1",
           "is_new_format": true,
           "required_referer": null
         }
       ]
     }
   ],
-  "total_upcoming_matches": 70,
+  "total_upcoming_matches": 67,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -217,117 +414,6 @@
       ]
     },
     {
-      "match_id": 1013892460,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "fortuna-sittard-vs-excelsior-1013892460",
-      "title": "Fortuna Sittard vs Excelsior",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Fortuna Sittard",
-        "away_name": "Excelsior",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLACADMx5aQ3EHxCmcOIzBBWjfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792926900,
-        "start_time_local": 1792926900,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - Dutch - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-fortuna-sittard-vs-excelsior/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - Dutch - ESPN",
-          "play_url": "https://embed.st/embed/admin/ppv-fortuna-sittard-vs-excelsior/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1230839094,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "inter-milan-vs-fiorentina-1230839094",
-      "title": "Inter Milan vs Fiorentina",
-      "status": "NS",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Inter Milan",
-        "away_name": "Fiorentina",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1792927800,
-        "start_time_local": 1792927800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-inter-milan-vs-fiorentina/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - Paramount+",
-          "play_url": "https://embed.st/embed/admin/ppv-inter-milan-vs-fiorentina/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/internazionale-vs-fiorentina-serie-a-1792927500/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1244318320,
-      "sport_name": "Motorsport",
-      "sport_id": 17,
-      "slug": "rally-six-cities-north-of-portugal-ss14-montim-2-1244318320",
-      "title": "Rally Six Cities North of Portugal — SS14 - Montim 2",
-      "status": "NS",
-      "league": {
-        "league_name": "Motor-sports",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Rally%20Six%20Cities%20North%20of%20Portugal%20%E2%80%94%20SS14%20-%20Montim%202&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1792930380,
-        "start_time_local": 1792930380,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/rally-six-cities-north-of-portugal-ss14-montim-2-european-rally-championship-1792930380/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1737467226,
       "sport_name": "Football",
       "sport_id": 1,
@@ -394,13 +480,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - Swedish - TV4 Play",
+          "server_name": "Admin 2 (SD) - Swedish - TV4 Fotboll",
           "play_url": "https://embed.st/embed/admin/ppv-gais-vs-ifk-g-teborg/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - Swedish - TV4 Play",
+          "server_name": "Admin 1 (HD) - Swedish - TV4 Fotboll",
           "play_url": "https://embed.st/embed/admin/ppv-gais-vs-ifk-g-teborg/1",
           "is_new_format": true,
           "required_referer": null
@@ -468,13 +554,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - Dutch - ESPN",
+          "server_name": "Admin 2 (SD) - Dutch - ESPN2",
           "play_url": "https://embed.st/embed/admin/ppv-psv-eindhoven-vs-feyenoord-rotterdam/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - Dutch - ESPN",
+          "server_name": "Admin 1 (HD) - Dutch - ESPN2",
           "play_url": "https://embed.st/embed/admin/ppv-psv-eindhoven-vs-feyenoord-rotterdam/1",
           "is_new_format": true,
           "required_referer": null
@@ -560,13 +646,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - English - Premier League",
+          "server_name": "Admin 2 (SD) - English - Sky Sports Golf",
           "play_url": "https://embed.st/embed/admin/ppv-hull-city-vs-brentford/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - English - Premier League",
+          "server_name": "Admin 1 (HD) - English - Sky Sports Golf",
           "play_url": "https://embed.st/embed/admin/ppv-hull-city-vs-brentford/1",
           "is_new_format": true,
           "required_referer": null
@@ -615,13 +701,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - English - Premier League",
+          "server_name": "Admin 2 (SD) - English - Sky Sports+",
           "play_url": "https://embed.st/embed/admin/ppv-crystal-palace-vs-newcastle-united/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - English - Premier League",
+          "server_name": "Admin 1 (HD) - English - Sky Sports+",
           "play_url": "https://embed.st/embed/admin/ppv-crystal-palace-vs-newcastle-united/1",
           "is_new_format": true,
           "required_referer": null
@@ -670,13 +756,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - English - Premier League",
+          "server_name": "Admin 2 (SD) - English - Sky Sports Premier League",
           "play_url": "https://embed.st/embed/admin/ppv-liverpool-vs-brighton-hove-albion/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - English - Premier League",
+          "server_name": "Admin 1 (HD) - English - Sky Sports Premier League",
           "play_url": "https://embed.st/embed/admin/ppv-liverpool-vs-brighton-hove-albion/1",
           "is_new_format": true,
           "required_referer": null
@@ -725,13 +811,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - English - Premier League",
+          "server_name": "Admin 2 (SD) - English - Sky Sports Main Event",
           "play_url": "https://embed.st/embed/admin/ppv-manchester-united-vs-afc-bournemouth/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - English - Premier League",
+          "server_name": "Admin 1 (HD) - English - Sky Sports Main Event",
           "play_url": "https://embed.st/embed/admin/ppv-manchester-united-vs-afc-bournemouth/1",
           "is_new_format": true,
           "required_referer": null
@@ -915,13 +1001,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - English - Bundesliga",
+          "server_name": "Admin 2 (SD) - English - Fandango",
           "play_url": "https://embed.st/embed/admin/ppv-tsg-hoffenheim-vs-bayer-leverkusen/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - English - Bundesliga",
+          "server_name": "Admin 1 (HD) - English - Fandango",
           "play_url": "https://embed.st/embed/admin/ppv-tsg-hoffenheim-vs-bayer-leverkusen/1",
           "is_new_format": true,
           "required_referer": null
@@ -1032,13 +1118,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - Swedish - TV4 Play",
+          "server_name": "Admin 2 (SD) - Swedish - TV4 Sport Live 1",
           "play_url": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-hammarby-if/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - Swedish - TV4 Play",
+          "server_name": "Admin 1 (HD) - Swedish - TV4 Sport Live 1",
           "play_url": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-hammarby-if/1",
           "is_new_format": true,
           "required_referer": null
@@ -1069,13 +1155,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - Dutch - ESPN",
+          "server_name": "Admin 2 (SD) - Dutch - ESPN3",
           "play_url": "https://embed.st/embed/admin/ppv-sparta-rotterdam-vs-ajax-amsterdam/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - Dutch - ESPN",
+          "server_name": "Admin 1 (HD) - Dutch - ESPN3",
           "play_url": "https://embed.st/embed/admin/ppv-sparta-rotterdam-vs-ajax-amsterdam/1",
           "is_new_format": true,
           "required_referer": null
@@ -1309,13 +1395,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - English - Bundesliga",
+          "server_name": "Admin 2 (SD) - English - Fandango",
           "play_url": "https://embed.st/embed/admin/ppv-sc-freiburg-vs-bayern-munich/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - English - Bundesliga",
+          "server_name": "Admin 1 (HD) - English - Fandango",
           "play_url": "https://embed.st/embed/admin/ppv-sc-freiburg-vs-bayern-munich/1",
           "is_new_format": true,
           "required_referer": null
@@ -1352,13 +1438,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - English - Premier League",
+          "server_name": "Admin 2 (SD) - English - Sky Sports Premier League",
           "play_url": "https://embed.st/embed/admin/ppv-sunderland-vs-leeds-united/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - English - Premier League",
+          "server_name": "Admin 1 (HD) - English - Sky Sports Premier League",
           "play_url": "https://embed.st/embed/admin/ppv-sunderland-vs-leeds-united/1",
           "is_new_format": true,
           "required_referer": null
@@ -1378,6 +1464,43 @@
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/sunderland-vs-leeds-united-premier-league-1792944000/1",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1744617195,
+      "sport_name": "American Football",
+      "sport_id": 10,
+      "slug": "nfl-redzone-1744617195",
+      "title": "NFL Redzone",
+      "status": "NS",
+      "league": {
+        "league_name": "American-football",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=NFL%20Redzone&font=Oswald"
+      },
+      "timing": {
+        "start_time_timestamp": 1792947600,
+        "start_time_local": 1792947600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/-20261025/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/-20261025/1",
           "is_new_format": true,
           "required_referer": null
         }
@@ -1886,43 +2009,6 @@
       ]
     },
     {
-      "match_id": 1618030734,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "nfl-vs-redzone-1618030734",
-      "title": "NFL vs RedZone",
-      "status": "NS",
-      "league": {
-        "league_name": "American-football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "NFL",
-        "away_name": "RedZone",
-        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=NFL%20vs%20RedZone&font=Oswald"
-      },
-      "timing": {
-        "start_time_timestamp": 1792951200,
-        "start_time_local": 1792951200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/-20261025/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/-20261025/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
       "match_id": 1232490212,
       "sport_name": "Darts",
       "sport_id": 13,
@@ -2204,8 +2290,68 @@
           "required_referer": null
         },
         {
+          "server_name": "Admin 4 (SD) - Spanish - ESPN Deportes",
+          "play_url": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 6 (SD) - Spanish - DAZN LaLiga",
+          "play_url": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/6",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 8 (SD) - French - DAZN",
+          "play_url": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/8",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 10 (SD) - Italian - DAZN",
+          "play_url": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/10",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 12 (SD) - German - DAZN",
+          "play_url": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/12",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
           "server_name": "Admin 1 (HD) - English - ESPN+",
           "play_url": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 3 (HD) - Spanish - ESPN Deportes",
+          "play_url": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/3",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 5 (HD) - Spanish - DAZN LaLiga",
+          "play_url": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/5",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 7 (HD) - French - DAZN",
+          "play_url": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/7",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 9 (HD) - Italian - DAZN",
+          "play_url": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/9",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 11 (HD) - German - DAZN",
+          "play_url": "https://embed.st/embed/admin/ppv-barcelona-vs-real-madrid/11",
           "is_new_format": true,
           "required_referer": null
         },
@@ -2656,13 +2802,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - Spanish - Liga MX",
+          "server_name": "Admin 2 (SD) - Spanish - TUDN",
           "play_url": "https://embed.st/embed/admin/ppv-atlas-vs-puebla/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - Spanish - Liga MX",
+          "server_name": "Admin 1 (HD) - Spanish - TUDN",
           "play_url": "https://embed.st/embed/admin/ppv-atlas-vs-puebla/1",
           "is_new_format": true,
           "required_referer": null
@@ -2989,6 +3135,12 @@
           "play_url": "https://embed.st/embed/golf/2591/1",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/detroit-pistons-vs-philadelphia-76ers-nba-1792971000/1",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -3099,6 +3251,12 @@
           "play_url": "https://embed.st/embed/golf/2562/1",
           "is_new_format": true,
           "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/kansas-city-chiefs-vs-seattle-seahawks-nfl-1792971000/1",
+          "is_new_format": true,
+          "required_referer": null
         }
       ]
     },
@@ -3163,13 +3321,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - Spanish - Liga MX",
+          "server_name": "Admin 2 (SD) - Spanish - ViX Premium Deportes 3",
           "play_url": "https://embed.st/embed/admin/ppv-quer-taro-vs-cruz-azul/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - Spanish - Liga MX",
+          "server_name": "Admin 1 (HD) - Spanish - ViX Premium Deportes 3",
           "play_url": "https://embed.st/embed/admin/ppv-quer-taro-vs-cruz-azul/1",
           "is_new_format": true,
           "required_referer": null
@@ -3200,13 +3358,13 @@
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - Spanish - Liga MX",
+          "server_name": "Admin 2 (SD) - Spanish - TUDN",
           "play_url": "https://embed.st/embed/admin/ppv-am-rica-vs-pachuca/2",
           "is_new_format": true,
           "required_referer": null
         },
         {
-          "server_name": "Admin 1 (HD) - Spanish - Liga MX",
+          "server_name": "Admin 1 (HD) - Spanish - TUDN",
           "play_url": "https://embed.st/embed/admin/ppv-am-rica-vs-pachuca/1",
           "is_new_format": true,
           "required_referer": null
@@ -3269,6 +3427,12 @@
         {
           "server_name": "Golf 1 (HD) - English",
           "play_url": "https://embed.st/embed/golf/2592/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/memphis-grizzlies-vs-sacramento-kings-nba-1792976400/1",
           "is_new_format": true,
           "required_referer": null
         }
