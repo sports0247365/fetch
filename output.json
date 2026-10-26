@@ -1,45 +1,8 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-26T21:00:34.865Z"
+    "last_update_time": "2026-10-26T22:49:41.570Z"
   },
   "live_matches": [
-    {
-      "match_id": 1580461437,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "galatasaray-vs-fenerbah-e-1580461437",
-      "title": "Galatasaray vs Fenerbahçe",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Galatasaray",
-        "away_name": "Fenerbahçe",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKkhBk4WYAAYQ3EHxCmpxkDBDmIhkPALAkFPsNn0UYFSi5fy9XVEfJlowLzFRCCA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1793039400,
-        "start_time_local": 1793039400,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - beIN SPORTS CONNECT 4",
-          "play_url": "https://embed.st/embed/admin/ppv-galatasaray-vs-fenerbahce/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - beIN SPORTS CONNECT 4",
-          "play_url": "https://embed.st/embed/admin/ppv-galatasaray-vs-fenerbahce/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
     {
       "match_id": 1519923414,
       "sport_name": "Football",
@@ -84,86 +47,31 @@
       ]
     },
     {
-      "match_id": 1622588905,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "paris-saint-germain-vs-lyon-1622588905",
-      "title": "Paris Saint-Germain vs Lyon",
+      "match_id": 1210529211,
+      "sport_name": "American Football",
+      "sport_id": 10,
+      "slug": "dallas-cowboys-vs-philadelphia-eagles-1210529211",
+      "title": "Dallas Cowboys vs Philadelphia Eagles",
       "status": "LIVE",
       "league": {
-        "league_name": "Football",
+        "league_name": "American-football",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Paris Saint-Germain",
-        "away_name": "Lyon",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWAECm8MChDcQfECcM4IIfYYswCwJBT7DZ9FGBUou78vSyzPOsBg7mKiEEA.webp"
+        "home_name": "Dallas Cowboys",
+        "away_name": "Philadelphia Eagles",
+        "combined_logo": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Dallas%20Cowboys%20vs%20Philadelphia%20Eagles&font=Oswald"
       },
       "timing": {
-        "start_time_timestamp": 1793043000,
-        "start_time_local": 1793043000,
+        "start_time_timestamp": 1793052000,
+        "start_time_local": 1793052000,
         "countdown_seconds": null
       },
       "streams": [
         {
-          "server_name": "Admin 2 (SD) - French - Ligue 1+",
-          "play_url": "https://embed.st/embed/admin/ppv-paris-saint-germain-vs-lyon/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - French - Ligue 1+",
-          "play_url": "https://embed.st/embed/admin/ppv-paris-saint-germain-vs-lyon/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
           "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/paris-saint-germain-vs-lyon-ligue-1-1793043000/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1421229133,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "sevilla-vs-osasuna-1421229133",
-      "title": "Sevilla vs Osasuna",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Football",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Sevilla",
-        "away_name": "Osasuna",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDEAGEANr4Q3XRpAQQKEDFMgSIRCgLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1793044800,
-        "start_time_local": 1793044800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-sevilla-vs-osasuna/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-sevilla-vs-osasuna/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/sevilla-vs-osasuna-laliga-ea-sports-1793044200/1",
+          "play_url": "https://embed.st/embed/hotel/dallas-cowboys-vs-philadelphia-eagles-nfl-1793052000/1",
           "is_new_format": true,
           "required_referer": null
         }
