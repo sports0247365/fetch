@@ -1,8 +1,40 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-27T05:30:35.926Z"
+    "last_update_time": "2026-10-27T07:00:34.764Z"
   },
-  "live_matches": [],
+  "live_matches": [
+    {
+      "match_id": 1147219274,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "biratnagar-kings-vs-chitwan-rhinos-1147219274",
+      "title": "Biratnagar Kings vs Chitwan Rhinos",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Nepal Premier League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Biratnagar Kings",
+        "away_name": "Chitwan Rhinos",
+        "combined_logo": "https://ondemand.st/posters/npl-live.jpg?v=d84c6848"
+      },
+      "timing": {
+        "start_time_timestamp": 1793083743,
+        "start_time_local": 1793083743,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "NPL HD",
+          "play_url": "https://90minutes.pro/player/shaka/?u=https%3A%2F%2Fyonotv.pages.dev%2Ffc",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    }
+  ],
   "total_upcoming_matches": 358,
   "upcoming_matches": [
     {
@@ -690,12 +722,6 @@
         {
           "server_name": "Server 1",
           "play_url": "https://90minutes.pro/embed/?id=seriea%2F2026-10-27%2Fsas-laz",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Spanish",
-          "play_url": "https://90minutes.pro/player/hls/?v=540&url=%2Fc%2F926.m3u8&name=Spanish",
           "is_new_format": true,
           "required_referer": null
         }
@@ -1400,7 +1426,7 @@
       "teams": {
         "home_name": "Altrincham",
         "away_name": "Kidderminster Harriers",
-        "combined_logo": "https://ondemand.st/img/cards/m/d9bbbbe744608de4.jpg?v=3.t2"
+        "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
       },
       "timing": {
         "start_time_timestamp": 1793130300,
@@ -1442,12 +1468,6 @@
         {
           "server_name": "Server 1",
           "play_url": "https://90minutes.pro/embed/?id=seriea%2F2026-10-27%2Froma-cag",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Spanish",
-          "play_url": "https://90minutes.pro/player/hls/?v=540&url=%2Fc%2F798.m3u8&name=Spanish",
           "is_new_format": true,
           "required_referer": null
         }
