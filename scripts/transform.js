@@ -296,16 +296,37 @@ const LEAGUE_KEYWORDS = [
 // =================================
 
 async function fetchSourceJson(url) {
-  const res = await fetch(url, {
-    headers: {
-      "User-Agent": "Mozilla/5.0 (auto-fetch-bot)",
-      "Cache-Control": "no-cache",
-    },
-  });
-  if (!res.ok) {
-    throw new Error(`Fetch failed: ${res.status} ${res.statusText}`);
+  // Normal browser jaise headers ("bot" wala User-Agent 403 deta tha)
+  const headers = {
+    "User-Agent":
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    Accept: "application/json, text/plain, */*",
+    "Accept-Language": "en-US,en;q=0.9",
+    Referer: "https://90minutes.pro/",
+    Origin: "https://90minutes.pro",
+    "Cache-Control": "no-cache",
+  };
+
+  // 3 baar try karta hai; fail ho to response ka shuru wala hissa log karta hai
+  let lastError;
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      const res = await fetch(url, { headers });
+      if (res.ok) return res.json();
+
+      const body = (await res.text()).slice(0, 300).replace(/\s+/g, " ");
+      lastError = new Error(
+        `Fetch failed: ${res.status} ${res.statusText} | ${body}`
+      );
+    } catch (err) {
+      lastError = err;
+    }
+    console.log(`Attempt ${attempt} failed: ${lastError.message}`);
+    if (attempt < 3) {
+      await new Promise((r) => setTimeout(r, 2000 * attempt));
+    }
   }
-  return res.json();
+  throw lastError;
 }
 
 const ACRONYM_SPORT_NAMES = {
