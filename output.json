@@ -1,14 +1,14 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-27T01:00:34.016Z"
+    "last_update_time": "2026-10-27T01:45:29.987Z"
   },
   "live_matches": [
     {
-      "match_id": 1519923414,
+      "match_id": 1844606785,
       "sport_name": "Football",
       "sport_id": 1,
-      "slug": "2026-ballon-d-or-ceremony-1519923414",
-      "title": "2026 Ballon d'Or Ceremony",
+      "slug": "2026-ballon-d-or-1844606785",
+      "title": "2026 Ballon d'Or",
       "status": "LIVE",
       "league": {
         "league_name": "Football",
@@ -18,7 +18,7 @@
       "teams": {
         "home_name": "Unknown",
         "away_name": "Unknown",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw0sEQkQEEDBEgUIMogDGIKcFlYFELSBBbSiucpnAasqiB01pMFOT0ChIptnphCwJLlWOhMG5OPXEyRwJJciCjMgggA.webp"
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzobYawE5JgBDYMERAExAFNgVgGSBjYahFAVmHhwczjy8ebeO1w9SMenQbFgLEfVj5eUWqIgy0wDumCCSYUry6bceTt14zWO9CDwgqREDAev3FexWLkPL+h8vUAg-KikQ2x4iehA4lwTY+mo4-T8XWipHFkpObC4maVIRQkFaei4eMDBaTVqgA.webp"
       },
       "timing": {
         "start_time_timestamp": 1793041200,
@@ -26,18 +26,6 @@
         "countdown_seconds": null
       },
       "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - DAZN",
-          "play_url": "https://embed.st/embed/admin/ppv-2026-ballon-d-or-ceremony/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - DAZN",
-          "play_url": "https://embed.st/embed/admin/ppv-2026-ballon-d-or-ceremony/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
         {
           "server_name": "Hotel 1 (HD) - Main",
           "play_url": "https://embed.st/embed/hotel/2026-ballon-d-or-premier-league-1793041200/1",
@@ -831,9 +819,143 @@
           "required_referer": null
         }
       ]
+    },
+    {
+      "match_id": 1427899292,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "utah-jazz-vs-memphis-grizzlies-1427899292",
+      "title": "Utah Jazz vs Memphis Grizzlies",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Basketball",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Utah Jazz",
+        "away_name": "Memphis Grizzlies",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHHzBIw3MKLAhuIPiBIgUuEIkRSQEYwWDaY-YbPoo9bFFz3l6WLI+TLRgXvSiEEA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1793062800,
+        "start_time_local": 1793062800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - KJZZ-TV (Home)",
+          "play_url": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-utah-jazz/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 4 (SD) - English - NBA League Pass (Away)",
+          "play_url": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-utah-jazz/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - KJZZ-TV (Home)",
+          "play_url": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-utah-jazz/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 3 (HD) - English - NBA League Pass (Away)",
+          "play_url": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-utah-jazz/3",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2608/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2608/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 1 (HD) - Main",
+          "play_url": "https://embed.st/embed/hotel/memphis-grizzlies-vs-utah-jazz-nba-1793062800/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Hotel 2 (HD) - Away broadcast",
+          "play_url": "https://embed.st/embed/hotel/memphis-grizzlies-vs-utah-jazz-nba-1793062800/2",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
+    },
+    {
+      "match_id": 1817903620,
+      "sport_name": "Ice Hockey",
+      "sport_id": 4,
+      "slug": "edmonton-oilers-vs-detroit-red-wings-1817903620",
+      "title": "Edmonton Oilers vs Detroit Red Wings",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Hockey",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Edmonton Oilers",
+        "away_name": "Detroit Red Wings",
+        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMCkh6A3lu4g+ILTBAoQpy9uMFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
+      },
+      "timing": {
+        "start_time_timestamp": 1793064600,
+        "start_time_local": 1793064600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Admin 2 (SD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-detroit-red-wings-vs-edmonton-oilers/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Admin 1 (HD) - English - ESPN+",
+          "play_url": "https://embed.st/embed/admin/ppv-detroit-red-wings-vs-edmonton-oilers/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 2 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2612/2",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 4 (SD) - English",
+          "play_url": "https://embed.st/embed/golf/2612/4",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 1 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2612/1",
+          "is_new_format": true,
+          "required_referer": null
+        },
+        {
+          "server_name": "Golf 3 (HD) - English",
+          "play_url": "https://embed.st/embed/golf/2612/3",
+          "is_new_format": true,
+          "required_referer": null
+        }
+      ]
     }
   ],
-  "total_upcoming_matches": 8,
+  "total_upcoming_matches": 6,
   "upcoming_matches": [
     {
       "match_id": 1516541789,
@@ -1009,140 +1131,6 @@
         {
           "server_name": "Admin 1 (HD) - English - NFL Network (ESPN)",
           "play_url": "https://embed.st/embed/admin/ppv-nfl-network/1",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1427899292,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "utah-jazz-vs-memphis-grizzlies-1427899292",
-      "title": "Utah Jazz vs Memphis Grizzlies",
-      "status": "NS",
-      "league": {
-        "league_name": "Basketball",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Utah Jazz",
-        "away_name": "Memphis Grizzlies",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHHzBIw3MKLAhuIPiBIgUuEIkRSQEYwWDaY-YbPoo9bFFz3l6WLI+TLRgXvSiEEA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1793062800,
-        "start_time_local": 1793062800,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - KJZZ-TV (Home)",
-          "play_url": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-utah-jazz/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 4 (SD) - English - NBA League Pass (Away)",
-          "play_url": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-utah-jazz/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - KJZZ-TV (Home)",
-          "play_url": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-utah-jazz/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 3 (HD) - English - NBA League Pass (Away)",
-          "play_url": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-utah-jazz/3",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2608/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2608/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 1 (HD) - Main",
-          "play_url": "https://embed.st/embed/hotel/memphis-grizzlies-vs-utah-jazz-nba-1793062800/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Hotel 2 (HD) - Away broadcast",
-          "play_url": "https://embed.st/embed/hotel/memphis-grizzlies-vs-utah-jazz-nba-1793062800/2",
-          "is_new_format": true,
-          "required_referer": null
-        }
-      ]
-    },
-    {
-      "match_id": 1817903620,
-      "sport_name": "Ice Hockey",
-      "sport_id": 4,
-      "slug": "edmonton-oilers-vs-detroit-red-wings-1817903620",
-      "title": "Edmonton Oilers vs Detroit Red Wings",
-      "status": "NS",
-      "league": {
-        "league_name": "Hockey",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Edmonton Oilers",
-        "away_name": "Detroit Red Wings",
-        "combined_logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMCkh6A3lu4g+ILTBAoQpy9uMFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
-      },
-      "timing": {
-        "start_time_timestamp": 1793064600,
-        "start_time_local": 1793064600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Admin 2 (SD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-detroit-red-wings-vs-edmonton-oilers/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Admin 1 (HD) - English - ESPN+",
-          "play_url": "https://embed.st/embed/admin/ppv-detroit-red-wings-vs-edmonton-oilers/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 2 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2612/2",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 4 (SD) - English",
-          "play_url": "https://embed.st/embed/golf/2612/4",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 1 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2612/1",
-          "is_new_format": true,
-          "required_referer": null
-        },
-        {
-          "server_name": "Golf 3 (HD) - English",
-          "play_url": "https://embed.st/embed/golf/2612/3",
           "is_new_format": true,
           "required_referer": null
         }
