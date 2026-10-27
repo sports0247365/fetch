@@ -3,10 +3,7 @@ const path = require("path");
 const crypto = require("crypto");
 
 // ============ CONFIG ============
-const SOURCE_URL = "https://90minutes.pro/api/streams";
-
-// Har embed link se pehle ye base URL lagega
-const EMBED_BASE_URL = "https://90minutes.pro";
+const SOURCE_URL = "https://api.ppv.st/api/streams";
 
 const OUTPUT_PATH = path.join(__dirname, "..", "output.json");
 
@@ -302,8 +299,8 @@ async function fetchSourceJson(url) {
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     Accept: "application/json, text/plain, */*",
     "Accept-Language": "en-US,en;q=0.9",
-    Referer: "https://90minutes.pro/",
-    Origin: "https://90minutes.pro",
+    Referer: "https://ppv.st/",
+    Origin: "https://ppv.st",
     "Cache-Control": "no-cache",
   };
 
@@ -422,56 +419,71 @@ function buildTiming(isLive, startAt) {
   };
 }
 
-// status "live" ho ya always_live = 1 ho to LIVE
+// API mein "status" field nahi hai, isliye:
+// always_live = 1 ho (24/7 channel) ya abhi ka waqt starts_at aur ends_at
+// ke beech ho to LIVE, warna upcoming (NS)
 function isLiveMatch(m) {
-  return /live/i.test(m.status || "") || Number(m.always_live) === 1;
+  if (Number(m.always_live) === 1) return true;
+  const now = Math.floor(Date.now() / 1000);
+  const start = Number(m.starts_at) || 0;
+  const end = Number(m.ends_at) || 0;
+  if (!start) return false;
+  return now >= start && (!end || now < end);
 }
 
-// "/embed/?id=..." -> "https://90minutes.pro/embed/?id=..."
-// Agar embed pehle se full URL ho to waisa hi rehne do
-function buildPlayUrl(embed) {
-  if (!embed) return "";
-  if (/^https?:\/\//i.test(embed)) return embed;
-  const base = EMBED_BASE_URL.replace(/\/+$/, "");
-  const pathPart = embed.startsWith("/") ? embed : `/${embed}`;
-  return base + pathPart;
+// Iframe link ka main URL (domain) referer ke liye
+// "https://taifood-blog.asia/embed/nba/..." -> "https://taifood-blog.asia/"
+function getReferer(iframeUrl) {
+  try {
+    return new URL(iframeUrl).origin + "/";
+  } catch (e) {
+    return null;
+  }
 }
 
-// Har source ek alag server ban jata hai
-function transformSource(src, index) {
-  const playUrl = buildPlayUrl(src.embed);
+// Har iframe ek alag server ban jata hai
+function buildServer(name, iframeUrl, index) {
   return {
-    server_name: (src.name || "").trim() || `Server ${index + 1}`,
-    play_url: playUrl,
-    is_new_format: !!playUrl,
-    required_referer: null,
+    server_name: (name || "").trim() || `Server ${index + 1}`,
+    play_url: iframeUrl,
+    is_new_format: true,
+    required_referer: getReferer(iframeUrl),
   };
 }
 
 function transformMatch(m) {
   const title = (m.name || "").trim() || "Unknown Match";
-  const matchId = generateMatchId(m.id || m.uri_name || title);
+  const matchId = generateMatchId(String(m.id || m.uri_name || title));
 
   const isLive = isLiveMatch(m);
   const { sportName, leagueName } = classifySport(
     m.category_name || m._category,
-    m.league || m.tag
+    m.tag
   );
 
-  // teams: source deta hai; agar khali ho to title ko "vs" par split kar lo
-  let home = ((m.teams && m.teams.home && m.teams.home.name) || "").trim();
-  let away = ((m.teams && m.teams.away && m.teams.away.name) || "").trim();
-  if ((!home || !away) && /\s(vs|at)\.?\s/i.test(title)) {
+  // Teams alag se nahi aatin, title ko "vs" / "at" par split kar lete hain
+  let home = "";
+  let away = "";
+  if (/\s(vs|at)\.?\s/i.test(title)) {
     const parts = title.split(/\s+(?:vs|at)\.?\s+/i);
-    home = home || (parts[0] || "").trim();
-    away = away || (parts[1] || "").trim();
+    home = (parts[0] || "").trim();
+    away = (parts[1] || "").trim();
   }
 
-  // Duplicate embed links hata do, baqi sab play_url ban jayenge
+  // Pehle main iframe, phir substreams ke iframes (duplicate hata kar)
+  const candidates = [{ name: m.source_tag, iframe: m.iframe }];
+  if (Array.isArray(m.substreams)) {
+    for (const sub of m.substreams) {
+      if (sub) candidates.push({ name: sub.source_tag, iframe: sub.iframe });
+    }
+  }
+
   const seen = new Set();
-  const streams = (Array.isArray(m.sources) ? m.sources : [])
-    .filter((s) => s && s.embed && !seen.has(s.embed) && seen.add(s.embed))
-    .map(transformSource);
+  const streams = candidates
+    .filter((c) => c.iframe && !seen.has(c.iframe) && seen.add(c.iframe))
+    .map((c, i) => buildServer(c.name, c.iframe, i));
+
+  const startAt = Number(m.starts_at) || null; // 24/7 channels mein 0 hota hai
 
   return {
     match_id: matchId,
@@ -479,9 +491,9 @@ function transformMatch(m) {
     sport_id: getSportId(sportName),
     slug: slugify(title, matchId),
     title: title, // <- name
-    status: isLive ? "LIVE" : "NS", // <- status
+    status: isLive ? "LIVE" : "NS", // <- always_live / starts_at-ends_at
     league: {
-      league_name: leagueName || "", // <- league
+      league_name: leagueName || "", // <- tag
       league_logo: "",
     },
     venue: "TBA",
@@ -490,8 +502,8 @@ function transformMatch(m) {
       away_name: away || "Unknown",
       combined_logo: m.poster || DEFAULT_LOGO, // <- poster
     },
-    timing: buildTiming(isLive, Number(m.starts_at) || null), // <- starts_at
-    streams: streams, // <- sources[].embed (base URL ke sath)
+    timing: buildTiming(isLive, startAt), // <- starts_at
+    streams: streams, // <- iframe + substreams[].iframe (referer = iframe domain)
   };
 }
 
@@ -510,8 +522,7 @@ function extractMatches(data) {
       for (const m of group.streams) {
         matches.push({ ...m, _category: group.category });
       }
-    } else if (group && group.sources) {
-      // Agar kabhi API seedha matches ki list de
+    } else if (group && group.iframe) {
       matches.push(group);
     }
   }
