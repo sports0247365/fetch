@@ -3,11 +3,10 @@ const path = require("path");
 const crypto = require("crypto");
 
 // ============ CONFIG ============
-const SOURCE_URL =
-  "https://raw.githubusercontent.com/srhady/data/main/live_sports_playlist.json";
+const SOURCE_URL = "https://90minutes.pro/api/streams";
 
-// Source ka "Start Time" (jaise "06:15 AM | 06-Oct") UTC+6 mein hota hai
-const SOURCE_TZ_OFFSET_HOURS = 6;
+// Har embed link se pehle ye base URL lagega
+const EMBED_BASE_URL = "https://90minutes.pro";
 
 const OUTPUT_PATH = path.join(__dirname, "..", "output.json");
 
@@ -41,7 +40,6 @@ const SPORT_ID_MAP = {
 };
 const DEFAULT_SPORT_ID = 99;
 
-
 const CATEGORY_ALIASES = {
   "american football": "american football",
   hockey: "ice hockey",
@@ -54,7 +52,7 @@ const CATEGORY_ALIASES = {
   wrestling: "fight",
 };
 
-// Agar Category field mein already ek generic sport ka naam ho, to
+// Agar category already ek generic sport ka naam ho, to
 // usay seedha use kar liya jayega (case-insensitive match)
 const KNOWN_GENERIC_SPORTS = Object.keys(SPORT_ID_MAP);
 
@@ -72,7 +70,7 @@ const LEAGUE_KEYWORDS = [
   ["lpl", "cricket"],
   ["ilt20", "cricket"],
   ["sa20", "cricket"],
-  ["mlc", "cricket"], // Major League Cricket (USA)
+  ["mlc", "cricket"],
   ["t20", "cricket"],
   ["t10", "cricket"],
   ["odi", "cricket"],
@@ -83,8 +81,8 @@ const LEAGUE_KEYWORDS = [
   ["4th test", "cricket"],
   ["5th test", "cricket"],
   ["icc", "cricket"],
-  ["cwc", "cricket"], // Cricket World Cup
-  ["wtc", "cricket"], // World Test Championship
+  ["cwc", "cricket"],
+  ["wtc", "cricket"],
   ["the hundred", "cricket"],
   ["ranji", "cricket"],
   ["duleep", "cricket"],
@@ -97,14 +95,14 @@ const LEAGUE_KEYWORDS = [
   // Table Tennis (specific before "tennis")
   ["table tennis", "table tennis"],
   ["ttcup", "table tennis"],
-  ["wtt", "table tennis"], // World Table Tennis
+  ["wtt", "table tennis"],
   ["ittf", "table tennis"],
 
   // Tennis
   ["atp", "tennis"],
   ["wta", "tennis"],
   ["itf", "tennis"],
-  ["utr", "tennis"], // UTR Pro Tennis Tour
+  ["utr", "tennis"],
   [/\bw1[0-9]\b/, "tennis"],
   [/\bw[2-6][0-9]\b/, "tennis"],
   [/\bm1[0-9]\b/, "tennis"],
@@ -124,7 +122,7 @@ const LEAGUE_KEYWORDS = [
   // Padel
   ["padel", "padel"],
   ["premier padel", "padel"],
-  ["fip", "padel"], // Federacion Internacional de Padel
+  ["fip", "padel"],
 
   // Basketball
   ["nba", "basketball"],
@@ -135,14 +133,14 @@ const LEAGUE_KEYWORDS = [
   ["ncaab", "basketball"],
   ["march madness", "basketball"],
   ["cba", "basketball"],
-  ["nbl", "basketball"], // Australia National Basketball League
+  ["nbl", "basketball"],
   ["fiba", "basketball"],
 
   // American Football
   ["nfl", "american football"],
   ["ncaaf", "american football"],
   ["college football", "american football"],
-  ["cfl", "american football"], // Canadian Football League
+  ["cfl", "american football"],
   ["xfl", "american football"],
   ["ufl", "american football"],
 
@@ -155,14 +153,14 @@ const LEAGUE_KEYWORDS = [
   ["khl", "ice hockey"],
   ["ahl", "ice hockey"],
   ["iihf", "ice hockey"],
-  ["shl", "ice hockey"], // Swedish Hockey League
+  ["shl", "ice hockey"],
 
   // Baseball
   ["mlb", "baseball"],
   ["npb", "baseball"],
   ["kbo", "baseball"],
   ["milb", "baseball"],
-  ["wbc", "baseball"], // World Baseball Classic
+  ["wbc", "baseball"],
 
   // Rugby
   ["rugby world cup", "rugby"],
@@ -171,7 +169,7 @@ const LEAGUE_KEYWORDS = [
   ["super rugby", "rugby"],
   ["premiership rugby", "rugby"],
   ["top 14", "rugby"],
-  ["urc", "rugby"], // United Rugby Championship
+  ["urc", "rugby"],
   ["nrl", "rugby"],
   ["rugby league", "rugby"],
   ["rugby union", "rugby"],
@@ -181,7 +179,7 @@ const LEAGUE_KEYWORDS = [
   ["ufc", "mma"],
   ["bellator", "mma"],
   ["one championship", "mma"],
-  ["pfl", "mma"], // Professional Fighters League
+  ["pfl", "mma"],
   ["mma", "mma"],
   ["boxing", "boxing"],
 
@@ -204,8 +202,8 @@ const LEAGUE_KEYWORDS = [
   [/\bf2\b/, "motorsport"],
   [/\bf3\b/, "motorsport"],
   ["motogp", "motorsport"],
-  ["wrc", "motorsport"], // World Rally Championship
-  ["wec", "motorsport"], // World Endurance Championship
+  ["wrc", "motorsport"],
+  ["wec", "motorsport"],
   ["nascar", "motorsport"],
   ["indycar", "motorsport"],
   ["motorsport", "motorsport"],
@@ -226,7 +224,7 @@ const LEAGUE_KEYWORDS = [
 
   // Volleyball
   ["fivb", "volleyball"],
-  ["vnl", "volleyball"], // Volleyball Nations League
+  ["vnl", "volleyball"],
   ["volleyball nations league", "volleyball"],
   ["volleyball", "volleyball"],
 
@@ -245,18 +243,15 @@ const LEAGUE_KEYWORDS = [
 
   // USL (US soccer leagues)
   ["usl", "football"],
-  ["utr", "tennis"], // UTR Pro Tennis Tour
 
-  // Football / Soccer (generic + tournament names) - ZYADA generic hone
-  // ki wajah se list ke END mein rakha hai, taake pehle specific
-  // matches (jaise "rugby world cup") upar check ho jayen
+  // Football / Soccer - generic hone ki wajah se END mein
   ["fifa", "football"],
   ["uefa", "football"],
   ["champions league", "football"],
   ["europa league", "football"],
   ["conference league", "football"],
   ["premier league", "football"],
-  ["epl", "football"], // English Premier League ka short form
+  ["epl", "football"],
   ["la liga", "football"],
   ["serie a", "football"],
   ["serie b", "football"],
@@ -296,13 +291,7 @@ const LEAGUE_KEYWORDS = [
   ["First League", "football"],
   ["Liga 1", "football"],
   ["Campionato Primavera", "football"],
-  ["Süper Lig", "football"],
   ["world cup", "football"],
-];
-
-const MONTH_NAMES = [
-  "Jan", "Feb", "Mar", "Apr", "May", "Jun",
-  "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",
 ];
 // =================================
 
@@ -319,7 +308,6 @@ async function fetchSourceJson(url) {
   return res.json();
 }
 
-
 const ACRONYM_SPORT_NAMES = {
   mma: "MMA",
 };
@@ -335,14 +323,12 @@ function capitalizeWords(text) {
     .join(" ");
 }
 
-
 function normalize(text) {
   return (text || "").toLowerCase().replace(/[^a-z0-9]/g, "");
 }
 
-
 function classifySport(category, league) {
-  // "American-football" -> "american football", "Motor-sports" -> "motor sports"
+  // "american-football" -> "american football"
   let catLower = (category || "")
     .toLowerCase()
     .replace(/[-_]+/g, " ")
@@ -355,22 +341,19 @@ function classifySport(category, league) {
   if (KNOWN_GENERIC_SPORTS.includes(catLower)) {
     return {
       sportName: capitalizeWords(catLower),
-      leagueName: league && league.trim() ? league : category,
+      leagueName: league && league.trim() ? league : capitalizeWords(catLower),
     };
   }
 
-  // Case 2: Category ya League mein koi known tournament keyword dhoondein
-  // (normalized - spaces/hyphens/case ka farq nahi padega)
+  // Case 2: Category ya League mein koi known keyword dhoondein
   const searchTextNormalized = normalize(`${category} ${league}`);
-  const searchTextRaw = `${catLower} ${leagueLower}`; // regex patterns ke liye (word boundaries)
+  const searchTextRaw = `${catLower} ${leagueLower}`;
 
   for (const [keyword, sport] of LEAGUE_KEYWORDS) {
-    let isMatch;
-    if (keyword instanceof RegExp) {
-      isMatch = keyword.test(searchTextRaw);
-    } else {
-      isMatch = searchTextNormalized.includes(normalize(keyword));
-    }
+    const isMatch =
+      keyword instanceof RegExp
+        ? keyword.test(searchTextRaw)
+        : searchTextNormalized.includes(normalize(keyword));
     if (isMatch) {
       return {
         sportName: capitalizeWords(sport),
@@ -379,9 +362,9 @@ function classifySport(category, league) {
     }
   }
 
-  
+  // Case 3: Fallback - category ko hi sport_name maan lein
   return {
-    sportName: category ? capitalizeWords(category) : "Other",
+    sportName: catLower ? capitalizeWords(catLower) : "Other",
     leagueName: league && league.trim() ? league : category || "Unknown League",
   };
 }
@@ -395,8 +378,9 @@ function slugify(text, fallbackId) {
   return `${base}-${fallbackId}`;
 }
 
-function generateMatchId(title) {
-  const hash = crypto.createHash("md5").update(title || "").digest("hex");
+// Source ka unique "id" use karte hain (title same ho sakta hai, id nahi)
+function generateMatchId(key) {
+  const hash = crypto.createHash("md5").update(key || "").digest("hex");
   const num = parseInt(hash.slice(0, 9), 16);
   return 1000000000 + (num % 900000000);
 }
@@ -406,55 +390,8 @@ function getSportId(sportName) {
   return SPORT_ID_MAP[key] ?? DEFAULT_SPORT_ID;
 }
 
-
-function formatLocalTime(dateObj) {
-  const dd = String(dateObj.getDate()).padStart(2, "0");
-  const mon = MONTH_NAMES[dateObj.getMonth()];
-  const yyyy = dateObj.getFullYear();
-
-  let hh = dateObj.getHours();
-  const mm = String(dateObj.getMinutes()).padStart(2, "0");
-  const ampm = hh >= 12 ? "PM" : "AM";
-  hh = hh % 12;
-  if (hh === 0) hh = 12;
-  const hhStr = String(hh).padStart(2, "0");
-
-  return `${dd} ${mon} ${yyyy}, ${hhStr}:${mm} ${ampm}`;
-}
-
-
-function parseStartTime(str) {
-  if (!str) return null;
-  const m = String(str).match(
-    /(\d{1,2}):(\d{2})\s*(AM|PM)\s*\|\s*(\d{1,2})-([A-Za-z]{3})/i
-  );
-  if (!m) return null;
-
-  let hour = parseInt(m[1], 10) % 12;
-  if (m[3].toUpperCase() === "PM") hour += 12;
-  const minute = parseInt(m[2], 10);
-  const day = parseInt(m[4], 10);
-  const month = MONTH_NAMES.findIndex(
-    (x) => x.toLowerCase() === m[5].toLowerCase()
-  );
-  if (month < 0) return null;
-
-  const nowMs = Date.now();
-  const halfYear = 182 * 24 * 3600 * 1000;
-  let year = new Date(nowMs).getUTCFullYear();
-
-  const toMs = (y) =>
-    Date.UTC(y, month, day, hour, minute) -
-    SOURCE_TZ_OFFSET_HOURS * 3600 * 1000;
-
-  let ms = toMs(year);
-  if (ms - nowMs > halfYear) ms = toMs(year - 1); // e.g. Jan mein "31-Dec"
-  else if (nowMs - ms > halfYear) ms = toMs(year + 1); // e.g. Dec mein "01-Jan"
-
-  return Math.floor(ms / 1000);
-}
-
-
+// Time sirf unix timestamp (seconds) mein diya jata hai,
+// app khud har user ke area ke hisab se local time dikhayegi
 function buildTiming(isLive, startAt) {
   const ts = startAt || (isLive ? Math.floor(Date.now() / 1000) : null);
   return {
@@ -464,120 +401,114 @@ function buildTiming(isLive, startAt) {
   };
 }
 
-function isLiveStatus(status) {
-  return /live/i.test(status || "");
+// status "live" ho ya always_live = 1 ho to LIVE
+function isLiveMatch(m) {
+  return /live/i.test(m.status || "") || Number(m.always_live) === 1;
 }
 
-
-function qualityRank(quality) {
-  const q = (quality || "").toLowerCase();
-  if (/\bsd\b/.test(q)) return 0;
-  if (/hd/.test(q)) return 1;
-  return 2;
+// "/embed/?id=..." -> "https://90minutes.pro/embed/?id=..."
+// Agar embed pehle se full URL ho to waisa hi rehne do
+function buildPlayUrl(embed) {
+  if (!embed) return "";
+  if (/^https?:\/\//i.test(embed)) return embed;
+  const base = EMBED_BASE_URL.replace(/\/+$/, "");
+  const pathPart = embed.startsWith("/") ? embed : `/${embed}`;
+  return base + pathPart;
 }
 
-// Source ka order wahi rakhta hai jo data mein hai,
-// har source ke andar SD pehle aur HD baad mein
-// (jaise: Admin SD -> Admin HD -> Golf SD -> Golf HD)
-function sortStreams(streams) {
-  const sourceOrder = new Map();
-  streams.forEach((s) => {
-    const key = (s.Source || "").toLowerCase().trim();
-    if (!sourceOrder.has(key)) sourceOrder.set(key, sourceOrder.size);
-  });
-
-  return streams.slice().sort((a, b) => {
-    const srcA = sourceOrder.get((a.Source || "").toLowerCase().trim());
-    const srcB = sourceOrder.get((b.Source || "").toLowerCase().trim());
-    if (srcA !== srcB) return srcA - srcB;
-    return qualityRank(a.Quality) - qualityRank(b.Quality);
-  });
-}
-
-// Har Embed_URL ek alag server ban jata hai
-function transformStream(stream) {
-  const parts = [];
-  if (stream.Source) parts.push(capitalizeWords(stream.Source));
-  if (stream.Stream_No != null) parts.push(String(stream.Stream_No));
-  let name = parts.join(" ");
-  if (stream.Quality) name += ` (${stream.Quality})`;
-  if (stream.Language) name += ` - ${stream.Language}`;
-
+// Har source ek alag server ban jata hai
+function transformSource(src, index) {
+  const playUrl = buildPlayUrl(src.embed);
   return {
-    server_name: name.trim() || "Server",
-    play_url: stream.Embed_URL || "",
-    is_new_format: !!stream.Embed_URL,
+    server_name: (src.name || "").trim() || `Server ${index + 1}`,
+    play_url: playUrl,
+    is_new_format: !!playUrl,
     required_referer: null,
   };
 }
 
 function transformMatch(m) {
-  const title = (m["Match Title"] || "").trim() || "Unknown Match";
-  const matchId = generateMatchId(title);
+  const title = (m.name || "").trim() || "Unknown Match";
+  const matchId = generateMatchId(m.id || m.uri_name || title);
 
-  const isLive = isLiveStatus(m["Match Status"]);
-  const { sportName, leagueName } = classifySport(m.Category, m.League);
+  const isLive = isLiveMatch(m);
+  const { sportName, leagueName } = classifySport(
+    m.category_name || m._category,
+    m.league || m.tag
+  );
 
   // teams: source deta hai; agar khali ho to title ko "vs" par split kar lo
-  let home = (m["Team 1 Name"] || "").trim();
-  let away = (m["Team 2 Name"] || "").trim();
-  if ((!home || !away) && /\svs\.?\s/i.test(title)) {
-    const parts = title.split(/\s+vs\.?\s+/i);
+  let home = ((m.teams && m.teams.home && m.teams.home.name) || "").trim();
+  let away = ((m.teams && m.teams.away && m.teams.away.name) || "").trim();
+  if ((!home || !away) && /\s(vs|at)\.?\s/i.test(title)) {
+    const parts = title.split(/\s+(?:vs|at)\.?\s+/i);
     home = home || (parts[0] || "").trim();
     away = away || (parts[1] || "").trim();
   }
 
-  // Duplicate Embed_URLs hata do
+  // Duplicate embed links hata do, baqi sab play_url ban jayenge
   const seen = new Set();
-  const uniqueStreams = (Array.isArray(m.Streams) ? m.Streams : []).filter(
-    (s) => s && s.Embed_URL && !seen.has(s.Embed_URL) && seen.add(s.Embed_URL)
-  );
-
-  // SD pehle, HD baad mein (har source ke andar), phir play_url format
-  const streams = sortStreams(uniqueStreams).map(transformStream);
+  const streams = (Array.isArray(m.sources) ? m.sources : [])
+    .filter((s) => s && s.embed && !seen.has(s.embed) && seen.add(s.embed))
+    .map(transformSource);
 
   return {
     match_id: matchId,
     sport_name: sportName,
     sport_id: getSportId(sportName),
     slug: slugify(title, matchId),
-    title: title, // <- Match Title
-    status: isLive ? "LIVE" : "NS", // <- Match Status
+    title: title, // <- name
+    status: isLive ? "LIVE" : "NS", // <- status
     league: {
-      league_name: leagueName || "", // <- League
-      league_logo: "", 
+      league_name: leagueName || "", // <- league
+      league_logo: "",
     },
     venue: "TBA",
     teams: {
       home_name: home || "Unknown",
       away_name: away || "Unknown",
-      // combined_logo <- Match Poster (warna DEFAULT_LOGO)
-      combined_logo: m["Match Poster"] || DEFAULT_LOGO,
+      combined_logo: m.poster || DEFAULT_LOGO, // <- poster
     },
-    timing: buildTiming(isLive, parseStartTime(m["Start Time"])), // <- Start Time
-    streams: streams, // <- Streams[].Embed_URL (SD pehle, HD baad mein)
+    timing: buildTiming(isLive, Number(m.starts_at) || null), // <- starts_at
+    streams: streams, // <- sources[].embed (base URL ke sath)
   };
 }
 
-function transformPlaylist(data) {
-  // Naya source seedha array deta hai
-  const matches = Array.isArray(data)
+// API: { streams: [ { category, streams: [ match, ... ] }, ... ] }
+// Sab categories ke matches ek flat list mein nikal leta hai
+function extractMatches(data) {
+  const groups = Array.isArray(data)
     ? data
-    : Array.isArray(data && data.matches)
-    ? data.matches
+    : Array.isArray(data && data.streams)
+    ? data.streams
     : [];
 
-  const all = matches.map((m) => ({ raw: m, out: transformMatch(m) }));
-  const liveMatches = all
-    .filter((x) => isLiveStatus(x.raw["Match Status"]))
-    .map((x) => x.out);
-  const upcomingMatches = all
-    .filter((x) => !isLiveStatus(x.raw["Match Status"]))
-    .map((x) => x.out);
+  const matches = [];
+  for (const group of groups) {
+    if (group && Array.isArray(group.streams)) {
+      for (const m of group.streams) {
+        matches.push({ ...m, _category: group.category });
+      }
+    } else if (group && group.sources) {
+      // Agar kabhi API seedha matches ki list de
+      matches.push(group);
+    }
+  }
+  return matches;
+}
+
+function transformPlaylist(data) {
+  const matches = extractMatches(data);
+
+  const byStart = (a, b) =>
+    (a.timing.start_time_timestamp || 0) - (b.timing.start_time_timestamp || 0);
+
+  const all = matches.map((m) => ({ live: isLiveMatch(m), out: transformMatch(m) }));
+  const liveMatches = all.filter((x) => x.live).map((x) => x.out).sort(byStart);
+  const upcomingMatches = all.filter((x) => !x.live).map((x) => x.out).sort(byStart);
 
   return {
     playlist_info: {
-      
       last_update_time: new Date().toISOString(),
     },
     live_matches: liveMatches,
@@ -594,11 +525,7 @@ async function main() {
     console.log("Transforming to app model format...");
     const transformed = transformPlaylist(sourceData);
 
-    fs.writeFileSync(
-      OUTPUT_PATH,
-      JSON.stringify(transformed, null, 2),
-      "utf-8"
-    );
+    fs.writeFileSync(OUTPUT_PATH, JSON.stringify(transformed, null, 2), "utf-8");
 
     console.log(`Saved to ${OUTPUT_PATH}`);
     console.log(`Live matches: ${transformed.live_matches.length}`);
