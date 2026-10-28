@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-10-28T09:00:36.668Z"
+    "last_update_time": "2026-10-28T11:00:38.414Z"
   },
   "live_matches": [
     {
@@ -326,6 +326,37 @@
       ]
     },
     {
+      "match_id": 1060001875,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "perth-wildcats-vs-sydney-kings-1060001875",
+      "title": "Perth Wildcats vs. Sydney Kings",
+      "status": "LIVE",
+      "league": {
+        "league_name": "NBL",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Perth Wildcats",
+        "away_name": "Sydney Kings",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/4ee57056073f3bed2d6c6cfc1f67dd3f-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1793183400,
+        "start_time_local": 1793183400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "ESPN",
+          "play_url": "https://taifood-blog.asia/embed/nbl/2026-10-28/per-syd",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -343,8 +374,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793178036,
-        "start_time_local": 1793178036,
+        "start_time_timestamp": 1793185238,
+        "start_time_local": 1793185238,
         "countdown_seconds": null
       },
       "streams": [
@@ -374,8 +405,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793178036,
-        "start_time_local": 1793178036,
+        "start_time_timestamp": 1793185238,
+        "start_time_local": 1793185238,
         "countdown_seconds": null
       },
       "streams": [
@@ -405,8 +436,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793178036,
-        "start_time_local": 1793178036,
+        "start_time_timestamp": 1793185238,
+        "start_time_local": 1793185238,
         "countdown_seconds": null
       },
       "streams": [
@@ -436,8 +467,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793178036,
-        "start_time_local": 1793178036,
+        "start_time_timestamp": 1793185238,
+        "start_time_local": 1793185238,
         "countdown_seconds": null
       },
       "streams": [
@@ -450,39 +481,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 183,
+  "total_upcoming_matches": 182,
   "upcoming_matches": [
-    {
-      "match_id": 1060001875,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "perth-wildcats-vs-sydney-kings-1060001875",
-      "title": "Perth Wildcats vs. Sydney Kings",
-      "status": "NS",
-      "league": {
-        "league_name": "NBL",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Perth Wildcats",
-        "away_name": "Sydney Kings",
-        "combined_logo": "https://static.ppvservices.st/assets/thumb/4ee57056073f3bed2d6c6cfc1f67dd3f-thumbnail.jpg"
-      },
-      "timing": {
-        "start_time_timestamp": 1793183400,
-        "start_time_local": 1793183400,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "ESPN",
-          "play_url": "https://taifood-blog.asia/embed/nbl/2026-10-28/per-syd",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/"
-        }
-      ]
-    },
     {
       "match_id": 1555652788,
       "sport_name": "Football",
@@ -600,7 +600,7 @@
       },
       "streams": [
         {
-          "server_name": "TV4 Play",
+          "server_name": "TV4 Sport Live 3",
           "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-10-28/deg-vas",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/"
@@ -631,7 +631,7 @@
       },
       "streams": [
         {
-          "server_name": "TV4 Play",
+          "server_name": "TV4 Sportkanalen",
           "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-10-28/hbk-mal",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/"
@@ -662,7 +662,7 @@
       },
       "streams": [
         {
-          "server_name": "TV4 Play",
+          "server_name": "TV4 Sport Live 4",
           "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-10-28/bro-bkh",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/"
@@ -693,7 +693,7 @@
       },
       "streams": [
         {
-          "server_name": "TV4 Play",
+          "server_name": "TV4 Fotboll",
           "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-10-28/got-dju",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/"
@@ -724,7 +724,7 @@
       },
       "streams": [
         {
-          "server_name": "Carabao Cup",
+          "server_name": "Sky Sports+",
           "play_url": "https://taifood-blog.asia/embed/carabao-cup/2026-10-28/mci-bha",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/"
@@ -817,7 +817,7 @@
       },
       "streams": [
         {
-          "server_name": "Carabao Cup",
+          "server_name": "Sky Sports+",
           "play_url": "https://taifood-blog.asia/embed/carabao-cup/2026-10-28/bou-avl",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/"
@@ -848,7 +848,7 @@
       },
       "streams": [
         {
-          "server_name": "Carabao Cup",
+          "server_name": "Sky Sports+",
           "play_url": "https://taifood-blog.asia/embed/carabao-cup/2026-10-28/ful-cry",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/"
@@ -879,7 +879,7 @@
       },
       "streams": [
         {
-          "server_name": "Carabao Cup",
+          "server_name": "Sky Sports+",
           "play_url": "https://taifood-blog.asia/embed/carabao-cup/2026-10-28/sun-bre",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/"
@@ -910,7 +910,7 @@
       },
       "streams": [
         {
-          "server_name": "Carabao Cup",
+          "server_name": "Sky Sports Main Event",
           "play_url": "https://taifood-blog.asia/embed/carabao-cup/2026-10-28/liv-che",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/"
