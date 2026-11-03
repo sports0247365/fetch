@@ -10,6 +10,10 @@ const SOURCE_URL = "https://api.ppv.st/api/streams";
 const WILLOW_URL =
   "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.json";
 
+// true = ppv.st ke cricket matches nahi dikhenge, cricket sirf Willow se aayega
+// (baad mein ppv cricket wapas chahiye ho to isay false kar dein)
+const HIDE_PPV_CRICKET = true;
+
 // Willow ka "time" (jaise "Tomorrow 8 AM BDT") BDT yani UTC+6 mein hota hai
 const WILLOW_TZ_OFFSET_HOURS = 6;
 
@@ -694,10 +698,15 @@ function transformPlaylist(ppvData, willowData) {
       }))
     : [];
 
+  // ppv.st ke cricket matches hata do, cricket sirf Willow se
+  const ppvFiltered = HIDE_PPV_CRICKET
+    ? ppvAll.filter((x) => x.out.sport_id !== getSportId("cricket"))
+    : ppvAll;
+
   // Source 2 (Willow) - cricket
   const willowAll = willowData ? transformWillow(willowData) : [];
 
-  const all = [...ppvAll, ...willowAll];
+  const all = [...ppvFiltered, ...willowAll];
   const liveMatches = all.filter((x) => x.live).map((x) => x.out).sort(byStart);
   const upcomingMatches = all.filter((x) => !x.live).map((x) => x.out).sort(byStart);
 
