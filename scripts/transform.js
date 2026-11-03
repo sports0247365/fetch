@@ -3,7 +3,15 @@ const path = require("path");
 const crypto = require("crypto");
 
 // ============ CONFIG ============
+// Source 1: ppv.st (sab sports)
 const SOURCE_URL = "https://api.ppv.st/api/streams";
+
+// Source 2: Willow events (ye sab matches Cricket category mein jayenge)
+const WILLOW_URL =
+  "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.json";
+
+// Willow ka "time" (jaise "Tomorrow 8 AM BDT") BDT yani UTC+6 mein hota hai
+const WILLOW_TZ_OFFSET_HOURS = 6;
 
 const OUTPUT_PATH = path.join(__dirname, "..", "output.json");
 
@@ -290,18 +298,21 @@ const LEAGUE_KEYWORDS = [
   ["Campionato Primavera", "football"],
   ["world cup", "football"],
 ];
+const MONTH_NAMES = [
+  "jan", "feb", "mar", "apr", "may", "jun",
+  "jul", "aug", "sep", "oct", "nov", "dec",
+];
 // =================================
 
-async function fetchSourceJson(url) {
+async function fetchSourceJson(url, extraHeaders = {}) {
   // Normal browser jaise headers ("bot" wala User-Agent 403 deta tha)
   const headers = {
     "User-Agent":
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     Accept: "application/json, text/plain, */*",
     "Accept-Language": "en-US,en;q=0.9",
-    Referer: "https://ppv.st/",
-    Origin: "https://ppv.st",
     "Cache-Control": "no-cache",
+    ...extraHeaders,
   };
 
   // 3 baar try karta hai; fail ho to response ka shuru wala hissa log karta hai
@@ -448,6 +459,7 @@ function buildServer(name, iframeUrl, index) {
     play_url: iframeUrl,
     is_new_format: true,
     required_referer: getReferer(iframeUrl),
+    required_referer2: null,
   };
 }
 
@@ -529,13 +541,163 @@ function extractMatches(data) {
   return matches;
 }
 
-function transformPlaylist(data) {
-  const matches = extractMatches(data);
+// ================= WILLOW (Source 2) =================
 
+// Willow ki "LastUpdate" ("12:02 PM 03-11-2026") se BDT wali aaj ki date nikalta hai,
+// taake "Tomorrow" usi din ke hisab se ho jis din file bani thi
+function willowReferenceDate(headerInfo) {
+  const raw = (headerInfo && headerInfo.LastUpdate) || "";
+  const m = String(raw).match(/(\d{1,2})-(\d{1,2})-(\d{4})/);
+  if (m) {
+    return { y: +m[3], mo: +m[2] - 1, d: +m[1] };
+  }
+  // Fallback: abhi ka waqt, BDT mein
+  const bdt = new Date(Date.now() + WILLOW_TZ_OFFSET_HOURS * 3600 * 1000);
+  return { y: bdt.getUTCFullYear(), mo: bdt.getUTCMonth(), d: bdt.getUTCDate() };
+}
+
+// "Tomorrow 8 AM BDT" / "Today 10:30 PM BDT" / "Thu, Nov 5 2:30 AM BDT"
+// ko unix timestamp (seconds) mein badalta hai. Samajh na aaye to null.
+function parseWillowTime(str, ref) {
+  if (!str) return null;
+  const text = String(str).toLowerCase();
+
+  const t = text.match(/(\d{1,2})(?::(\d{2}))?\s*(am|pm)/);
+  if (!t) return null;
+  let hour = parseInt(t[1], 10) % 12;
+  if (t[3] === "pm") hour += 12;
+  const minute = t[2] ? parseInt(t[2], 10) : 0;
+
+  let y = ref.y;
+  let mo = ref.mo;
+  let d = ref.d;
+
+  const md = text.match(
+    /\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(\d{1,2})\b/
+  );
+  if (md) {
+    mo = MONTH_NAMES.indexOf(md[1]);
+    d = parseInt(md[2], 10);
+    // Saal nahi diya hota: reference se 6 mahine se zyada peeche ho to agla saal
+    const refMs = Date.UTC(ref.y, ref.mo, ref.d);
+    if (refMs - Date.UTC(y, mo, d) > 182 * 24 * 3600 * 1000) y += 1;
+  } else if (/\btomorrow\b/.test(text)) {
+    d += 1; // Date.UTC khud month/year aage kar deta hai
+  } else if (!/\btoday\b|\btonight\b/.test(text)) {
+    return null;
+  }
+
+  const ms =
+    Date.UTC(y, mo, d, hour, minute) - WILLOW_TZ_OFFSET_HOURS * 3600 * 1000;
+  return Math.floor(ms / 1000);
+}
+
+// stream_url_alpha: ek link (string), list (array), ya comma/newline se alag links
+function getWillowLinks(value) {
+  const list = Array.isArray(value) ? value : String(value || "").split(/[\s,]+/);
+  return list.map((x) => String(x || "").trim()).filter(Boolean);
+}
+
+// drm_key "1gu67868162816:8673g172381236" ->
+// colon se pehle = required_referer, colon ke baad = required_referer2
+function splitDrmKey(drmKey) {
+  const raw = String(drmKey || "").trim();
+  if (!raw) return { first: null, second: null };
+  const i = raw.indexOf(":");
+  if (i === -1) return { first: raw, second: null };
+  return {
+    first: raw.slice(0, i).trim() || null,
+    second: raw.slice(i + 1).trim() || null,
+  };
+}
+
+function isWillowLive(m) {
+  return /live/i.test(m.status || "");
+}
+
+function transformWillowMatch(m, ref) {
+  const title = (m.title || m.synopsis || "").trim() || "Unknown Match";
+  const matchId = generateMatchId(`willow-${m.match_id || title}`);
+  const isLive = isWillowLive(m);
+
+  // "India tour of New Zealand 2026 - 1st ODI - New Zealand vs India"
+  // -> league: "India tour of New Zealand 2026 - 1st ODI", teams: aakhri hissa
+  const segments = title.split(/\s+-\s+/);
+  const lastPart = segments[segments.length - 1] || "";
+  let home = "";
+  let away = "";
+  if (/\s(vs|v)\.?\s/i.test(lastPart)) {
+    const parts = lastPart.split(/\s+(?:vs|v)\.?\s+/i);
+    home = (parts[0] || "").trim();
+    away = (parts[1] || "").trim();
+  }
+  const leagueName =
+    segments.length > 1 && (home || away)
+      ? segments.slice(0, -1).join(" - ")
+      : title;
+
+  const { first, second } = splitDrmKey(m.drm_key);
+  const links = getWillowLinks(m.stream_url_alpha);
+  const streams = links.map((url, i) => ({
+    server_name: links.length > 1 ? `Willow ${i + 1}` : "Willow",
+    play_url: url, // <- stream_url_alpha
+    is_new_format: true,
+    required_referer: first, // <- drm_key colon se pehle
+    required_referer2: second, // <- drm_key colon ke baad
+  }));
+
+  return {
+    match_id: matchId,
+    sport_name: "Cricket", // Willow ke sab matches cricket mein
+    sport_id: getSportId("cricket"),
+    slug: slugify(title, matchId),
+    title: title, // <- title
+    status: isLive ? "LIVE" : "NS", // <- status
+    league: {
+      league_name: leagueName,
+      league_logo: "",
+    },
+    venue: "TBA",
+    teams: {
+      home_name: home || "Unknown",
+      away_name: away || "Unknown",
+      combined_logo: m.cover_image || DEFAULT_LOGO, // <- cover_image
+    },
+    timing: buildTiming(isLive, parseWillowTime(m.time, ref)), // <- time
+    streams: streams,
+  };
+}
+
+function transformWillow(data) {
+  const matches = Array.isArray(data && data.Matches)
+    ? data.Matches
+    : Array.isArray(data)
+    ? data
+    : [];
+  const ref = willowReferenceDate(data && data.HeaderInfo);
+  return matches
+    .filter(Boolean)
+    .map((m) => ({ live: isWillowLive(m), out: transformWillowMatch(m, ref) }));
+}
+
+// =====================================================
+
+function transformPlaylist(ppvData, willowData) {
   const byStart = (a, b) =>
     (a.timing.start_time_timestamp || 0) - (b.timing.start_time_timestamp || 0);
 
-  const all = matches.map((m) => ({ live: isLiveMatch(m), out: transformMatch(m) }));
+  // Source 1 (ppv.st)
+  const ppvAll = ppvData
+    ? extractMatches(ppvData).map((m) => ({
+        live: isLiveMatch(m),
+        out: transformMatch(m),
+      }))
+    : [];
+
+  // Source 2 (Willow) - cricket
+  const willowAll = willowData ? transformWillow(willowData) : [];
+
+  const all = [...ppvAll, ...willowAll];
   const liveMatches = all.filter((x) => x.live).map((x) => x.out).sort(byStart);
   const upcomingMatches = all.filter((x) => !x.live).map((x) => x.out).sort(byStart);
 
@@ -551,11 +713,28 @@ function transformPlaylist(data) {
 
 async function main() {
   try {
-    console.log("Fetching source JSON...");
-    const sourceData = await fetchSourceJson(SOURCE_URL);
+    // Dono sources ek saath fetch; ek fail ho to doosre ka data phir bhi aaye
+    console.log("Fetching source JSON (ppv.st + Willow)...");
+    const [ppvResult, willowResult] = await Promise.allSettled([
+      fetchSourceJson(SOURCE_URL, {
+        Referer: "https://ppv.st/",
+        Origin: "https://ppv.st",
+      }),
+      fetchSourceJson(WILLOW_URL),
+    ]);
+
+    const ppvData = ppvResult.status === "fulfilled" ? ppvResult.value : null;
+    const willowData =
+      willowResult.status === "fulfilled" ? willowResult.value : null;
+
+    if (!ppvData) console.error("ppv.st failed:", ppvResult.reason.message);
+    if (!willowData) console.error("Willow failed:", willowResult.reason.message);
+    if (!ppvData && !willowData) {
+      throw new Error("Dono sources fail ho gaye, output update nahi hua");
+    }
 
     console.log("Transforming to app model format...");
-    const transformed = transformPlaylist(sourceData);
+    const transformed = transformPlaylist(ppvData, willowData);
 
     fs.writeFileSync(OUTPUT_PATH, JSON.stringify(transformed, null, 2), "utf-8");
 
