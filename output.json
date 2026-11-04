@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-04T15:30:33.487Z"
+    "last_update_time": "2026-11-04T15:35:24.198Z"
   },
   "live_matches": [
     {
@@ -426,6 +426,66 @@
       ]
     },
     {
+      "match_id": 1737781066,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "usa-seniors-cricket-npl-2026-1st-match-houston-saints-vs-seattle-moose-1737781066",
+      "title": "USA Seniors Cricket NPL 2026 - 1st Match - Houston Saints vs Seattle Moose",
+      "status": "LIVE",
+      "league": {
+        "league_name": "USA Seniors Cricket NPL 2026 - 1st Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Houston Saints",
+        "away_name": "Seattle Moose",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ac15ad3c-e15e-4bf6-9d0f-34f30bbd2600/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1793806200,
+        "start_time_local": 1793806200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/flrfyrqbio/out/v1/b8f020a0dce34bcfa58227c2c4033a95/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b7bebaee3bacc37f18cbc0224b595c02",
+          "required_referer2": "32e48253d959a5202a384f50198367a9"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/flrfyrqbio/out/v1/b8f020a0dce34bcfa58227c2c4033a95/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b7bebaee3bacc37f18cbc0224b595c02",
+          "required_referer2": "32e48253d959a5202a384f50198367a9"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/flrfyrqbio/out/v1/b8f020a0dce34bcfa58227c2c4033a95/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b7bebaee3bacc37f18cbc0224b595c02",
+          "required_referer2": "32e48253d959a5202a384f50198367a9"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/flrfyrqbio/out/v1/b8f020a0dce34bcfa58227c2c4033a95/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b7bebaee3bacc37f18cbc0224b595c02",
+          "required_referer2": "32e48253d959a5202a384f50198367a9"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/flrfyrqbio/out/v1/b8f020a0dce34bcfa58227c2c4033a95/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b7bebaee3bacc37f18cbc0224b595c02",
+          "required_referer2": "32e48253d959a5202a384f50198367a9"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -443,8 +503,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793806233,
-        "start_time_local": 1793806233,
+        "start_time_timestamp": 1793806524,
+        "start_time_local": 1793806524,
         "countdown_seconds": null
       },
       "streams": [
@@ -482,8 +542,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793806233,
-        "start_time_local": 1793806233,
+        "start_time_timestamp": 1793806524,
+        "start_time_local": 1793806524,
         "countdown_seconds": null
       },
       "streams": [
@@ -521,8 +581,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793806233,
-        "start_time_local": 1793806233,
+        "start_time_timestamp": 1793806524,
+        "start_time_local": 1793806524,
         "countdown_seconds": null
       },
       "streams": [
@@ -560,8 +620,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793806233,
-        "start_time_local": 1793806233,
+        "start_time_timestamp": 1793806524,
+        "start_time_local": 1793806524,
         "countdown_seconds": null
       },
       "streams": [
@@ -582,32 +642,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 223,
+  "total_upcoming_matches": 222,
   "upcoming_matches": [
-    {
-      "match_id": 1737781066,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "usa-seniors-cricket-npl-2026-1st-match-houston-saints-vs-seattle-moose-1737781066",
-      "title": "USA Seniors Cricket NPL 2026 - 1st Match - Houston Saints vs Seattle Moose",
-      "status": "NS",
-      "league": {
-        "league_name": "USA Seniors Cricket NPL 2026 - 1st Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Houston Saints",
-        "away_name": "Seattle Moose",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ac15ad3c-e15e-4bf6-9d0f-34f30bbd2600/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1793808000,
-        "start_time_local": 1793808000,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1148970378,
       "sport_name": "Football",
@@ -2003,6 +2039,30 @@
         "home_name": "Afghanistan",
         "away_name": "Zimbabwe",
         "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1793854800,
+        "start_time_local": 1793854800,
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1334857847,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "acc-mens-u19-asia-cup-2026-2nd-match-bangladesh-u19-vs-afghanistan-u19-1334857847",
+      "title": "ACC Mens U19 Asia Cup 2026 - 2nd Match - Bangladesh U19 vs Afghanistan U19",
+      "status": "NS",
+      "league": {
+        "league_name": "ACC Mens U19 Asia Cup 2026 - 2nd Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Bangladesh U19",
+        "away_name": "Afghanistan U19",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f27ac6f0-36de-4625-b95b-8d7a73a1a7bf/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
       },
       "timing": {
         "start_time_timestamp": 1793854800,
@@ -3994,6 +4054,54 @@
       ]
     },
     {
+      "match_id": 1816977741,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "acc-mens-u19-asia-cup-2026-4th-match-india-u19-vs-nepal-u19-1816977741",
+      "title": "ACC Mens U19 Asia Cup 2026 - 4th Match - India U19 vs Nepal U19",
+      "status": "NS",
+      "league": {
+        "league_name": "ACC Mens U19 Asia Cup 2026 - 4th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "India U19",
+        "away_name": "Nepal U19",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a0de9d6-4ac7-4a6c-9e4d-83a2b84d5c3b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1793941200,
+        "start_time_local": 1793941200,
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1198479517,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "acc-mens-u19-asia-cup-2026-3rd-match-pakistan-u19-vs-united-arab-emirates-u19-1198479517",
+      "title": "ACC Mens U19 Asia Cup 2026 - 3rd Match - Pakistan U19 vs United Arab Emirates U19",
+      "status": "NS",
+      "league": {
+        "league_name": "ACC Mens U19 Asia Cup 2026 - 3rd Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Pakistan U19",
+        "away_name": "United Arab Emirates U19",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9bf08245-f2fa-4124-918a-e78c07173414/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1793941200,
+        "start_time_local": 1793941200,
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
       "match_id": 1385734649,
       "sport_name": "Cricket",
       "sport_id": 3,
@@ -4659,25 +4767,49 @@
       "streams": []
     },
     {
-      "match_id": 1713598984,
+      "match_id": 1278246356,
       "sport_name": "Cricket",
       "sport_id": 3,
-      "slug": "womens-big-bash-league-2026-14th-match-brisbane-heat-women-vs-hobart-hurricanes-women-1713598984",
-      "title": "Womens Big Bash League 2026 - 14th Match - Brisbane Heat Women vs Hobart Hurricanes Women",
+      "slug": "acc-mens-u19-asia-cup-2026-5th-match-afghanistan-u19-vs-malaysia-u19-1278246356",
+      "title": "ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19",
       "status": "NS",
       "league": {
-        "league_name": "Womens Big Bash League 2026 - 14th Match",
+        "league_name": "ACC Mens U19 Asia Cup 2026 - 5th Match",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Brisbane Heat Women",
-        "away_name": "Hobart Hurricanes Women",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8540dc19-4fd6-482f-9bad-855bed41f903/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        "home_name": "Afghanistan U19",
+        "away_name": "Malaysia U19",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.07f50fb2-33c9-43df-b334-1d757610adfa/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
       },
       "timing": {
-        "start_time_timestamp": 1794039000,
-        "start_time_local": 1794039000,
+        "start_time_timestamp": 1794027600,
+        "start_time_local": 1794027600,
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1845007194,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "acc-mens-u19-asia-cup-2026-6th-match-sri-lanka-u19-vs-bangladesh-u19-1845007194",
+      "title": "ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19",
+      "status": "NS",
+      "league": {
+        "league_name": "ACC Mens U19 Asia Cup 2026 - 6th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Sri Lanka U19",
+        "away_name": "Bangladesh U19",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ba1fbec-5219-427a-b408-5f6c67c0030a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794027600,
+        "start_time_local": 1794027600,
         "countdown_seconds": null
       },
       "streams": []
@@ -5149,30 +5281,6 @@
           "required_referer2": null
         }
       ]
-    },
-    {
-      "match_id": 1081780749,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "usa-seniors-cricket-npl-2026-10th-match-austin-hunters-vs-ny-x-factor-1081780749",
-      "title": "USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor",
-      "status": "NS",
-      "league": {
-        "league_name": "USA Seniors Cricket NPL 2026 - 10th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Austin Hunters",
-        "away_name": "NY X-Factor",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6fb485ce-1efe-4bda-b3c6-9fed335ffe6e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794067200,
-        "start_time_local": 1794067200,
-        "countdown_seconds": null
-      },
-      "streams": []
     },
     {
       "match_id": 1826432289,
@@ -6048,30 +6156,6 @@
           "required_referer2": null
         }
       ]
-    },
-    {
-      "match_id": 1531698070,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "usa-seniors-cricket-npl-2026-11th-match-dallas-lions-vs-washington-eagles-1531698070",
-      "title": "USA Seniors Cricket NPL 2026 - 11th Match - Dallas Lions vs Washington Eagles",
-      "status": "NS",
-      "league": {
-        "league_name": "USA Seniors Cricket NPL 2026 - 11th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Dallas Lions",
-        "away_name": "Washington Eagles",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8095dec5-941f-4dd7-92b2-8907dc4c1a0f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794083400,
-        "start_time_local": 1794083400,
-        "countdown_seconds": null
-      },
-      "streams": []
     },
     {
       "match_id": 1346511094,
@@ -6999,30 +7083,6 @@
       ]
     },
     {
-      "match_id": 1325919974,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "usa-seniors-cricket-npl-2026-12th-match-chicago-cavaliers-vs-seattle-moose-1325919974",
-      "title": "USA Seniors Cricket NPL 2026 - 12th Match - Chicago Cavaliers vs Seattle Moose",
-      "status": "NS",
-      "league": {
-        "league_name": "USA Seniors Cricket NPL 2026 - 12th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Chicago Cavaliers",
-        "away_name": "Seattle Moose",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d3a32644-1806-4929-99fb-e6e05d0105ba/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794097800,
-        "start_time_local": 1794097800,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
       "match_id": 1167809587,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -7230,30 +7290,6 @@
           "required_referer2": null
         }
       ]
-    },
-    {
-      "match_id": 1365173777,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "womens-big-bash-league-2026-15th-match-sydney-sixers-women-vs-sydney-thunder-women-1365173777",
-      "title": "Womens Big Bash League 2026 - 15th Match - Sydney Sixers Women vs Sydney Thunder Women",
-      "status": "NS",
-      "league": {
-        "league_name": "Womens Big Bash League 2026 - 15th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Sydney Sixers Women",
-        "away_name": "Sydney Thunder Women",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d415ed82-2301-4764-93cd-269d5685d551/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794112800,
-        "start_time_local": 1794112800,
-        "countdown_seconds": null
-      },
-      "streams": []
     },
     {
       "match_id": 1781431660,
