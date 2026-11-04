@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-04T08:30:28.639Z"
+    "last_update_time": "2026-11-04T08:35:22.081Z"
   },
   "live_matches": [
     {
@@ -447,6 +447,66 @@
       ]
     },
     {
+      "match_id": 1601074780,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "womens-big-bash-league-2026-9th-match-hobart-hurricanes-women-vs-melbourne-renegades-women-1601074780",
+      "title": "Womens Big Bash League 2026 - 9th Match - Hobart Hurricanes Women vs Melbourne Renegades Women",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Womens Big Bash League 2026 - 9th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Hobart Hurricanes Women",
+        "away_name": "Melbourne Renegades Women",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d3f5c03f-a9aa-4e4e-b278-f3902eb5e0de/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1793779800,
+        "start_time_local": 1793779800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c3bbeb16c18d825f04b51b17b67baf5a",
+          "required_referer2": "f744722c08e3d13fecfa59de5436cce7"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c3bbeb16c18d825f04b51b17b67baf5a",
+          "required_referer2": "f744722c08e3d13fecfa59de5436cce7"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c3bbeb16c18d825f04b51b17b67baf5a",
+          "required_referer2": "f744722c08e3d13fecfa59de5436cce7"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c3bbeb16c18d825f04b51b17b67baf5a",
+          "required_referer2": "f744722c08e3d13fecfa59de5436cce7"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c3bbeb16c18d825f04b51b17b67baf5a",
+          "required_referer2": "f744722c08e3d13fecfa59de5436cce7"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -464,8 +524,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793781028,
-        "start_time_local": 1793781028,
+        "start_time_timestamp": 1793781322,
+        "start_time_local": 1793781322,
         "countdown_seconds": null
       },
       "streams": [
@@ -503,8 +563,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793781028,
-        "start_time_local": 1793781028,
+        "start_time_timestamp": 1793781322,
+        "start_time_local": 1793781322,
         "countdown_seconds": null
       },
       "streams": [
@@ -542,8 +602,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793781028,
-        "start_time_local": 1793781028,
+        "start_time_timestamp": 1793781322,
+        "start_time_local": 1793781322,
         "countdown_seconds": null
       },
       "streams": [
@@ -581,8 +641,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793781028,
-        "start_time_local": 1793781028,
+        "start_time_timestamp": 1793781322,
+        "start_time_local": 1793781322,
         "countdown_seconds": null
       },
       "streams": [
@@ -603,32 +663,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 221,
+  "total_upcoming_matches": 220,
   "upcoming_matches": [
-    {
-      "match_id": 1601074780,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "womens-big-bash-league-2026-9th-match-hobart-hurricanes-women-vs-melbourne-renegades-women-1601074780",
-      "title": "Womens Big Bash League 2026 - 9th Match - Hobart Hurricanes Women vs Melbourne Renegades Women",
-      "status": "NS",
-      "league": {
-        "league_name": "Womens Big Bash League 2026 - 9th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Hobart Hurricanes Women",
-        "away_name": "Melbourne Renegades Women",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d3f5c03f-a9aa-4e4e-b278-f3902eb5e0de/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1793779800,
-        "start_time_local": 1793779800,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1164051438,
       "sport_name": "Basketball",
