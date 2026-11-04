@@ -303,8 +303,18 @@ const LEAGUE_KEYWORDS = [
   ["world cup", "football"],
 ];
 const MONTH_NAMES = [
-  "jan", "feb", "mar", "apr", "may", "jun",
-  "jul", "aug", "sep", "oct", "nov", "dec",
+  "jan",
+  "feb",
+  "mar",
+  "apr",
+  "may",
+  "jun",
+  "jul",
+  "aug",
+  "sep",
+  "oct",
+  "nov",
+  "dec",
 ];
 // =================================
 
@@ -328,7 +338,7 @@ async function fetchSourceJson(url, extraHeaders = {}) {
 
       const body = (await res.text()).slice(0, 300).replace(/\s+/g, " ");
       lastError = new Error(
-        `Fetch failed: ${res.status} ${res.statusText} | ${body}`
+        `Fetch failed: ${res.status} ${res.statusText} | ${body}`,
       );
     } catch (err) {
       lastError = err;
@@ -413,7 +423,10 @@ function slugify(text, fallbackId) {
 
 // Source ka unique "id" use karte hain (title same ho sakta hai, id nahi)
 function generateMatchId(key) {
-  const hash = crypto.createHash("md5").update(key || "").digest("hex");
+  const hash = crypto
+    .createHash("md5")
+    .update(key || "")
+    .digest("hex");
   const num = parseInt(hash.slice(0, 9), 16);
   return 1000000000 + (num % 900000000);
 }
@@ -474,7 +487,7 @@ function transformMatch(m) {
   const isLive = isLiveMatch(m);
   const { sportName, leagueName } = classifySport(
     m.category_name || m._category,
-    m.tag
+    m.tag,
   );
 
   // Teams alag se nahi aatin, title ko "vs" / "at" par split kar lete hain
@@ -529,8 +542,8 @@ function extractMatches(data) {
   const groups = Array.isArray(data)
     ? data
     : Array.isArray(data && data.streams)
-    ? data.streams
-    : [];
+      ? data.streams
+      : [];
 
   const matches = [];
   for (const group of groups) {
@@ -557,7 +570,11 @@ function willowReferenceDate(headerInfo) {
   }
   // Fallback: abhi ka waqt, BDT mein
   const bdt = new Date(Date.now() + WILLOW_TZ_OFFSET_HOURS * 3600 * 1000);
-  return { y: bdt.getUTCFullYear(), mo: bdt.getUTCMonth(), d: bdt.getUTCDate() };
+  return {
+    y: bdt.getUTCFullYear(),
+    mo: bdt.getUTCMonth(),
+    d: bdt.getUTCDate(),
+  };
 }
 
 // "Tomorrow 8 AM BDT" / "Today 10:30 PM BDT" / "Thu, Nov 5 2:30 AM BDT"
@@ -577,7 +594,7 @@ function parseWillowTime(str, ref) {
   let d = ref.d;
 
   const md = text.match(
-    /\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(\d{1,2})\b/
+    /\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(\d{1,2})\b/,
   );
   if (md) {
     mo = MONTH_NAMES.indexOf(md[1]);
@@ -587,19 +604,34 @@ function parseWillowTime(str, ref) {
     if (refMs - Date.UTC(y, mo, d) > 182 * 24 * 3600 * 1000) y += 1;
   } else if (/\btomorrow\b/.test(text)) {
     d += 1; // Date.UTC khud month/year aage kar deta hai
-  } else if (!/\btoday\b|\btonight\b/.test(text)) {
-    return null;
   }
+  // Na din likha ho na date (jaise "7:30 AM BDT" ya "Today ...") = aaj
 
   const ms =
     Date.UTC(y, mo, d, hour, minute) - WILLOW_TZ_OFFSET_HOURS * 3600 * 1000;
   return Math.floor(ms / 1000);
 }
 
-// stream_url_alpha: ek link (string), list (array), ya comma/newline se alag links
+// stream_url_alpha ek object hai: { "Fistly Server": "https://...mpd", ... }
+// Har key = server ka naam, har value = play_url.
+// (String ya array aaye to bhi chal jayega)
 function getWillowLinks(value) {
-  const list = Array.isArray(value) ? value : String(value || "").split(/[\s,]+/);
-  return list.map((x) => String(x || "").trim()).filter(Boolean);
+  let entries = [];
+  if (value && typeof value === "object" && !Array.isArray(value)) {
+    entries = Object.entries(value).map(([name, url]) => ({ name, url }));
+  } else if (Array.isArray(value)) {
+    entries = value.map((url) => ({ name: "", url }));
+  } else {
+    entries = String(value || "")
+      .split(/[\s,]+/)
+      .map((url) => ({ name: "", url }));
+  }
+  return entries
+    .map((e) => ({
+      name: String(e.name || "").trim(),
+      url: String(e.url || "").trim(),
+    }))
+    .filter((e) => /^https?:\/\//i.test(e.url));
 }
 
 // drm_key "1gu67868162816:8673g172381236" ->
@@ -642,13 +674,23 @@ function transformWillowMatch(m, ref) {
 
   const { first, second } = splitDrmKey(m.drm_key);
   const links = getWillowLinks(m.stream_url_alpha);
-  const streams = links.map((url, i) => ({
-    server_name: links.length > 1 ? `Willow ${i + 1}` : "Willow",
-    play_url: url, // <- stream_url_alpha
-    is_new_format: true,
-    required_referer: first, // <- drm_key colon se pehle
-    required_referer2: second, // <- drm_key colon ke baad
-  }));
+  // Amazon wala server sab se pehle, baqi usi order mein jo source mein hai
+  const isAmazon = (l) => /amazon/i.test(l.name);
+  const ordered = [
+    ...links.filter(isAmazon),
+    ...links.filter((l) => !isAmazon(l)),
+  ];
+
+  const seenUrls = new Set();
+  const streams = ordered
+    .filter((l) => !seenUrls.has(l.url) && seenUrls.add(l.url))
+    .map((l, i, arr) => ({
+      server_name: l.name || (arr.length > 1 ? `Willow ${i + 1}` : "Willow"),
+      play_url: l.url, // <- stream_url_alpha ki value
+      is_new_format: true,
+      required_referer: first, // <- drm_key colon se pehle
+      required_referer2: second, // <- drm_key colon ke baad
+    }));
 
   return {
     match_id: matchId,
@@ -676,8 +718,8 @@ function transformWillow(data) {
   const matches = Array.isArray(data && data.Matches)
     ? data.Matches
     : Array.isArray(data)
-    ? data
-    : [];
+      ? data
+      : [];
   const ref = willowReferenceDate(data && data.HeaderInfo);
   return matches
     .filter(Boolean)
@@ -707,8 +749,14 @@ function transformPlaylist(ppvData, willowData) {
   const willowAll = willowData ? transformWillow(willowData) : [];
 
   const all = [...ppvFiltered, ...willowAll];
-  const liveMatches = all.filter((x) => x.live).map((x) => x.out).sort(byStart);
-  const upcomingMatches = all.filter((x) => !x.live).map((x) => x.out).sort(byStart);
+  const liveMatches = all
+    .filter((x) => x.live)
+    .map((x) => x.out)
+    .sort(byStart);
+  const upcomingMatches = all
+    .filter((x) => !x.live)
+    .map((x) => x.out)
+    .sort(byStart);
 
   return {
     playlist_info: {
@@ -737,7 +785,8 @@ async function main() {
       willowResult.status === "fulfilled" ? willowResult.value : null;
 
     if (!ppvData) console.error("ppv.st failed:", ppvResult.reason.message);
-    if (!willowData) console.error("Willow failed:", willowResult.reason.message);
+    if (!willowData)
+      console.error("Willow failed:", willowResult.reason.message);
     if (!ppvData && !willowData) {
       throw new Error("Dono sources fail ho gaye, output update nahi hua");
     }
@@ -745,7 +794,11 @@ async function main() {
     console.log("Transforming to app model format...");
     const transformed = transformPlaylist(ppvData, willowData);
 
-    fs.writeFileSync(OUTPUT_PATH, JSON.stringify(transformed, null, 2), "utf-8");
+    fs.writeFileSync(
+      OUTPUT_PATH,
+      JSON.stringify(transformed, null, 2),
+      "utf-8",
+    );
 
     console.log(`Saved to ${OUTPUT_PATH}`);
     console.log(`Live matches: ${transformed.live_matches.length}`);
