@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-04T20:35:22.336Z"
+    "last_update_time": "2026-11-04T20:40:25.600Z"
   },
   "live_matches": [
     {
@@ -816,6 +816,66 @@
       ]
     },
     {
+      "match_id": 1733068174,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "usa-seniors-cricket-npl-2026-2nd-match-mighty-dallas-vs-chicago-cavaliers-1733068174",
+      "title": "USA Seniors Cricket NPL 2026 - 2nd Match - Mighty Dallas vs Chicago Cavaliers",
+      "status": "LIVE",
+      "league": {
+        "league_name": "USA Seniors Cricket NPL 2026 - 2nd Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Mighty Dallas",
+        "away_name": "Chicago Cavaliers",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c92e6272-f4a8-41e4-b53b-7ea2a8fef0ac/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1793823900,
+        "start_time_local": 1793823900,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uwfep5hlhr/out/v1/38785086c34c4936b868d81fac5abd52/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "e47ceb54765083a28c09a2b62bf8447f",
+          "required_referer2": "543f661537bb92a2767158513d3a6705"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uwfep5hlhr/out/v1/38785086c34c4936b868d81fac5abd52/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "e47ceb54765083a28c09a2b62bf8447f",
+          "required_referer2": "543f661537bb92a2767158513d3a6705"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/uwfep5hlhr/out/v1/38785086c34c4936b868d81fac5abd52/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "e47ceb54765083a28c09a2b62bf8447f",
+          "required_referer2": "543f661537bb92a2767158513d3a6705"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uwfep5hlhr/out/v1/38785086c34c4936b868d81fac5abd52/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "e47ceb54765083a28c09a2b62bf8447f",
+          "required_referer2": "543f661537bb92a2767158513d3a6705"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uwfep5hlhr/out/v1/38785086c34c4936b868d81fac5abd52/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "e47ceb54765083a28c09a2b62bf8447f",
+          "required_referer2": "543f661537bb92a2767158513d3a6705"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -833,8 +893,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793824522,
-        "start_time_local": 1793824522,
+        "start_time_timestamp": 1793824825,
+        "start_time_local": 1793824825,
         "countdown_seconds": null
       },
       "streams": [
@@ -872,8 +932,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793824522,
-        "start_time_local": 1793824522,
+        "start_time_timestamp": 1793824825,
+        "start_time_local": 1793824825,
         "countdown_seconds": null
       },
       "streams": [
@@ -911,8 +971,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793824522,
-        "start_time_local": 1793824522,
+        "start_time_timestamp": 1793824825,
+        "start_time_local": 1793824825,
         "countdown_seconds": null
       },
       "streams": [
@@ -950,8 +1010,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793824522,
-        "start_time_local": 1793824522,
+        "start_time_timestamp": 1793824825,
+        "start_time_local": 1793824825,
         "countdown_seconds": null
       },
       "streams": [
@@ -970,94 +1030,10 @@
           "required_referer2": null
         }
       ]
-    },
-    {
-      "match_id": 1737781066,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "usa-seniors-cricket-npl-2026-1st-match-houston-saints-vs-seattle-moose-1737781066",
-      "title": "USA Seniors Cricket NPL 2026 - 1st Match - Houston Saints vs Seattle Moose",
-      "status": "LIVE",
-      "league": {
-        "league_name": "USA Seniors Cricket NPL 2026 - 1st Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Houston Saints",
-        "away_name": "Seattle Moose",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ac15ad3c-e15e-4bf6-9d0f-34f30bbd2600/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1793892600,
-        "start_time_local": 1793892600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Amazon Server",
-          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/flrfyrqbio/out/v1/b8f020a0dce34bcfa58227c2c4033a95/cenc.mpd",
-          "is_new_format": true,
-          "required_referer": "b7bebaee3bacc37f18cbc0224b595c02",
-          "required_referer2": "32e48253d959a5202a384f50198367a9"
-        },
-        {
-          "server_name": "Fistly Server",
-          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/flrfyrqbio/out/v1/b8f020a0dce34bcfa58227c2c4033a95/cenc.mpd",
-          "is_new_format": true,
-          "required_referer": "b7bebaee3bacc37f18cbc0224b595c02",
-          "required_referer2": "32e48253d959a5202a384f50198367a9"
-        },
-        {
-          "server_name": "Akamai Server",
-          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/flrfyrqbio/out/v1/b8f020a0dce34bcfa58227c2c4033a95/cenc.mpd",
-          "is_new_format": true,
-          "required_referer": "b7bebaee3bacc37f18cbc0224b595c02",
-          "required_referer2": "32e48253d959a5202a384f50198367a9"
-        },
-        {
-          "server_name": "Cloudfront Server 1",
-          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/flrfyrqbio/out/v1/b8f020a0dce34bcfa58227c2c4033a95/cenc.mpd",
-          "is_new_format": true,
-          "required_referer": "b7bebaee3bacc37f18cbc0224b595c02",
-          "required_referer2": "32e48253d959a5202a384f50198367a9"
-        },
-        {
-          "server_name": "Cloudfront Server 2",
-          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/flrfyrqbio/out/v1/b8f020a0dce34bcfa58227c2c4033a95/cenc.mpd",
-          "is_new_format": true,
-          "required_referer": "b7bebaee3bacc37f18cbc0224b595c02",
-          "required_referer2": "32e48253d959a5202a384f50198367a9"
-        }
-      ]
     }
   ],
   "total_upcoming_matches": 210,
   "upcoming_matches": [
-    {
-      "match_id": 1733068174,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "usa-seniors-cricket-npl-2026-2nd-match-mighty-dallas-vs-chicago-cavaliers-1733068174",
-      "title": "USA Seniors Cricket NPL 2026 - 2nd Match - Mighty Dallas vs Chicago Cavaliers",
-      "status": "NS",
-      "league": {
-        "league_name": "USA Seniors Cricket NPL 2026 - 2nd Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Mighty Dallas",
-        "away_name": "Chicago Cavaliers",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c92e6272-f4a8-41e4-b53b-7ea2a8fef0ac/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1793824200,
-        "start_time_local": 1793824200,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1329690988,
       "sport_name": "Basketball",
@@ -4732,6 +4708,30 @@
       "timing": {
         "start_time_timestamp": 1794027600,
         "start_time_local": 1794027600,
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1713598984,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "womens-big-bash-league-2026-14th-match-brisbane-heat-women-vs-hobart-hurricanes-women-1713598984",
+      "title": "Womens Big Bash League 2026 - 14th Match - Brisbane Heat Women vs Hobart Hurricanes Women",
+      "status": "NS",
+      "league": {
+        "league_name": "Womens Big Bash League 2026 - 14th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Brisbane Heat Women",
+        "away_name": "Hobart Hurricanes Women",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8540dc19-4fd6-482f-9bad-855bed41f903/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794039000,
+        "start_time_local": 1794039000,
         "countdown_seconds": null
       },
       "streams": []
