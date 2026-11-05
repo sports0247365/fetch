@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-05T08:30:29.831Z"
+    "last_update_time": "2026-11-05T08:35:19.762Z"
   },
   "live_matches": [
     {
@@ -627,6 +627,66 @@
       ]
     },
     {
+      "match_id": 1721680088,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "womens-big-bash-league-2026-11th-match-sydney-thunder-women-vs-perth-scorchers-women-1721680088",
+      "title": "Womens Big Bash League 2026 - 11th Match - Sydney Thunder Women vs Perth Scorchers Women",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Womens Big Bash League 2026 - 11th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Sydney Thunder Women",
+        "away_name": "Perth Scorchers Women",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab810664-fc94-4c19-98c0-2ab16473a298/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1793866200,
+        "start_time_local": 1793866200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b2c92cec93ed53bbc297d9ab55ae4c72",
+          "required_referer2": "6dfa3680190db85be7659d6faaac5d91"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b2c92cec93ed53bbc297d9ab55ae4c72",
+          "required_referer2": "6dfa3680190db85be7659d6faaac5d91"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b2c92cec93ed53bbc297d9ab55ae4c72",
+          "required_referer2": "6dfa3680190db85be7659d6faaac5d91"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b2c92cec93ed53bbc297d9ab55ae4c72",
+          "required_referer2": "6dfa3680190db85be7659d6faaac5d91"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b2c92cec93ed53bbc297d9ab55ae4c72",
+          "required_referer2": "6dfa3680190db85be7659d6faaac5d91"
+        }
+      ]
+    },
+    {
       "match_id": 1681933622,
       "sport_name": "Basketball",
       "sport_id": 2,
@@ -683,8 +743,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793867429,
-        "start_time_local": 1793867429,
+        "start_time_timestamp": 1793867719,
+        "start_time_local": 1793867719,
         "countdown_seconds": null
       },
       "streams": [
@@ -722,8 +782,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793867429,
-        "start_time_local": 1793867429,
+        "start_time_timestamp": 1793867719,
+        "start_time_local": 1793867719,
         "countdown_seconds": null
       },
       "streams": [
@@ -761,8 +821,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793867429,
-        "start_time_local": 1793867429,
+        "start_time_timestamp": 1793867719,
+        "start_time_local": 1793867719,
         "countdown_seconds": null
       },
       "streams": [
@@ -800,8 +860,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793867429,
-        "start_time_local": 1793867429,
+        "start_time_timestamp": 1793867719,
+        "start_time_local": 1793867719,
         "countdown_seconds": null
       },
       "streams": [
@@ -822,32 +882,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 217,
+  "total_upcoming_matches": 216,
   "upcoming_matches": [
-    {
-      "match_id": 1721680088,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "womens-big-bash-league-2026-11th-match-sydney-thunder-women-vs-perth-scorchers-women-1721680088",
-      "title": "Womens Big Bash League 2026 - 11th Match - Sydney Thunder Women vs Perth Scorchers Women",
-      "status": "NS",
-      "league": {
-        "league_name": "Womens Big Bash League 2026 - 11th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Sydney Thunder Women",
-        "away_name": "Perth Scorchers Women",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab810664-fc94-4c19-98c0-2ab16473a298/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1793866200,
-        "start_time_local": 1793866200,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1097304030,
       "sport_name": "Cricket",
@@ -4793,6 +4829,30 @@
       "streams": []
     },
     {
+      "match_id": 1119199753,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "abu-dhabi-t10-league-2026-1st-match-uae-bulls-vs-yas-lions-1119199753",
+      "title": "Abu Dhabi T10 League 2026 - 1st Match - UAE Bulls vs Yas Lions",
+      "status": "NS",
+      "league": {
+        "league_name": "Abu Dhabi T10 League 2026 - 1st Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "UAE Bulls",
+        "away_name": "Yas Lions",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5900bb5-c649-4223-ba98-485d7d264f17/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794051000,
+        "start_time_local": 1794051000,
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
       "match_id": 1145949158,
       "sport_name": "Football",
       "sport_id": 1,
@@ -5259,30 +5319,6 @@
           "required_referer2": null
         }
       ]
-    },
-    {
-      "match_id": 1081780749,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "usa-seniors-cricket-npl-2026-10th-match-austin-hunters-vs-ny-x-factor-1081780749",
-      "title": "USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor",
-      "status": "NS",
-      "league": {
-        "league_name": "USA Seniors Cricket NPL 2026 - 10th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Austin Hunters",
-        "away_name": "NY X-Factor",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6fb485ce-1efe-4bda-b3c6-9fed335ffe6e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794067200,
-        "start_time_local": 1794067200,
-        "countdown_seconds": null
-      },
-      "streams": []
     },
     {
       "match_id": 1826432289,
