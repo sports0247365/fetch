@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-05T00:30:28.915Z"
+    "last_update_time": "2026-11-05T00:35:21.840Z"
   },
   "live_matches": [
     {
@@ -734,6 +734,66 @@
       ]
     },
     {
+      "match_id": 1146647359,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "usa-seniors-cricket-npl-2026-3rd-match-austin-hunters-vs-washington-eagles-1146647359",
+      "title": "USA Seniors Cricket NPL 2026 - 3rd Match - Austin Hunters vs Washington Eagles",
+      "status": "LIVE",
+      "league": {
+        "league_name": "USA Seniors Cricket NPL 2026 - 3rd Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Austin Hunters",
+        "away_name": "Washington Eagles",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc7c6e05-e59b-410f-807b-697cacd0f841/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1793838600,
+        "start_time_local": 1793838600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "e2640cee439724e435e786303ea9668f",
+          "required_referer2": "f6109a1e9135a4aca6bf8ae4d761c51d"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "e2640cee439724e435e786303ea9668f",
+          "required_referer2": "f6109a1e9135a4aca6bf8ae4d761c51d"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "e2640cee439724e435e786303ea9668f",
+          "required_referer2": "f6109a1e9135a4aca6bf8ae4d761c51d"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "e2640cee439724e435e786303ea9668f",
+          "required_referer2": "f6109a1e9135a4aca6bf8ae4d761c51d"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "e2640cee439724e435e786303ea9668f",
+          "required_referer2": "f6109a1e9135a4aca6bf8ae4d761c51d"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -751,8 +811,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793838628,
-        "start_time_local": 1793838628,
+        "start_time_timestamp": 1793838921,
+        "start_time_local": 1793838921,
         "countdown_seconds": null
       },
       "streams": [
@@ -790,8 +850,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793838628,
-        "start_time_local": 1793838628,
+        "start_time_timestamp": 1793838921,
+        "start_time_local": 1793838921,
         "countdown_seconds": null
       },
       "streams": [
@@ -829,8 +889,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793838628,
-        "start_time_local": 1793838628,
+        "start_time_timestamp": 1793838921,
+        "start_time_local": 1793838921,
         "countdown_seconds": null
       },
       "streams": [
@@ -868,8 +928,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793838628,
-        "start_time_local": 1793838628,
+        "start_time_timestamp": 1793838921,
+        "start_time_local": 1793838921,
         "countdown_seconds": null
       },
       "streams": [
@@ -890,32 +950,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 203,
+  "total_upcoming_matches": 202,
   "upcoming_matches": [
-    {
-      "match_id": 1146647359,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "usa-seniors-cricket-npl-2026-3rd-match-austin-hunters-vs-washington-eagles-1146647359",
-      "title": "USA Seniors Cricket NPL 2026 - 3rd Match - Austin Hunters vs Washington Eagles",
-      "status": "NS",
-      "league": {
-        "league_name": "USA Seniors Cricket NPL 2026 - 3rd Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Austin Hunters",
-        "away_name": "Washington Eagles",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc7c6e05-e59b-410f-807b-697cacd0f841/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1793838600,
-        "start_time_local": 1793838600,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1415175638,
       "sport_name": "Basketball",
