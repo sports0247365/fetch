@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-06T20:00:36.956Z"
+    "last_update_time": "2026-11-06T20:05:21.296Z"
   },
   "live_matches": [
     {
@@ -850,6 +850,66 @@
       ]
     },
     {
+      "match_id": 1288963395,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "usa-seniors-cricket-npl-2026-8th-match-washington-eagles-vs-ny-x-factor-1288963395",
+      "title": "USA Seniors Cricket NPL 2026 - 8th Match - Washington Eagles vs NY X-Factor",
+      "status": "LIVE",
+      "league": {
+        "league_name": "USA Seniors Cricket NPL 2026 - 8th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Washington Eagles",
+        "away_name": "NY X-Factor",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0baf8e5c-6894-4383-9d74-c60c2ef7a535/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1793995200,
+        "start_time_local": 1793995200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tlrwnbn6fm/out/v1/c4da76dbf9de4a589bd149133217523b/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "a6ef0d83683308a1e0273dcd091a36e9",
+          "required_referer2": "b6110ea48b98af73e187c186a3123394"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tlrwnbn6fm/out/v1/c4da76dbf9de4a589bd149133217523b/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "a6ef0d83683308a1e0273dcd091a36e9",
+          "required_referer2": "b6110ea48b98af73e187c186a3123394"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/tlrwnbn6fm/out/v1/c4da76dbf9de4a589bd149133217523b/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "a6ef0d83683308a1e0273dcd091a36e9",
+          "required_referer2": "b6110ea48b98af73e187c186a3123394"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tlrwnbn6fm/out/v1/c4da76dbf9de4a589bd149133217523b/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "a6ef0d83683308a1e0273dcd091a36e9",
+          "required_referer2": "b6110ea48b98af73e187c186a3123394"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tlrwnbn6fm/out/v1/c4da76dbf9de4a589bd149133217523b/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "a6ef0d83683308a1e0273dcd091a36e9",
+          "required_referer2": "b6110ea48b98af73e187c186a3123394"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -867,8 +927,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793995236,
-        "start_time_local": 1793995236,
+        "start_time_timestamp": 1793995521,
+        "start_time_local": 1793995521,
         "countdown_seconds": null
       },
       "streams": [
@@ -906,8 +966,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793995236,
-        "start_time_local": 1793995236,
+        "start_time_timestamp": 1793995521,
+        "start_time_local": 1793995521,
         "countdown_seconds": null
       },
       "streams": [
@@ -945,8 +1005,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793995236,
-        "start_time_local": 1793995236,
+        "start_time_timestamp": 1793995521,
+        "start_time_local": 1793995521,
         "countdown_seconds": null
       },
       "streams": [
@@ -984,8 +1044,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793995236,
-        "start_time_local": 1793995236,
+        "start_time_timestamp": 1793995521,
+        "start_time_local": 1793995521,
         "countdown_seconds": null
       },
       "streams": [
@@ -1066,32 +1126,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 173,
+  "total_upcoming_matches": 172,
   "upcoming_matches": [
-    {
-      "match_id": 1288963395,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "usa-seniors-cricket-npl-2026-8th-match-washington-eagles-vs-ny-x-factor-1288963395",
-      "title": "USA Seniors Cricket NPL 2026 - 8th Match - Washington Eagles vs NY X-Factor",
-      "status": "NS",
-      "league": {
-        "league_name": "USA Seniors Cricket NPL 2026 - 8th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Washington Eagles",
-        "away_name": "NY X-Factor",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0baf8e5c-6894-4383-9d74-c60c2ef7a535/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1793995200,
-        "start_time_local": 1793995200,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1305139422,
       "sport_name": "Basketball",
