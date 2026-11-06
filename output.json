@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-06T00:35:20.670Z"
+    "last_update_time": "2026-11-06T00:40:23.816Z"
   },
   "live_matches": [
     {
@@ -798,6 +798,66 @@
       ]
     },
     {
+      "match_id": 1460853471,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "usa-seniors-cricket-npl-2026-6th-match-dallas-lions-vs-ny-x-factor-1460853471",
+      "title": "USA Seniors Cricket NPL 2026 - 6th Match - Dallas Lions vs NY X-Factor",
+      "status": "LIVE",
+      "league": {
+        "league_name": "USA Seniors Cricket NPL 2026 - 6th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Dallas Lions",
+        "away_name": "NY X-Factor",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.831bd809-a249-49ca-bc14-23a3f908c92d/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1793925000,
+        "start_time_local": 1793925000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fsebspc6zl/out/v1/5b62674bae8a48a49cd313b5adfa8a70/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "cda74401dccb782a232c8dc6c015cc10",
+          "required_referer2": "231a4a125891db8b66e6308b37a65851"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fsebspc6zl/out/v1/5b62674bae8a48a49cd313b5adfa8a70/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "cda74401dccb782a232c8dc6c015cc10",
+          "required_referer2": "231a4a125891db8b66e6308b37a65851"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/fsebspc6zl/out/v1/5b62674bae8a48a49cd313b5adfa8a70/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "cda74401dccb782a232c8dc6c015cc10",
+          "required_referer2": "231a4a125891db8b66e6308b37a65851"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsebspc6zl/out/v1/5b62674bae8a48a49cd313b5adfa8a70/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "cda74401dccb782a232c8dc6c015cc10",
+          "required_referer2": "231a4a125891db8b66e6308b37a65851"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsebspc6zl/out/v1/5b62674bae8a48a49cd313b5adfa8a70/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "cda74401dccb782a232c8dc6c015cc10",
+          "required_referer2": "231a4a125891db8b66e6308b37a65851"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -815,8 +875,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793925320,
-        "start_time_local": 1793925320,
+        "start_time_timestamp": 1793925623,
+        "start_time_local": 1793925623,
         "countdown_seconds": null
       },
       "streams": [
@@ -854,8 +914,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793925320,
-        "start_time_local": 1793925320,
+        "start_time_timestamp": 1793925623,
+        "start_time_local": 1793925623,
         "countdown_seconds": null
       },
       "streams": [
@@ -893,8 +953,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793925320,
-        "start_time_local": 1793925320,
+        "start_time_timestamp": 1793925623,
+        "start_time_local": 1793925623,
         "countdown_seconds": null
       },
       "streams": [
@@ -932,8 +992,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793925320,
-        "start_time_local": 1793925320,
+        "start_time_timestamp": 1793925623,
+        "start_time_local": 1793925623,
         "countdown_seconds": null
       },
       "streams": [
@@ -954,32 +1014,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 176,
+  "total_upcoming_matches": 175,
   "upcoming_matches": [
-    {
-      "match_id": 1460853471,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "usa-seniors-cricket-npl-2026-6th-match-dallas-lions-vs-ny-x-factor-1460853471",
-      "title": "USA Seniors Cricket NPL 2026 - 6th Match - Dallas Lions vs NY X-Factor",
-      "status": "NS",
-      "league": {
-        "league_name": "USA Seniors Cricket NPL 2026 - 6th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Dallas Lions",
-        "away_name": "NY X-Factor",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.831bd809-a249-49ca-bc14-23a3f908c92d/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1793925000,
-        "start_time_local": 1793925000,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1654548676,
       "sport_name": "Basketball",
