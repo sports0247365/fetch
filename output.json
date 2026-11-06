@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-06T05:05:20.486Z"
+    "last_update_time": "2026-11-06T05:10:24.346Z"
   },
   "live_matches": [
     {
@@ -599,7 +599,7 @@
       "teams": {
         "home_name": "Pakistan U19",
         "away_name": "United Arab Emirates U19",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9bf08245-f2fa-4124-918a-e78c07173414/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9bf08245-f2fa-4124-918a-e78c07173414/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
       },
       "timing": {
         "start_time_timestamp": 1793939400,
@@ -608,11 +608,39 @@
       },
       "streams": [
         {
-          "server_name": "Original Server",
-          "play_url": "https://live-emt-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprAR7hBhpq7VhhA2ZmYXN0bHkCeChmaWQ6MDFhMWFmMjEtM2Q3My03NGRlLWJjZWQtOTM5ODBkY2NjNGY3GQE4oQWhAngzL3dvenB4bDBoaWYvb3V0L3YxLzNlMTAwMTJhNDkwMDQzNWU4Y2VlZTlhZjNlZGVkZDMzWCDlqcq3k0Wvkp-Gelboit8Nlg9i5WeJ3vginqqFW8DrHA/CMH/1b05aa009f384731a9a598d60edc6132/v1/dash/746463508834/willowtvus_live_amzn1_dv_live_csid_62b57eca-079a-4637-a724-3e8f708cec06_us-east-1_cmh_dash_h264_none_stereo/live/clients/dash/enc/wozpxl0hif/out/v1/3e10012a4900435e8ceee9af3ededd33/cenc.mpd?aws.sessionId=bbd1a3b8-0867-4cb4-9e21-23034944f851",
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wozpxl0hif/out/v1/3e10012a4900435e8ceee9af3ededd33/cenc.mpd",
           "is_new_format": true,
-          "required_referer": null,
-          "required_referer2": null
+          "required_referer": "1dcfabc6b441908d78cc7106e30e906f",
+          "required_referer2": "8e086929f79491b9a2076d0d04eb7317"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wozpxl0hif/out/v1/3e10012a4900435e8ceee9af3ededd33/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "1dcfabc6b441908d78cc7106e30e906f",
+          "required_referer2": "8e086929f79491b9a2076d0d04eb7317"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wozpxl0hif/out/v1/3e10012a4900435e8ceee9af3ededd33/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "1dcfabc6b441908d78cc7106e30e906f",
+          "required_referer2": "8e086929f79491b9a2076d0d04eb7317"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wozpxl0hif/out/v1/3e10012a4900435e8ceee9af3ededd33/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "1dcfabc6b441908d78cc7106e30e906f",
+          "required_referer2": "8e086929f79491b9a2076d0d04eb7317"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wozpxl0hif/out/v1/3e10012a4900435e8ceee9af3ededd33/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "1dcfabc6b441908d78cc7106e30e906f",
+          "required_referer2": "8e086929f79491b9a2076d0d04eb7317"
         }
       ]
     },
@@ -631,7 +659,7 @@
       "teams": {
         "home_name": "India U19",
         "away_name": "Nepal U19",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a0de9d6-4ac7-4a6c-9e4d-83a2b84d5c3b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a0de9d6-4ac7-4a6c-9e4d-83a2b84d5c3b/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
       },
       "timing": {
         "start_time_timestamp": 1793939400,
@@ -694,8 +722,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793941520,
-        "start_time_local": 1793941520,
+        "start_time_timestamp": 1793941824,
+        "start_time_local": 1793941824,
         "countdown_seconds": null
       },
       "streams": [
@@ -733,8 +761,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793941520,
-        "start_time_local": 1793941520,
+        "start_time_timestamp": 1793941824,
+        "start_time_local": 1793941824,
         "countdown_seconds": null
       },
       "streams": [
@@ -772,8 +800,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793941520,
-        "start_time_local": 1793941520,
+        "start_time_timestamp": 1793941824,
+        "start_time_local": 1793941824,
         "countdown_seconds": null
       },
       "streams": [
@@ -811,8 +839,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793941520,
-        "start_time_local": 1793941520,
+        "start_time_timestamp": 1793941824,
+        "start_time_local": 1793941824,
         "countdown_seconds": null
       },
       "streams": [
@@ -850,11 +878,11 @@
       "teams": {
         "home_name": "Afghanistan",
         "away_name": "Zimbabwe",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/6/BOXART-16X9/en-US._UR1920,1080_.jpeg"
       },
       "timing": {
-        "start_time_timestamp": 1793941200,
-        "start_time_local": 1793941200,
+        "start_time_timestamp": 1793943000,
+        "start_time_local": 1793943000,
         "countdown_seconds": null
       },
       "streams": []
