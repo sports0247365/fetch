@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-06T15:30:31.700Z"
+    "last_update_time": "2026-11-06T15:35:20.931Z"
   },
   "live_matches": [
     {
@@ -538,6 +538,66 @@
       ]
     },
     {
+      "match_id": 1269915125,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "usa-seniors-cricket-npl-2026-7th-match-dallas-lions-vs-austin-hunters-1269915125",
+      "title": "USA Seniors Cricket NPL 2026 - 7th Match - Dallas Lions vs Austin Hunters",
+      "status": "LIVE",
+      "league": {
+        "league_name": "USA Seniors Cricket NPL 2026 - 7th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Dallas Lions",
+        "away_name": "Austin Hunters",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.85bff6c4-27c1-4da1-91ec-749fff3faf42/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1793979000,
+        "start_time_local": 1793979000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i90z8gmbxh/out/v1/d9a0e95ca9ff4f3e86d4585bf1d8affd/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "ecd93646972644952e232bd0b5f9a0e7",
+          "required_referer2": "4cf7783909baf9e3925052fd060187ee"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i90z8gmbxh/out/v1/d9a0e95ca9ff4f3e86d4585bf1d8affd/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "ecd93646972644952e232bd0b5f9a0e7",
+          "required_referer2": "4cf7783909baf9e3925052fd060187ee"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/i90z8gmbxh/out/v1/d9a0e95ca9ff4f3e86d4585bf1d8affd/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "ecd93646972644952e232bd0b5f9a0e7",
+          "required_referer2": "4cf7783909baf9e3925052fd060187ee"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/i90z8gmbxh/out/v1/d9a0e95ca9ff4f3e86d4585bf1d8affd/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "ecd93646972644952e232bd0b5f9a0e7",
+          "required_referer2": "4cf7783909baf9e3925052fd060187ee"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/i90z8gmbxh/out/v1/d9a0e95ca9ff4f3e86d4585bf1d8affd/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "ecd93646972644952e232bd0b5f9a0e7",
+          "required_referer2": "4cf7783909baf9e3925052fd060187ee"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -555,8 +615,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793979031,
-        "start_time_local": 1793979031,
+        "start_time_timestamp": 1793979320,
+        "start_time_local": 1793979320,
         "countdown_seconds": null
       },
       "streams": [
@@ -594,8 +654,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793979031,
-        "start_time_local": 1793979031,
+        "start_time_timestamp": 1793979320,
+        "start_time_local": 1793979320,
         "countdown_seconds": null
       },
       "streams": [
@@ -633,8 +693,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793979031,
-        "start_time_local": 1793979031,
+        "start_time_timestamp": 1793979320,
+        "start_time_local": 1793979320,
         "countdown_seconds": null
       },
       "streams": [
@@ -672,8 +732,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1793979031,
-        "start_time_local": 1793979031,
+        "start_time_timestamp": 1793979320,
+        "start_time_local": 1793979320,
         "countdown_seconds": null
       },
       "streams": [
@@ -694,32 +754,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 183,
+  "total_upcoming_matches": 182,
   "upcoming_matches": [
-    {
-      "match_id": 1269915125,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "usa-seniors-cricket-npl-2026-7th-match-dallas-lions-vs-austin-hunters-1269915125",
-      "title": "USA Seniors Cricket NPL 2026 - 7th Match - Dallas Lions vs Austin Hunters",
-      "status": "NS",
-      "league": {
-        "league_name": "USA Seniors Cricket NPL 2026 - 7th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Dallas Lions",
-        "away_name": "Austin Hunters",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.85bff6c4-27c1-4da1-91ec-749fff3faf42/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1793980800,
-        "start_time_local": 1793980800,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1539609444,
       "sport_name": "Football",
