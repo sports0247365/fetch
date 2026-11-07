@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-07T06:05:20.495Z"
+    "last_update_time": "2026-11-07T06:10:26.421Z"
   },
   "live_matches": [
     {
@@ -705,6 +705,66 @@
       ]
     },
     {
+      "match_id": 1163463188,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "afghanistan-vs-zimbabwe-in-uae-2026-1st-test-afghanistan-vs-zimbabwe-1163463188",
+      "title": "Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Afghanistan vs Zimbabwe in UAE 2026 - 1st Test",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Afghanistan",
+        "away_name": "Zimbabwe",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/9/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794029400,
+        "start_time_local": 1794029400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "8e9af61f4a7f6d5a8f27cd3b85cc9a1d",
+          "required_referer2": "bafb7bbc65820a0d0a5f77a990db7b76"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "8e9af61f4a7f6d5a8f27cd3b85cc9a1d",
+          "required_referer2": "bafb7bbc65820a0d0a5f77a990db7b76"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "8e9af61f4a7f6d5a8f27cd3b85cc9a1d",
+          "required_referer2": "bafb7bbc65820a0d0a5f77a990db7b76"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "8e9af61f4a7f6d5a8f27cd3b85cc9a1d",
+          "required_referer2": "bafb7bbc65820a0d0a5f77a990db7b76"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "8e9af61f4a7f6d5a8f27cd3b85cc9a1d",
+          "required_referer2": "bafb7bbc65820a0d0a5f77a990db7b76"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -722,8 +782,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794031520,
-        "start_time_local": 1794031520,
+        "start_time_timestamp": 1794031826,
+        "start_time_local": 1794031826,
         "countdown_seconds": null
       },
       "streams": [
@@ -761,8 +821,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794031520,
-        "start_time_local": 1794031520,
+        "start_time_timestamp": 1794031826,
+        "start_time_local": 1794031826,
         "countdown_seconds": null
       },
       "streams": [
@@ -800,8 +860,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794031520,
-        "start_time_local": 1794031520,
+        "start_time_timestamp": 1794031826,
+        "start_time_local": 1794031826,
         "countdown_seconds": null
       },
       "streams": [
@@ -839,8 +899,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794031520,
-        "start_time_local": 1794031520,
+        "start_time_timestamp": 1794031826,
+        "start_time_local": 1794031826,
         "countdown_seconds": null
       },
       "streams": [
@@ -861,32 +921,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 167,
+  "total_upcoming_matches": 166,
   "upcoming_matches": [
-    {
-      "match_id": 1163463188,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "afghanistan-vs-zimbabwe-in-uae-2026-1st-test-afghanistan-vs-zimbabwe-1163463188",
-      "title": "Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe",
-      "status": "NS",
-      "league": {
-        "league_name": "Afghanistan vs Zimbabwe in UAE 2026 - 1st Test",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Afghanistan",
-        "away_name": "Zimbabwe",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/9/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794029400,
-        "start_time_local": 1794029400,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1121076704,
       "sport_name": "Basketball",
