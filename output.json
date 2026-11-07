@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-07T11:55:21.465Z"
+    "last_update_time": "2026-11-07T12:00:35.513Z"
   },
   "live_matches": [
     {
@@ -644,8 +644,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794052521,
-        "start_time_local": 1794052521,
+        "start_time_timestamp": 1794052835,
+        "start_time_local": 1794052835,
         "countdown_seconds": null
       },
       "streams": [
@@ -683,8 +683,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794052521,
-        "start_time_local": 1794052521,
+        "start_time_timestamp": 1794052835,
+        "start_time_local": 1794052835,
         "countdown_seconds": null
       },
       "streams": [
@@ -722,8 +722,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794052521,
-        "start_time_local": 1794052521,
+        "start_time_timestamp": 1794052835,
+        "start_time_local": 1794052835,
         "countdown_seconds": null
       },
       "streams": [
@@ -761,8 +761,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794052521,
-        "start_time_local": 1794052521,
+        "start_time_timestamp": 1794052835,
+        "start_time_local": 1794052835,
         "countdown_seconds": null
       },
       "streams": [
@@ -783,7 +783,7 @@
       ]
     }
   ],
-  "total_upcoming_matches": 173,
+  "total_upcoming_matches": 176,
   "upcoming_matches": [
     {
       "match_id": 1145949158,
@@ -1539,6 +1539,123 @@
         {
           "server_name": "SD | Paramount+",
           "play_url": "https://taifood-blog.asia/embed/efl-championship/2026-11-07/wat-mid_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1071809481,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "birmingham-city-vs-swansea-city-1071809481",
+      "title": "Birmingham City vs. Swansea City",
+      "status": "NS",
+      "league": {
+        "league_name": "EFL Championship",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Birmingham City",
+        "away_name": "Swansea City",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/3e76eb199217e651cb33ef3e5581d232-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794063600,
+        "start_time_local": 1794063600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/efl-championship/2026-11-07/bir-swa",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/efl-championship/2026-11-07/bir-swa_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1745901851,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "blackburn-rovers-vs-west-ham-united-1745901851",
+      "title": "Blackburn Rovers vs. West Ham United",
+      "status": "NS",
+      "league": {
+        "league_name": "EFL Championship",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Blackburn Rovers",
+        "away_name": "West Ham United",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/9d0c32ae8a544190763efc01a36e8d52-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794063600,
+        "start_time_local": 1794063600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/efl-championship/2026-11-07/blk-whu",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/efl-championship/2026-11-07/blk-whu_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1042849449,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "charlton-athletic-vs-sheffield-united-1042849449",
+      "title": "Charlton Athletic vs. Sheffield United",
+      "status": "NS",
+      "league": {
+        "league_name": "EFL Championship",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Charlton Athletic",
+        "away_name": "Sheffield United",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/e6ed95d553d6a5eb21f835042a08299d-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794063600,
+        "start_time_local": 1794063600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/efl-championship/2026-11-07/cha-shu",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/efl-championship/2026-11-07/cha-shu_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
