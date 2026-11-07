@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-07T11:10:23.019Z"
+    "last_update_time": "2026-11-07T11:15:22.779Z"
   },
   "live_matches": [
     {
@@ -743,8 +743,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794049823,
-        "start_time_local": 1794049823,
+        "start_time_timestamp": 1794050122,
+        "start_time_local": 1794050122,
         "countdown_seconds": null
       },
       "streams": [
@@ -782,8 +782,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794049823,
-        "start_time_local": 1794049823,
+        "start_time_timestamp": 1794050122,
+        "start_time_local": 1794050122,
         "countdown_seconds": null
       },
       "streams": [
@@ -821,8 +821,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794049823,
-        "start_time_local": 1794049823,
+        "start_time_timestamp": 1794050122,
+        "start_time_local": 1794050122,
         "countdown_seconds": null
       },
       "streams": [
@@ -860,8 +860,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794049823,
-        "start_time_local": 1794049823,
+        "start_time_timestamp": 1794050122,
+        "start_time_local": 1794050122,
         "countdown_seconds": null
       },
       "streams": [
@@ -882,7 +882,7 @@
       ]
     }
   ],
-  "total_upcoming_matches": 166,
+  "total_upcoming_matches": 169,
   "upcoming_matches": [
     {
       "match_id": 1145949158,
@@ -908,15 +908,132 @@
       },
       "streams": [
         {
-          "server_name": "HD | Premier League",
+          "server_name": "HD | TNT Sports 1",
           "play_url": "https://taifood-blog.asia/embed/pl/2026-11-07/lee-tot",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | Premier League",
+          "server_name": "SD | TNT Sports 1",
           "play_url": "https://taifood-blog.asia/embed/pl/2026-11-07/lee-tot_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1846564982,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "bristol-city-vs-norwich-city-1846564982",
+      "title": "Bristol City vs. Norwich City",
+      "status": "NS",
+      "league": {
+        "league_name": "EFL Championship",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Bristol City",
+        "away_name": "Norwich City",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/76585d7b4fc394d8aedc8db1bb061b7f-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794054600,
+        "start_time_local": 1794054600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Sky Sports+",
+          "play_url": "https://taifood-blog.asia/embed/efl-championship/2026-11-07/brc-nor",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Sky Sports+",
+          "play_url": "https://taifood-blog.asia/embed/efl-championship/2026-11-07/brc-nor_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1068419536,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "portsmouth-vs-stoke-city-1068419536",
+      "title": "Portsmouth vs. Stoke City",
+      "status": "NS",
+      "league": {
+        "league_name": "EFL Championship",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Portsmouth",
+        "away_name": "Stoke City",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/a80f4a0a907da198cb5c293c3c504a26-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794054600,
+        "start_time_local": 1794054600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Sky Sports",
+          "play_url": "https://taifood-blog.asia/embed/efl-championship/2026-11-07/por-stk",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Sky Sports",
+          "play_url": "https://taifood-blog.asia/embed/efl-championship/2026-11-07/por-stk_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1149403631,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "wrexham-vs-wolverhampton-wanderers-1149403631",
+      "title": "Wrexham vs. Wolverhampton Wanderers",
+      "status": "NS",
+      "league": {
+        "league_name": "EFL Championship",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Wrexham",
+        "away_name": "Wolverhampton Wanderers",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/a1187c0fc62569cbf172ef71ab5126c9-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794054600,
+        "start_time_local": 1794054600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | EFL Championship",
+          "play_url": "https://taifood-blog.asia/embed/efl-championship/2026-11-07/wxm-wol",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | EFL Championship",
+          "play_url": "https://taifood-blog.asia/embed/efl-championship/2026-11-07/wxm-wol_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
@@ -1395,14 +1512,14 @@
       },
       "streams": [
         {
-          "server_name": "HD | Premier League",
+          "server_name": "HD | Sky Sport 8",
           "play_url": "https://taifood-blog.asia/embed/pl/2026-11-07/ars-hul",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | Premier League",
+          "server_name": "SD | Sky Sport 8",
           "play_url": "https://taifood-blog.asia/embed/pl/2026-11-07/ars-hul_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
@@ -1434,14 +1551,14 @@
       },
       "streams": [
         {
-          "server_name": "HD | Premier League",
+          "server_name": "HD | Sky Sport 7",
           "play_url": "https://taifood-blog.asia/embed/pl/2026-11-07/ful-new",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | Premier League",
+          "server_name": "SD | Sky Sport 7",
           "play_url": "https://taifood-blog.asia/embed/pl/2026-11-07/ful-new_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
@@ -2095,14 +2212,14 @@
       },
       "streams": [
         {
-          "server_name": "HD | Premier League",
+          "server_name": "HD | Sky Sports Premier League",
           "play_url": "https://taifood-blog.asia/embed/pl/2026-11-07/nfo-mci",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | Premier League",
+          "server_name": "SD | Sky Sports Premier League",
           "play_url": "https://taifood-blog.asia/embed/pl/2026-11-07/nfo-mci_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
@@ -3340,14 +3457,14 @@
       },
       "streams": [
         {
-          "server_name": "HD | Liga MX",
+          "server_name": "HD | ViX Premium 2",
           "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-07/ats-pac",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | Liga MX",
+          "server_name": "SD | ViX Premium 2",
           "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-07/ats-pac_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
@@ -3379,14 +3496,14 @@
       },
       "streams": [
         {
-          "server_name": "HD | Liga MX",
+          "server_name": "HD | SportsGrid",
           "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-07/uanl-caz",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | Liga MX",
+          "server_name": "SD | SportsGrid",
           "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-07/uanl-caz_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
@@ -4306,14 +4423,14 @@
       },
       "streams": [
         {
-          "server_name": "HD | Liga MX",
+          "server_name": "HD | TUDN",
           "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-07/tol-mty",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | Liga MX",
+          "server_name": "SD | TUDN",
           "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-07/tol-mty_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
@@ -4763,14 +4880,14 @@
       },
       "streams": [
         {
-          "server_name": "HD | Liga MX",
+          "server_name": "HD | TUDN",
           "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-07/unam-ame",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | Liga MX",
+          "server_name": "SD | TUDN",
           "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-07/unam-ame_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
