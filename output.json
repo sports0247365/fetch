@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-07T15:35:20.747Z"
+    "last_update_time": "2026-11-07T15:40:24.640Z"
   },
   "live_matches": [
     {
@@ -1183,6 +1183,66 @@
       ]
     },
     {
+      "match_id": 1081780749,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "usa-seniors-cricket-npl-2026-10th-match-austin-hunters-vs-ny-x-factor-1081780749",
+      "title": "USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor",
+      "status": "LIVE",
+      "league": {
+        "league_name": "USA Seniors Cricket NPL 2026 - 10th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Austin Hunters",
+        "away_name": "NY X-Factor",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6fb485ce-1efe-4bda-b3c6-9fed335ffe6e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794065400,
+        "start_time_local": 1794065400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oodskycgpe/out/v1/a11dc32439b64b9fb7827a7bec0c3856/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c4ea268507a0122a022aec88c67deaa0",
+          "required_referer2": "780d4b59a68bf3a6ad7e488ac13c0c9c"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oodskycgpe/out/v1/a11dc32439b64b9fb7827a7bec0c3856/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c4ea268507a0122a022aec88c67deaa0",
+          "required_referer2": "780d4b59a68bf3a6ad7e488ac13c0c9c"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/oodskycgpe/out/v1/a11dc32439b64b9fb7827a7bec0c3856/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c4ea268507a0122a022aec88c67deaa0",
+          "required_referer2": "780d4b59a68bf3a6ad7e488ac13c0c9c"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/oodskycgpe/out/v1/a11dc32439b64b9fb7827a7bec0c3856/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c4ea268507a0122a022aec88c67deaa0",
+          "required_referer2": "780d4b59a68bf3a6ad7e488ac13c0c9c"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/oodskycgpe/out/v1/a11dc32439b64b9fb7827a7bec0c3856/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c4ea268507a0122a022aec88c67deaa0",
+          "required_referer2": "780d4b59a68bf3a6ad7e488ac13c0c9c"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -1200,8 +1260,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794065720,
-        "start_time_local": 1794065720,
+        "start_time_timestamp": 1794066024,
+        "start_time_local": 1794066024,
         "countdown_seconds": null
       },
       "streams": [
@@ -1239,8 +1299,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794065720,
-        "start_time_local": 1794065720,
+        "start_time_timestamp": 1794066024,
+        "start_time_local": 1794066024,
         "countdown_seconds": null
       },
       "streams": [
@@ -1278,8 +1338,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794065720,
-        "start_time_local": 1794065720,
+        "start_time_timestamp": 1794066024,
+        "start_time_local": 1794066024,
         "countdown_seconds": null
       },
       "streams": [
@@ -1317,8 +1377,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794065720,
-        "start_time_local": 1794065720,
+        "start_time_timestamp": 1794066024,
+        "start_time_local": 1794066024,
         "countdown_seconds": null
       },
       "streams": [
@@ -1339,7 +1399,7 @@
       ]
     }
   ],
-  "total_upcoming_matches": 159,
+  "total_upcoming_matches": 158,
   "upcoming_matches": [
     {
       "match_id": 1478558769,
@@ -1379,30 +1439,6 @@
           "required_referer2": null
         }
       ]
-    },
-    {
-      "match_id": 1081780749,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "usa-seniors-cricket-npl-2026-10th-match-austin-hunters-vs-ny-x-factor-1081780749",
-      "title": "USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor",
-      "status": "NS",
-      "league": {
-        "league_name": "USA Seniors Cricket NPL 2026 - 10th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Austin Hunters",
-        "away_name": "NY X-Factor",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6fb485ce-1efe-4bda-b3c6-9fed335ffe6e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794067200,
-        "start_time_local": 1794067200,
-        "countdown_seconds": null
-      },
-      "streams": []
     },
     {
       "match_id": 1487557698,
