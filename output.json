@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-07T11:00:34.928Z"
+    "last_update_time": "2026-11-07T11:05:22.494Z"
   },
   "live_matches": [
     {
@@ -666,6 +666,66 @@
       ]
     },
     {
+      "match_id": 1119199753,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "abu-dhabi-t10-league-2026-1st-match-uae-bulls-vs-yas-lions-1119199753",
+      "title": "Abu Dhabi T10 League 2026 - 1st Match - UAE Bulls vs Yas Lions",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Abu Dhabi T10 League 2026 - 1st Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "UAE Bulls",
+        "away_name": "Yas Lions",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5900bb5-c649-4223-ba98-485d7d264f17/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794049200,
+        "start_time_local": 1794049200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u5yu46v8qv/out/v1/ba3ef04be3ff4351bcee7c1c3f7f6043/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "14959da8f9875554b690371dac4e2e5f",
+          "required_referer2": "bad6682edf4b318c0ba3501758fe8cb9"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u5yu46v8qv/out/v1/ba3ef04be3ff4351bcee7c1c3f7f6043/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "14959da8f9875554b690371dac4e2e5f",
+          "required_referer2": "bad6682edf4b318c0ba3501758fe8cb9"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/u5yu46v8qv/out/v1/ba3ef04be3ff4351bcee7c1c3f7f6043/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "14959da8f9875554b690371dac4e2e5f",
+          "required_referer2": "bad6682edf4b318c0ba3501758fe8cb9"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u5yu46v8qv/out/v1/ba3ef04be3ff4351bcee7c1c3f7f6043/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "14959da8f9875554b690371dac4e2e5f",
+          "required_referer2": "bad6682edf4b318c0ba3501758fe8cb9"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u5yu46v8qv/out/v1/ba3ef04be3ff4351bcee7c1c3f7f6043/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "14959da8f9875554b690371dac4e2e5f",
+          "required_referer2": "bad6682edf4b318c0ba3501758fe8cb9"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -683,8 +743,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794049234,
-        "start_time_local": 1794049234,
+        "start_time_timestamp": 1794049522,
+        "start_time_local": 1794049522,
         "countdown_seconds": null
       },
       "streams": [
@@ -722,8 +782,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794049234,
-        "start_time_local": 1794049234,
+        "start_time_timestamp": 1794049522,
+        "start_time_local": 1794049522,
         "countdown_seconds": null
       },
       "streams": [
@@ -761,8 +821,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794049234,
-        "start_time_local": 1794049234,
+        "start_time_timestamp": 1794049522,
+        "start_time_local": 1794049522,
         "countdown_seconds": null
       },
       "streams": [
@@ -800,8 +860,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794049234,
-        "start_time_local": 1794049234,
+        "start_time_timestamp": 1794049522,
+        "start_time_local": 1794049522,
         "countdown_seconds": null
       },
       "streams": [
@@ -822,32 +882,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 167,
+  "total_upcoming_matches": 166,
   "upcoming_matches": [
-    {
-      "match_id": 1119199753,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "abu-dhabi-t10-league-2026-1st-match-uae-bulls-vs-yas-lions-1119199753",
-      "title": "Abu Dhabi T10 League 2026 - 1st Match - UAE Bulls vs Yas Lions",
-      "status": "NS",
-      "league": {
-        "league_name": "Abu Dhabi T10 League 2026 - 1st Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "UAE Bulls",
-        "away_name": "Yas Lions",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5900bb5-c649-4223-ba98-485d7d264f17/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794051000,
-        "start_time_local": 1794051000,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1145949158,
       "sport_name": "Football",
