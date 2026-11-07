@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-07T02:00:36.327Z"
+    "last_update_time": "2026-11-07T02:05:20.404Z"
   },
   "live_matches": [
     {
@@ -1152,6 +1152,66 @@
       ]
     },
     {
+      "match_id": 1684007033,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "india-tour-of-new-zealand-2026-2nd-odi-new-zealand-vs-india-1684007033",
+      "title": "India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India",
+      "status": "LIVE",
+      "league": {
+        "league_name": "India tour of New Zealand 2026 - 2nd ODI",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "New Zealand",
+        "away_name": "India",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d579999e-b24f-4858-8739-cf9a57ed3a01/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794015600,
+        "start_time_local": 1794015600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "5718f40a4901526a597012cc242b4c4a",
+          "required_referer2": "6d47e18a26287fa2a4e641901f07e50f"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "5718f40a4901526a597012cc242b4c4a",
+          "required_referer2": "6d47e18a26287fa2a4e641901f07e50f"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "5718f40a4901526a597012cc242b4c4a",
+          "required_referer2": "6d47e18a26287fa2a4e641901f07e50f"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "5718f40a4901526a597012cc242b4c4a",
+          "required_referer2": "6d47e18a26287fa2a4e641901f07e50f"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "5718f40a4901526a597012cc242b4c4a",
+          "required_referer2": "6d47e18a26287fa2a4e641901f07e50f"
+        }
+      ]
+    },
+    {
       "match_id": 1639259029,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -1325,8 +1385,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794016836,
-        "start_time_local": 1794016836,
+        "start_time_timestamp": 1794017120,
+        "start_time_local": 1794017120,
         "countdown_seconds": null
       },
       "streams": [
@@ -1364,8 +1424,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794016836,
-        "start_time_local": 1794016836,
+        "start_time_timestamp": 1794017120,
+        "start_time_local": 1794017120,
         "countdown_seconds": null
       },
       "streams": [
@@ -1403,8 +1463,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794016836,
-        "start_time_local": 1794016836,
+        "start_time_timestamp": 1794017120,
+        "start_time_local": 1794017120,
         "countdown_seconds": null
       },
       "streams": [
@@ -1442,8 +1502,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794016836,
-        "start_time_local": 1794016836,
+        "start_time_timestamp": 1794017120,
+        "start_time_local": 1794017120,
         "countdown_seconds": null
       },
       "streams": [
@@ -1464,32 +1524,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 151,
+  "total_upcoming_matches": 150,
   "upcoming_matches": [
-    {
-      "match_id": 1684007033,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "india-tour-of-new-zealand-2026-2nd-odi-new-zealand-vs-india-1684007033",
-      "title": "India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India",
-      "status": "NS",
-      "league": {
-        "league_name": "India tour of New Zealand 2026 - 2nd ODI",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "New Zealand",
-        "away_name": "India",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d579999e-b24f-4858-8739-cf9a57ed3a01/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794016800,
-        "start_time_local": 1794016800,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1820263792,
       "sport_name": "Basketball",
