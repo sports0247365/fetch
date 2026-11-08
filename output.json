@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-08T18:25:20.836Z"
+    "last_update_time": "2026-11-08T18:30:30.197Z"
   },
   "live_matches": [
     {
@@ -380,45 +380,6 @@
         {
           "server_name": "SD | Fox News",
           "play_url": "https://taifood-blog.asia/embed/fox-news-31730_540p",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        }
-      ]
-    },
-    {
-      "match_id": 1802658909,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "cincinnati-bengals-at-atlanta-falcons-1802658909",
-      "title": "Cincinnati Bengals at Atlanta Falcons",
-      "status": "LIVE",
-      "league": {
-        "league_name": "NFL",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Cincinnati Bengals",
-        "away_name": "Atlanta Falcons",
-        "combined_logo": "https://static.ppvservices.st/assets/thumb/ac7eaad65894c4b320f97f3d4c6bc05a-thumbnail.jpg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794148200,
-        "start_time_local": 1794148200,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "HD | NFL Network",
-          "play_url": "https://taifood-blog.asia/embed/nfl/2026-11-08/cin-atl",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        },
-        {
-          "server_name": "SD | NFL Network",
-          "play_url": "https://taifood-blog.asia/embed/nfl/2026-11-08/cin-atl_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
@@ -1357,6 +1318,45 @@
       ]
     },
     {
+      "match_id": 1643047681,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "tsg-hoffenheim-vs-schalke-04-1643047681",
+      "title": "TSG Hoffenheim vs. Schalke 04",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Bundesliga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "TSG Hoffenheim",
+        "away_name": "Schalke 04",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/d9bf8b17068878a14e2ae7a2d4aad1dd-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794162600,
+        "start_time_local": 1794162600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Fandango",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-08/tsg-s04",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Fandango",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-08/tsg-s04_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -1374,8 +1374,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794162320,
-        "start_time_local": 1794162320,
+        "start_time_timestamp": 1794162630,
+        "start_time_local": 1794162630,
         "countdown_seconds": null
       },
       "streams": [
@@ -1413,8 +1413,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794162320,
-        "start_time_local": 1794162320,
+        "start_time_timestamp": 1794162630,
+        "start_time_local": 1794162630,
         "countdown_seconds": null
       },
       "streams": [
@@ -1452,8 +1452,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794162320,
-        "start_time_local": 1794162320,
+        "start_time_timestamp": 1794162630,
+        "start_time_local": 1794162630,
         "countdown_seconds": null
       },
       "streams": [
@@ -1491,8 +1491,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794162320,
-        "start_time_local": 1794162320,
+        "start_time_timestamp": 1794162630,
+        "start_time_local": 1794162630,
         "countdown_seconds": null
       },
       "streams": [
@@ -1633,47 +1633,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 58,
+  "total_upcoming_matches": 57,
   "upcoming_matches": [
-    {
-      "match_id": 1643047681,
-      "sport_name": "Football",
-      "sport_id": 1,
-      "slug": "tsg-hoffenheim-vs-schalke-04-1643047681",
-      "title": "TSG Hoffenheim vs. Schalke 04",
-      "status": "NS",
-      "league": {
-        "league_name": "Bundesliga",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "TSG Hoffenheim",
-        "away_name": "Schalke 04",
-        "combined_logo": "https://static.ppvservices.st/assets/thumb/d9bf8b17068878a14e2ae7a2d4aad1dd-thumbnail.jpg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794162600,
-        "start_time_local": 1794162600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "HD | Fandango",
-          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-08/tsg-s04",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        },
-        {
-          "server_name": "SD | Fandango",
-          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-08/tsg-s04_540p",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        }
-      ]
-    },
     {
       "match_id": 1202994866,
       "sport_name": "Football",
