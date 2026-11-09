@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-09T00:35:21.996Z"
+    "last_update_time": "2026-11-09T00:40:25.023Z"
   },
   "live_matches": [
     {
@@ -904,6 +904,66 @@
       ]
     },
     {
+      "match_id": 1159888388,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "usa-seniors-cricket-npl-2026-final-washington-eagles-vs-austin-hunters-1159888388",
+      "title": "USA Seniors Cricket NPL 2026 - Final - Washington Eagles vs Austin Hunters",
+      "status": "LIVE",
+      "league": {
+        "league_name": "USA Seniors Cricket NPL 2026 - Final",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Washington Eagles",
+        "away_name": "Austin Hunters",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fe82486f-c82d-4394-8cf3-a1c2502713ab/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794183900,
+        "start_time_local": 1794183900,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1ov85gjlem/out/v1/4f8e34db6efe48f5927d851ae4304045/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "fd036a56727c3d94f2baeb8a338483f5",
+          "required_referer2": "dc991f1c73cb6d1c5694889cafcac434"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1ov85gjlem/out/v1/4f8e34db6efe48f5927d851ae4304045/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "fd036a56727c3d94f2baeb8a338483f5",
+          "required_referer2": "dc991f1c73cb6d1c5694889cafcac434"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/1ov85gjlem/out/v1/4f8e34db6efe48f5927d851ae4304045/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "fd036a56727c3d94f2baeb8a338483f5",
+          "required_referer2": "dc991f1c73cb6d1c5694889cafcac434"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/1ov85gjlem/out/v1/4f8e34db6efe48f5927d851ae4304045/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "fd036a56727c3d94f2baeb8a338483f5",
+          "required_referer2": "dc991f1c73cb6d1c5694889cafcac434"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/1ov85gjlem/out/v1/4f8e34db6efe48f5927d851ae4304045/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "fd036a56727c3d94f2baeb8a338483f5",
+          "required_referer2": "dc991f1c73cb6d1c5694889cafcac434"
+        }
+      ]
+    },
+    {
       "match_id": 1822652914,
       "sport_name": "Basketball",
       "sport_id": 2,
@@ -974,8 +1034,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794184521,
-        "start_time_local": 1794184521,
+        "start_time_timestamp": 1794184825,
+        "start_time_local": 1794184825,
         "countdown_seconds": null
       },
       "streams": [
@@ -1013,8 +1073,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794184521,
-        "start_time_local": 1794184521,
+        "start_time_timestamp": 1794184825,
+        "start_time_local": 1794184825,
         "countdown_seconds": null
       },
       "streams": [
@@ -1052,8 +1112,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794184521,
-        "start_time_local": 1794184521,
+        "start_time_timestamp": 1794184825,
+        "start_time_local": 1794184825,
         "countdown_seconds": null
       },
       "streams": [
@@ -1091,8 +1151,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794184521,
-        "start_time_local": 1794184521,
+        "start_time_timestamp": 1794184825,
+        "start_time_local": 1794184825,
         "countdown_seconds": null
       },
       "streams": [
@@ -1113,32 +1173,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 41,
+  "total_upcoming_matches": 40,
   "upcoming_matches": [
-    {
-      "match_id": 1159888388,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "usa-seniors-cricket-npl-2026-final-tbc-vs-tbc-1159888388",
-      "title": "USA Seniors Cricket NPL 2026 - Final - TBC vs TBC",
-      "status": "NS",
-      "league": {
-        "league_name": "USA Seniors Cricket NPL 2026 - Final",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "TBC",
-        "away_name": "TBC",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fe82486f-c82d-4394-8cf3-a1c2502713ab/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794184200,
-        "start_time_local": 1794184200,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1530267804,
       "sport_name": "Basketball",
