@@ -652,13 +652,13 @@ function isWillowLive(m) {
 }
 
 function transformWillowMatch(m, ref) {
-  const title = (m.title || m.synopsis || "").trim() || "Unknown Match";
-  const matchId = generateMatchId(`willow-${m.match_id || title}`);
+  const fullTitle = (m.title || m.synopsis || "").trim() || "Unknown Match";
+  const matchId = generateMatchId(`willow-${m.match_id || fullTitle}`);
   const isLive = isWillowLive(m);
 
   // "India tour of New Zealand 2026 - 1st ODI - New Zealand vs India"
   // -> league: "India tour of New Zealand 2026 - 1st ODI", teams: aakhri hissa
-  const segments = title.split(/\s+-\s+/);
+  const segments = fullTitle.split(/\s+-\s+/);
   const lastPart = segments[segments.length - 1] || "";
   let home = "";
   let away = "";
@@ -670,7 +670,11 @@ function transformWillowMatch(m, ref) {
   const leagueName =
     segments.length > 1 && (home || away)
       ? segments.slice(0, -1).join(" - ")
-      : title;
+      : fullTitle;
+
+  // Title mein sirf teams: "New Zealand vs India"
+  // (teams na milein to poora title hi rehne do)
+  const title = home && away ? `${home} vs ${away}` : fullTitle;
 
   const { first, second } = splitDrmKey(m.drm_key);
   const links = getWillowLinks(m.stream_url_alpha);
@@ -697,7 +701,7 @@ function transformWillowMatch(m, ref) {
     sport_name: "Cricket", // Willow ke sab matches cricket mein
     sport_id: getSportId("cricket"),
     slug: slugify(title, matchId),
-    title: title, // <- title
+    title: title, // <- sirf "Team A vs Team B"
     status: isLive ? "LIVE" : "NS", // <- status
     league: {
       league_name: leagueName,
