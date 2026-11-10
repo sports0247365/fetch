@@ -61,13 +61,10 @@ const CATEGORY_ALIASES = {
   wrestling: "fight",
 };
 
-// Agar category already ek generic sport ka naam ho, to
-// usay seedha use kar liya jayega (case-insensitive match)
+
 const KNOWN_GENERIC_SPORTS = Object.keys(SPORT_ID_MAP);
 
-// Tournament/League/Category ke naam mein ye keyword mile to us sport
-// se related maan liya jayega. ZYADA SPECIFIC keywords upar rakhein,
-// taake "table tennis" jaise cases "tennis" se pehle match ho jayen.
+
 const LEAGUE_KEYWORDS = [
   // Cricket
   ["ipl", "cricket"],
@@ -319,7 +316,7 @@ const MONTH_NAMES = [
 // =================================
 
 async function fetchSourceJson(url, extraHeaders = {}) {
-  // Normal browser jaise headers ("bot" wala User-Agent 403 deta tha)
+
   const headers = {
     "User-Agent":
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
@@ -421,7 +418,7 @@ function slugify(text, fallbackId) {
   return `${base}-${fallbackId}`;
 }
 
-// Source ka unique "id" use karte hain (title same ho sakta hai, id nahi)
+
 function generateMatchId(key) {
   const hash = crypto
     .createHash("md5")
@@ -447,9 +444,7 @@ function buildTiming(isLive, startAt) {
   };
 }
 
-// API mein "status" field nahi hai, isliye:
-// always_live = 1 ho (24/7 channel) ya abhi ka waqt starts_at aur ends_at
-// ke beech ho to LIVE, warna upcoming (NS)
+
 function isLiveMatch(m) {
   if (Number(m.always_live) === 1) return true;
   const now = Math.floor(Date.now() / 1000);
@@ -459,8 +454,7 @@ function isLiveMatch(m) {
   return now >= start && (!end || now < end);
 }
 
-// Iframe link ka main URL (domain) referer ke liye
-// "https://taifood-blog.asia/embed/nba/..." -> "https://taifood-blog.asia/"
+
 function getReferer(iframeUrl) {
   try {
     return new URL(iframeUrl).origin + "/";
@@ -469,7 +463,7 @@ function getReferer(iframeUrl) {
   }
 }
 
-// Har iframe ek alag server ban jata hai
+
 function buildServer(name, iframeUrl, index) {
   return {
     server_name: (name || "").trim() || `Server ${index + 1}`,
@@ -490,7 +484,7 @@ function transformMatch(m) {
     m.tag,
   );
 
-  // Teams alag se nahi aatin, title ko "vs" / "at" par split kar lete hain
+ 
   let home = "";
   let away = "";
   if (/\s(vs|at)\.?\s/i.test(title)) {
@@ -499,7 +493,7 @@ function transformMatch(m) {
     away = (parts[1] || "").trim();
   }
 
-  // Pehle main iframe, phir substreams ke iframes (duplicate hata kar)
+ 
   const candidates = [{ name: m.source_tag, iframe: m.iframe }];
   if (Array.isArray(m.substreams)) {
     for (const sub of m.substreams) {
@@ -536,8 +530,7 @@ function transformMatch(m) {
   };
 }
 
-// API: { streams: [ { category, streams: [ match, ... ] }, ... ] }
-// Sab categories ke matches ek flat list mein nikal leta hai
+
 function extractMatches(data) {
   const groups = Array.isArray(data)
     ? data
@@ -560,8 +553,7 @@ function extractMatches(data) {
 
 // ================= WILLOW (Source 2) =================
 
-// Willow ki "LastUpdate" ("12:02 PM 03-11-2026") se BDT wali aaj ki date nikalta hai,
-// taake "Tomorrow" usi din ke hisab se ho jis din file bani thi
+
 function willowReferenceDate(headerInfo) {
   const raw = (headerInfo && headerInfo.LastUpdate) || "";
   const m = String(raw).match(/(\d{1,2})-(\d{1,2})-(\d{4})/);
@@ -577,8 +569,7 @@ function willowReferenceDate(headerInfo) {
   };
 }
 
-// "Tomorrow 8 AM BDT" / "Today 10:30 PM BDT" / "Thu, Nov 5 2:30 AM BDT"
-// ko unix timestamp (seconds) mein badalta hai. Samajh na aaye to null.
+
 function parseWillowTime(str, ref) {
   if (!str) return null;
   const text = String(str).toLowerCase();
@@ -612,9 +603,7 @@ function parseWillowTime(str, ref) {
   return Math.floor(ms / 1000);
 }
 
-// stream_url_alpha ek object hai: { "Fistly Server": "https://...mpd", ... }
-// Har key = server ka naam, har value = play_url.
-// (String ya array aaye to bhi chal jayega)
+
 function getWillowLinks(value) {
   let entries = [];
   if (value && typeof value === "object" && !Array.isArray(value)) {
@@ -634,8 +623,7 @@ function getWillowLinks(value) {
     .filter((e) => /^https?:\/\//i.test(e.url));
 }
 
-// drm_key "1gu67868162816:8673g172381236" ->
-// colon se pehle = required_referer, colon ke baad = required_referer2
+
 function splitDrmKey(drmKey) {
   const raw = String(drmKey || "").trim();
   if (!raw) return { first: null, second: null };
@@ -656,8 +644,7 @@ function transformWillowMatch(m, ref) {
   const matchId = generateMatchId(`willow-${m.match_id || fullTitle}`);
   const isLive = isWillowLive(m);
 
-  // "India tour of New Zealand 2026 - 1st ODI - New Zealand vs India"
-  // -> league: "India tour of New Zealand 2026 - 1st ODI", teams: aakhri hissa
+
   const segments = fullTitle.split(/\s+-\s+/);
   const lastPart = segments[segments.length - 1] || "";
   let home = "";
@@ -672,8 +659,7 @@ function transformWillowMatch(m, ref) {
       ? segments.slice(0, -1).join(" - ")
       : fullTitle;
 
-  // Title mein sirf teams: "New Zealand vs India"
-  // (teams na milein to poora title hi rehne do)
+ 
   const title = home && away ? `${home} vs ${away}` : fullTitle;
 
   const { first, second } = splitDrmKey(m.drm_key);
@@ -744,7 +730,7 @@ function transformPlaylist(ppvData, willowData) {
       }))
     : [];
 
-  // ppv.st ke cricket matches hata do, cricket sirf Willow se
+
   const ppvFiltered = HIDE_PPV_CRICKET
     ? ppvAll.filter((x) => x.out.sport_id !== getSportId("cricket"))
     : ppvAll;
