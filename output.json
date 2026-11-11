@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-11T08:00:36.645Z"
+    "last_update_time": "2026-11-11T08:05:20.689Z"
   },
   "live_matches": [
     {
@@ -447,6 +447,66 @@
       ]
     },
     {
+      "match_id": 1186273969,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "perth-scorchers-women-vs-sydney-thunder-women-1186273969",
+      "title": "Perth Scorchers Women vs Sydney Thunder Women",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Womens Big Bash League 2026 - 18th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Perth Scorchers Women",
+        "away_name": "Sydney Thunder Women",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8bbc6512-a658-4b6f-839e-37168e88a2ff/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794382800,
+        "start_time_local": 1794382800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "21ef535c5597589225d278308c2a5c93",
+          "required_referer2": "a4a38ac31294c388aaec39cab4aae93a"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "21ef535c5597589225d278308c2a5c93",
+          "required_referer2": "a4a38ac31294c388aaec39cab4aae93a"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "21ef535c5597589225d278308c2a5c93",
+          "required_referer2": "a4a38ac31294c388aaec39cab4aae93a"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "21ef535c5597589225d278308c2a5c93",
+          "required_referer2": "a4a38ac31294c388aaec39cab4aae93a"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "21ef535c5597589225d278308c2a5c93",
+          "required_referer2": "a4a38ac31294c388aaec39cab4aae93a"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -464,8 +524,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794384036,
-        "start_time_local": 1794384036,
+        "start_time_timestamp": 1794384320,
+        "start_time_local": 1794384320,
         "countdown_seconds": null
       },
       "streams": [
@@ -503,8 +563,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794384036,
-        "start_time_local": 1794384036,
+        "start_time_timestamp": 1794384320,
+        "start_time_local": 1794384320,
         "countdown_seconds": null
       },
       "streams": [
@@ -542,8 +602,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794384036,
-        "start_time_local": 1794384036,
+        "start_time_timestamp": 1794384320,
+        "start_time_local": 1794384320,
         "countdown_seconds": null
       },
       "streams": [
@@ -581,8 +641,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794384036,
-        "start_time_local": 1794384036,
+        "start_time_timestamp": 1794384320,
+        "start_time_local": 1794384320,
         "countdown_seconds": null
       },
       "streams": [
@@ -603,32 +663,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 91,
+  "total_upcoming_matches": 90,
   "upcoming_matches": [
-    {
-      "match_id": 1186273969,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "perth-scorchers-women-vs-sydney-thunder-women-1186273969",
-      "title": "Perth Scorchers Women vs Sydney Thunder Women",
-      "status": "NS",
-      "league": {
-        "league_name": "Womens Big Bash League 2026 - 18th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Perth Scorchers Women",
-        "away_name": "Sydney Thunder Women",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8bbc6512-a658-4b6f-839e-37168e88a2ff/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794382800,
-        "start_time_local": 1794382800,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1455456381,
       "sport_name": "Basketball",
