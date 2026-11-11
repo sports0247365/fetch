@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-11T15:30:31.699Z"
+    "last_update_time": "2026-11-11T15:35:23.007Z"
   },
   "live_matches": [
     {
@@ -464,8 +464,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794411031,
-        "start_time_local": 1794411031,
+        "start_time_timestamp": 1794411322,
+        "start_time_local": 1794411322,
         "countdown_seconds": null
       },
       "streams": [
@@ -503,8 +503,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794411031,
-        "start_time_local": 1794411031,
+        "start_time_timestamp": 1794411323,
+        "start_time_local": 1794411323,
         "countdown_seconds": null
       },
       "streams": [
@@ -542,8 +542,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794411031,
-        "start_time_local": 1794411031,
+        "start_time_timestamp": 1794411323,
+        "start_time_local": 1794411323,
         "countdown_seconds": null
       },
       "streams": [
@@ -581,8 +581,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794411031,
-        "start_time_local": 1794411031,
+        "start_time_timestamp": 1794411323,
+        "start_time_local": 1794411323,
         "countdown_seconds": null
       },
       "streams": [
@@ -603,7 +603,7 @@
       ]
     }
   ],
-  "total_upcoming_matches": 121,
+  "total_upcoming_matches": 125,
   "upcoming_matches": [
     {
       "match_id": 1137863034,
@@ -1747,6 +1747,45 @@
       "streams": []
     },
     {
+      "match_id": 1422544461,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "new-zealand-vs-india-1422544461",
+      "title": "New Zealand vs. India",
+      "status": "NS",
+      "league": {
+        "league_name": "Men's International Friendly",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "New Zealand",
+        "away_name": "India",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/df9c4246c6141494454b479eb2a509b2-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794463800,
+        "start_time_local": 1794463800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | DAZN",
+          "play_url": "https://taifood-blog.asia/embed/mens-international-friendly/2026-11-12/nzl-ind",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | DAZN",
+          "play_url": "https://taifood-blog.asia/embed/mens-international-friendly/2026-11-12/nzl-ind_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1121496907,
       "sport_name": "Cricket",
       "sport_id": 3,
@@ -1989,14 +2028,14 @@
       },
       "streams": [
         {
-          "server_name": "HD | UEFA Nations League",
+          "server_name": "HD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/arm-cyp",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | UEFA Nations League",
+          "server_name": "SD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/arm-cyp_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
@@ -2028,14 +2067,14 @@
       },
       "streams": [
         {
-          "server_name": "HD | UEFA Nations League",
+          "server_name": "HD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/tur-bel",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | UEFA Nations League",
+          "server_name": "SD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/tur-bel_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
@@ -2076,6 +2115,84 @@
         {
           "server_name": "SD | beIN SPORTS 7",
           "play_url": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/gui-eri_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1113735709,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "lithuania-vs-suriname-1113735709",
+      "title": "Lithuania vs. Suriname",
+      "status": "NS",
+      "league": {
+        "league_name": "Men's International Friendly",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Lithuania",
+        "away_name": "Suriname",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/c679f495659130793f25459938347e19-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794502800,
+        "start_time_local": 1794502800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | DAZN",
+          "play_url": "https://taifood-blog.asia/embed/mens-international-friendly/2026-11-12/ltu-sur",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | DAZN",
+          "play_url": "https://taifood-blog.asia/embed/mens-international-friendly/2026-11-12/ltu-sur_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1752720772,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "malta-vs-eswatini-1752720772",
+      "title": "Malta vs. Eswatini",
+      "status": "NS",
+      "league": {
+        "league_name": "Men's International Friendly",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Malta",
+        "away_name": "Eswatini",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/73bb5c2415d9d35b998ac62575e991dc-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794504600,
+        "start_time_local": 1794504600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | DAZN",
+          "play_url": "https://taifood-blog.asia/embed/mens-international-friendly/2026-11-12/mlt-swz",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | DAZN",
+          "play_url": "https://taifood-blog.asia/embed/mens-international-friendly/2026-11-12/mlt-swz_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
@@ -2262,14 +2379,14 @@
       },
       "streams": [
         {
-          "server_name": "HD | UEFA Nations League",
+          "server_name": "HD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/alb-fin",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | UEFA Nations League",
+          "server_name": "SD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/alb-fin_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
@@ -2301,14 +2418,14 @@
       },
       "streams": [
         {
-          "server_name": "HD | UEFA Nations League",
+          "server_name": "HD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/cze-esp",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | UEFA Nations League",
+          "server_name": "SD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/cze-esp_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
@@ -2340,14 +2457,14 @@
       },
       "streams": [
         {
-          "server_name": "HD | UEFA Nations League",
+          "server_name": "HD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/eng-cro",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | UEFA Nations League",
+          "server_name": "SD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/eng-cro_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
@@ -2379,14 +2496,14 @@
       },
       "streams": [
         {
-          "server_name": "HD | UEFA Nations League",
+          "server_name": "HD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/ita-fra",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | UEFA Nations League",
+          "server_name": "SD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/ita-fra_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
@@ -2418,14 +2535,14 @@
       },
       "streams": [
         {
-          "server_name": "HD | UEFA Nations League",
+          "server_name": "HD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/mne-lva",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | UEFA Nations League",
+          "server_name": "SD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/mne-lva_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
@@ -2457,14 +2574,14 @@
       },
       "streams": [
         {
-          "server_name": "HD | UEFA Nations League",
+          "server_name": "HD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/smr-blr",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
         },
         {
-          "server_name": "SD | UEFA Nations League",
+          "server_name": "SD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/smr-blr_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
@@ -3129,6 +3246,45 @@
         "countdown_seconds": null
       },
       "streams": []
+    },
+    {
+      "match_id": 1433288057,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "shrewsbury-town-vs-oldham-athletic-1433288057",
+      "title": "Shrewsbury Town vs. Oldham Athletic",
+      "status": "NS",
+      "league": {
+        "league_name": "EFL League Two",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Shrewsbury Town",
+        "away_name": "Oldham Athletic",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/3f506f1e2b24c9d4c40080d4a588de84-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794668400,
+        "start_time_local": 1794668400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Sky Sports",
+          "play_url": "https://taifood-blog.asia/embed/efl-league-two/2026-11-14/shr-old",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Sky Sports",
+          "play_url": "https://taifood-blog.asia/embed/efl-league-two/2026-11-14/shr-old_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
     },
     {
       "match_id": 1557991697,
