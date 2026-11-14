@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-14T23:35:20.934Z"
+    "last_update_time": "2026-11-14T23:40:24.797Z"
   },
   "live_matches": [
     {
@@ -886,6 +886,66 @@
       ]
     },
     {
+      "match_id": 1403002049,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "23rd-match-sydney-sixers-women-vs-melbourne-renegades-women-1403002049",
+      "title": "23rd Match -Sydney Sixers Women vs Melbourne Renegades Women",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Womens Big Bash League 2026",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "23rd Match -Sydney Sixers Women",
+        "away_name": "Melbourne Renegades Women",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.efd1e539-311e-4d71-a615-1e744d8c8d68/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794699000,
+        "start_time_local": 1794699000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mysvg9964s/out/v1/b7761cc505e84787832b2b55e90bbbf0/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b1f8a6b81514e5243cc85d00effcf384",
+          "required_referer2": "697893a5e9dbc7916aedd1ac857737b2"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mysvg9964s/out/v1/b7761cc505e84787832b2b55e90bbbf0/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b1f8a6b81514e5243cc85d00effcf384",
+          "required_referer2": "697893a5e9dbc7916aedd1ac857737b2"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/mysvg9964s/out/v1/b7761cc505e84787832b2b55e90bbbf0/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b1f8a6b81514e5243cc85d00effcf384",
+          "required_referer2": "697893a5e9dbc7916aedd1ac857737b2"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mysvg9964s/out/v1/b7761cc505e84787832b2b55e90bbbf0/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b1f8a6b81514e5243cc85d00effcf384",
+          "required_referer2": "697893a5e9dbc7916aedd1ac857737b2"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mysvg9964s/out/v1/b7761cc505e84787832b2b55e90bbbf0/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b1f8a6b81514e5243cc85d00effcf384",
+          "required_referer2": "697893a5e9dbc7916aedd1ac857737b2"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -903,8 +963,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794699320,
-        "start_time_local": 1794699320,
+        "start_time_timestamp": 1794699624,
+        "start_time_local": 1794699624,
         "countdown_seconds": null
       },
       "streams": [
@@ -942,8 +1002,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794699320,
-        "start_time_local": 1794699320,
+        "start_time_timestamp": 1794699624,
+        "start_time_local": 1794699624,
         "countdown_seconds": null
       },
       "streams": [
@@ -981,8 +1041,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794699320,
-        "start_time_local": 1794699320,
+        "start_time_timestamp": 1794699624,
+        "start_time_local": 1794699624,
         "countdown_seconds": null
       },
       "streams": [
@@ -1020,8 +1080,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794699320,
-        "start_time_local": 1794699320,
+        "start_time_timestamp": 1794699624,
+        "start_time_local": 1794699624,
         "countdown_seconds": null
       },
       "streams": [
@@ -1042,7 +1102,7 @@
       ]
     }
   ],
-  "total_upcoming_matches": 93,
+  "total_upcoming_matches": 92,
   "upcoming_matches": [
     {
       "match_id": 1137863034,
@@ -1064,30 +1124,6 @@
       "timing": {
         "start_time_timestamp": null,
         "start_time_local": null,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1403002049,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "23rd-match-sydney-sixers-women-vs-melbourne-renegades-women-1403002049",
-      "title": "23rd Match -Sydney Sixers Women vs Melbourne Renegades Women",
-      "status": "NS",
-      "league": {
-        "league_name": "Womens Big Bash League 2026",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "23rd Match -Sydney Sixers Women",
-        "away_name": "Melbourne Renegades Women",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.efd1e539-311e-4d71-a615-1e744d8c8d68/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794699000,
-        "start_time_local": 1794699000,
         "countdown_seconds": null
       },
       "streams": []
