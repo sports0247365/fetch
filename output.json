@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-14T13:30:29.854Z"
+    "last_update_time": "2026-11-14T13:35:21.070Z"
   },
   "live_matches": [
     {
@@ -567,6 +567,66 @@
       ]
     },
     {
+      "match_id": 1402112358,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "arabian-aces-vs-emirates-eagles-1402112358",
+      "title": "Arabian Aces vs Emirates Eagles",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Abu Dhabi T10 League 2026 - 17th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Arabian Aces",
+        "away_name": "Emirates Eagles",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d7e5fab-ee2f-4d29-8448-318763861454/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794663000,
+        "start_time_local": 1794663000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c9416419990931400d04e62d657c0cc8",
+          "required_referer2": "7aa33c302380249e86295685656c2a97"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c9416419990931400d04e62d657c0cc8",
+          "required_referer2": "7aa33c302380249e86295685656c2a97"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c9416419990931400d04e62d657c0cc8",
+          "required_referer2": "7aa33c302380249e86295685656c2a97"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c9416419990931400d04e62d657c0cc8",
+          "required_referer2": "7aa33c302380249e86295685656c2a97"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c9416419990931400d04e62d657c0cc8",
+          "required_referer2": "7aa33c302380249e86295685656c2a97"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -584,8 +644,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794663029,
-        "start_time_local": 1794663029,
+        "start_time_timestamp": 1794663321,
+        "start_time_local": 1794663321,
         "countdown_seconds": null
       },
       "streams": [
@@ -623,8 +683,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794663029,
-        "start_time_local": 1794663029,
+        "start_time_timestamp": 1794663321,
+        "start_time_local": 1794663321,
         "countdown_seconds": null
       },
       "streams": [
@@ -662,8 +722,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794663029,
-        "start_time_local": 1794663029,
+        "start_time_timestamp": 1794663321,
+        "start_time_local": 1794663321,
         "countdown_seconds": null
       },
       "streams": [
@@ -701,8 +761,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794663029,
-        "start_time_local": 1794663029,
+        "start_time_timestamp": 1794663321,
+        "start_time_local": 1794663321,
         "countdown_seconds": null
       },
       "streams": [
@@ -723,7 +783,7 @@
       ]
     }
   ],
-  "total_upcoming_matches": 120,
+  "total_upcoming_matches": 119,
   "upcoming_matches": [
     {
       "match_id": 1137863034,
@@ -745,30 +805,6 @@
       "timing": {
         "start_time_timestamp": null,
         "start_time_local": null,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1402112358,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "arabian-aces-vs-emirates-eagles-1402112358",
-      "title": "Arabian Aces vs Emirates Eagles",
-      "status": "NS",
-      "league": {
-        "league_name": "Abu Dhabi T10 League 2026 - 17th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Arabian Aces",
-        "away_name": "Emirates Eagles",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d7e5fab-ee2f-4d29-8448-318763861454/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794663900,
-        "start_time_local": 1794663900,
         "countdown_seconds": null
       },
       "streams": []
