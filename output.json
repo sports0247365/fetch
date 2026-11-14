@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-14T14:40:24.690Z"
+    "last_update_time": "2026-11-14T14:45:22.687Z"
   },
   "live_matches": [
     {
@@ -503,8 +503,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794667224,
-        "start_time_local": 1794667224,
+        "start_time_timestamp": 1794667522,
+        "start_time_local": 1794667522,
         "countdown_seconds": null
       },
       "streams": [
@@ -542,8 +542,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794667224,
-        "start_time_local": 1794667224,
+        "start_time_timestamp": 1794667522,
+        "start_time_local": 1794667522,
         "countdown_seconds": null
       },
       "streams": [
@@ -581,8 +581,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794667224,
-        "start_time_local": 1794667224,
+        "start_time_timestamp": 1794667522,
+        "start_time_local": 1794667522,
         "countdown_seconds": null
       },
       "streams": [
@@ -620,8 +620,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794667224,
-        "start_time_local": 1794667224,
+        "start_time_timestamp": 1794667522,
+        "start_time_local": 1794667522,
         "countdown_seconds": null
       },
       "streams": [
@@ -642,7 +642,7 @@
       ]
     }
   ],
-  "total_upcoming_matches": 121,
+  "total_upcoming_matches": 123,
   "upcoming_matches": [
     {
       "match_id": 1137863034,
@@ -740,6 +740,45 @@
         {
           "server_name": "SD | Sky Sports",
           "play_url": "https://taifood-blog.asia/embed/efl-league-two/2026-11-14/rch-york_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1143357402,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "sheffield-wednesday-vs-plymouth-argyle-1143357402",
+      "title": "Sheffield Wednesday vs. Plymouth Argyle",
+      "status": "NS",
+      "league": {
+        "league_name": "EFL League One",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Sheffield Wednesday",
+        "away_name": "Plymouth Argyle",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/9b25cc76b31461bdb5b0100002413c91-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794668400,
+        "start_time_local": 1794668400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Sky Sports",
+          "play_url": "https://taifood-blog.asia/embed/efl-league-one/2026-11-14/shw-ply",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Sky Sports",
+          "play_url": "https://taifood-blog.asia/embed/efl-league-one/2026-11-14/shw-ply_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
@@ -1026,6 +1065,45 @@
         {
           "server_name": "SD | DAZN",
           "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/nor-wal_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1525802774,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "fleetwood-town-vs-tranmere-rovers-1525802774",
+      "title": "Fleetwood Town vs. Tranmere Rovers",
+      "status": "NS",
+      "league": {
+        "league_name": "EFL League Two",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Fleetwood Town",
+        "away_name": "Tranmere Rovers",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/33632cfc8f88f759ab13932cad72492c-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794677400,
+        "start_time_local": 1794677400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Sky Sports Football",
+          "play_url": "https://taifood-blog.asia/embed/efl-league-two/2026-11-14/fle-trn",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Sky Sports Football",
+          "play_url": "https://taifood-blog.asia/embed/efl-league-two/2026-11-14/fle-trn_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
