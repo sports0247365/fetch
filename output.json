@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-14T10:00:34.829Z"
+    "last_update_time": "2026-11-14T10:05:21.684Z"
   },
   "live_matches": [
     {
@@ -623,8 +623,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794650434,
-        "start_time_local": 1794650434,
+        "start_time_timestamp": 1794650721,
+        "start_time_local": 1794650721,
         "countdown_seconds": null
       },
       "streams": [
@@ -662,8 +662,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794650434,
-        "start_time_local": 1794650434,
+        "start_time_timestamp": 1794650721,
+        "start_time_local": 1794650721,
         "countdown_seconds": null
       },
       "streams": [
@@ -701,8 +701,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794650434,
-        "start_time_local": 1794650434,
+        "start_time_timestamp": 1794650721,
+        "start_time_local": 1794650721,
         "countdown_seconds": null
       },
       "streams": [
@@ -740,8 +740,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794650434,
-        "start_time_local": 1794650434,
+        "start_time_timestamp": 1794650721,
+        "start_time_local": 1794650721,
         "countdown_seconds": null
       },
       "streams": [
@@ -762,7 +762,7 @@
       ]
     }
   ],
-  "total_upcoming_matches": 106,
+  "total_upcoming_matches": 114,
   "upcoming_matches": [
     {
       "match_id": 1137863034,
@@ -874,6 +874,45 @@
         "countdown_seconds": null
       },
       "streams": []
+    },
+    {
+      "match_id": 1540265555,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "kosovo-vs-israel-1540265555",
+      "title": "Kosovo vs. Israel",
+      "status": "NS",
+      "league": {
+        "league_name": "UEFA Nations League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Kosovo",
+        "away_name": "Israel",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/74c0225869c96b98022613c52978c835-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794664800,
+        "start_time_local": 1794664800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/kos-isr",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/kos-isr_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
     },
     {
       "match_id": 1433288057,
@@ -1084,6 +1123,84 @@
       ]
     },
     {
+      "match_id": 1502536705,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "georgia-vs-hungary-1502536705",
+      "title": "Georgia vs. Hungary",
+      "status": "NS",
+      "league": {
+        "league_name": "UEFA Nations League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Georgia",
+        "away_name": "Hungary",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/79324e14b078a394d59e27dc80c6a574-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794675600,
+        "start_time_local": 1794675600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/geo-hun",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/geo-hun_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1032719584,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "norway-vs-wales-1032719584",
+      "title": "Norway vs. Wales",
+      "status": "NS",
+      "league": {
+        "league_name": "UEFA Nations League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Norway",
+        "away_name": "Wales",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/07a334681f728044ed3055aa38b9dae3-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794675600,
+        "start_time_local": 1794675600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/nor-wal",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/nor-wal_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1858697157,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -1194,6 +1311,201 @@
         {
           "server_name": "SD | CARNHL",
           "play_url": "https://taifood-blog.asia/embed/nhl/2026-11-14/sea-car_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1309966201,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "austria-vs-republic-of-ireland-1309966201",
+      "title": "Austria vs. Republic of Ireland",
+      "status": "NS",
+      "league": {
+        "league_name": "UEFA Nations League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Austria",
+        "away_name": "Republic of Ireland",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/c694b087c1f462e3bed7c274a61490d6-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794685500,
+        "start_time_local": 1794685500,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/aut-irl",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/aut-irl_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1122880624,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "northern-ireland-vs-ukraine-1122880624",
+      "title": "Northern Ireland vs. Ukraine",
+      "status": "NS",
+      "league": {
+        "league_name": "UEFA Nations League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Northern Ireland",
+        "away_name": "Ukraine",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/018e9e2c26d998017ecb74e6c18f00d4-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794685500,
+        "start_time_local": 1794685500,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/nir-ukr",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/nir-ukr_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1055914453,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "portugal-vs-denmark-1055914453",
+      "title": "Portugal vs. Denmark",
+      "status": "NS",
+      "league": {
+        "league_name": "UEFA Nations League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Portugal",
+        "away_name": "Denmark",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/e652a3f6b3622eb4eb143f098f3315f8-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794685500,
+        "start_time_local": 1794685500,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/por-den",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/por-den_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1293770450,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "romania-vs-poland-1293770450",
+      "title": "Romania vs. Poland",
+      "status": "NS",
+      "league": {
+        "league_name": "UEFA Nations League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Romania",
+        "away_name": "Poland",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/4751b82fa0e48517c63a9d1aa6168d93-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794685500,
+        "start_time_local": 1794685500,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/rou-pol",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/rou-pol_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1204062606,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "sweden-vs-bosnia-herzegovina-1204062606",
+      "title": "Sweden vs. Bosnia-Herzegovina",
+      "status": "NS",
+      "league": {
+        "league_name": "UEFA Nations League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Sweden",
+        "away_name": "Bosnia-Herzegovina",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/eaeac30e84385f5d590e5ad247dad9d1-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794685500,
+        "start_time_local": 1794685500,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/swe-bih",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | UEFA Nations League",
+          "play_url": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/swe-bih_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
