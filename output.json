@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-14T21:35:20.969Z"
+    "last_update_time": "2026-11-14T21:40:29.587Z"
   },
   "live_matches": [
     {
@@ -419,6 +419,45 @@
         {
           "server_name": "SD | SEC Network",
           "play_url": "https://taifood-blog.asia/embed/cfb/2026-11-14/ala-van_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1060072229,
+      "sport_name": "Boxing",
+      "sport_id": 15,
+      "slug": "riley-vs-coupe-1060072229",
+      "title": "Riley vs. Coupe",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Boxing",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Riley",
+        "away_name": "Coupe",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/0b1ba88090738bc4a0ef1c51ab2a6fc8-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794682800,
+        "start_time_local": 1794682800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | DAZN",
+          "play_url": "https://taifood-blog.asia/embed/riley-vs-coupe-32223",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | DAZN",
+          "play_url": "https://taifood-blog.asia/embed/riley-vs-coupe-32223_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
@@ -1056,8 +1095,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794692120,
-        "start_time_local": 1794692120,
+        "start_time_timestamp": 1794692429,
+        "start_time_local": 1794692429,
         "countdown_seconds": null
       },
       "streams": [
@@ -1095,8 +1134,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794692120,
-        "start_time_local": 1794692120,
+        "start_time_timestamp": 1794692429,
+        "start_time_local": 1794692429,
         "countdown_seconds": null
       },
       "streams": [
@@ -1134,8 +1173,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794692120,
-        "start_time_local": 1794692120,
+        "start_time_timestamp": 1794692429,
+        "start_time_local": 1794692429,
         "countdown_seconds": null
       },
       "streams": [
@@ -1173,8 +1212,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794692120,
-        "start_time_local": 1794692120,
+        "start_time_timestamp": 1794692429,
+        "start_time_local": 1794692429,
         "countdown_seconds": null
       },
       "streams": [
@@ -2241,45 +2280,6 @@
       ]
     },
     {
-      "match_id": 1765490850,
-      "sport_name": "Fight",
-      "sport_id": 18,
-      "slug": "aew-saturday-night-collision-1765490850",
-      "title": "AEW Saturday Night Collision",
-      "status": "NS",
-      "league": {
-        "league_name": "Wrestling",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794704400,
-        "start_time_local": 1794704400,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "HD | TNT",
-          "play_url": "https://taifood-blog.asia/embed/aew/2026-11-14",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        },
-        {
-          "server_name": "SD | TNT",
-          "play_url": "https://taifood-blog.asia/embed/aew/2026-11-14_540p",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        }
-      ]
-    },
-    {
       "match_id": 1402029479,
       "sport_name": "Ice Hockey",
       "sport_id": 4,
@@ -2608,6 +2608,45 @@
         "countdown_seconds": null
       },
       "streams": []
+    },
+    {
+      "match_id": 1503939069,
+      "sport_name": "Boxing",
+      "sport_id": 15,
+      "slug": "pacheco-vs-fulghum-1503939069",
+      "title": "Pacheco vs. Fulghum",
+      "status": "NS",
+      "league": {
+        "league_name": "Boxing",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Pacheco",
+        "away_name": "Fulghum",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/811a3ddb5132b71f1c5eb820439d827b-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794747600,
+        "start_time_local": 1794747600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | DAZN",
+          "play_url": "https://taifood-blog.asia/embed/pacheco-vs-fulghum-32224",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | DAZN",
+          "play_url": "https://taifood-blog.asia/embed/pacheco-vs-fulghum-32224_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
     },
     {
       "match_id": 1830329659,
