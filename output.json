@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-16T07:40:26.352Z"
+    "last_update_time": "2026-11-16T07:45:24.342Z"
   },
   "live_matches": [
     {
@@ -447,6 +447,66 @@
       ]
     },
     {
+      "match_id": 1255990931,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "south-africa-vs-bangladesh-1255990931",
+      "title": "South Africa vs Bangladesh",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Bangladesh tour of South Africa 2026 - 1st Test",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "South Africa",
+        "away_name": "Bangladesh",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794814200,
+        "start_time_local": 1794814200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "6597902f04582f5e30cf281d4d86cecb",
+          "required_referer2": "85d06b34717eae4d10f7a52abdeafe97"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "6597902f04582f5e30cf281d4d86cecb",
+          "required_referer2": "85d06b34717eae4d10f7a52abdeafe97"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "6597902f04582f5e30cf281d4d86cecb",
+          "required_referer2": "85d06b34717eae4d10f7a52abdeafe97"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "6597902f04582f5e30cf281d4d86cecb",
+          "required_referer2": "85d06b34717eae4d10f7a52abdeafe97"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "6597902f04582f5e30cf281d4d86cecb",
+          "required_referer2": "85d06b34717eae4d10f7a52abdeafe97"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -464,8 +524,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794814826,
-        "start_time_local": 1794814826,
+        "start_time_timestamp": 1794815124,
+        "start_time_local": 1794815124,
         "countdown_seconds": null
       },
       "streams": [
@@ -503,8 +563,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794814826,
-        "start_time_local": 1794814826,
+        "start_time_timestamp": 1794815124,
+        "start_time_local": 1794815124,
         "countdown_seconds": null
       },
       "streams": [
@@ -542,8 +602,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794814826,
-        "start_time_local": 1794814826,
+        "start_time_timestamp": 1794815124,
+        "start_time_local": 1794815124,
         "countdown_seconds": null
       },
       "streams": [
@@ -581,8 +641,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794814826,
-        "start_time_local": 1794814826,
+        "start_time_timestamp": 1794815124,
+        "start_time_local": 1794815124,
         "countdown_seconds": null
       },
       "streams": [
@@ -603,7 +663,7 @@
       ]
     }
   ],
-  "total_upcoming_matches": 190,
+  "total_upcoming_matches": 189,
   "upcoming_matches": [
     {
       "match_id": 1137863034,
@@ -630,30 +690,6 @@
       "streams": []
     },
     {
-      "match_id": 1255990931,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "south-africa-vs-bangladesh-1255990931",
-      "title": "South Africa vs Bangladesh",
-      "status": "NS",
-      "league": {
-        "league_name": "Bangladesh tour of South Africa 2026 - 1st Test",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "South Africa",
-        "away_name": "Bangladesh",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794814200,
-        "start_time_local": 1794814200,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
       "match_id": 1613109382,
       "sport_name": "Cricket",
       "sport_id": 3,
@@ -668,14 +704,50 @@
       "teams": {
         "home_name": "Sydney Thunder Women",
         "away_name": "Melbourne Stars Women",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ea3064a6-66df-4a4b-8dde-90e66bcfe5e5/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ea3064a6-66df-4a4b-8dde-90e66bcfe5e5/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
       },
       "timing": {
-        "start_time_timestamp": 1794816600,
-        "start_time_local": 1794816600,
+        "start_time_timestamp": 1794814800,
+        "start_time_local": 1794814800,
         "countdown_seconds": null
       },
-      "streams": []
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkhwpl0tzw/out/v1/59557ba485b04e81863a3fa533d8179d/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "93e19c6b590f07c3b9ba8fed76a01b61",
+          "required_referer2": "f893d5d988d7649ba856dfc1269710ba"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkhwpl0tzw/out/v1/59557ba485b04e81863a3fa533d8179d/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "93e19c6b590f07c3b9ba8fed76a01b61",
+          "required_referer2": "f893d5d988d7649ba856dfc1269710ba"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/jkhwpl0tzw/out/v1/59557ba485b04e81863a3fa533d8179d/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "93e19c6b590f07c3b9ba8fed76a01b61",
+          "required_referer2": "f893d5d988d7649ba856dfc1269710ba"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/jkhwpl0tzw/out/v1/59557ba485b04e81863a3fa533d8179d/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "93e19c6b590f07c3b9ba8fed76a01b61",
+          "required_referer2": "f893d5d988d7649ba856dfc1269710ba"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/jkhwpl0tzw/out/v1/59557ba485b04e81863a3fa533d8179d/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "93e19c6b590f07c3b9ba8fed76a01b61",
+          "required_referer2": "f893d5d988d7649ba856dfc1269710ba"
+        }
+      ]
     },
     {
       "match_id": 1020634426,
