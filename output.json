@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-16T05:00:36.735Z"
+    "last_update_time": "2026-11-16T05:05:21.779Z"
   },
   "live_matches": [
     {
@@ -426,6 +426,66 @@
       ]
     },
     {
+      "match_id": 1213051465,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "afghanistan-vs-zimbabwe-1213051465",
+      "title": "Afghanistan vs Zimbabwe",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Afghanistan",
+        "away_name": "Zimbabwe",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794805200,
+        "start_time_local": 1794805200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b6745cf86849992016a18fa701bbe4c7",
+          "required_referer2": "1868048f6a964c749f14fb2fc26788f4"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b6745cf86849992016a18fa701bbe4c7",
+          "required_referer2": "1868048f6a964c749f14fb2fc26788f4"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b6745cf86849992016a18fa701bbe4c7",
+          "required_referer2": "1868048f6a964c749f14fb2fc26788f4"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b6745cf86849992016a18fa701bbe4c7",
+          "required_referer2": "1868048f6a964c749f14fb2fc26788f4"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "b6745cf86849992016a18fa701bbe4c7",
+          "required_referer2": "1868048f6a964c749f14fb2fc26788f4"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -443,8 +503,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794805236,
-        "start_time_local": 1794805236,
+        "start_time_timestamp": 1794805521,
+        "start_time_local": 1794805521,
         "countdown_seconds": null
       },
       "streams": [
@@ -482,8 +542,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794805236,
-        "start_time_local": 1794805236,
+        "start_time_timestamp": 1794805521,
+        "start_time_local": 1794805521,
         "countdown_seconds": null
       },
       "streams": [
@@ -521,8 +581,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794805236,
-        "start_time_local": 1794805236,
+        "start_time_timestamp": 1794805521,
+        "start_time_local": 1794805521,
         "countdown_seconds": null
       },
       "streams": [
@@ -560,8 +620,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1794805236,
-        "start_time_local": 1794805236,
+        "start_time_timestamp": 1794805521,
+        "start_time_local": 1794805521,
         "countdown_seconds": null
       },
       "streams": [
@@ -582,7 +642,7 @@
       ]
     }
   ],
-  "total_upcoming_matches": 107,
+  "total_upcoming_matches": 190,
   "upcoming_matches": [
     {
       "match_id": 1137863034,
@@ -604,30 +664,6 @@
       "timing": {
         "start_time_timestamp": null,
         "start_time_local": null,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1213051465,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "afghanistan-vs-zimbabwe-1213051465",
-      "title": "Afghanistan vs Zimbabwe",
-      "status": "NS",
-      "league": {
-        "league_name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Afghanistan",
-        "away_name": "Zimbabwe",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1794805200,
-        "start_time_local": 1794805200,
         "countdown_seconds": null
       },
       "streams": []
@@ -1842,6 +1878,45 @@
       ]
     },
     {
+      "match_id": 1481670913,
+      "sport_name": "Fight",
+      "sport_id": 18,
+      "slug": "wwe-nxt-1481670913",
+      "title": "WWE NXT",
+      "status": "NS",
+      "league": {
+        "league_name": "Wrestling",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1794963600,
+        "start_time_local": 1794963600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | CW on ESPN",
+          "play_url": "https://taifood-blog.asia/embed/wwe/2026-11-17",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | CW on ESPN",
+          "play_url": "https://taifood-blog.asia/embed/wwe/2026-11-17_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1741441936,
       "sport_name": "Basketball",
       "sport_id": 2,
@@ -2201,6 +2276,45 @@
       ]
     },
     {
+      "match_id": 1574058526,
+      "sport_name": "Fight",
+      "sport_id": 18,
+      "slug": "aew-wednesday-night-dynamite-1574058526",
+      "title": "AEW Wednesday Night Dynamite",
+      "status": "NS",
+      "league": {
+        "league_name": "Wrestling",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795050000,
+        "start_time_local": 1795050000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | TBS",
+          "play_url": "https://taifood-blog.asia/embed/aew/2026-11-18",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | TBS",
+          "play_url": "https://taifood-blog.asia/embed/aew/2026-11-18_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1698259936,
       "sport_name": "Cricket",
       "sport_id": 3,
@@ -2408,6 +2522,45 @@
       ]
     },
     {
+      "match_id": 1842320757,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "orlando-city-sc-vs-fc-cincinnati-1842320757",
+      "title": "Orlando City SC vs. FC Cincinnati",
+      "status": "NS",
+      "league": {
+        "league_name": "MLS",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Orlando City SC",
+        "away_name": "FC Cincinnati",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/e0d047de1120fecad019d18b35998a64-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795134600,
+        "start_time_local": 1795134600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Apple TV",
+          "play_url": "https://taifood-blog.asia/embed/mls/2026-11-19/orl-cin",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Apple TV",
+          "play_url": "https://taifood-blog.asia/embed/mls/2026-11-19/orl-cin_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1832061177,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -2440,6 +2593,84 @@
         {
           "server_name": "SD | Prime Video",
           "play_url": "https://taifood-blog.asia/embed/nfl/2026-11-19/ind-hou_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1085874354,
+      "sport_name": "Fight",
+      "sport_id": 18,
+      "slug": "tna-impact-1085874354",
+      "title": "TNA Impact",
+      "status": "NS",
+      "league": {
+        "league_name": "Wrestling",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795140000,
+        "start_time_local": 1795140000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | AMC",
+          "play_url": "https://taifood-blog.asia/embed/tna/2026-11-19",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | AMC",
+          "play_url": "https://taifood-blog.asia/embed/tna/2026-11-19_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1133897079,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "seattle-sounders-fc-vs-real-salt-lake-1133897079",
+      "title": "Seattle Sounders FC vs. Real Salt Lake",
+      "status": "NS",
+      "league": {
+        "league_name": "MLS",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Seattle Sounders FC",
+        "away_name": "Real Salt Lake",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed9d9543a174114575147c8c9d28b35-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795143600,
+        "start_time_local": 1795143600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Apple TV",
+          "play_url": "https://taifood-blog.asia/embed/mls/2026-11-19/sea-rsl",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Apple TV",
+          "play_url": "https://taifood-blog.asia/embed/mls/2026-11-19/sea-rsl_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
@@ -2558,6 +2789,123 @@
       ]
     },
     {
+      "match_id": 1644109954,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "bayern-munich-vs-fc-cologne-1644109954",
+      "title": "Bayern Munich vs. FC Cologne",
+      "status": "NS",
+      "league": {
+        "league_name": "Bundesliga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Bayern Munich",
+        "away_name": "FC Cologne",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/c4362aeb3057819335319a3740367a0b-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795203000,
+        "start_time_local": 1795203000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-20/bay-koe",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-20/bay-koe_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1868376895,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "troyes-vs-le-havre-ac-1868376895",
+      "title": "Troyes vs. Le Havre AC",
+      "status": "NS",
+      "league": {
+        "league_name": "Ligue 1",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Troyes",
+        "away_name": "Le Havre AC",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/00eee945e802263b7ba04da78974342c-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795203900,
+        "start_time_local": 1795203900,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-20/try-hac",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-20/try-hac_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1231128627,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "athletic-club-vs-espanyol-1231128627",
+      "title": "Athletic Club vs. Espanyol",
+      "status": "NS",
+      "league": {
+        "league_name": "LaLiga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Athletic Club",
+        "away_name": "Espanyol",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/224589ac46e9bb3e52e26565909536b2-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795204800,
+        "start_time_local": 1795204800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-20/ath-esp",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-20/ath-esp_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1546624533,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -2597,6 +2945,84 @@
       ]
     },
     {
+      "match_id": 1826735812,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "puebla-vs-atl-tico-de-san-luis-1826735812",
+      "title": "Puebla vs. Atlético de San Luis",
+      "status": "NS",
+      "league": {
+        "league_name": "Liga MX",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Puebla",
+        "away_name": "Atlético de San Luis",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/23cbaf92134b5a9855ae02fb2287adb1-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795222800,
+        "start_time_local": 1795222800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-20/pue-asl",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-20/pue-asl_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1142401883,
+      "sport_name": "Fight",
+      "sport_id": 18,
+      "slug": "wwe-friday-night-smackdown-1142401883",
+      "title": "WWE Friday Night Smackdown",
+      "status": "NS",
+      "league": {
+        "league_name": "Wrestling",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795222800,
+        "start_time_local": 1795222800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | USA",
+          "play_url": "https://taifood-blog.asia/embed/wwe/2026-11-20",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | USA",
+          "play_url": "https://taifood-blog.asia/embed/wwe/2026-11-20_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1374263020,
       "sport_name": "Cricket",
       "sport_id": 3,
@@ -2619,6 +3045,84 @@
         "countdown_seconds": null
       },
       "streams": []
+    },
+    {
+      "match_id": 1119739559,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "fc-ju-rez-vs-atlas-1119739559",
+      "title": "FC Juárez vs. Atlas",
+      "status": "NS",
+      "league": {
+        "league_name": "Liga MX",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "FC Juárez",
+        "away_name": "Atlas",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/45eca10950cadb0a5e91951af88b87e0-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795230000,
+        "start_time_local": 1795230000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-20/jua-ats",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-20/jua-ats_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1183935704,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "tijuana-vs-atlante-1183935704",
+      "title": "Tijuana vs. Atlante",
+      "status": "NS",
+      "league": {
+        "league_name": "Liga MX",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Tijuana",
+        "away_name": "Atlante",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/037893918272d889da9fde0711034bba-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795230000,
+        "start_time_local": 1795230000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-20/tij-atl",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-20/tij-atl_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
     },
     {
       "match_id": 1225833334,
@@ -2715,6 +3219,786 @@
         "countdown_seconds": null
       },
       "streams": []
+    },
+    {
+      "match_id": 1383659767,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "manchester-city-vs-fulham-1383659767",
+      "title": "Manchester City vs. Fulham",
+      "status": "NS",
+      "league": {
+        "league_name": "Premier League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Manchester City",
+        "away_name": "Fulham",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/aba3473a6843b02ae8650fb5c79639d1-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795264200,
+        "start_time_local": 1795264200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-21/mci-ful",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-21/mci-ful_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1055865119,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "alav-s-vs-deportivo-1055865119",
+      "title": "Alavés vs. Deportivo",
+      "status": "NS",
+      "league": {
+        "league_name": "LaLiga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Alavés",
+        "away_name": "Deportivo",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/268a369e4713e9afd343aec1003fa3a7-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795266000,
+        "start_time_local": 1795266000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-21/ala-dep",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-21/ala-dep_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1042607841,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "como-vs-cagliari-1042607841",
+      "title": "Como vs. Cagliari",
+      "status": "NS",
+      "league": {
+        "league_name": "Serie A",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Como",
+        "away_name": "Cagliari",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/7b174ff4b56c3a0837b2020363765b97-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795269600,
+        "start_time_local": 1795269600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-21/como-cag",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-21/como-cag_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1823337997,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "lazio-vs-lecce-1823337997",
+      "title": "Lazio vs. Lecce",
+      "status": "NS",
+      "league": {
+        "league_name": "Serie A",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Lazio",
+        "away_name": "Lecce",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/bcb12ab48d2e394030867801ddf7d3b5-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795269600,
+        "start_time_local": 1795269600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-21/laz-lec",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-21/laz-lec_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1671081870,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "aik-vs-degerfors-if-1671081870",
+      "title": "AIK vs. Degerfors IF",
+      "status": "NS",
+      "league": {
+        "league_name": "Allsvenskan",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "AIK",
+        "away_name": "Degerfors IF",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/c578239d743e14b9b7bfdd92bef9f015-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795269600,
+        "start_time_local": 1795269600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-21/aik-deg",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-21/aik-deg_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1330969144,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "mj-llby-aif-vs-malm-ff-1330969144",
+      "title": "Mjällby AIF vs. Malmö FF",
+      "status": "NS",
+      "league": {
+        "league_name": "Allsvenskan",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Mjällby AIF",
+        "away_name": "Malmö FF",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/d4b3a0a781e04f6cf9ac5a18bba3fbbb-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795269600,
+        "start_time_local": 1795269600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-21/mja-mal",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-21/mja-mal_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1544931463,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "1-fc-union-berlin-vs-rb-leipzig-1544931463",
+      "title": "1. FC Union Berlin vs. RB Leipzig",
+      "status": "NS",
+      "league": {
+        "league_name": "Bundesliga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "1. FC Union Berlin",
+        "away_name": "RB Leipzig",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/86c01c9cbd06e1a26262b0f8996a26d5-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795271400,
+        "start_time_local": 1795271400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-21/fcu-rbl",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-21/fcu-rbl_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1595543690,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "bayer-leverkusen-vs-sc-paderborn-07-1595543690",
+      "title": "Bayer Leverkusen vs. SC Paderborn 07",
+      "status": "NS",
+      "league": {
+        "league_name": "Bundesliga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Bayer Leverkusen",
+        "away_name": "SC Paderborn 07",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/3737905533f129cbd6e4b53ae640024f-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795271400,
+        "start_time_local": 1795271400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-21/b04-scp",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-21/b04-scp_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1070359225,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "borussia-m-nchengladbach-vs-borussia-dortmund-1070359225",
+      "title": "Borussia Mönchengladbach vs. Borussia Dortmund",
+      "status": "NS",
+      "league": {
+        "league_name": "Bundesliga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Borussia Mönchengladbach",
+        "away_name": "Borussia Dortmund",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/ef7e780fbe1c4b32f2525469700d7aab-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795271400,
+        "start_time_local": 1795271400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-21/bmg-dor",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-21/bmg-dor_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1457153795,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "eintracht-frankfurt-vs-tsg-hoffenheim-1457153795",
+      "title": "Eintracht Frankfurt vs. TSG Hoffenheim",
+      "status": "NS",
+      "league": {
+        "league_name": "Bundesliga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Eintracht Frankfurt",
+        "away_name": "TSG Hoffenheim",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/5f4ab402998fb63d368cd4a361872469-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795271400,
+        "start_time_local": 1795271400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-21/sge-tsg",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-21/sge-tsg_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1668488586,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "sv-elversberg-vs-sc-freiburg-1668488586",
+      "title": "SV Elversberg vs. SC Freiburg",
+      "status": "NS",
+      "league": {
+        "league_name": "Bundesliga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "SV Elversberg",
+        "away_name": "SC Freiburg",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/914cd973a652eb8b8e49b6a53e5e9daa-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795271400,
+        "start_time_local": 1795271400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-21/elv-scf",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-21/elv-scf_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1594009190,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "afc-bournemouth-vs-nottingham-forest-1594009190",
+      "title": "AFC Bournemouth vs. Nottingham Forest",
+      "status": "NS",
+      "league": {
+        "league_name": "Premier League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "AFC Bournemouth",
+        "away_name": "Nottingham Forest",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/d1789d893d71224b7e554f107c2ab557-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795273200,
+        "start_time_local": 1795273200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-21/bou-nfo",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-21/bou-nfo_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1062938603,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "aston-villa-vs-sunderland-1062938603",
+      "title": "Aston Villa vs. Sunderland",
+      "status": "NS",
+      "league": {
+        "league_name": "Premier League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Aston Villa",
+        "away_name": "Sunderland",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/8c8c9c27b0932b84b1f1078a3d978df9-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795273200,
+        "start_time_local": 1795273200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-21/avl-sun",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-21/avl-sun_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1294541943,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "chelsea-vs-leeds-united-1294541943",
+      "title": "Chelsea vs. Leeds United",
+      "status": "NS",
+      "league": {
+        "league_name": "Premier League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Chelsea",
+        "away_name": "Leeds United",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/69e808732fbf6789e296b3a0394b27e3-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795273200,
+        "start_time_local": 1795273200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-21/che-lee",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-21/che-lee_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1507832359,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "coventry-city-vs-crystal-palace-1507832359",
+      "title": "Coventry City vs. Crystal Palace",
+      "status": "NS",
+      "league": {
+        "league_name": "Premier League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Coventry City",
+        "away_name": "Crystal Palace",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/f69ee60df0595dd81682c428602bf8f4-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795273200,
+        "start_time_local": 1795273200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-21/cov-cry",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-21/cov-cry_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1463625786,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "tottenham-hotspur-vs-ipswich-town-1463625786",
+      "title": "Tottenham Hotspur vs. Ipswich Town",
+      "status": "NS",
+      "league": {
+        "league_name": "Premier League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Tottenham Hotspur",
+        "away_name": "Ipswich Town",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/172c174dd26f89927068dfa9f4862485-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795273200,
+        "start_time_local": 1795273200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-21/tot-ips",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-21/tot-ips_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1815803734,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "rayo-vallecano-vs-valencia-1815803734",
+      "title": "Rayo Vallecano vs. Valencia",
+      "status": "NS",
+      "league": {
+        "league_name": "LaLiga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Rayo Vallecano",
+        "away_name": "Valencia",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/7a9096262d17133aa073b5ea80d1c3c5-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795274100,
+        "start_time_local": 1795274100,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-21/ray-val",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-21/ray-val_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1898492994,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "nec-nijmegen-vs-psv-eindhoven-1898492994",
+      "title": "NEC Nijmegen vs. PSV Eindhoven",
+      "status": "NS",
+      "league": {
+        "league_name": "Eredivisie",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "NEC Nijmegen",
+        "away_name": "PSV Eindhoven",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/2d57901941378c054922ada852642f62-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795275000,
+        "start_time_local": 1795275000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-21/nec-psv",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-21/nec-psv_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1540876571,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "nice-vs-paris-saint-germain-1540876571",
+      "title": "Nice vs. Paris Saint-Germain",
+      "status": "NS",
+      "league": {
+        "league_name": "Ligue 1",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Nice",
+        "away_name": "Paris Saint-Germain",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/32842b6ee5b1a2e5562d535e0ee16297-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795277700,
+        "start_time_local": 1795277700,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-21/nice-psg",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-21/nice-psg_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1337112425,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "gais-vs-v-ster-s-sk-1337112425",
+      "title": "GAIS vs. Västerås SK",
+      "status": "NS",
+      "league": {
+        "league_name": "Allsvenskan",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "GAIS",
+        "away_name": "Västerås SK",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/53cbc3f8ebbedce56978cf40078e9aea-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795278600,
+        "start_time_local": 1795278600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-21/gais-vas",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-21/gais-vas_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
     },
     {
       "match_id": 1278089024,
@@ -2901,6 +4185,240 @@
       ]
     },
     {
+      "match_id": 1301955755,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "parma-vs-as-roma-1301955755",
+      "title": "Parma vs. AS Roma",
+      "status": "NS",
+      "league": {
+        "league_name": "Serie A",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Parma",
+        "away_name": "AS Roma",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/bd2a87186212079c0c886ca634616b7f-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795280400,
+        "start_time_local": 1795280400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-21/par-roma",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-21/par-roma_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1442118080,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "sevilla-vs-real-betis-1442118080",
+      "title": "Sevilla vs. Real Betis",
+      "status": "NS",
+      "league": {
+        "league_name": "LaLiga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Sevilla",
+        "away_name": "Real Betis",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/af9651a85a43cf202cc8a03983817be4-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795282200,
+        "start_time_local": 1795282200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-21/sev-bet",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-21/sev-bet_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1619721216,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "schalke-04-vs-vfb-stuttgart-1619721216",
+      "title": "Schalke 04 vs. VfB Stuttgart",
+      "status": "NS",
+      "league": {
+        "league_name": "Bundesliga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Schalke 04",
+        "away_name": "VfB Stuttgart",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/259953fa8e9e64d1546c1f1937aa88b7-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795282200,
+        "start_time_local": 1795282200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-21/s04-vfb",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-21/s04-vfb_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1873443955,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "newcastle-united-vs-arsenal-1873443955",
+      "title": "Newcastle United vs. Arsenal",
+      "status": "NS",
+      "league": {
+        "league_name": "Premier League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Newcastle United",
+        "away_name": "Arsenal",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/320e9458bedbca66794cd42cebba9351-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795282200,
+        "start_time_local": 1795282200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-21/new-ars",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-21/new-ars_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1328881079,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "fc-utrecht-vs-sc-cambuur-1328881079",
+      "title": "FC Utrecht vs. SC Cambuur",
+      "status": "NS",
+      "league": {
+        "league_name": "Eredivisie",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "FC Utrecht",
+        "away_name": "SC Cambuur",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/0da871e3c6147503d413f50557eee998-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795283100,
+        "start_time_local": 1795283100,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-21/utr-cam",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-21/utr-cam_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1716651507,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "feyenoord-rotterdam-vs-excelsior-1716651507",
+      "title": "Feyenoord Rotterdam vs. Excelsior",
+      "status": "NS",
+      "league": {
+        "league_name": "Eredivisie",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Feyenoord Rotterdam",
+        "away_name": "Excelsior",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/f0a65e39a1dbf75f308cf24fc36d0aa9-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795283100,
+        "start_time_local": 1795283100,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-21/fey-exc",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-21/fey-exc_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1445500201,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -3018,6 +4536,45 @@
       ]
     },
     {
+      "match_id": 1767437977,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "new-england-revolution-vs-philadelphia-union-1767437977",
+      "title": "New England Revolution vs. Philadelphia Union",
+      "status": "NS",
+      "league": {
+        "league_name": "MLS",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "New England Revolution",
+        "away_name": "Philadelphia Union",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/92b4fce7b6c33b137c08c2f2b9699255-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795287600,
+        "start_time_local": 1795287600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Apple TV",
+          "play_url": "https://taifood-blog.asia/embed/mls/2026-11-21/ne-phi",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Apple TV",
+          "play_url": "https://taifood-blog.asia/embed/mls/2026-11-21/ne-phi_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1247145208,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -3050,6 +4607,318 @@
         {
           "server_name": "SD | BTN",
           "play_url": "https://taifood-blog.asia/embed/cfb/2026-11-21/iowa-ill_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1680415780,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "napoli-vs-torino-1680415780",
+      "title": "Napoli vs. Torino",
+      "status": "NS",
+      "league": {
+        "league_name": "Serie A",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Napoli",
+        "away_name": "Torino",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/599d0cd52995faf2be573bee104dd4e6-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795290300,
+        "start_time_local": 1795290300,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-21/nap-tor",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-21/nap-tor_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1412919064,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "as-monaco-vs-aj-auxerre-1412919064",
+      "title": "AS Monaco vs. AJ Auxerre",
+      "status": "NS",
+      "league": {
+        "league_name": "Ligue 1",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "AS Monaco",
+        "away_name": "AJ Auxerre",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/80e71b9bb4c531e7747969bc024c8121-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795290300,
+        "start_time_local": 1795290300,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-21/mon-aux",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-21/mon-aux_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1355205952,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "lens-vs-toulouse-1355205952",
+      "title": "Lens vs. Toulouse",
+      "status": "NS",
+      "league": {
+        "league_name": "Ligue 1",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Lens",
+        "away_name": "Toulouse",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/6a80a39055dcfa3638b1e70368678197-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795290300,
+        "start_time_local": 1795290300,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-21/rcl-tou",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-21/rcl-tou_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1143739943,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "lille-vs-lyon-1143739943",
+      "title": "Lille vs. Lyon",
+      "status": "NS",
+      "league": {
+        "league_name": "Ligue 1",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Lille",
+        "away_name": "Lyon",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/ce8e4ae1247a5f256eb92b3d23a3a7b7-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795290300,
+        "start_time_local": 1795290300,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-21/lill-lyon",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-21/lill-lyon_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1695987845,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "strasbourg-vs-brest-1695987845",
+      "title": "Strasbourg vs. Brest",
+      "status": "NS",
+      "league": {
+        "league_name": "Ligue 1",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Strasbourg",
+        "away_name": "Brest",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/5ff5872627a533e1d344376b785d989e-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795290300,
+        "start_time_local": 1795290300,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-21/str-bre",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-21/str-bre_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1330662786,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "real-madrid-vs-celta-vigo-1330662786",
+      "title": "Real Madrid vs. Celta Vigo",
+      "status": "NS",
+      "league": {
+        "league_name": "LaLiga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Real Madrid",
+        "away_name": "Celta Vigo",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/e9465819ec45ec3242d2e2f1d9dfec28-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795291200,
+        "start_time_local": 1795291200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-21/rma-cel",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-21/rma-cel_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1484920942,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "fc-groningen-vs-heerenveen-1484920942",
+      "title": "FC Groningen vs. Heerenveen",
+      "status": "NS",
+      "league": {
+        "league_name": "Eredivisie",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "FC Groningen",
+        "away_name": "Heerenveen",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/080c4f5ea472e8cacf73e846b9d30a92-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795291200,
+        "start_time_local": 1795291200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-21/gro-hee",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-21/gro-hee_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1636224893,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "telstar-vs-pec-zwolle-1636224893",
+      "title": "Telstar vs. PEC Zwolle",
+      "status": "NS",
+      "league": {
+        "league_name": "Eredivisie",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Telstar",
+        "away_name": "PEC Zwolle",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/eef15df386e89d204ee295ee9a175bfc-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795291200,
+        "start_time_local": 1795291200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-21/tel-pec",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-21/tel-pec_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
@@ -3273,6 +5142,162 @@
         {
           "server_name": "SD | Fox",
           "play_url": "https://taifood-blog.asia/embed/cfb/2026-11-21/ttu-bay_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1005291172,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "fc-dallas-vs-portland-timbers-1005291172",
+      "title": "FC Dallas vs. Portland Timbers",
+      "status": "NS",
+      "league": {
+        "league_name": "MLS",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "FC Dallas",
+        "away_name": "Portland Timbers",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/5793d1aefa9075b1fafae3a5b31bdb24-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795294800,
+        "start_time_local": 1795294800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Apple TV",
+          "play_url": "https://taifood-blog.asia/embed/mls/2026-11-21/dal-por",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Apple TV",
+          "play_url": "https://taifood-blog.asia/embed/mls/2026-11-21/dal-por_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1413437269,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "pachuca-vs-toluca-1413437269",
+      "title": "Pachuca vs. Toluca",
+      "status": "NS",
+      "league": {
+        "league_name": "Liga MX",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Pachuca",
+        "away_name": "Toluca",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/65e4e8a3a4de55f4ddb174a28b807dd3-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795301400,
+        "start_time_local": 1795301400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-21/pac-tol",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-21/pac-tol_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1803199006,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "inter-miami-cf-vs-columbus-crew-1803199006",
+      "title": "Inter Miami CF vs. Columbus Crew",
+      "status": "NS",
+      "league": {
+        "league_name": "MLS",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Inter Miami CF",
+        "away_name": "Columbus Crew",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/5c76912b1fabd8e39539a6152440ce4f-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795302000,
+        "start_time_local": 1795302000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Apple TV",
+          "play_url": "https://taifood-blog.asia/embed/mls/2026-11-21/mia-clb",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Apple TV",
+          "play_url": "https://taifood-blog.asia/embed/mls/2026-11-21/mia-clb_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1017768090,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "santos-vs-le-n-1017768090",
+      "title": "Santos vs. León",
+      "status": "NS",
+      "league": {
+        "league_name": "Liga MX",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Santos",
+        "away_name": "León",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/6c33984bcfb9bee87ac4eb147b96a89b-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795302000,
+        "start_time_local": 1795302000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-21/san-leo",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-21/san-leo_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
@@ -3542,6 +5567,84 @@
       ]
     },
     {
+      "match_id": 1635277761,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "pumas-unam-vs-monterrey-1635277761",
+      "title": "Pumas UNAM vs. Monterrey",
+      "status": "NS",
+      "league": {
+        "league_name": "Liga MX",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Pumas UNAM",
+        "away_name": "Monterrey",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/37d1e9f82dda933c7047cd5ec5f777b2-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795309200,
+        "start_time_local": 1795309200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-21/unam-mty",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-21/unam-mty_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1025731273,
+      "sport_name": "Fight",
+      "sport_id": 18,
+      "slug": "aew-saturday-night-collision-1025731273",
+      "title": "AEW Saturday Night Collision",
+      "status": "NS",
+      "league": {
+        "league_name": "Wrestling",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795309200,
+        "start_time_local": 1795309200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | TNT",
+          "play_url": "https://taifood-blog.asia/embed/aew/2026-11-21",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | TNT",
+          "play_url": "https://taifood-blog.asia/embed/aew/2026-11-21_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1490886686,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -3613,6 +5716,45 @@
         {
           "server_name": "SD | USA Net",
           "play_url": "https://taifood-blog.asia/embed/cfb/2026-11-21/sdsu-bois_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1165669217,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "tigres-uanl-vs-am-rica-1165669217",
+      "title": "Tigres UANL vs. América",
+      "status": "NS",
+      "league": {
+        "league_name": "Liga MX",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Tigres UANL",
+        "away_name": "América",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/9a8868031736bc34622c9af99acd0017-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795316400,
+        "start_time_local": 1795316400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-21/uanl-ame",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-21/uanl-ame_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
@@ -3769,6 +5911,84 @@
       "streams": []
     },
     {
+      "match_id": 1876552675,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "fc-twente-vs-willem-ii-1876552675",
+      "title": "FC Twente vs. Willem II",
+      "status": "NS",
+      "league": {
+        "league_name": "Eredivisie",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "FC Twente",
+        "away_name": "Willem II",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/601d045fbdb894792a13a29391f54ae7-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795346100,
+        "start_time_local": 1795346100,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-22/twe-wil",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-22/twe-wil_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1513791452,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "juventus-vs-venezia-1513791452",
+      "title": "Juventus vs. Venezia",
+      "status": "NS",
+      "league": {
+        "league_name": "Serie A",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Juventus",
+        "away_name": "Venezia",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/191431447e73bdde9e1c2cab0566e882-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795347000,
+        "start_time_local": 1795347000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-22/juv-ven",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-22/juv-ven_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1887799179,
       "sport_name": "Darts",
       "sport_id": 13,
@@ -3801,6 +6021,708 @@
         {
           "server_name": "SD | PDC.TV",
           "play_url": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-9-session-1-32259_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1166666817,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "barcelona-vs-villarreal-1166666817",
+      "title": "Barcelona vs. Villarreal",
+      "status": "NS",
+      "league": {
+        "league_name": "LaLiga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Barcelona",
+        "away_name": "Villarreal",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/4747fd4590bc916f5e78a33ae81930a2-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795352400,
+        "start_time_local": 1795352400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-22/bar-vil",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-22/bar-vil_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1093492710,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "bk-h-cken-vs-if-elfsborg-1093492710",
+      "title": "BK Häcken vs. IF Elfsborg",
+      "status": "NS",
+      "league": {
+        "league_name": "Allsvenskan",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "BK Häcken",
+        "away_name": "IF Elfsborg",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/7b1e805bc0bae7fcbbd73b5a47b2d15a-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795352400,
+        "start_time_local": 1795352400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-22/bkh-elf",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-22/bkh-elf_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1704197411,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "ik-sirius-vs-djurg-rden-1704197411",
+      "title": "IK Sirius vs. Djurgården",
+      "status": "NS",
+      "league": {
+        "league_name": "Allsvenskan",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "IK Sirius",
+        "away_name": "Djurgården",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/0d2940c93b46311132f2c1b48e3aff3a-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795352400,
+        "start_time_local": 1795352400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-22/sir-dju",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-22/sir-dju_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1425048989,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "ajax-amsterdam-vs-ado-den-haag-1425048989",
+      "title": "Ajax Amsterdam vs. ADO Den Haag",
+      "status": "NS",
+      "league": {
+        "league_name": "Eredivisie",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Ajax Amsterdam",
+        "away_name": "ADO Den Haag",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/d3710adf62c3f822a8bf4c798412f900-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795354200,
+        "start_time_local": 1795354200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-22/aja-ado",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-22/aja-ado_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1644669747,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "sparta-rotterdam-vs-az-alkmaar-1644669747",
+      "title": "Sparta Rotterdam vs. AZ Alkmaar",
+      "status": "NS",
+      "league": {
+        "league_name": "Eredivisie",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Sparta Rotterdam",
+        "away_name": "AZ Alkmaar",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/f39d97481c05191479729385b9d2d902-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795354200,
+        "start_time_local": 1795354200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-22/spa-az",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-22/spa-az_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1046873934,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "hull-city-vs-brighton-hove-albion-1046873934",
+      "title": "Hull City vs. Brighton & Hove Albion",
+      "status": "NS",
+      "league": {
+        "league_name": "Premier League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Hull City",
+        "away_name": "Brighton & Hove Albion",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/9c263c78546dddab35ffc94a8363961f-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795356000,
+        "start_time_local": 1795356000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-22/hul-bha",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-22/hul-bha_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1605885048,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "bologna-vs-udinese-1605885048",
+      "title": "Bologna vs. Udinese",
+      "status": "NS",
+      "league": {
+        "league_name": "Serie A",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Bologna",
+        "away_name": "Udinese",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/2f2bbc111219fb8abbd2ef9ee9f6b10c-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795356000,
+        "start_time_local": 1795356000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-22/bol-udi",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-22/bol-udi_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1360249639,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "sassuolo-vs-genoa-1360249639",
+      "title": "Sassuolo vs. Genoa",
+      "status": "NS",
+      "league": {
+        "league_name": "Serie A",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Sassuolo",
+        "away_name": "Genoa",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/c05c3a1b71b2f3a11d275e916008f196-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795356000,
+        "start_time_local": 1795356000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-22/sas-gen",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-22/sas-gen_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1023499737,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "paris-fc-vs-angers-1023499737",
+      "title": "Paris FC vs. Angers",
+      "status": "NS",
+      "league": {
+        "league_name": "Ligue 1",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Paris FC",
+        "away_name": "Angers",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/840993d7ee5158d225a3df40e3a94bb1-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795356000,
+        "start_time_local": 1795356000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-22/par-ang",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-22/par-ang_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1316272706,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "fc-augsburg-vs-mainz-1316272706",
+      "title": "FC Augsburg vs. Mainz",
+      "status": "NS",
+      "league": {
+        "league_name": "Bundesliga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "FC Augsburg",
+        "away_name": "Mainz",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/c9d1741bda41dc94fd3eaf8b41b64c36-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795357800,
+        "start_time_local": 1795357800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-22/fca-m05",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-22/fca-m05_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1450476792,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "racing-santander-vs-real-sociedad-1450476792",
+      "title": "Racing Santander vs. Real Sociedad",
+      "status": "NS",
+      "league": {
+        "league_name": "LaLiga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Racing Santander",
+        "away_name": "Real Sociedad",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/a5013db01b1b958870ac8a0ba7a70ebb-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795360500,
+        "start_time_local": 1795360500,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-22/rac-rso",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-22/rac-rso_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1058051185,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "if-brommapojkarna-vs-halmstads-bk-1058051185",
+      "title": "IF Brommapojkarna vs. Halmstads BK",
+      "status": "NS",
+      "league": {
+        "league_name": "Allsvenskan",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "IF Brommapojkarna",
+        "away_name": "Halmstads BK",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/2201737488ff4467e39850167a42bfbb-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795361400,
+        "start_time_local": 1795361400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-22/bro-hbk",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-22/bro-hbk_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1797573101,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "go-ahead-eagles-vs-fortuna-sittard-1797573101",
+      "title": "Go Ahead Eagles vs. Fortuna Sittard",
+      "status": "NS",
+      "league": {
+        "league_name": "Eredivisie",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Go Ahead Eagles",
+        "away_name": "Fortuna Sittard",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/7e6aaaec8c8ffd9fb5e0b9aa04144304-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795362300,
+        "start_time_local": 1795362300,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-22/gae-for",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN",
+          "play_url": "https://taifood-blog.asia/embed/eredivisie/2026-11-22/gae-for_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1038724743,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "lorient-vs-stade-rennais-1038724743",
+      "title": "Lorient vs. Stade Rennais",
+      "status": "NS",
+      "league": {
+        "league_name": "Ligue 1",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Lorient",
+        "away_name": "Stade Rennais",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/0d43678c181f9ec6f83f94005214f66b-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795364100,
+        "start_time_local": 1795364100,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-22/lor-ren",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-22/lor-ren_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1061405359,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "werder-bremen-vs-hamburg-sv-1061405359",
+      "title": "Werder Bremen vs. Hamburg SV",
+      "status": "NS",
+      "league": {
+        "league_name": "Bundesliga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Werder Bremen",
+        "away_name": "Hamburg SV",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/237287cd556b8184671ad551272f6fb6-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795365000,
+        "start_time_local": 1795365000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-22/svw-hsv",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Bundesliga",
+          "play_url": "https://taifood-blog.asia/embed/bundesliga/2026-11-22/svw-hsv_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1424592753,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "liverpool-vs-manchester-united-1424592753",
+      "title": "Liverpool vs. Manchester United",
+      "status": "NS",
+      "league": {
+        "league_name": "Premier League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Liverpool",
+        "away_name": "Manchester United",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/06f2151b64027a437b011debdeeb087b-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795365000,
+        "start_time_local": 1795365000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-22/liv-mun",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-22/liv-mun_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1457288769,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "ac-milan-vs-frosinone-1457288769",
+      "title": "AC Milan vs. Frosinone",
+      "status": "NS",
+      "league": {
+        "league_name": "Serie A",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "AC Milan",
+        "away_name": "Frosinone",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/ba0bbe01e3206edd18c210450083d8dc-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795366800,
+        "start_time_local": 1795366800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-22/mil-fro",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-22/mil-fro_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1352352361,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "osasuna-vs-m-laga-1352352361",
+      "title": "Osasuna vs. Málaga",
+      "status": "NS",
+      "league": {
+        "league_name": "LaLiga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Osasuna",
+        "away_name": "Málaga",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/e72a9dc8b31d702fad830f91d6f3c50f-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795368600,
+        "start_time_local": 1795368600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-22/osa-mcf",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-22/osa-mcf_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
@@ -4120,6 +7042,123 @@
       ]
     },
     {
+      "match_id": 1848020525,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "atalanta-vs-inter-milan-1848020525",
+      "title": "Atalanta vs. Inter Milan",
+      "status": "NS",
+      "league": {
+        "league_name": "Serie A",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Atalanta",
+        "away_name": "Inter Milan",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/eefda32024bb995cc0949cc2f464b8a4-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795376700,
+        "start_time_local": 1795376700,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-22/ata-int",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-22/ata-int_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1164033402,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "marseille-vs-le-mans-1164033402",
+      "title": "Marseille vs. Le Mans",
+      "status": "NS",
+      "league": {
+        "league_name": "Ligue 1",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Marseille",
+        "away_name": "Le Mans",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/170408145612d6c62b5b43194a624403-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795376700,
+        "start_time_local": 1795376700,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-22/olm-mns",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Ligue 1+",
+          "play_url": "https://taifood-blog.asia/embed/ligue1/2026-11-22/olm-mns_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1156887182,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "getafe-vs-atl-tico-madrid-1156887182",
+      "title": "Getafe vs. Atlético Madrid",
+      "status": "NS",
+      "league": {
+        "league_name": "LaLiga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Getafe",
+        "away_name": "Atlético Madrid",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/6a15934d8c30ce21ca2ba438237c43c8-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795377600,
+        "start_time_local": 1795377600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-22/get-atm",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-22/get-atm_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1805706492,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -4237,6 +7276,84 @@
       ]
     },
     {
+      "match_id": 1731366965,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "guadalajara-vs-cruz-azul-1731366965",
+      "title": "Guadalajara vs. Cruz Azul",
+      "status": "NS",
+      "league": {
+        "league_name": "Liga MX",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Guadalajara",
+        "away_name": "Cruz Azul",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/fa165952d1106a56f3b52ef1e1245c27-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795388820,
+        "start_time_local": 1795388820,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-22/gdl-caz",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-22/gdl-caz_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1479374321,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "quer-taro-vs-necaxa-1479374321",
+      "title": "Querétaro vs. Necaxa",
+      "status": "NS",
+      "league": {
+        "league_name": "Liga MX",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Querétaro",
+        "away_name": "Necaxa",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/64187500a64cc2a234854d9b96e9bc7c-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795395600,
+        "start_time_local": 1795395600,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-22/qro-ncx",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Liga MX",
+          "play_url": "https://taifood-blog.asia/embed/liga-mx/2026-11-22/qro-ncx_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1024001239,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -4346,6 +7463,201 @@
         "countdown_seconds": null
       },
       "streams": []
+    },
+    {
+      "match_id": 1787019169,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "hammarby-if-vs-ifk-g-teborg-1787019169",
+      "title": "Hammarby IF vs. IFK Göteborg",
+      "status": "NS",
+      "league": {
+        "league_name": "Allsvenskan",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Hammarby IF",
+        "away_name": "IFK Göteborg",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/88499840d324272157c0cd4c1ec040e6-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795456800,
+        "start_time_local": 1795456800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-23/ham-got",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-23/ham-got_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1419657936,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "rgryte-is-vs-kalmar-ff-1419657936",
+      "title": "Örgryte IS vs. Kalmar FF",
+      "status": "NS",
+      "league": {
+        "league_name": "Allsvenskan",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Örgryte IS",
+        "away_name": "Kalmar FF",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/1f1823df606da329107938cecbe1650a-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795456800,
+        "start_time_local": 1795456800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-23/org-kff",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | TV4 Play",
+          "play_url": "https://taifood-blog.asia/embed/allsvenskan/2026-11-23/org-kff_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1660284726,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "monza-vs-fiorentina-1660284726",
+      "title": "Monza vs. Fiorentina",
+      "status": "NS",
+      "league": {
+        "league_name": "Serie A",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Monza",
+        "away_name": "Fiorentina",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/edd63676097ff8afdf6c120ee9642026-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795463100,
+        "start_time_local": 1795463100,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-23/mon-fio",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Paramount+",
+          "play_url": "https://taifood-blog.asia/embed/seriea/2026-11-23/mon-fio_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1421429942,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "levante-vs-elche-1421429942",
+      "title": "Levante vs. Elche",
+      "status": "NS",
+      "league": {
+        "league_name": "LaLiga",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Levante",
+        "away_name": "Elche",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/454292eab1feb61ebb977d4013714e59-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795464000,
+        "start_time_local": 1795464000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-23/lev-elc",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ESPN+",
+          "play_url": "https://taifood-blog.asia/embed/laliga/2026-11-23/lev-elc_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1625779506,
+      "sport_name": "Football",
+      "sport_id": 1,
+      "slug": "brentford-vs-everton-1625779506",
+      "title": "Brentford vs. Everton",
+      "status": "NS",
+      "league": {
+        "league_name": "Premier League",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Brentford",
+        "away_name": "Everton",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/5808eb439674e7ab4f6aea80319c64bf-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795464000,
+        "start_time_local": 1795464000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-23/bre-eve",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | Premier League",
+          "play_url": "https://taifood-blog.asia/embed/pl/2026-11-23/bre-eve_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
     },
     {
       "match_id": 1736062034,
