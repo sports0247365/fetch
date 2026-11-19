@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-19T05:00:35.861Z"
+    "last_update_time": "2026-11-19T05:05:20.981Z"
   },
   "live_matches": [
     {
@@ -885,8 +885,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795064435,
-        "start_time_local": 1795064435,
+        "start_time_timestamp": 1795064720,
+        "start_time_local": 1795064720,
         "countdown_seconds": null
       },
       "streams": [
@@ -924,8 +924,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795064435,
-        "start_time_local": 1795064435,
+        "start_time_timestamp": 1795064720,
+        "start_time_local": 1795064720,
         "countdown_seconds": null
       },
       "streams": [
@@ -963,8 +963,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795064435,
-        "start_time_local": 1795064435,
+        "start_time_timestamp": 1795064720,
+        "start_time_local": 1795064720,
         "countdown_seconds": null
       },
       "streams": [
@@ -1002,8 +1002,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795064435,
-        "start_time_local": 1795064435,
+        "start_time_timestamp": 1795064720,
+        "start_time_local": 1795064720,
         "countdown_seconds": null
       },
       "streams": [
@@ -1024,7 +1024,7 @@
       ]
     }
   ],
-  "total_upcoming_matches": 191,
+  "total_upcoming_matches": 197,
   "upcoming_matches": [
     {
       "match_id": 1255990931,
@@ -2849,6 +2849,45 @@
       ]
     },
     {
+      "match_id": 1674473079,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "manhattan-jaspers-at-miami-hurricanes-1674473079",
+      "title": "Manhattan Jaspers at Miami Hurricanes",
+      "status": "NS",
+      "league": {
+        "league_name": "College Basketball",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Manhattan Jaspers",
+        "away_name": "Miami Hurricanes",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/16c0c6fb677fee398366c87a79ac3573-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795212000,
+        "start_time_local": 1795212000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ACC Network",
+          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-20/man-mia",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ACC Network",
+          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-20/man-mia_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1846218979,
       "sport_name": "Basketball",
       "sport_id": 2,
@@ -2881,6 +2920,84 @@
         {
           "server_name": "SD | Home",
           "play_url": "https://taifood-blog.asia/embed/nba/2026-11-20/cha-atl_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1156938329,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "loyola-maryland-greyhounds-at-virginia-cavaliers-1156938329",
+      "title": "Loyola Maryland Greyhounds at Virginia Cavaliers",
+      "status": "NS",
+      "league": {
+        "league_name": "College Basketball",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Loyola Maryland Greyhounds",
+        "away_name": "Virginia Cavaliers",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/eb8b6cec06956ec541e4eb2e2cd0de30-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795219200,
+        "start_time_local": 1795219200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | ACC Network",
+          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-20/lmd-uva",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | ACC Network",
+          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-20/lmd-uva_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1450133656,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "coastal-carolina-chanticleers-at-tennessee-volunteers-1450133656",
+      "title": "Coastal Carolina Chanticleers at Tennessee Volunteers",
+      "status": "NS",
+      "league": {
+        "league_name": "College Basketball",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Coastal Carolina Chanticleers",
+        "away_name": "Tennessee Volunteers",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/238e28650138d39e43fd50d92fc78e9a-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795219200,
+        "start_time_local": 1795219200,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | SECN+",
+          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-20/ccu-tenn",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | SECN+",
+          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-20/ccu-tenn_540p",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
@@ -3301,6 +3418,84 @@
       ]
     },
     {
+      "match_id": 1775105743,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "ucf-knights-at-vanderbilt-commodores-1775105743",
+      "title": "UCF Knights at Vanderbilt Commodores",
+      "status": "NS",
+      "league": {
+        "league_name": "College Basketball",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "UCF Knights",
+        "away_name": "Vanderbilt Commodores",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/d6e3ee1c9037ca5678b305bf8dc7da96-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795222800,
+        "start_time_local": 1795222800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | SECN+",
+          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-20/ucf-van",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | SECN+",
+          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-20/ucf-van_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1652291837,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "mississippi-valley-state-delta-devils-at-arkansas-razorbacks-1652291837",
+      "title": "Mississippi Valley State Delta Devils at Arkansas Razorbacks",
+      "status": "NS",
+      "league": {
+        "league_name": "College Basketball",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Mississippi Valley State Delta Devils",
+        "away_name": "Arkansas Razorbacks",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/66caadcad0d7386e6d8f97f29e1e2748-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795222800,
+        "start_time_local": 1795222800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | SECN+",
+          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-20/mvsu-ark",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | SECN+",
+          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-20/mvsu-ark_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1826735812,
       "sport_name": "Football",
       "sport_id": 1,
@@ -3401,6 +3596,45 @@
         "countdown_seconds": null
       },
       "streams": []
+    },
+    {
+      "match_id": 1458848492,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "eastern-illinois-panthers-at-illinois-fighting-illini-1458848492",
+      "title": "Eastern Illinois Panthers at Illinois Fighting Illini",
+      "status": "NS",
+      "league": {
+        "league_name": "College Basketball",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Eastern Illinois Panthers",
+        "away_name": "Illinois Fighting Illini",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/dd3f333729de85e358f2c66ae9b4db6b-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795226400,
+        "start_time_local": 1795226400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "HD | BTN",
+          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-20/eiu-ill",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "SD | BTN",
+          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-20/eiu-ill_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
     },
     {
       "match_id": 1626219205,
