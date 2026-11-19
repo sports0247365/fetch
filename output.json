@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-19T04:00:37.691Z"
+    "last_update_time": "2026-11-19T04:05:22.439Z"
   },
   "live_matches": [
     {
@@ -865,6 +865,66 @@
       ]
     },
     {
+      "match_id": 1554276247,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "pakistan-vs-sri-lanka-1554276247",
+      "title": "Pakistan vs Sri Lanka",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Sri Lanka tour of Pakistan 2026 - 2nd Test",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Pakistan",
+        "away_name": "Sri Lanka",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d1b6f08-0201-4db4-96bd-f867f7348b30/7/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795060800,
+        "start_time_local": 1795060800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "15bb136e7ac737c7f35172fe6703b695",
+          "required_referer2": "8fa933ee92c1e8d1f5d2855152d784f2"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "15bb136e7ac737c7f35172fe6703b695",
+          "required_referer2": "8fa933ee92c1e8d1f5d2855152d784f2"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "15bb136e7ac737c7f35172fe6703b695",
+          "required_referer2": "8fa933ee92c1e8d1f5d2855152d784f2"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "15bb136e7ac737c7f35172fe6703b695",
+          "required_referer2": "8fa933ee92c1e8d1f5d2855152d784f2"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "15bb136e7ac737c7f35172fe6703b695",
+          "required_referer2": "8fa933ee92c1e8d1f5d2855152d784f2"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -882,8 +942,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795060837,
-        "start_time_local": 1795060837,
+        "start_time_timestamp": 1795061122,
+        "start_time_local": 1795061122,
         "countdown_seconds": null
       },
       "streams": [
@@ -921,8 +981,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795060837,
-        "start_time_local": 1795060837,
+        "start_time_timestamp": 1795061122,
+        "start_time_local": 1795061122,
         "countdown_seconds": null
       },
       "streams": [
@@ -960,8 +1020,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795060837,
-        "start_time_local": 1795060837,
+        "start_time_timestamp": 1795061122,
+        "start_time_local": 1795061122,
         "countdown_seconds": null
       },
       "streams": [
@@ -999,8 +1059,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795060837,
-        "start_time_local": 1795060837,
+        "start_time_timestamp": 1795061122,
+        "start_time_local": 1795061122,
         "countdown_seconds": null
       },
       "streams": [
@@ -1021,32 +1081,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 169,
+  "total_upcoming_matches": 168,
   "upcoming_matches": [
-    {
-      "match_id": 1554276247,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "pakistan-vs-sri-lanka-1554276247",
-      "title": "Pakistan vs Sri Lanka",
-      "status": "NS",
-      "league": {
-        "league_name": "Sri Lanka tour of Pakistan 2026 - 2nd Test",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Pakistan",
-        "away_name": "Sri Lanka",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d1b6f08-0201-4db4-96bd-f867f7348b30/6/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795062600,
-        "start_time_local": 1795062600,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1698259936,
       "sport_name": "Cricket",
@@ -1062,11 +1098,11 @@
       "teams": {
         "home_name": "Hobart Hurricanes Women",
         "away_name": "Perth Scorchers Women",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54e76bb1-d553-4d0c-8464-65fc8947c2a1/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54e76bb1-d553-4d0c-8464-65fc8947c2a1/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
       },
       "timing": {
-        "start_time_timestamp": 1795063200,
-        "start_time_local": 1795063200,
+        "start_time_timestamp": 1795061400,
+        "start_time_local": 1795061400,
         "countdown_seconds": null
       },
       "streams": []
