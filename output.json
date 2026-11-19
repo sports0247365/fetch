@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-19T04:30:33.625Z"
+    "last_update_time": "2026-11-19T04:35:22.521Z"
   },
   "live_matches": [
     {
@@ -886,6 +886,66 @@
       ]
     },
     {
+      "match_id": 1698259936,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "hobart-hurricanes-women-vs-perth-scorchers-women-1698259936",
+      "title": "Hobart Hurricanes Women vs Perth Scorchers Women",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Womens Big Bash League 2026 - 26th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Hobart Hurricanes Women",
+        "away_name": "Perth Scorchers Women",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54e76bb1-d553-4d0c-8464-65fc8947c2a1/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795061400,
+        "start_time_local": 1795061400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "6f87f49f1a51b9c8d7d11a23c3f207ef",
+          "required_referer2": "0fdd85e00b98637bb97e1b6b319d2be9"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "6f87f49f1a51b9c8d7d11a23c3f207ef",
+          "required_referer2": "0fdd85e00b98637bb97e1b6b319d2be9"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "6f87f49f1a51b9c8d7d11a23c3f207ef",
+          "required_referer2": "0fdd85e00b98637bb97e1b6b319d2be9"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "6f87f49f1a51b9c8d7d11a23c3f207ef",
+          "required_referer2": "0fdd85e00b98637bb97e1b6b319d2be9"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "6f87f49f1a51b9c8d7d11a23c3f207ef",
+          "required_referer2": "0fdd85e00b98637bb97e1b6b319d2be9"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -903,8 +963,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795062633,
-        "start_time_local": 1795062633,
+        "start_time_timestamp": 1795062922,
+        "start_time_local": 1795062922,
         "countdown_seconds": null
       },
       "streams": [
@@ -942,8 +1002,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795062633,
-        "start_time_local": 1795062633,
+        "start_time_timestamp": 1795062922,
+        "start_time_local": 1795062922,
         "countdown_seconds": null
       },
       "streams": [
@@ -981,8 +1041,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795062633,
-        "start_time_local": 1795062633,
+        "start_time_timestamp": 1795062922,
+        "start_time_local": 1795062922,
         "countdown_seconds": null
       },
       "streams": [
@@ -1020,8 +1080,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795062633,
-        "start_time_local": 1795062633,
+        "start_time_timestamp": 1795062922,
+        "start_time_local": 1795062922,
         "countdown_seconds": null
       },
       "streams": [
@@ -1042,32 +1102,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 168,
+  "total_upcoming_matches": 167,
   "upcoming_matches": [
-    {
-      "match_id": 1698259936,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "hobart-hurricanes-women-vs-perth-scorchers-women-1698259936",
-      "title": "Hobart Hurricanes Women vs Perth Scorchers Women",
-      "status": "NS",
-      "league": {
-        "league_name": "Womens Big Bash League 2026 - 26th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Hobart Hurricanes Women",
-        "away_name": "Perth Scorchers Women",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54e76bb1-d553-4d0c-8464-65fc8947c2a1/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795061400,
-        "start_time_local": 1795061400,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1255990931,
       "sport_name": "Cricket",
