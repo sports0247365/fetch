@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-20T21:00:39.900Z"
+    "last_update_time": "2026-11-20T21:05:22.953Z"
   },
   "live_matches": [
     {
@@ -638,8 +638,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795208439,
-        "start_time_local": 1795208439,
+        "start_time_timestamp": 1795208722,
+        "start_time_local": 1795208722,
         "countdown_seconds": null
       },
       "streams": [
@@ -677,8 +677,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795208439,
-        "start_time_local": 1795208439,
+        "start_time_timestamp": 1795208722,
+        "start_time_local": 1795208722,
         "countdown_seconds": null
       },
       "streams": [
@@ -716,8 +716,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795208439,
-        "start_time_local": 1795208439,
+        "start_time_timestamp": 1795208722,
+        "start_time_local": 1795208722,
         "countdown_seconds": null
       },
       "streams": [
@@ -755,8 +755,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795208439,
-        "start_time_local": 1795208439,
+        "start_time_timestamp": 1795208722,
+        "start_time_local": 1795208722,
         "countdown_seconds": null
       },
       "streams": [
@@ -775,70 +775,34 @@
           "required_referer2": null
         }
       ]
-    },
+    }
+  ],
+  "total_upcoming_matches": 179,
+  "upcoming_matches": [
     {
-      "match_id": 1897815773,
+      "match_id": 1137863034,
       "sport_name": "Cricket",
       "sport_id": 3,
-      "slug": "arabian-aces-vs-uae-bulls-1897815773",
-      "title": "Arabian Aces vs UAE Bulls",
-      "status": "LIVE",
+      "slug": "new-zealand-vs-india-1137863034",
+      "title": "New Zealand vs India",
+      "status": "NS",
       "league": {
-        "league_name": "Abu Dhabi T10 League 2026 - Qualifier",
+        "league_name": "India tour of New Zealand 2026 - 1st Test",
         "league_logo": ""
       },
       "venue": "TBA",
       "teams": {
-        "home_name": "Arabian Aces",
-        "away_name": "UAE Bulls",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3cfb0948-d4fd-4f83-972e-bd07f74f613e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        "home_name": "New Zealand",
+        "away_name": "India",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.04f62072-bc1e-42be-b0f9-2370ad69f513/9/BOXART-16X9/en-US._UR1920,1080_.jpeg"
       },
       "timing": {
-        "start_time_timestamp": 1795266300,
-        "start_time_local": 1795266300,
+        "start_time_timestamp": 1795210200,
+        "start_time_local": 1795210200,
         "countdown_seconds": null
       },
-      "streams": [
-        {
-          "server_name": "Amazon Server",
-          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ciluyzixht/out/v1/b3ec24213f4b40be9c5644b6eed1774b/cenc.mpd",
-          "is_new_format": true,
-          "required_referer": "b523235faf497e1ce0967946ba01a9c3",
-          "required_referer2": "1697e8dd99cd9cd940f463f4fdc7385f"
-        },
-        {
-          "server_name": "Fistly Server",
-          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ciluyzixht/out/v1/b3ec24213f4b40be9c5644b6eed1774b/cenc.mpd",
-          "is_new_format": true,
-          "required_referer": "b523235faf497e1ce0967946ba01a9c3",
-          "required_referer2": "1697e8dd99cd9cd940f463f4fdc7385f"
-        },
-        {
-          "server_name": "Akamai Server",
-          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ciluyzixht/out/v1/b3ec24213f4b40be9c5644b6eed1774b/cenc.mpd",
-          "is_new_format": true,
-          "required_referer": "b523235faf497e1ce0967946ba01a9c3",
-          "required_referer2": "1697e8dd99cd9cd940f463f4fdc7385f"
-        },
-        {
-          "server_name": "Cloudfront Server 1",
-          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ciluyzixht/out/v1/b3ec24213f4b40be9c5644b6eed1774b/cenc.mpd",
-          "is_new_format": true,
-          "required_referer": "b523235faf497e1ce0967946ba01a9c3",
-          "required_referer2": "1697e8dd99cd9cd940f463f4fdc7385f"
-        },
-        {
-          "server_name": "Cloudfront Server 2",
-          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ciluyzixht/out/v1/b3ec24213f4b40be9c5644b6eed1774b/cenc.mpd",
-          "is_new_format": true,
-          "required_referer": "b523235faf497e1ce0967946ba01a9c3",
-          "required_referer2": "1697e8dd99cd9cd940f463f4fdc7385f"
-        }
-      ]
-    }
-  ],
-  "total_upcoming_matches": 178,
-  "upcoming_matches": [
+      "streams": []
+    },
     {
       "match_id": 1674473079,
       "sport_name": "Basketball",
@@ -877,30 +841,6 @@
           "required_referer2": null
         }
       ]
-    },
-    {
-      "match_id": 1137863034,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "new-zealand-vs-india-1137863034",
-      "title": "New Zealand vs India",
-      "status": "NS",
-      "league": {
-        "league_name": "India tour of New Zealand 2026 - 1st Test",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "New Zealand",
-        "away_name": "India",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.04f62072-bc1e-42be-b0f9-2370ad69f513/7/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795212000,
-        "start_time_local": 1795212000,
-        "countdown_seconds": null
-      },
-      "streams": []
     },
     {
       "match_id": 1846218979,
@@ -7785,6 +7725,30 @@
       "timing": {
         "start_time_timestamp": 1795860000,
         "start_time_local": 1795860000,
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1880576634,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "dubai-capitals-vs-gulf-giants-1880576634",
+      "title": "Dubai Capitals vs Gulf Giants",
+      "status": "NS",
+      "league": {
+        "league_name": "International League T20 2026 - 10th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Dubai Capitals",
+        "away_name": "Gulf Giants",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.90587d79-619b-40b6-9918-14226a0b34cb/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795876200,
+        "start_time_local": 1795876200,
         "countdown_seconds": null
       },
       "streams": []
