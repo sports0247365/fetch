@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-20T08:00:42.309Z"
+    "last_update_time": "2026-11-20T08:05:23.844Z"
   },
   "live_matches": [
     {
@@ -525,6 +525,66 @@
       ]
     },
     {
+      "match_id": 1593472609,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "adelaide-strikers-women-vs-melbourne-renegades-women-1593472609",
+      "title": "Adelaide Strikers Women vs Melbourne Renegades Women",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Womens Big Bash League 2026 - 28th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Adelaide Strikers Women",
+        "away_name": "Melbourne Renegades Women",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c9c55325-fbd3-4749-9736-333bfc5825af/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795160400,
+        "start_time_local": 1795160400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "4db2612086ed985ae029fe71a3b56439",
+          "required_referer2": "a7e45930ba4fbcf51cb12522ac433ca1"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "4db2612086ed985ae029fe71a3b56439",
+          "required_referer2": "a7e45930ba4fbcf51cb12522ac433ca1"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "4db2612086ed985ae029fe71a3b56439",
+          "required_referer2": "a7e45930ba4fbcf51cb12522ac433ca1"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "4db2612086ed985ae029fe71a3b56439",
+          "required_referer2": "a7e45930ba4fbcf51cb12522ac433ca1"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "4db2612086ed985ae029fe71a3b56439",
+          "required_referer2": "a7e45930ba4fbcf51cb12522ac433ca1"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -542,8 +602,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795161642,
-        "start_time_local": 1795161642,
+        "start_time_timestamp": 1795161923,
+        "start_time_local": 1795161923,
         "countdown_seconds": null
       },
       "streams": [
@@ -581,8 +641,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795161642,
-        "start_time_local": 1795161642,
+        "start_time_timestamp": 1795161923,
+        "start_time_local": 1795161923,
         "countdown_seconds": null
       },
       "streams": [
@@ -620,8 +680,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795161642,
-        "start_time_local": 1795161642,
+        "start_time_timestamp": 1795161923,
+        "start_time_local": 1795161923,
         "countdown_seconds": null
       },
       "streams": [
@@ -659,8 +719,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795161642,
-        "start_time_local": 1795161642,
+        "start_time_timestamp": 1795161923,
+        "start_time_local": 1795161923,
         "countdown_seconds": null
       },
       "streams": [
@@ -681,32 +741,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 183,
+  "total_upcoming_matches": 182,
   "upcoming_matches": [
-    {
-      "match_id": 1593472609,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "adelaide-strikers-women-vs-melbourne-renegades-women-1593472609",
-      "title": "Adelaide Strikers Women vs Melbourne Renegades Women",
-      "status": "NS",
-      "league": {
-        "league_name": "Womens Big Bash League 2026 - 28th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Adelaide Strikers Women",
-        "away_name": "Melbourne Renegades Women",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c9c55325-fbd3-4749-9736-333bfc5825af/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795162200,
-        "start_time_local": 1795162200,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1833279268,
       "sport_name": "Basketball",
@@ -766,6 +802,30 @@
       "timing": {
         "start_time_timestamp": 1795168800,
         "start_time_local": 1795168800,
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1897815773,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "arabian-aces-vs-uae-bulls-1897815773",
+      "title": "Arabian Aces vs UAE Bulls",
+      "status": "NS",
+      "league": {
+        "league_name": "Abu Dhabi T10 League 2026 - Qualifier",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Arabian Aces",
+        "away_name": "UAE Bulls",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3cfb0948-d4fd-4f83-972e-bd07f74f613e/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795181400,
+        "start_time_local": 1795181400,
         "countdown_seconds": null
       },
       "streams": []
@@ -2700,6 +2760,30 @@
           "required_referer2": null
         }
       ]
+    },
+    {
+      "match_id": 1088789280,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "desert-vipers-vs-mi-emirates-1088789280",
+      "title": "Desert Vipers vs Mi Emirates",
+      "status": "NS",
+      "league": {
+        "league_name": "International League T20 2026 - 1st Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Desert Vipers",
+        "away_name": "Mi Emirates",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f5566761-b72f-45ad-89b5-d9febee8e5f4/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795271400,
+        "start_time_local": 1795271400,
+        "countdown_seconds": null
+      },
+      "streams": []
     },
     {
       "match_id": 1594009190,
@@ -5603,6 +5687,30 @@
       "streams": []
     },
     {
+      "match_id": 1657998748,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "team-footy-vs-team-cricket-1657998748",
+      "title": "Team Footy vs Team Cricket",
+      "status": "NS",
+      "league": {
+        "league_name": "T20 Gold Clash 2026",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Team Footy",
+        "away_name": "Team Cricket",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.feb06812-bd54-4726-9fcd-334588d5645a/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795338000,
+        "start_time_local": 1795338000,
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
       "match_id": 1818558828,
       "sport_name": "Cricket",
       "sport_id": 3,
@@ -5618,6 +5726,30 @@
         "home_name": "India A",
         "away_name": "Pakistan A",
         "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad597a8-c567-4e8e-9aa6-5e4611763590/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795341600,
+        "start_time_local": 1795341600,
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1376359472,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "sharjah-warriorz-vs-gulf-giants-1376359472",
+      "title": "Sharjah Warriorz vs Gulf Giants",
+      "status": "NS",
+      "league": {
+        "league_name": "International League T20 2026 - 2nd Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Sharjah Warriorz",
+        "away_name": "Gulf Giants",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e000e3d7-eeac-4eb4-9cb7-f6f673e4c3ab/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
       },
       "timing": {
         "start_time_timestamp": 1795341600,
@@ -6132,6 +6264,30 @@
           "required_referer2": null
         }
       ]
+    },
+    {
+      "match_id": 1243847162,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "dubai-capitals-vs-abu-dhabi-knight-riders-1243847162",
+      "title": "Dubai Capitals vs Abu Dhabi Knight Riders",
+      "status": "NS",
+      "league": {
+        "league_name": "International League T20 2026 - 3rd Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Dubai Capitals",
+        "away_name": "Abu Dhabi Knight Riders",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cbd115a8-7912-4931-ad84-4e8112c59f74/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795357800,
+        "start_time_local": 1795357800,
+        "countdown_seconds": null
+      },
+      "streams": []
     },
     {
       "match_id": 1450476792,
@@ -7746,126 +7902,6 @@
       "timing": {
         "start_time_timestamp": 1795940100,
         "start_time_local": 1795940100,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1814057423,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "south-africa-vs-bangladesh-1814057423",
-      "title": "South Africa vs Bangladesh",
-      "status": "NS",
-      "league": {
-        "league_name": "South Africa vs. Bangladesh",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "South Africa",
-        "away_name": "Bangladesh",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bcba7ca3-3e47-42d4-ba10-e0d619c2973b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1796124600,
-        "start_time_local": 1796124600,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1515807212,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "australia-vs-england-1515807212",
-      "title": "Australia vs England",
-      "status": "NS",
-      "league": {
-        "league_name": "England tour of Australia 2026 - 5th T20I",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Australia",
-        "away_name": "England",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f4982f4f-76ce-4952-adcc-8c2205fef6d5/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1796199300,
-        "start_time_local": 1796199300,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1614467844,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "south-africa-vs-bangladesh-1614467844",
-      "title": "South Africa vs Bangladesh",
-      "status": "NS",
-      "league": {
-        "league_name": "South Africa vs. Bangladesh",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "South Africa",
-        "away_name": "Bangladesh",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.373c15a7-8824-4a64-a4bc-c84c6a09a2a3/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1796383800,
-        "start_time_local": 1796383800,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1422677751,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "south-africa-vs-bangladesh-1422677751",
-      "title": "South Africa vs Bangladesh",
-      "status": "NS",
-      "league": {
-        "league_name": "South Africa vs. Bangladesh",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "South Africa",
-        "away_name": "Bangladesh",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.72706e13-cdb2-46e4-b825-1c436c7469f3/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1796643000,
-        "start_time_local": 1796643000,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1291674329,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "south-africa-vs-bangladesh-1291674329",
-      "title": "South Africa vs Bangladesh",
-      "status": "NS",
-      "league": {
-        "league_name": "Bangladesh tour of South Africa 2026 - 1st T20I",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "South Africa",
-        "away_name": "Bangladesh",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc0f1bf1-e8c2-4b33-825f-db83354fecf3/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1796918400,
-        "start_time_local": 1796918400,
         "countdown_seconds": null
       },
       "streams": []
