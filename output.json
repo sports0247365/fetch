@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-20T06:00:37.588Z"
+    "last_update_time": "2026-11-20T06:05:26.490Z"
   },
   "live_matches": [
     {
@@ -663,6 +663,66 @@
       ]
     },
     {
+      "match_id": 1786370370,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "pakistan-a-vs-united-arab-emirates-1786370370",
+      "title": "Pakistan A vs United Arab Emirates",
+      "status": "LIVE",
+      "league": {
+        "league_name": "ACC Mens Asia Cup Rising Stars 2026 - 3rd Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Pakistan A",
+        "away_name": "United Arab Emirates",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abffa862-1c81-49b4-bb69-6abb325298cc/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795154400,
+        "start_time_local": 1795154400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c180edac009ec2b3ddc9822f3ae814c3",
+          "required_referer2": "b94d327fd81dd7a5a43a0a7bd737dd8a"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c180edac009ec2b3ddc9822f3ae814c3",
+          "required_referer2": "b94d327fd81dd7a5a43a0a7bd737dd8a"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c180edac009ec2b3ddc9822f3ae814c3",
+          "required_referer2": "b94d327fd81dd7a5a43a0a7bd737dd8a"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c180edac009ec2b3ddc9822f3ae814c3",
+          "required_referer2": "b94d327fd81dd7a5a43a0a7bd737dd8a"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "c180edac009ec2b3ddc9822f3ae814c3",
+          "required_referer2": "b94d327fd81dd7a5a43a0a7bd737dd8a"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -680,8 +740,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795154437,
-        "start_time_local": 1795154437,
+        "start_time_timestamp": 1795154726,
+        "start_time_local": 1795154726,
         "countdown_seconds": null
       },
       "streams": [
@@ -719,8 +779,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795154437,
-        "start_time_local": 1795154437,
+        "start_time_timestamp": 1795154726,
+        "start_time_local": 1795154726,
         "countdown_seconds": null
       },
       "streams": [
@@ -758,8 +818,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795154437,
-        "start_time_local": 1795154437,
+        "start_time_timestamp": 1795154726,
+        "start_time_local": 1795154726,
         "countdown_seconds": null
       },
       "streams": [
@@ -797,8 +857,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795154437,
-        "start_time_local": 1795154437,
+        "start_time_timestamp": 1795154726,
+        "start_time_local": 1795154726,
         "countdown_seconds": null
       },
       "streams": [
@@ -819,32 +879,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 182,
+  "total_upcoming_matches": 181,
   "upcoming_matches": [
-    {
-      "match_id": 1786370370,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "pakistan-a-vs-united-arab-emirates-1786370370",
-      "title": "Pakistan A vs United Arab Emirates",
-      "status": "NS",
-      "league": {
-        "league_name": "ACC Mens Asia Cup Rising Stars 2026 - 3rd Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Pakistan A",
-        "away_name": "United Arab Emirates",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abffa862-1c81-49b4-bb69-6abb325298cc/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795154400,
-        "start_time_local": 1795154400,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1593472609,
       "sport_name": "Cricket",
