@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-20T09:35:26.258Z"
+    "last_update_time": "2026-11-20T09:40:33.458Z"
   },
   "live_matches": [
     {
@@ -624,6 +624,66 @@
       ]
     },
     {
+      "match_id": 1530551885,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "india-a-vs-nepal-1530551885",
+      "title": "India A vs Nepal",
+      "status": "LIVE",
+      "league": {
+        "league_name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "India A",
+        "away_name": "Nepal",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5ae8f596-1a68-4215-9ca8-ae5fd1d94925/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795167000,
+        "start_time_local": 1795167000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "91ffd985da527c7d77ecc801128d11cc",
+          "required_referer2": "3bb5d51b2fef3b50c43d0cc12455eaf7"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "91ffd985da527c7d77ecc801128d11cc",
+          "required_referer2": "3bb5d51b2fef3b50c43d0cc12455eaf7"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "91ffd985da527c7d77ecc801128d11cc",
+          "required_referer2": "3bb5d51b2fef3b50c43d0cc12455eaf7"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "91ffd985da527c7d77ecc801128d11cc",
+          "required_referer2": "3bb5d51b2fef3b50c43d0cc12455eaf7"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "91ffd985da527c7d77ecc801128d11cc",
+          "required_referer2": "3bb5d51b2fef3b50c43d0cc12455eaf7"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -641,8 +701,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795167326,
-        "start_time_local": 1795167326,
+        "start_time_timestamp": 1795167633,
+        "start_time_local": 1795167633,
         "countdown_seconds": null
       },
       "streams": [
@@ -680,8 +740,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795167326,
-        "start_time_local": 1795167326,
+        "start_time_timestamp": 1795167633,
+        "start_time_local": 1795167633,
         "countdown_seconds": null
       },
       "streams": [
@@ -719,8 +779,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795167326,
-        "start_time_local": 1795167326,
+        "start_time_timestamp": 1795167633,
+        "start_time_local": 1795167633,
         "countdown_seconds": null
       },
       "streams": [
@@ -758,8 +818,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795167326,
-        "start_time_local": 1795167326,
+        "start_time_timestamp": 1795167633,
+        "start_time_local": 1795167633,
         "countdown_seconds": null
       },
       "streams": [
@@ -780,32 +840,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 181,
+  "total_upcoming_matches": 180,
   "upcoming_matches": [
-    {
-      "match_id": 1530551885,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "india-a-vs-nepal-1530551885",
-      "title": "India A vs Nepal",
-      "status": "NS",
-      "league": {
-        "league_name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "India A",
-        "away_name": "Nepal",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5ae8f596-1a68-4215-9ca8-ae5fd1d94925/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795168800,
-        "start_time_local": 1795168800,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1897815773,
       "sport_name": "Cricket",
