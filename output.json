@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-22T06:00:35.375Z"
+    "last_update_time": "2026-11-22T06:05:23.610Z"
   },
   "live_matches": [
     {
@@ -878,6 +878,66 @@
       ]
     },
     {
+      "match_id": 1119846620,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "united-arab-emirates-vs-nepal-1119846620",
+      "title": "United Arab Emirates vs Nepal",
+      "status": "LIVE",
+      "league": {
+        "league_name": "ACC Mens Asia Cup Rising Stars 2026 - 7th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "United Arab Emirates",
+        "away_name": "Nepal",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.87c723c7-0535-4196-8c99-d5472eca5403/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795325700,
+        "start_time_local": 1795325700,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "7341f16081ecb92ed172ef9df6f443ce",
+          "required_referer2": "566b8cf0a31255d55785b24ade0a999c"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "7341f16081ecb92ed172ef9df6f443ce",
+          "required_referer2": "566b8cf0a31255d55785b24ade0a999c"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "7341f16081ecb92ed172ef9df6f443ce",
+          "required_referer2": "566b8cf0a31255d55785b24ade0a999c"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "7341f16081ecb92ed172ef9df6f443ce",
+          "required_referer2": "566b8cf0a31255d55785b24ade0a999c"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "7341f16081ecb92ed172ef9df6f443ce",
+          "required_referer2": "566b8cf0a31255d55785b24ade0a999c"
+        }
+      ]
+    },
+    {
       "match_id": 1254344748,
       "sport_name": "Basketball",
       "sport_id": 2,
@@ -934,8 +994,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795327235,
-        "start_time_local": 1795327235,
+        "start_time_timestamp": 1795327523,
+        "start_time_local": 1795327523,
         "countdown_seconds": null
       },
       "streams": [
@@ -973,8 +1033,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795327235,
-        "start_time_local": 1795327235,
+        "start_time_timestamp": 1795327523,
+        "start_time_local": 1795327523,
         "countdown_seconds": null
       },
       "streams": [
@@ -1012,8 +1072,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795327235,
-        "start_time_local": 1795327235,
+        "start_time_timestamp": 1795327523,
+        "start_time_local": 1795327523,
         "countdown_seconds": null
       },
       "streams": [
@@ -1051,8 +1111,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795327235,
-        "start_time_local": 1795327235,
+        "start_time_timestamp": 1795327523,
+        "start_time_local": 1795327523,
         "countdown_seconds": null
       },
       "streams": [
@@ -1073,32 +1133,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 100,
+  "total_upcoming_matches": 99,
   "upcoming_matches": [
-    {
-      "match_id": 1119846620,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "united-arab-emirates-vs-nepal-1119846620",
-      "title": "United Arab Emirates vs Nepal",
-      "status": "NS",
-      "league": {
-        "league_name": "ACC Mens Asia Cup Rising Stars 2026 - 7th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "United Arab Emirates",
-        "away_name": "Nepal",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.87c723c7-0535-4196-8c99-d5472eca5403/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795327200,
-        "start_time_local": 1795327200,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1471186554,
       "sport_name": "Cricket",
