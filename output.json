@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-22T08:00:39.699Z"
+    "last_update_time": "2026-11-22T08:05:24.436Z"
   },
   "live_matches": [
     {
@@ -624,6 +624,126 @@
       ]
     },
     {
+      "match_id": 1657998748,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "team-footy-vs-team-cricket-1657998748",
+      "title": "Team Footy vs Team Cricket",
+      "status": "LIVE",
+      "league": {
+        "league_name": "T20 Gold Clash 2026",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Team Footy",
+        "away_name": "Team Cricket",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.feb06812-bd54-4726-9fcd-334588d5645a/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795334400,
+        "start_time_local": 1795334400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "fcf78c73ab89e0e6ef4ad2f5430d6bf8",
+          "required_referer2": "a2aa49b85e6f40263207b06f18242ec9"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "fcf78c73ab89e0e6ef4ad2f5430d6bf8",
+          "required_referer2": "a2aa49b85e6f40263207b06f18242ec9"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "fcf78c73ab89e0e6ef4ad2f5430d6bf8",
+          "required_referer2": "a2aa49b85e6f40263207b06f18242ec9"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "fcf78c73ab89e0e6ef4ad2f5430d6bf8",
+          "required_referer2": "a2aa49b85e6f40263207b06f18242ec9"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "fcf78c73ab89e0e6ef4ad2f5430d6bf8",
+          "required_referer2": "a2aa49b85e6f40263207b06f18242ec9"
+        }
+      ]
+    },
+    {
+      "match_id": 1471186554,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "melbourne-stars-women-vs-melbourne-renegades-women-1471186554",
+      "title": "Melbourne Stars Women vs Melbourne Renegades Women",
+      "status": "LIVE",
+      "league": {
+        "league_name": "Womens Big Bash League 2026 - 32nd Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Melbourne Stars Women",
+        "away_name": "Melbourne Renegades Women",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3493bcea-41c6-4747-942a-136b142a246b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795334400,
+        "start_time_local": 1795334400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "e929ffbf0190098c52fa2c689dd2311e",
+          "required_referer2": "b499ea7a1c854eaddbf3021a7b3d40bc"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "e929ffbf0190098c52fa2c689dd2311e",
+          "required_referer2": "b499ea7a1c854eaddbf3021a7b3d40bc"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "e929ffbf0190098c52fa2c689dd2311e",
+          "required_referer2": "b499ea7a1c854eaddbf3021a7b3d40bc"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "e929ffbf0190098c52fa2c689dd2311e",
+          "required_referer2": "b499ea7a1c854eaddbf3021a7b3d40bc"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "e929ffbf0190098c52fa2c689dd2311e",
+          "required_referer2": "b499ea7a1c854eaddbf3021a7b3d40bc"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -641,8 +761,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795334439,
-        "start_time_local": 1795334439,
+        "start_time_timestamp": 1795334724,
+        "start_time_local": 1795334724,
         "countdown_seconds": null
       },
       "streams": [
@@ -680,8 +800,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795334439,
-        "start_time_local": 1795334439,
+        "start_time_timestamp": 1795334724,
+        "start_time_local": 1795334724,
         "countdown_seconds": null
       },
       "streams": [
@@ -719,8 +839,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795334439,
-        "start_time_local": 1795334439,
+        "start_time_timestamp": 1795334724,
+        "start_time_local": 1795334724,
         "countdown_seconds": null
       },
       "streams": [
@@ -758,8 +878,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795334439,
-        "start_time_local": 1795334439,
+        "start_time_timestamp": 1795334724,
+        "start_time_local": 1795334724,
         "countdown_seconds": null
       },
       "streams": [
@@ -780,56 +900,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 100,
+  "total_upcoming_matches": 98,
   "upcoming_matches": [
-    {
-      "match_id": 1471186554,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "melbourne-stars-women-vs-melbourne-renegades-women-1471186554",
-      "title": "Melbourne Stars Women vs Melbourne Renegades Women",
-      "status": "NS",
-      "league": {
-        "league_name": "Womens Big Bash League 2026 - 32nd Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Melbourne Stars Women",
-        "away_name": "Melbourne Renegades Women",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3493bcea-41c6-4747-942a-136b142a246b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795335000,
-        "start_time_local": 1795335000,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
-    {
-      "match_id": 1657998748,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "team-footy-vs-team-cricket-1657998748",
-      "title": "Team Footy vs Team Cricket",
-      "status": "NS",
-      "league": {
-        "league_name": "T20 Gold Clash 2026",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Team Footy",
-        "away_name": "Team Cricket",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.feb06812-bd54-4726-9fcd-334588d5645a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795335300,
-        "start_time_local": 1795335300,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1818558828,
       "sport_name": "Cricket",
