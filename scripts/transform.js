@@ -474,6 +474,49 @@ function buildServer(name, iframeUrl, index) {
   };
 }
 
+// ppv.st ka source_tag "SD | ESPN" ya "HD | ESPN" jaisa hota hai
+// SD = 0 (pehle), HD = 1 (baad mein), quality na likhi ho = 2 (aakhir mein)
+function ppvQualityRank(name) {
+  const q = String(name || "").toLowerCase();
+  if (/\bsd\b/.test(q)) return 0;
+  if (/\b(hd|fhd|uhd)\b/.test(q)) return 1;
+  return 2;
+}
+
+// "SD | ESPN" -> "espn" (SD/HD hata kar sirf channel ka naam)
+function ppvChannelKey(name) {
+  return String(name || "")
+    .replace(/\b(sd|hd|fhd|uhd)\b/gi, "")
+    .replace(/[|\-:]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLowerCase();
+}
+
+// Har channel ke andar SD pehle aur HD baad mein:
+// "SD | ESPN" -> "HD | ESPN" -> "SD | Away" -> "HD | Away"
+// Channels ka order wahi rehta hai jo API mein pehli baar aaya.
+// Sirf SD ya sirf HD ho to jo available hai wahi aata hai.
+function sortPpvCandidates(candidates) {
+  const channelOrder = new Map();
+  candidates.forEach((c) => {
+    const key = ppvChannelKey(c.name);
+    if (!channelOrder.has(key)) channelOrder.set(key, channelOrder.size);
+  });
+  return candidates
+    .map((c, i) => ({ c, i }))
+    .sort((a, b) => {
+      const ka = channelOrder.get(ppvChannelKey(a.c.name));
+      const kb = channelOrder.get(ppvChannelKey(b.c.name));
+      if (ka !== kb) return ka - kb;
+      const qa = ppvQualityRank(a.c.name);
+      const qb = ppvQualityRank(b.c.name);
+      if (qa !== qb) return qa - qb;
+      return a.i - b.i;
+    })
+    .map((x) => x.c);
+}
+
 function transformMatch(m) {
   const title = (m.name || "").trim() || "Unknown Match";
   const matchId = generateMatchId(String(m.id || m.uri_name || title));
@@ -502,9 +545,13 @@ function transformMatch(m) {
   }
 
   const seen = new Set();
-  const streams = candidates
-    .filter((c) => c.iframe && !seen.has(c.iframe) && seen.add(c.iframe))
-    .map((c, i) => buildServer(c.name, c.iframe, i));
+  const unique = candidates.filter(
+    (c) => c.iframe && !seen.has(c.iframe) && seen.add(c.iframe),
+  );
+  // SD pehle, HD baad mein (har channel ke andar)
+  const streams = sortPpvCandidates(unique).map((c, i) =>
+    buildServer(c.name, c.iframe, i),
+  );
 
   const startAt = Number(m.starts_at) || null; // 24/7 channels mein 0 hota hai
 
