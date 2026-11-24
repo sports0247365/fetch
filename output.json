@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-24T07:25:23.372Z"
+    "last_update_time": "2026-11-24T07:30:32.390Z"
   },
   "live_matches": [
     {
@@ -387,45 +387,6 @@
       ]
     },
     {
-      "match_id": 1887781685,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "colorado-state-rams-at-arizona-wildcats-1887781685",
-      "title": "Colorado State Rams at Arizona Wildcats",
-      "status": "LIVE",
-      "league": {
-        "league_name": "College Basketball",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Colorado State Rams",
-        "away_name": "Arizona Wildcats",
-        "combined_logo": "https://static.ppvservices.st/assets/thumb/31d0bbfa9cbe4bd660132748999514d3-thumbnail.jpg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795494600,
-        "start_time_local": 1795494600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "SD | ESPN2",
-          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-23/csu-ariz_540p",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        },
-        {
-          "server_name": "HD | ESPN2",
-          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-23/csu-ariz",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        }
-      ]
-    },
-    {
       "match_id": 1403289012,
       "sport_name": "Cricket",
       "sport_id": 3,
@@ -503,8 +464,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795505123,
-        "start_time_local": 1795505123,
+        "start_time_timestamp": 1795505432,
+        "start_time_local": 1795505432,
         "countdown_seconds": null
       },
       "streams": [
@@ -542,8 +503,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795505123,
-        "start_time_local": 1795505123,
+        "start_time_timestamp": 1795505432,
+        "start_time_local": 1795505432,
         "countdown_seconds": null
       },
       "streams": [
@@ -581,8 +542,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795505123,
-        "start_time_local": 1795505123,
+        "start_time_timestamp": 1795505432,
+        "start_time_local": 1795505432,
         "countdown_seconds": null
       },
       "streams": [
@@ -620,14 +581,50 @@
       "teams": {
         "home_name": "South Africa",
         "away_name": "Bangladesh",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97eae418-93c7-40e2-b2d6-6a81327b83bc/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97eae418-93c7-40e2-b2d6-6a81327b83bc/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
       },
       "timing": {
-        "start_time_timestamp": 1795507200,
-        "start_time_local": 1795507200,
+        "start_time_timestamp": 1795505400,
+        "start_time_local": 1795505400,
         "countdown_seconds": null
       },
-      "streams": []
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "2c0a5ca2bcc67426156a65d85d53f5ae",
+          "required_referer2": "02b0a91443f3b8682dd08912875eeb61"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "2c0a5ca2bcc67426156a65d85d53f5ae",
+          "required_referer2": "02b0a91443f3b8682dd08912875eeb61"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "2c0a5ca2bcc67426156a65d85d53f5ae",
+          "required_referer2": "02b0a91443f3b8682dd08912875eeb61"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "2c0a5ca2bcc67426156a65d85d53f5ae",
+          "required_referer2": "02b0a91443f3b8682dd08912875eeb61"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "2c0a5ca2bcc67426156a65d85d53f5ae",
+          "required_referer2": "02b0a91443f3b8682dd08912875eeb61"
+        }
+      ]
     },
     {
       "match_id": 1652964863,
@@ -647,8 +644,8 @@
         "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.83a636a1-69f6-454e-8272-5fd9a24b1035/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
       },
       "timing": {
-        "start_time_timestamp": 1795508100,
-        "start_time_local": 1795508100,
+        "start_time_timestamp": 1795506300,
+        "start_time_local": 1795506300,
         "countdown_seconds": null
       },
       "streams": []
