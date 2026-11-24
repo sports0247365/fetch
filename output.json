@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-24T00:25:23.485Z"
+    "last_update_time": "2026-11-24T00:30:32.506Z"
   },
   "live_matches": [
     {
@@ -571,132 +571,12 @@
       ]
     },
     {
-      "match_id": 1590866482,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "nfl-network-1590866482",
-      "title": "NFL Network",
-      "status": "LIVE",
-      "league": {
-        "league_name": "24/7 channel",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795479923,
-        "start_time_local": 1795479923,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "SD | NFL Network (ESPN)",
-          "play_url": "https://taifood-blog.asia/embed/nfl-network_540p",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        },
-        {
-          "server_name": "HD | NFL Network (ESPN)",
-          "play_url": "https://taifood-blog.asia/embed/nfl-network",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        }
-      ]
-    },
-    {
-      "match_id": 1617374809,
-      "sport_name": "Ice Hockey",
-      "sport_id": 4,
-      "slug": "nhl-network-1617374809",
-      "title": "NHL Network",
-      "status": "LIVE",
-      "league": {
-        "league_name": "24/7 channel",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795479923,
-        "start_time_local": 1795479923,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "SD | NHL Network",
-          "play_url": "https://taifood-blog.asia/embed/nhl-network-29780_540p",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        },
-        {
-          "server_name": "HD | NHL Network",
-          "play_url": "https://taifood-blog.asia/embed/nhl-network-29780",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        }
-      ]
-    },
-    {
-      "match_id": 1854660510,
-      "sport_name": "24/7 Streams",
-      "sport_id": 99,
-      "slug": "24-7-south-park-1854660510",
-      "title": "24/7 South Park",
-      "status": "LIVE",
-      "league": {
-        "league_name": "24/7 channel",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Unknown",
-        "away_name": "Unknown",
-        "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795479923,
-        "start_time_local": 1795479923,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "SD | 24/7 channel",
-          "play_url": "https://taifood-blog.asia/embed/247-south-park_540p",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        },
-        {
-          "server_name": "HD | 24/7 channel",
-          "play_url": "https://taifood-blog.asia/embed/247-south-park",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        }
-      ]
-    }
-  ],
-  "total_upcoming_matches": 230,
-  "upcoming_matches": [
-    {
       "match_id": 1009324845,
       "sport_name": "Basketball",
       "sport_id": 2,
       "slug": "oklahoma-city-thunder-vs-indiana-pacers-1009324845",
       "title": "Oklahoma City Thunder vs. Indiana Pacers",
-      "status": "NS",
+      "status": "LIVE",
       "league": {
         "league_name": "NBA",
         "league_logo": ""
@@ -749,7 +629,7 @@
       "sport_id": 2,
       "slug": "milwaukee-bucks-vs-toronto-raptors-1347586560",
       "title": "Milwaukee Bucks vs. Toronto Raptors",
-      "status": "NS",
+      "status": "LIVE",
       "league": {
         "league_name": "NBA",
         "league_logo": ""
@@ -802,7 +682,7 @@
       "sport_id": 2,
       "slug": "brooklyn-nets-vs-minnesota-timberwolves-1674668052",
       "title": "Brooklyn Nets vs. Minnesota Timberwolves",
-      "status": "NS",
+      "status": "LIVE",
       "league": {
         "league_name": "NBA",
         "league_logo": ""
@@ -855,7 +735,7 @@
       "sport_id": 4,
       "slug": "los-angeles-kings-vs-montreal-canadiens-1835367154",
       "title": "Los Angeles Kings vs. Montreal Canadiens",
-      "status": "NS",
+      "status": "LIVE",
       "league": {
         "league_name": "NHL",
         "league_logo": ""
@@ -894,7 +774,7 @@
       "sport_id": 4,
       "slug": "calgary-flames-vs-ottawa-senators-1078549208",
       "title": "Calgary Flames vs. Ottawa Senators",
-      "status": "NS",
+      "status": "LIVE",
       "league": {
         "league_name": "NHL",
         "league_logo": ""
@@ -933,7 +813,7 @@
       "sport_id": 4,
       "slug": "toronto-maple-leafs-vs-new-york-islanders-1878264301",
       "title": "Toronto Maple Leafs vs. New York Islanders",
-      "status": "NS",
+      "status": "LIVE",
       "league": {
         "league_name": "NHL",
         "league_logo": ""
@@ -972,7 +852,7 @@
       "sport_id": 4,
       "slug": "utah-mammoth-vs-winnipeg-jets-1508057864",
       "title": "Utah Mammoth vs. Winnipeg Jets",
-      "status": "NS",
+      "status": "LIVE",
       "league": {
         "league_name": "NHL",
         "league_logo": ""
@@ -1005,6 +885,126 @@
         }
       ]
     },
+    {
+      "match_id": 1590866482,
+      "sport_name": "American Football",
+      "sport_id": 10,
+      "slug": "nfl-network-1590866482",
+      "title": "NFL Network",
+      "status": "LIVE",
+      "league": {
+        "league_name": "24/7 channel",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795480232,
+        "start_time_local": 1795480232,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "SD | NFL Network (ESPN)",
+          "play_url": "https://taifood-blog.asia/embed/nfl-network_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "HD | NFL Network (ESPN)",
+          "play_url": "https://taifood-blog.asia/embed/nfl-network",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1617374809,
+      "sport_name": "Ice Hockey",
+      "sport_id": 4,
+      "slug": "nhl-network-1617374809",
+      "title": "NHL Network",
+      "status": "LIVE",
+      "league": {
+        "league_name": "24/7 channel",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795480232,
+        "start_time_local": 1795480232,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "SD | NHL Network",
+          "play_url": "https://taifood-blog.asia/embed/nhl-network-29780_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "HD | NHL Network",
+          "play_url": "https://taifood-blog.asia/embed/nhl-network-29780",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
+      "match_id": 1854660510,
+      "sport_name": "24/7 Streams",
+      "sport_id": 99,
+      "slug": "24-7-south-park-1854660510",
+      "title": "24/7 South Park",
+      "status": "LIVE",
+      "league": {
+        "league_name": "24/7 channel",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795480232,
+        "start_time_local": 1795480232,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "SD | 24/7 channel",
+          "play_url": "https://taifood-blog.asia/embed/247-south-park_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "HD | 24/7 channel",
+          "play_url": "https://taifood-blog.asia/embed/247-south-park",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    }
+  ],
+  "total_upcoming_matches": 223,
+  "upcoming_matches": [
     {
       "match_id": 1465454597,
       "sport_name": "Basketball",
