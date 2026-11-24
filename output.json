@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-24T06:00:39.826Z"
+    "last_update_time": "2026-11-24T06:05:21.475Z"
   },
   "live_matches": [
     {
@@ -426,6 +426,66 @@
       ]
     },
     {
+      "match_id": 1403289012,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "india-a-vs-united-arab-emirates-1403289012",
+      "title": "India A vs United Arab Emirates",
+      "status": "LIVE",
+      "league": {
+        "league_name": "ACC Mens Asia Cup Rising Stars 2026 - 11th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "India A",
+        "away_name": "United Arab Emirates",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7ce31cd4-075b-478e-a281-f98d632e52d5/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795500000,
+        "start_time_local": 1795500000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "531497de47944ade5410fe5852905698",
+          "required_referer2": "574547fdae92793f4630b65dade01761"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "531497de47944ade5410fe5852905698",
+          "required_referer2": "574547fdae92793f4630b65dade01761"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "531497de47944ade5410fe5852905698",
+          "required_referer2": "574547fdae92793f4630b65dade01761"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "531497de47944ade5410fe5852905698",
+          "required_referer2": "574547fdae92793f4630b65dade01761"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "531497de47944ade5410fe5852905698",
+          "required_referer2": "574547fdae92793f4630b65dade01761"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -443,8 +503,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795500039,
-        "start_time_local": 1795500039,
+        "start_time_timestamp": 1795500321,
+        "start_time_local": 1795500321,
         "countdown_seconds": null
       },
       "streams": [
@@ -482,8 +542,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795500039,
-        "start_time_local": 1795500039,
+        "start_time_timestamp": 1795500321,
+        "start_time_local": 1795500321,
         "countdown_seconds": null
       },
       "streams": [
@@ -521,8 +581,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795500039,
-        "start_time_local": 1795500039,
+        "start_time_timestamp": 1795500321,
+        "start_time_local": 1795500321,
         "countdown_seconds": null
       },
       "streams": [
@@ -543,32 +603,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 230,
+  "total_upcoming_matches": 229,
   "upcoming_matches": [
-    {
-      "match_id": 1403289012,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "india-a-vs-united-arab-emirates-1403289012",
-      "title": "India A vs United Arab Emirates",
-      "status": "NS",
-      "league": {
-        "league_name": "ACC Mens Asia Cup Rising Stars 2026 - 11th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "India A",
-        "away_name": "United Arab Emirates",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7ce31cd4-075b-478e-a281-f98d632e52d5/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795500000,
-        "start_time_local": 1795500000,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1717334652,
       "sport_name": "Cricket",
