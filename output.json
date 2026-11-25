@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-25T17:00:43.960Z"
+    "last_update_time": "2026-11-25T17:05:26.754Z"
   },
   "live_matches": [
     {
@@ -387,66 +387,6 @@
       ]
     },
     {
-      "match_id": 1717334652,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "south-africa-vs-bangladesh-1717334652",
-      "title": "South Africa vs Bangladesh",
-      "status": "LIVE",
-      "league": {
-        "league_name": "Bangladesh tour of South Africa 2026 - 2nd Test",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "South Africa",
-        "away_name": "Bangladesh",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97eae418-93c7-40e2-b2d6-6a81327b83bc/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795593600,
-        "start_time_local": 1795593600,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "Amazon Server",
-          "play_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd",
-          "is_new_format": true,
-          "required_referer": "1b2d04c3583cb8cd35fdf091453a9927",
-          "required_referer2": "9584b37353992c00415eac1ae42cb3df"
-        },
-        {
-          "server_name": "Fistly Server",
-          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd",
-          "is_new_format": true,
-          "required_referer": "1b2d04c3583cb8cd35fdf091453a9927",
-          "required_referer2": "9584b37353992c00415eac1ae42cb3df"
-        },
-        {
-          "server_name": "Akamai Server",
-          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd",
-          "is_new_format": true,
-          "required_referer": "1b2d04c3583cb8cd35fdf091453a9927",
-          "required_referer2": "9584b37353992c00415eac1ae42cb3df"
-        },
-        {
-          "server_name": "Cloudfront Server 1",
-          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd",
-          "is_new_format": true,
-          "required_referer": "1b2d04c3583cb8cd35fdf091453a9927",
-          "required_referer2": "9584b37353992c00415eac1ae42cb3df"
-        },
-        {
-          "server_name": "Cloudfront Server 2",
-          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd",
-          "is_new_format": true,
-          "required_referer": "1b2d04c3583cb8cd35fdf091453a9927",
-          "required_referer2": "9584b37353992c00415eac1ae42cb3df"
-        }
-      ]
-    },
-    {
       "match_id": 1243732088,
       "sport_name": "Cricket",
       "sport_id": 3,
@@ -563,8 +503,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795626043,
-        "start_time_local": 1795626043,
+        "start_time_timestamp": 1795626326,
+        "start_time_local": 1795626326,
         "countdown_seconds": null
       },
       "streams": [
@@ -602,8 +542,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795626043,
-        "start_time_local": 1795626043,
+        "start_time_timestamp": 1795626326,
+        "start_time_local": 1795626326,
         "countdown_seconds": null
       },
       "streams": [
@@ -641,8 +581,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795626043,
-        "start_time_local": 1795626043,
+        "start_time_timestamp": 1795626326,
+        "start_time_local": 1795626326,
         "countdown_seconds": null
       },
       "streams": [
@@ -663,7 +603,7 @@
       ]
     }
   ],
-  "total_upcoming_matches": 207,
+  "total_upcoming_matches": 208,
   "upcoming_matches": [
     {
       "match_id": 1861815152,
@@ -2378,6 +2318,30 @@
       "timing": {
         "start_time_timestamp": 1795668000,
         "start_time_local": 1795668000,
+        "countdown_seconds": null
+      },
+      "streams": []
+    },
+    {
+      "match_id": 1717334652,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "south-africa-vs-bangladesh-1717334652",
+      "title": "South Africa vs Bangladesh",
+      "status": "NS",
+      "league": {
+        "league_name": "Bangladesh tour of South Africa 2026 - 2nd Test",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "South Africa",
+        "away_name": "Bangladesh",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97eae418-93c7-40e2-b2d6-6a81327b83bc/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795680000,
+        "start_time_local": 1795680000,
         "countdown_seconds": null
       },
       "streams": []
