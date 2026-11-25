@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-25T04:30:32.055Z"
+    "last_update_time": "2026-11-25T04:35:25.216Z"
   },
   "live_matches": [
     {
@@ -574,8 +574,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795581032,
-        "start_time_local": 1795581032,
+        "start_time_timestamp": 1795581325,
+        "start_time_local": 1795581325,
         "countdown_seconds": null
       },
       "streams": [
@@ -613,8 +613,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795581032,
-        "start_time_local": 1795581032,
+        "start_time_timestamp": 1795581325,
+        "start_time_local": 1795581325,
         "countdown_seconds": null
       },
       "streams": [
@@ -652,8 +652,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795581032,
-        "start_time_local": 1795581032,
+        "start_time_timestamp": 1795581325,
+        "start_time_local": 1795581325,
         "countdown_seconds": null
       },
       "streams": [
@@ -672,17 +672,14 @@
           "required_referer2": null
         }
       ]
-    }
-  ],
-  "total_upcoming_matches": 190,
-  "upcoming_matches": [
+    },
     {
       "match_id": 1322441906,
       "sport_name": "Cricket",
       "sport_id": 3,
       "slug": "melbourne-renegades-women-vs-brisbane-heat-women-1322441906",
       "title": "Melbourne Renegades Women vs Brisbane Heat Women",
-      "status": "NS",
+      "status": "LIVE",
       "league": {
         "league_name": "Womens Big Bash League 2026 - 33rd Match",
         "league_logo": ""
@@ -691,15 +688,54 @@
       "teams": {
         "home_name": "Melbourne Renegades Women",
         "away_name": "Brisbane Heat Women",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5b1a12ba-bd8a-405b-9844-70742776da84/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5b1a12ba-bd8a-405b-9844-70742776da84/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
       },
       "timing": {
-        "start_time_timestamp": 1795581600,
-        "start_time_local": 1795581600,
+        "start_time_timestamp": 1795594200,
+        "start_time_local": 1795594200,
         "countdown_seconds": null
       },
-      "streams": []
-    },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ioxreblomi/out/v1/329ac4fd4e8a41b88926b48b4b887e36/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "26c4fabdcc5a260a6e451538cfb05b78",
+          "required_referer2": "92f785e2cf78b827cc1505bce8326fac"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ioxreblomi/out/v1/329ac4fd4e8a41b88926b48b4b887e36/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "26c4fabdcc5a260a6e451538cfb05b78",
+          "required_referer2": "92f785e2cf78b827cc1505bce8326fac"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ioxreblomi/out/v1/329ac4fd4e8a41b88926b48b4b887e36/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "26c4fabdcc5a260a6e451538cfb05b78",
+          "required_referer2": "92f785e2cf78b827cc1505bce8326fac"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ioxreblomi/out/v1/329ac4fd4e8a41b88926b48b4b887e36/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "26c4fabdcc5a260a6e451538cfb05b78",
+          "required_referer2": "92f785e2cf78b827cc1505bce8326fac"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ioxreblomi/out/v1/329ac4fd4e8a41b88926b48b4b887e36/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "26c4fabdcc5a260a6e451538cfb05b78",
+          "required_referer2": "92f785e2cf78b827cc1505bce8326fac"
+        }
+      ]
+    }
+  ],
+  "total_upcoming_matches": 189,
+  "upcoming_matches": [
     {
       "match_id": 1164333302,
       "sport_name": "Basketball",
