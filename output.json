@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-25T14:35:22.832Z"
+    "last_update_time": "2026-11-25T14:40:29.699Z"
   },
   "live_matches": [
     {
@@ -447,6 +447,66 @@
       ]
     },
     {
+      "match_id": 1243732088,
+      "sport_name": "Cricket",
+      "sport_id": 3,
+      "slug": "dubai-capitals-vs-desert-vipers-1243732088",
+      "title": "Dubai Capitals vs Desert Vipers",
+      "status": "LIVE",
+      "league": {
+        "league_name": "International League T20 2026 - 6th Match",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Dubai Capitals",
+        "away_name": "Desert Vipers",
+        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b852ad1b-829e-4346-8fe4-67afa7b2b0a7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795615800,
+        "start_time_local": 1795615800,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "Amazon Server",
+          "play_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zfivwvynvc/out/v1/3f9cead02b3a4945bb6b6654938b7ba3/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "d7070587c4a7d8db325db4540da4777c",
+          "required_referer2": "c474bc272c73fdce1298511ac95bfdce"
+        },
+        {
+          "server_name": "Fistly Server",
+          "play_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zfivwvynvc/out/v1/3f9cead02b3a4945bb6b6654938b7ba3/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "d7070587c4a7d8db325db4540da4777c",
+          "required_referer2": "c474bc272c73fdce1298511ac95bfdce"
+        },
+        {
+          "server_name": "Akamai Server",
+          "play_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zfivwvynvc/out/v1/3f9cead02b3a4945bb6b6654938b7ba3/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "d7070587c4a7d8db325db4540da4777c",
+          "required_referer2": "c474bc272c73fdce1298511ac95bfdce"
+        },
+        {
+          "server_name": "Cloudfront Server 1",
+          "play_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zfivwvynvc/out/v1/3f9cead02b3a4945bb6b6654938b7ba3/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "d7070587c4a7d8db325db4540da4777c",
+          "required_referer2": "c474bc272c73fdce1298511ac95bfdce"
+        },
+        {
+          "server_name": "Cloudfront Server 2",
+          "play_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zfivwvynvc/out/v1/3f9cead02b3a4945bb6b6654938b7ba3/cenc.mpd",
+          "is_new_format": true,
+          "required_referer": "d7070587c4a7d8db325db4540da4777c",
+          "required_referer2": "c474bc272c73fdce1298511ac95bfdce"
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -464,8 +524,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795617322,
-        "start_time_local": 1795617322,
+        "start_time_timestamp": 1795617629,
+        "start_time_local": 1795617629,
         "countdown_seconds": null
       },
       "streams": [
@@ -503,8 +563,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795617322,
-        "start_time_local": 1795617322,
+        "start_time_timestamp": 1795617629,
+        "start_time_local": 1795617629,
         "countdown_seconds": null
       },
       "streams": [
@@ -542,8 +602,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795617322,
-        "start_time_local": 1795617322,
+        "start_time_timestamp": 1795617629,
+        "start_time_local": 1795617629,
         "countdown_seconds": null
       },
       "streams": [
@@ -564,32 +624,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 209,
+  "total_upcoming_matches": 208,
   "upcoming_matches": [
-    {
-      "match_id": 1243732088,
-      "sport_name": "Cricket",
-      "sport_id": 3,
-      "slug": "dubai-capitals-vs-desert-vipers-1243732088",
-      "title": "Dubai Capitals vs Desert Vipers",
-      "status": "NS",
-      "league": {
-        "league_name": "International League T20 2026 - 6th Match",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Dubai Capitals",
-        "away_name": "Desert Vipers",
-        "combined_logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b852ad1b-829e-4346-8fe4-67afa7b2b0a7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795617000,
-        "start_time_local": 1795617000,
-        "countdown_seconds": null
-      },
-      "streams": []
-    },
     {
       "match_id": 1087442791,
       "sport_name": "Basketball",
