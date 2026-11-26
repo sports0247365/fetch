@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-26T21:55:22.323Z"
+    "last_update_time": "2026-11-26T22:00:37.680Z"
   },
   "live_matches": [
     {
@@ -380,45 +380,6 @@
         {
           "server_name": "HD | Fox News",
           "play_url": "https://taifood-blog.asia/embed/fox-news-31730",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        }
-      ]
-    },
-    {
-      "match_id": 1646175185,
-      "sport_name": "American Football",
-      "sport_id": 10,
-      "slug": "chicago-bears-at-detroit-lions-1646175185",
-      "title": "Chicago Bears at Detroit Lions",
-      "status": "LIVE",
-      "league": {
-        "league_name": "NFL",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Chicago Bears",
-        "away_name": "Detroit Lions",
-        "combined_logo": "https://static.ppvservices.st/assets/thumb/67f27827b023c3ccb472dd21204d01de-thumbnail.jpg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795716000,
-        "start_time_local": 1795716000,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "SD | CBS",
-          "play_url": "https://taifood-blog.asia/embed/nfl/2026-11-26/chi-det_540p",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        },
-        {
-          "server_name": "HD | CBS",
-          "play_url": "https://taifood-blog.asia/embed/nfl/2026-11-26/chi-det",
           "is_new_format": true,
           "required_referer": "https://taifood-blog.asia/",
           "required_referer2": null
@@ -1422,6 +1383,45 @@
       ]
     },
     {
+      "match_id": 1058475030,
+      "sport_name": "Basketball",
+      "sport_id": 2,
+      "slug": "saint-mary-s-gaels-at-ucla-bruins-1058475030",
+      "title": "Saint Mary's Gaels at UCLA Bruins",
+      "status": "LIVE",
+      "league": {
+        "league_name": "College Basketball",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Saint Mary's Gaels",
+        "away_name": "UCLA Bruins",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/90e212c516f9fb6c6f2e9001e71aa85a-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1795730400,
+        "start_time_local": 1795730400,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "SD | FS1",
+          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-26/smc-ucla_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "HD | FS1",
+          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-26/smc-ucla",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
+    },
+    {
       "match_id": 1590866482,
       "sport_name": "American Football",
       "sport_id": 10,
@@ -1439,8 +1439,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795730122,
-        "start_time_local": 1795730122,
+        "start_time_timestamp": 1795730437,
+        "start_time_local": 1795730437,
         "countdown_seconds": null
       },
       "streams": [
@@ -1478,8 +1478,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795730122,
-        "start_time_local": 1795730122,
+        "start_time_timestamp": 1795730437,
+        "start_time_local": 1795730437,
         "countdown_seconds": null
       },
       "streams": [
@@ -1517,8 +1517,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795730122,
-        "start_time_local": 1795730122,
+        "start_time_timestamp": 1795730437,
+        "start_time_local": 1795730437,
         "countdown_seconds": null
       },
       "streams": [
@@ -1539,47 +1539,8 @@
       ]
     }
   ],
-  "total_upcoming_matches": 153,
+  "total_upcoming_matches": 152,
   "upcoming_matches": [
-    {
-      "match_id": 1058475030,
-      "sport_name": "Basketball",
-      "sport_id": 2,
-      "slug": "saint-mary-s-gaels-at-ucla-bruins-1058475030",
-      "title": "Saint Mary's Gaels at UCLA Bruins",
-      "status": "NS",
-      "league": {
-        "league_name": "College Basketball",
-        "league_logo": ""
-      },
-      "venue": "TBA",
-      "teams": {
-        "home_name": "Saint Mary's Gaels",
-        "away_name": "UCLA Bruins",
-        "combined_logo": "https://static.ppvservices.st/assets/thumb/90e212c516f9fb6c6f2e9001e71aa85a-thumbnail.jpg"
-      },
-      "timing": {
-        "start_time_timestamp": 1795730400,
-        "start_time_local": 1795730400,
-        "countdown_seconds": null
-      },
-      "streams": [
-        {
-          "server_name": "SD | FS1",
-          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-26/smc-ucla_540p",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        },
-        {
-          "server_name": "HD | FS1",
-          "play_url": "https://taifood-blog.asia/embed/cbb/2026-11-26/smc-ucla",
-          "is_new_format": true,
-          "required_referer": "https://taifood-blog.asia/",
-          "required_referer2": null
-        }
-      ]
-    },
     {
       "match_id": 1491158773,
       "sport_name": "Basketball",
