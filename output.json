@@ -1,6 +1,6 @@
 {
   "playlist_info": {
-    "last_update_time": "2026-11-28T01:00:38.594Z"
+    "last_update_time": "2026-11-28T01:05:24.235Z"
   },
   "live_matches": [
     {
@@ -1091,8 +1091,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795827638,
-        "start_time_local": 1795827638,
+        "start_time_timestamp": 1795827924,
+        "start_time_local": 1795827924,
         "countdown_seconds": null
       },
       "streams": [
@@ -1130,8 +1130,8 @@
         "combined_logo": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795827638,
-        "start_time_local": 1795827638,
+        "start_time_timestamp": 1795827924,
+        "start_time_local": 1795827924,
         "countdown_seconds": null
       },
       "streams": [
@@ -1169,8 +1169,8 @@
         "combined_logo": "https://thumbs.poocloud.in/southpark/preview.jpg"
       },
       "timing": {
-        "start_time_timestamp": 1795827638,
-        "start_time_local": 1795827638,
+        "start_time_timestamp": 1795827924,
+        "start_time_local": 1795827924,
         "countdown_seconds": null
       },
       "streams": [
@@ -1191,7 +1191,7 @@
       ]
     }
   ],
-  "total_upcoming_matches": 126,
+  "total_upcoming_matches": 127,
   "upcoming_matches": [
     {
       "match_id": 1428988047,
@@ -6353,6 +6353,45 @@
         "countdown_seconds": null
       },
       "streams": []
+    },
+    {
+      "match_id": 1226725227,
+      "sport_name": "Miscellaneous",
+      "sport_id": 99,
+      "slug": "kill-tony-live-new-year-s-eve-2026-1226725227",
+      "title": "Kill Tony LIVE New Year's Eve 2026",
+      "status": "NS",
+      "league": {
+        "league_name": "PPV",
+        "league_logo": ""
+      },
+      "venue": "TBA",
+      "teams": {
+        "home_name": "Unknown",
+        "away_name": "Unknown",
+        "combined_logo": "https://static.ppvservices.st/assets/thumb/b34215465588fabefc5ed64051b4f8fc-thumbnail.jpg"
+      },
+      "timing": {
+        "start_time_timestamp": 1798758000,
+        "start_time_local": 1798758000,
+        "countdown_seconds": null
+      },
+      "streams": [
+        {
+          "server_name": "SD | PPV",
+          "play_url": "https://taifood-blog.asia/embed/kill-tony-live-new-years-eve-2026-33049_540p",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        },
+        {
+          "server_name": "HD | PPV",
+          "play_url": "https://taifood-blog.asia/embed/kill-tony-live-new-years-eve-2026-33049",
+          "is_new_format": true,
+          "required_referer": "https://taifood-blog.asia/",
+          "required_referer2": null
+        }
+      ]
     }
   ]
 }
